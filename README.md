@@ -1,5 +1,6 @@
 # osparc-issues
-issue-only repo for the osparc project
 
+This is an [issue-only repo](https://help.github.com/en/articles/creating-an-issues-only-repository) for the **osparc project**
 
- - [List all issues](https://github.com/ITISFoundation/osparc-issues/issues)
+- [milestones](https://github.com/ITISFoundation/osparc-issues/milestones)
+- [issues](https://github.com/ITISFoundation/osparc-issues/issues)
