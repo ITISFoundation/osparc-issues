@@ -97,9 +97,10 @@
 [J-D28.a]:https://github.com/ITISFoundation/osparc-simcore/issues/1066
 [J-D29]:https://github.com/ITISFoundation/osparc-issues/issues/37
 
-
 [S-D2]:https://github.com/ITISFoundation/osparc-simcore/issues/1069
 [S-D18]:https://github.com/ITISFoundation/osparc-issues/issues/9
+[S-D7]:https://github.com/ITISFoundation/osparc-issues/issues/21
 [S-D10]:https://github.com/ITISFoundation/osparc-issues/issues/18
 [S-D22]:https://github.com/ITISFoundation/osparc-issues/issues/5
 [S-D12]:https://github.com/ITISFoundation/osparc-issues/issues/16
+[S-D15]:https://github.com/ITISFoundation/osparc-issues/issues/12
