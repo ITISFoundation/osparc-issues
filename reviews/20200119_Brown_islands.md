@@ -14,17 +14,17 @@
 
 ## Agenda
 
-| Issue            | Title                                                                                                                        | Presenter       | Status             | Duration | Time |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------ | ---------| ---- |
-| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; S-D15, Y3M6                                   | [MaG]           | In progress        |  3min    |      |
-| [#68]</br>[#21]  | Everybody at z43 uses osparc for python/matlab scripting<br/>Simple creation of data-processing modules, S-D7, Y3M2,4,5,2-12 | [PC]            | In progress        |  3min    |      |
-| [#93]            | Move Dalco Cluster to Z43                                                                                                    | [ALL] [MaG]     | In progress        |  1min    |      |
-| [#18]            | Macro/templates, towards guided mode, S-D10, Y3M4                                                                            | [OM]            | In progress        |  5min    |      |
-| [#5]             | AWS, S-D22, Y3M5,1-12                                                                                                        | [ALL]           | In progress        |  3min    |      |
-| [#54]            | Platform Resource Management                                                                                                 | [SAN]           | In progress/paused | 10min    |      |
-| [#6]             | DevOps                                                                                                                       | [ALL] [SAN]     | In progress        |  2min    |      |
-|                  |                                                                                                                              |                 |                    |          |      |
-| [#1204]          | UI Improvements ![](img/pi-issue.png)                                                                                        | [IP] [OM]       | In progress        | 10min    |      |
+| Issue            | Title                                                   | Presenter   | Status             | Duration | Time |
+| ---------------- | ------------------------------------------------------- | ----------- | ------------------ | ---------| ---- |
+| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6                                   | [MaG]           | In progress        |  3min    |      |
+| [#68]</br>[#21]  | Everybody at z43 uses osparc for python/matlab scripting<br/>Simple creation of data-processing modules, [S-D7], Y3M2,4,5,2-12 | [PC]            | In progress        |  3min    |      |
+| [#93]            | Move Dalco Cluster to Z43                               | [ALL] [MaG] | In progress        |  1min    |      |
+| [#18]            | Macro/templates, towards guided mode, [S-D10], Y3M4     | [OM]        | In progress        |  5min    |      |
+| [#5]             | AWS, [S-D22], Y3M5,1-12                                 | [ALL]       | In progress        |  3min    |      |
+| [#54]            | Platform Resource Management                            | [SAN]       | In progress/paused | 10min    |      |
+| [#6]             | DevOps                                                  | [ALL] [SAN] | In progress        |  2min    |      |
+|                  |                                                         |             |                    |          |      |
+| [#1204]          | UI Improvements ![](img/pi-issue.png)                   | [IP] [OM]   | In progress        | 10min    |      |
 
 
 
@@ -56,7 +56,7 @@
 | [S-D10]     | M4  | macro/templates, towards guided mode                                      |        |       |
 |             |     |                                                                           |        |       |
 | [S-D22]     | M5  | AWS                                                                       |        |       |
-| [S-D10]     | M5  | macro/templates, towards guided mode                                      |        |       |
+| [S-D16]     | M5  | o2S2PARC API                                                              |        |       |
 
 
 
@@ -97,9 +97,9 @@
 [J-D28.a]:https://github.com/ITISFoundation/osparc-simcore/issues/1066
 [J-D29]:https://github.com/ITISFoundation/osparc-issues/issues/37
 
+
 [S-D2]:https://github.com/ITISFoundation/osparc-simcore/issues/1069
 [S-D18]:https://github.com/ITISFoundation/osparc-issues/issues/9
 [S-D10]:https://github.com/ITISFoundation/osparc-issues/issues/18
 [S-D22]:https://github.com/ITISFoundation/osparc-issues/issues/5
 [S-D12]:https://github.com/ITISFoundation/osparc-issues/issues/16
-
