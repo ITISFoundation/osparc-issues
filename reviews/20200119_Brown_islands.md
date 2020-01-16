@@ -64,11 +64,11 @@
 [#5]:https://github.com/ITISFoundation/osparc-issues/issues/5
 [#6]:https://github.com/ITISFoundation/osparc-issues/issues/6
 [#12]:https://github.com/ITISFoundation/osparc-issues/issues/12
-[#12]:https://github.com/ITISFoundation/osparc-issues/issues/18
+[#18]:https://github.com/ITISFoundation/osparc-issues/issues/18
 [#21]:https://github.com/ITISFoundation/osparc-issues/issues/21
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
 [#68]:https://github.com/ITISFoundation/osparc-issues/issues/68
-[#68]:https://github.com/ITISFoundation/osparc-issues/issues/93
+[#93]:https://github.com/ITISFoundation/osparc-issues/issues/93
 [#505]:https://github.com/ITISFoundation/osparc-simcore/issues/505
 [#1204]:https://github.com/ITISFoundation/osparc-simcore/issues/1204
 
