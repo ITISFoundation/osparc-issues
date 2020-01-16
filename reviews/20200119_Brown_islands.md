@@ -23,7 +23,7 @@
 | ![](img/pi-issue.png) [#5]             | AWS, S-D22, Y3M5,1-12                                                                                                        | [ALL]           | In progress        |  3min    |      |
 | ![](img/pi-issue.png) [#54]            | Platform Resource Management                                                                                                 | [SAN]           | In progress/paused | 10min    |      |
 | ![](img/pi-issue.png) [#6]             | DevOps                                                                                                                       | [ALL] [SAN]     | In progress        |  2min    |      |
-|                                        | UI Improvements ![](img/pi-issue.png) [#1204]                                                                                | [IP] [OM]       | In progress        | 10min    |      |
+| [#1204]                                | UI Improvements ![](img/pi-issue.png)                                                                                        | [IP] [OM]       | In progress        | 10min    |      |
 
 
 ## Progress
