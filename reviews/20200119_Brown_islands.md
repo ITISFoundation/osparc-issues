@@ -39,19 +39,24 @@
 | [S-D2]      | M2  | OpenCOR / CellML module & PMR S-D2, M2 #1069                              | 75     | First version implemented, will be revisited as part of the simplified creation of data analysis services task |
 | [J-D33]     | M2  | Publication linking, J-D33, Y3M2,8 #33                                    | 100     | Meta-data sections throughout SIM-CORE support linking to pdf, webpages; awaiting MAP-CORE functionality to automatically surface publications (based on DOI?) |
 | J-D3        | M2  | Retreat                                                                   | 100    |       |
-| J-D6.a      | M2  | Conference list                                                           | 50      |       |
+| J-D6.a      | M2  | Conference list                                                           | 50     |       |
 | [J-D21]     | M2  | DRC feedback/issue collection and tracking (Infrastructure) - J-D21 #1065 | 100    |       |
 | [J-D28.a]   | M2  | Portal testing (Testing and Infrastructure) - J-D28 #1066                 |        | oSPARC end-to-end testing infrastructure established      |
-| [J-D7.a]    | M2  | simple creation of data-processing modules, S-D7, Y3M2,4,5,2-12 #21       | 100     | survey drafted, work on functionality started      |
+| [J-D7.a]    | M2  | simple creation of data-processing modules, S-D7, Y3M2,4,5,2-12 #21       | 100    | survey drafted, work on functionality started      |
 | S-D24       | M2  | UI/UX subaward                                                            | 100    | first phase contracted, ongoing |
 | S-D7        |     | data analysis and visualization                                           | 25     | survey has been drafted |
 | S-D3g       |     | metrics                                                                   | 75     | metrics have been selected and prepared for presentation to steering committee 
 |             |     |                                                                           |        |       |
 | [S-D18]     | M3  | NEUROFAUNA rat                                                            | 75     |       |
-| J-D3e       | M3  | DRC Governance strategies                                                 | 100     |       |
-| [J-D4]      | M3  | slide-decks (marketing material)                                          | 80       |       |
-| [J-D20]     | M3  | White paper outlining SPARC data standards and QC metrics for SPARC data depositors   |        |       |
-| [J-D29]     | M3  |Data access/cost structure                                                    |        |       |
+| J-D3e       | M3  | DRC Governance strategies                                                 | 100    |       |
+| [J-D4]      | M3  | slide-decks (marketing material)                                          | 80     |       |
+| [J-D20]     | M3  | White paper outlining SPARC data standards and QC metrics for SPARC data depositors |        |       |
+| [J-D29]     | M3  | Data access/cost structure                                                |        |       |
+|             |     |                                                                           |        |       |
+| [S-D10]     | M4  | macro/templates, towards guided mode                                      |        |       |
+|             |     |                                                                           |        |       |
+| [S-D22]     | M5  | AWS                                                                       |        |       |
+| [S-D10]     | M5  | macro/templates, towards guided mode                                      |        |       |
 
 
 
@@ -94,3 +99,7 @@
 
 [S-D2]:https://github.com/ITISFoundation/osparc-simcore/issues/1069
 [S-D18]:https://github.com/ITISFoundation/osparc-issues/issues/9
+[S-D10]:https://github.com/ITISFoundation/osparc-issues/issues/18
+[S-D22]:https://github.com/ITISFoundation/osparc-issues/issues/5
+[S-D12]:https://github.com/ITISFoundation/osparc-issues/issues/16
+
