@@ -6,9 +6,9 @@
     - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3)
     - [Dev Dashboard](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?milestones=Brown%20Islands%232020-01-20&filterLogic=any&repos=174557929,151701223,167586968,118910047,124380478,210862626,135289610,181836792,118596920&showPRs=false&showClosed=false)
   - Deployed environments
-    - [master deployment](https://osparc01.speag.com/) [developers only]
-    - [staging deployment - https://staging.osparc.io](https://staging.osparc.io) [testers only]
-    - [production deployment - https://osparc.io](https://osparc.io) 
+    - [master](https://osparc01.speag.com/) [developers only]
+    - [staging](https://staging.osparc.io) [testers only]
+    - [production](https://osparc.io) 
   
   - [Release descriptions](https://github.com/ITISFoundation/osparc-simcore/releases)
 
