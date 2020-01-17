@@ -16,13 +16,13 @@
 
 | Issue            | Title                                                   | Presenter   | Status             | Duration | Time |
 | ---------------- | ------------------------------------------------------- | ----------- | ------------------ | ---------| ---- |
-| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6                                   | [MaG]           | In progress        |  3min    |      |
-| [#68]</br>[#21]  | Everybody at z43 uses osparc for python/matlab scripting<br/>Simple creation of data-processing modules, [S-D7], Y3M2,4,5,2-12 | [PC]            | In progress        |  3min    |      |
-| [#93]            | Move Dalco Cluster to Z43                               | [ALL] [MaG] | In progress        |  1min    |      |
+| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6                                   | [MaG]           | In progress        |  5min    |      |
+| [#68]</br>[#21]  | Everybody at z43 uses osparc for python/matlab scripting<br/>Simple creation of data-processing modules, [S-D7], Y3M2,4,5,2-12 | [PC]            | In progress        |  5min    |      |
+| [#93]            | Move Dalco Cluster to Z43                               | [ALL] [MaG] | In progress        |  3min    |      |
 | [#18]            | Macro/templates, towards guided mode, [S-D10], Y3M4     | [OM]        | In progress        |  5min    |      |
-| [#5]             | AWS, [S-D22], Y3M5,1-12                                 | [ALL]       | In progress        |  3min    |      |
+| [#5]             | AWS, [S-D22], Y3M5,1-12                                 | [ALL]       | In progress        |  5min    |      |
 | [#54]            | Platform Resource Management                            | [SAN]       | In progress | 10min    |      |
-| [#6]             | DevOps                                                  | [ALL] [SAN] | In progress        |  2min    |      |
+| [#6]             | DevOps                                                  | [ALL] [SAN] | In progress        |  5min    |      |
 |                  |                                                         |             |                    |          |      |
 | [#1204]          | UI Improvements ![](img/pi-issue.png)                   | [IP] [OM]   | In progress        | 10min    |      |
 
