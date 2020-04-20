@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for o²S²PARC
 title: ''
-labels: ''
+labels: Feedback, enhancement
 assignees: ''
 
 ---
