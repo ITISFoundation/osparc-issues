@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: bug, Feedback
 assignees: ''
-project: Team Black Feedback
+projects: Team Black Feedback
 
 ---
 
