@@ -55,6 +55,7 @@
 
 - [ ] S-D18: decaying rat prevents reimaging required to properly segment the PNS; registration-based approach will be tried, to merge PNS images from previously scanned rat
 - [ ] Continuous work on Platform stability is time-consuming but essential work and may delay other milestones
+- [ ] S-D20: Martin Bertrand’s work on the detailed pelvic PNS functionalization will be delayed
 
 <!--References PLEASE KEEP ALPHABETICAL ORDER!!! -->
 
