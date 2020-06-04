@@ -1,0 +1,127 @@
+# Review Meeting - 2020/05/08 @10:00
+
+- Sprint Name: [Chrigel Maurer](https://de.wikipedia.org/wiki/Chrigel_Maurer)
+- Scrum Master: [KZ]
+- Dashboards
+  - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3)
+  - [Scrum Wall](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?repos=118596920,174557929,151701223,135289610,118910047,181836792,167586968)  [developers view]
+- Deployed environments
+  - [master](https://osparc01.speag.com/) [developers only]
+  - [staging](https://staging.osparc.io) [testers only]
+  - [production](https://osparc.io)
+    - Releases [ChangeLogs](https://github.com/ITISFoundation/osparc-simcore/releases)
+
+## Agenda
+
+| Issue            | Title                                                                                        | Presenter       | Status      | Duration | Start Time |
+|------------------|----------------------------------------------------------------------------------------------|-----------------|-------------|----------|------|
+| [#1426]          | DevOps/Platform Stability: testing, monitoring, diagnostics and maintenance [S-D21]          | [SAN] [ANE]     | In progress | 5 min    |  11:10   |
+| [#16]            | oSPARC API, [S-D12], Y3M5                                                                  | [PC]            | In progress | 10 min   |   10:27   |
+| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6 | [IP] [MaG]      | In progress |  5 min  |  10:32    |
+| [#130]           | TI Solutions Treatment Planning, [N-D2]                                                      | [MaG] [OM]      | In progress |  10 min  |   10:42   |
+| [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | NIH Complete| 10 min   |   10:52   |
+| [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 8 min    |   10:52   |
+| [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 15 min    |   11:05   |
+| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  11:12   |
+|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  11:12   |
+
+
+## Progress
+
+| Deliverable | Due     | Title                                                                               | % Done | Notes                                                                                                                                                          |
+| ----------- | ------- | ----------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| J-D15       | M1      | Documentation agreement                                                             | 75     | Requirements established                                                                                                                                       |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| S-D7a       |         | data analysis and visualization                                                     | 50     | survey has been drafted                                                                                                                                        |
+| S-D3g       |         | metrics                                                                             | 75     | metrics have been selected and prepared for presentation to steering committee                                                                                 |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| [S-D18]     | M3      | NEUROFAUNA rat                                                                      | 75     |                                                                                                                                                                |
+| J-D16       | ongoing | Workshops and webinars                                                              | 50     | one workshop completed, ongoing                                                                                                                                |
+| [J-D20]     | M3      | White paper outlining SPARC data standards and QC metrics for SPARC data depositors | 50       |                                                                                                                                                                |
+| [J-D29]     | M3      | Data access/cost structure                                                          |        |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| [S-D22]     | M5      | AWS                                                                                 | 100?    |                                                                                                                                                                |
+| [S-D12]     | M5      | o2S2PARC API                                                                        | 70       |                                                                                                                                                                |
+| [S-D7] b, c | M5      | simple creation of osparc services                                                  | 70       |                                                                                                                                                                |
+| S-D20       | M5      | NEUROCOUPLE  Keast team collaboration                                               | 20       |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| [S-D6]      | M6      | Fine-grained access rights                                                          | 50       | UI Improvements                                                                                                                                                |
+| [S-D15]     | M6      | Advanced Postpro                                                                    | 70       |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| S-D17       | M7      | Neuro Postpro                                                                       |        |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| S-D4        | M8      | Flatmap Widget                                                                      |        |                                                                                                                                                                |
+| J-D31       | M8      | Notification Service part 1                                                         |        |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| S-D3        | M9      | Grill Approach                                                                      |        |                                                                                                                                                                |
+| S-D4        | M9      | Notification service parts 2&4                                                      |        |                                                                                                                                                                |                        
+| S-D8        | M9      | UI for Service Submission                                                           | 50       |                                                                                                                                                                |
+| S-D19       | M9      | Neurocouple service                                                                 |        |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+| [S-D21]     | M1-12   | DevOps/Platform stability                                                           |        |                                                                                                                                                                |
+|             |         |                                                                                     |        |                                                                                                                                                                |
+
+
+## Blockers
+
+- [ ] S-D18: decaying rat prevents reimaging required to properly segment the PNS; registration-based approach will be tried, to merge PNS images from previously scanned rat
+- [ ] Continuous work on Platform stability is time-consuming but essential work and may delay other milestones
+- [ ] S-D20: Martin Bertrand’s work on the detailed pelvic PNS functionalization will be delayed
+- [ ] Migration to AWS: High priority tasks related to Z43's energy infrastructure retain our DevOps resources and delay the completion of this one.
+
+<!--References PLEASE KEEP ALPHABETICAL ORDER!!! -->
+
+[#5]:https://github.com/ITISFoundation/osparc-issues/issues/5
+[#6]:https://github.com/ITISFoundation/osparc-issues/issues/6
+[#12]:https://github.com/ITISFoundation/osparc-issues/issues/12
+[#16]:https://github.com/ITISFoundation/osparc-issues/issues/16
+[#18]:https://github.com/ITISFoundation/osparc-issues/issues/18
+[#21]:https://github.com/ITISFoundation/osparc-issues/issues/21
+[#22]:https://github.com/ITISFoundation/osparc-issues/issues/22
+[#31]:https://github.com/ITISFoundation/osparc-issues/issues/31
+[#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
+[#68]:https://github.com/ITISFoundation/osparc-issues/issues/68
+[#93]:https://github.com/ITISFoundation/osparc-issues/issues/93
+[#166]:https://github.com/ITISFoundation/osparc-issues/issues/166
+[#496]:https://github.com/ITISFoundation/osparc-simcore/issues/496
+[#505]:https://github.com/ITISFoundation/osparc-simcore/issues/505
+[#1204]:https://github.com/ITISFoundation/osparc-simcore/issues/1204
+[#130]:https://github.com/ITISFoundation/osparc-issues/issues/130
+[#38]:https://github.com/ITISFoundation/osparc-services/pull/38
+[#162]:https://github.com/ITISFoundation/osparc-issues/issues/162
+[#163]:https://github.com/ITISFoundation/osparc-issues/issues/163
+[#164]:https://github.com/ITISFoundation/osparc-issues/issues/164
+[#1426]:https://github.com/ITISFoundation/osparc-simcore/issues/1426
+
+[ALL]:https://github.com/Surfict
+[IP]:https://github.com/ignapas
+[KZ]:https://github.com/KZzizzle
+[MaG]:https://github.com/mguidon
+[OM]:https://github.com/odeimaiz
+[PC]:https://github.com/pcrespov
+[SAN]:https://github.com/sanderegg
+[ANE]:https://github.com/GitHK
+
+[J-D4]:https://github.com/ITISFoundation/osparc-issues/issues/62
+[J-D7.a]:https://github.com/ITISFoundation/osparc-issues/issues/21
+[J-D35]:https://github.com/ITISFoundation/osparc-issues/issues/31
+[J-D33]:https://github.com/ITISFoundation/osparc-issues/issues/33
+[J-D20]:https://github.com/ITISFoundation/osparc-issues/issues/48
+[J-D21]:https://github.com/ITISFoundation/osparc-simcore/issues/1065
+[J-D28.a]:https://github.com/ITISFoundation/osparc-simcore/issues/1066
+[J-D29]:https://github.com/ITISFoundation/osparc-issues/issues/37
+
+[S-D2]:https://github.com/ITISFoundation/osparc-simcore/issues/1069
+[S-D18]:https://github.com/ITISFoundation/osparc-issues/issues/9
+[S-D7]:https://github.com/ITISFoundation/osparc-issues/issues/21
+[S-D10]:https://github.com/ITISFoundation/osparc-issues/issues/18
+[S-D22]:https://github.com/ITISFoundation/osparc-issues/issues/5
+[S-D12]:https://github.com/ITISFoundation/osparc-issues/issues/16
+[S-D15]:https://github.com/ITISFoundation/osparc-issues/issues/12
+[S-D12]:https://github.com/ITISFoundation/osparc-issues/issues/16
+[S-D6]:https://github.com/ITISFoundation/osparc-issues/issues/22
+[S-D5]:https://github.com/ITISFoundation/osparc-issues/issues/23
+[S-D21]:https://github.com/ITISFoundation/osparc-issues/issues/6
+
+[N-D1]:https://github.com/ITISFoundation/osparc-issues/issues/68
+[N-D2]:https://github.com/ITISFoundation/osparc-issues/issues/91
