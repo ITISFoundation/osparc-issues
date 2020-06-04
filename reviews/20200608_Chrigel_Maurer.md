@@ -1,4 +1,4 @@
-# Review Meeting - 2020/05/08 @10:00
+# Review Meeting - 2020/06/08 @10:00
 
 - Sprint Name: [Chrigel Maurer](https://de.wikipedia.org/wiki/Chrigel_Maurer)
 - Scrum Master: [KZ]
@@ -15,15 +15,15 @@
 
 | Issue            | Title                                                                                        | Presenter       | Status      | Duration | Start Time |
 |------------------|----------------------------------------------------------------------------------------------|-----------------|-------------|----------|------|
-| [#1426]          | DevOps/Platform Stability: testing, monitoring, diagnostics and maintenance [S-D21]          | [SAN] [ANE]     | In progress | 5 min    |  11:10   |
-| [#16]            | oSPARC API, [S-D12], Y3M5                                                                  | [PC]            | In progress | 10 min   |   10:27   |
-| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6 | [IP] [MaG]      | In progress |  5 min  |  10:32    |
-| [#130]           | TI Solutions Treatment Planning, [N-D2]                                                      | [MaG] [OM]      | In progress |  10 min  |   10:42   |
-| [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | NIH Complete| 10 min   |   10:52   |
-| [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 8 min    |   10:52   |
-| [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 15 min    |   11:05   |
-| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  11:12   |
-|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  11:12   |
+| [#1426]          | DevOps/Platform Stability: testing, monitoring, diagnostics and maintenance [S-D21]          | [SAN] [ANE]     | In progress | 5 min    |  11:00   |
+| [#16]            | oSPARC API, [S-D12], Y3M5                                                                  | [PC]            | In progress | 10 min   |   11:05   |
+| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6 | [IP] [MaG]      | In progress |  5 min  |  11:15    |
+| [#130]           | TI Solutions Treatment Planning, [N-D2]                                                      | [MaG] [OM]      | In progress |  10 min  |   11:20   |
+| [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | NIH Complete| 10 min   |   11:30   |
+| [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 8 min    |   11:40   |
+| [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 15 min    |   11:48   |
+| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  12:03   |
+|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  12:08   |
 
 
 ## Progress
