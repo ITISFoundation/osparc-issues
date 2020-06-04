@@ -21,8 +21,8 @@
 | [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | In Progress | 10 min   |   11:30   |
 | [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 8 min    |   11:40   |
 | [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 10 min    |   11:48   |
-| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  12:03   |
-|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  12:08   |
+| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  11:58   |
+|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  12:03   |
 
 
 ## Progress
