@@ -15,14 +15,14 @@
 
 | Issue            | Title                                                                                        | Presenter       | Status      | Duration | Start Time |
 |------------------|----------------------------------------------------------------------------------------------|-----------------|-------------|----------|------|
-| [#1426]          | DevOps/Platform Stability: testing, monitoring, diagnostics and maintenance [S-D21]          | [SAN] [ANE]     | In progress | 5 min    |  11:00   |
-| [#16]            | oSPARC API, [S-D12], Y3M5                                                                  | [PC]            | In progress | 10 min   |   11:05   |
-| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6 | [IP] [MaG]      | In progress |  5 min  |  11:15    |
-| [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | In Progress | 10 min   |   11:30   |
-| [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 8 min    |   11:40   |
-| [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 10 min    |   11:48   |
-| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  11:58   |
-|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  12:03   |
+| [#1426]          | DevOps/Platform Stability: testing, monitoring, diagnostics and maintenance [S-D21]          | [SAN] [ANE]     | In progress | 5 min    |  10:05   |
+| [#16]            | oSPARC API, [S-D12], Y3M5                                                                  | [PC]            | In progress | 10 min   |   10:10   |
+| [#505]</br>[#12] | Large Models/Results Rendering & Interaction (M9; D4.a)<br/>Postpro workbench; [S-D15], Y3M6 | [IP] [MaG]      | In progress |  5 min  |  10:20    |
+| [#22]            | Fine Grained Access Rights [S-D6],Y3M6                                                       | [OM] [SAN]      | In Progress | 10 min   |   10:25   |
+| [#166]           | Metrics                                                                                      | [SAN]           | Complete    | 5 min    |   10:35   |
+| [#162]</br>[#163]</br>[#164] | UI/UX Improvements                                                               | [OM]            | In progress | 10 min    |   10:40   |
+| [#496]           | Migration to AWS<br>Moving from DALCO                                                        | [ALL] [MaG]     | In progress | 5 min    |  10:50   |
+|                  | Temperature, Energy tracking and Display                                                     | [ALL]           | In progress | 5 min    |  10:55   |
 
 
 ## Progress
