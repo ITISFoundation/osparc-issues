@@ -21,20 +21,20 @@
 
 | Issue            | Title                                                                                    | Presenter  | Status                                | Duration | Start Time |
 | ---------------- | ---------------------------------------------------------------------------------------- | ---------- | ------------------------------------- | -------- | ---------- |
-| [#331]           | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                        | [MaG]      | In progress                           | 2m       |            |
+| [#331]           | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                        | [MaG]      | In progress                           | 3m       |            |
 | [#344]           | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03   | [PC]       | In progress                           | 10m      |            |
 | [#356]           | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                    | [OM]       | In progress                           | 10m      |            |
-| [#91]            | TI Treatment Planning                                                                    | [ANE]      | Ongoing                               | 0m       |            |
+| [#91]            | TI Treatment Planning                                                                    | [MaG]      | Ongoing                               | 1m       |            |
 | [#363]           | modeler & postpro completeness                                                           | [IP]       | In progress                           | 5m       |            |
-| [#327]           | S-D8 o2S2PARC Guided Mode Y4M05                                                          | [SAN] [OM] | In progress                           | ?m       |            |
-| [#349]           | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                            | [PC]       | In progress                           | 4m       |            |
-| [#304]           | Prep2Go: creating features to support complex S4L scripts                                | [PC]       | In progress                           | 4m       |            |
-| [#325]           | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                    | [PC] [ANE] | In progress                           | 5m       |            |
-| [#26]            | support onboarding of SPARC computational mode, S-D1, Y3M1-12                            | [MaG] [KZ] | In progress                           | 15m      |            |
-| [#232]           | Placeholder for Team Black feedback                                                      | [OM] [KZ]  | In progress                           | 10m      |            |
+| [#327]           | S-D8 o2S2PARC Guided Mode Y4M05                                                          | [SAN]      | In progress                           | 5m       |            |
+| [#349]           | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                            | [ANE]      | In progress                           | 2m       |            |
+| [#304]           | Prep2Go: creating features to support complex S4L scripts                                | [PC]       | In progress                           | 2m       |            |
+| [#325]           | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                    | [ANE]      | In progress                           | 2m       |            |
+| [#26]            | support onboarding of SPARC computational mode, S-D1, Y3M1-12                            | [MaG] [SAN] [KZ] | In progress                     | 15m      |            |
+| [#232]           | Placeholder for Team Black feedback                                                      | [OM]       | In progress                           | 5m       |            |
 | [#8]             | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                            | [ANE]      | Not planned                           | 0m       |            |
 | [#343]           | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                              | [ANE]      | No progress                           | 0m       |            |
-| *                | Update on DevOps                                                                         | [ALL]      | Ongoing                               | 2m       |            |
+| *                | Update on DevOps                                                                         | [ALL]      | Ongoing                               | 4m       |            |
 | *                | Platform stability [[#1426]]: [online]+[operational]+[performant]?                       | [SAN]      | Ongoing                               | 2m       |            |
 
 
