@@ -1,8 +1,8 @@
 # Review Meeting - 2021/01/29 @10:00
 
 - Sprint
-  - **Chronos** (born:greece: god of time)
-  - 🕐 PM1(01/08)-PM2(01/12) -(*12 wd*)- RM(01/29)
+  - **The White Rabbit** (born:england: god of time)
+  - 🕐 PM1(02/05)-PM2(02/09) -(*13 wd*)- RM(03/01)
   - Scrum Master: [SAN]
 - **Dashboards** 📊
   - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
