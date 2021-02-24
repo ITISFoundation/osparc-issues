@@ -42,6 +42,7 @@
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]        | waiting for feedback | 1'       |            |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]               | Paused               | 1'       |            |
 | [#406] | wiedemayr                                                                              | [SAN]               | Nothing              | 0'       |            |
+| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                | OnGoing              | ?'       |            |
 | *      | Update on DevOps                                                                       | [ALL]               | Ongoing              | ?'       |            |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]               | Ongoing              | ?'       |            |
 | *      | Others                                                                                 |
@@ -109,6 +110,8 @@ Needs PO update, see previous reviews
 [#403]:https://github.com/ITISFoundation/osparc-issues/issues/403
 [#404]:https://github.com/ITISFoundation/osparc-issues/issues/404
 [#405]:https://github.com/ITISFoundation/osparc-issues/issues/405
+[#406]:https://github.com/ITISFoundation/osparc-issues/issues/406
+[#407]:https://github.com/ITISFoundation/osparc-issues/issues/407
 [#410]:https://github.com/ITISFoundation/osparc-issues/issues/410
 
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
