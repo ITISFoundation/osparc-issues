@@ -28,7 +28,7 @@
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                | In progress?         | ?        |            |
 | [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]       | In progress          | ?        |            |
 | [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]         | In progress?         | ?        |            |
-| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]               | In progress?         | ?        |            |
+| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]               | No progress          | 0        |            |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]         | In progress?         | ?        |            |
 | [#404] | put mesher into jupyterlab & s4l python                                                | [MaG]               | In progress?         | ?        |            |
 | [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]        | In progress?         | -        |            |
@@ -109,6 +109,7 @@ Needs PO update, see previous reviews
 [#403]:https://github.com/ITISFoundation/osparc-issues/issues/403
 [#404]:https://github.com/ITISFoundation/osparc-issues/issues/404
 [#405]:https://github.com/ITISFoundation/osparc-issues/issues/405
+[#410]:https://github.com/ITISFoundation/osparc-issues/issues/410
 
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
 [#496]:https://github.com/ITISFoundation/osparc-simcore/issues/496
