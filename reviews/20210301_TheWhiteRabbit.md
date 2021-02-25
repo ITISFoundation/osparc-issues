@@ -44,7 +44,7 @@
 | [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | 0'       |            |
 | [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | OnGoing              | ?'       |            |
 | *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |            |
-| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | ?'       |            |
+| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 2'       |            |
 | *      | Others                                                                                 |
 
 
