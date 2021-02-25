@@ -22,7 +22,7 @@
 | Issue  | Title                                                                                  | Presenter            | Status               | Duration | Start Time |
 |--------|----------------------------------------------------------------------------------------|----------------------|----------------------|----------|------------|
 | [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |            |
-| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 8'       |            |
+| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |            |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress?         | ?        |            |
 | [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |            |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |            |
