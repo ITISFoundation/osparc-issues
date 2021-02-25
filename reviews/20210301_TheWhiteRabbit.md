@@ -24,10 +24,10 @@
 | [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |            |
 | [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 5'       |            |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress?         | ?        |            |
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress?         | 5'       |            |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress?         | 5'       |            |
+| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |            |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |            |
 | [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 9'       |            |
-| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress?         | 10'      |            |
+| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |            |
 | [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | 0'       |            |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |            |
 | [#404] | put mesher into jupyterlab & s4l python                                                | [MaG]                | In progress?         | ?        |            |
