@@ -29,7 +29,7 @@
 | [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 5'+?     |            |
 | [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress?         | 10'      |            |
 | [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | 0'       |            |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 5'       |            |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |            |
 | [#404] | put mesher into jupyterlab & s4l python                                                | [MaG]                | In progress?         | ?        |            |
 | [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress?         | 10'      |            |
 | [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused?              | 0'       |            |
