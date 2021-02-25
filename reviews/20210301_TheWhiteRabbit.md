@@ -16,6 +16,8 @@
     - [staging_z43](http://osparc-staging.speag.com) (Testers only - [changelogs])
     - [production_z43](http://osparc.speag.com) ([changelogs])
   - [master](https://osparc-master.speag.com) (ch-zh) (Developers only)
+- **User entries**
+  - [osparc-issues](https://github.com/ITISFoundation/osparc-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions)
 
 ## Agenda
 
