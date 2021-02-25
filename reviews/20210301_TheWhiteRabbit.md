@@ -35,8 +35,8 @@
 | [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused?              | 0'       |            |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused              | 0'       |            |
 | [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC]                 | Paused               | -        |            |
-| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing?             | ?'       |            |
-| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | ?'       |            |
+| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |            |
+| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | -        |            |
 | [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | ?'       |            |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [OM] / [IP]   | In progress          | 5'       |            |
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |            |
