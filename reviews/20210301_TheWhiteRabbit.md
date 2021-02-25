@@ -18,6 +18,7 @@
   - [master](https://osparc-master.speag.com) (ch-zh) (Developers only)
 - **User entries**
   - [osparc-issues](https://github.com/ITISFoundation/osparc-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions)
+  - [resolve fogbugz cases](https://z43.manuscript.com/f/filters/?fGlobal=true&ixPerson=19&ixProject=45&ixStatus=0&maxrecords=50&sColumns=Category-Favorite-Case-TitleComment-Area-Priority-Status-DateResolved-DateOpened-OpenedBy&sSorts=LastUpdated.descending-Priority&sView=grid-flat)
 
 ## Agenda
 
