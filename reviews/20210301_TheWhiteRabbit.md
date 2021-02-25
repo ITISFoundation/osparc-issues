@@ -42,8 +42,8 @@
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |            |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | 1'       |            |
 | [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | 0'       |            |
-| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | OnGoing              | 3'       |            |
-| *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | ?'       |            |
+| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | OnGoing              | ?'       |            |
+| *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |            |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | ?'       |            |
 | *      | Others                                                                                 |
 
