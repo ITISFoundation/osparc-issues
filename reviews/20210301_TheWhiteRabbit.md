@@ -25,14 +25,14 @@
 |--------|----------------------------------------------------------------------------------------|----------------------|----------------------|----------|------------|
 | [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |            |
 | [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |            |
-| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | ?        |            |
+| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | 7'        |            |
 | [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |            |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |            |
 | [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 9'       |            |
 | [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |            |
 | [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | 0'       |            |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |            |
-| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG]                | In progress?         | ?        |            |
+| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] / [PC]               | In progress         | 2'        |            |
 | [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |            |
 | [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused              | 0'       |            |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | 0'       |            |
@@ -44,7 +44,7 @@
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |            |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | 0'       |            |
 | [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | 0'       |            |
-| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | OnGoing              | ?'       |            |
+| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | OnGoing              | 5'       |            |
 | *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |            |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 2'       |            |
 | *      | Others                                                                                 |
