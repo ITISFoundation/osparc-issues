@@ -39,6 +39,7 @@
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | 0'       |            |
 | [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC]                 | Paused               | -        |            |
 | [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |            |
+| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |            |
 | [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | -        |            |
 | [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | 3'       |            |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          | 5'       |            |
@@ -100,6 +101,7 @@ Needs PO update, see previous reviews
 [#327]:https://github.com/ITISFoundation/osparc-issues/issues/327
 [#329]:https://github.com/ITISFoundation/osparc-issues/issues/329
 [#331]:https://github.com/ITISFoundation/osparc-issues/issues/331
+[#332]:https://github.com/ITISFoundation/osparc-issues/issues/332
 [#343]:https://github.com/ITISFoundation/osparc-issues/issues/343
 [#344]:https://github.com/ITISFoundation/osparc-issues/issues/344
 [#345]:https://github.com/ITISFoundation/osparc-issues/issues/345
@@ -158,6 +160,7 @@ Needs PO update, see previous reviews
 [S-D21]:https://github.com/ITISFoundation/osparc-issues/issues/6
 [S-D4]:https://github.com/ITISFoundation/osparc-issues/issues/24
 [S-D1]:https://github.com/ITISFoundation/osparc-issues/issues/26
+[S-D26]:https://github.com/ITISFoundation/osparc-issues/issues/332
 
 [N-D1]:https://github.com/ITISFoundation/osparc-issues/issues/68
 [N-D2]:https://github.com/ITISFoundation/osparc-issues/issues/91
