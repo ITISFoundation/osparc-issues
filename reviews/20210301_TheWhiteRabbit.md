@@ -24,31 +24,31 @@
 
 | Issue  | Title                                                                                  | Presenter            | Status               | Duration | Start Time |
 |--------|----------------------------------------------------------------------------------------|----------------------|----------------------|----------|------------|
-| [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |            |
-| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |            |
-| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | 7'        |            |
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |            |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |            |
-| [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 9'       |            |
-| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |            |
-| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | 0'       |            |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |            |
-| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] / [PC]               | In progress         | 2'        |            |
-| [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |            |
-| [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused              | 0'       |            |
-| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | 0'       |            |
-| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC]                 | Paused               | -        |            |
-| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |            |
-| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |            |
-| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | -        |            |
-| [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | 3'       |            |
-| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          | 5'       |            |
-| [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |            |
-| [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | 0'       |            |
-| [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | 0'       |            |
-| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | Paused              | 2'       |            |
-| *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |            |
-| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 2'       |            |
+| [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |   11:00         |
+| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03          |
+| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | 7'        |   11:15         |
+| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |   11:22         |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |   11:27         |
+| [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 9'       |  11:32          |
+| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
+| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | 0'       |   11:51         |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |  11:51          |
+| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] / [PC]               | In progress         | 2'        | 11:59           |
+| [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |    12:01      |
+| [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused              | 0'       |    12:11        |
+| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | 0'       |   12:11         |
+| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC]                 | Paused               | -        |     12:11       |
+| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |   12:11         |
+| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |   12:18         |
+| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | -        |   12:23         |
+| [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | 3'       |   12:23         |
+| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          | 5'       |   12:26         |
+| [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |   12:31         |
+| [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | 0'       |   12:32         |
+| [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | 0'       |   12:32         |
+| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | Paused              | 2'       |   12:32         |
+| *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |    12:34        |
+| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 3'       |    12:37        |
 | *      | Others                                                                                 |
 
 
