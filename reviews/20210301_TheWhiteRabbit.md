@@ -40,7 +40,7 @@
 | [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | -                    | Paused               | -        |     12:11       |
 | [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |   12:11         |
 | [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |   12:18         |
-| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | -        |   12:23         |
+| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | 0'        |   12:23         |
 | [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | 3'       |   12:23         |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          | 5'       |   12:26         |
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |   12:31         |
