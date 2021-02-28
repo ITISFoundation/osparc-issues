@@ -27,7 +27,7 @@
 | [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |   11:00         |
 | [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03          |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | 7'        |   11:15         |
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [PC] / [KZ]          | In progress          | 5'       |   11:22         |
+| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |   11:27         |
 | [#349] | S-D25 .4 Simulation Framework SCHEDULER Y4M05                                          | [SAN] / [ANE]        | In progress          | 9'       |  11:32          |
 | [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
