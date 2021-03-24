@@ -1,4 +1,4 @@
-# Review Meeting - 2021/03/26 @10:00
+# Review Meeting - 2021/03/26 @?
 
 - Sprint
   - **The Red Panda** (Cute being)
@@ -24,12 +24,17 @@
 
 | Issue  | Title                                                                                  | Presenter            | Status               | Duration | Start Time |
 |--------|----------------------------------------------------------------------------------------|----------------------|----------------------|----------|------------|
+| [#436] | filesystem integration idea                                                            | [SAN]                | In progress          |          |   11:00         |
 | [#405] | eth lecture                                                                            | [SAN]                | In progress          | 3'       |   11:00         |
-| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03          |
+| [#403] | working group: workshop follow-up                                                      | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03         |
+| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                            | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03        |
+| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                              | [OM] / [ANE] / [MaG] | In progress          | 12'       |  11:03          |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         | 7'        |   11:15         |
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |   11:27         |
+| [#428] | maintenance/scaling of the platform                                                    | [PC]                 | In progress          | 5'       |   11:27         |
 | [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                           | [SAN] / [ANE]        | In progress          | 9'       |  11:32          |
+| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
+
 | [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
 | [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | -       |   11:51         |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |  11:51          |
@@ -99,9 +104,11 @@ Needs PO update, see previous reviews
 [#306]:https://github.com/ITISFoundation/osparc-issues/issues/306
 [#325]:https://github.com/ITISFoundation/osparc-issues/issues/325
 [#327]:https://github.com/ITISFoundation/osparc-issues/issues/327
+[#328]:https://github.com/ITISFoundation/osparc-issues/issues/328
 [#329]:https://github.com/ITISFoundation/osparc-issues/issues/329
 [#331]:https://github.com/ITISFoundation/osparc-issues/issues/331
 [#332]:https://github.com/ITISFoundation/osparc-issues/issues/332
+[#342]:https://github.com/ITISFoundation/osparc-issues/issues/342
 [#343]:https://github.com/ITISFoundation/osparc-issues/issues/343
 [#344]:https://github.com/ITISFoundation/osparc-issues/issues/344
 [#345]:https://github.com/ITISFoundation/osparc-issues/issues/345
@@ -118,6 +125,8 @@ Needs PO update, see previous reviews
 [#406]:https://github.com/ITISFoundation/osparc-issues/issues/406
 [#407]:https://github.com/ITISFoundation/osparc-issues/issues/407
 [#410]:https://github.com/ITISFoundation/osparc-issues/issues/410
+[#428]:https://github.com/ITISFoundation/osparc-issues/issues/428
+[#436]:https://github.com/ITISFoundation/osparc-issues/issues/436
 
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
 [#496]:https://github.com/ITISFoundation/osparc-simcore/issues/496
