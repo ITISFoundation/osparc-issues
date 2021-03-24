@@ -3,7 +3,7 @@
 - Sprint
   - **The Red Panda** (Cute being)
   - 🕐 PM1(05/03)-PM2(09/03) -(*12 wd*)- RM(26/03)
-  - Scrum Master: [IP, ALL]
+  - Scrum Master: [IP], [ALL]
 - **Dashboards** 📊
   - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
   - [Scrum Wall](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?repos=118596920,174557929,151701223,135289610,118910047,181836792,167586968)  (Developers view)
@@ -168,6 +168,6 @@ Needs PO update, see previous reviews
 [TB-Backlog]:https://github.com/ITISFoundation/osparc-issues/projects/4
 [Z43-Backlog]:https://z43.fogbugz.com/f/filters/1112/osparc-cases
 
-[sprint-PRs]:https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+created%3A%3E2020-11-30
+[sprint-PRs]:https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+created%3A%3E2021-03-09
 [sprint-MRs]:https://git.speag.com/groups/oSparc/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all
 [changelogs]:https://github.com/ITISFoundation/osparc-simcore/releases
