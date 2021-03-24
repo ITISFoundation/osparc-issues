@@ -44,8 +44,6 @@
 | [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              |         |   12:23         |
 | [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              |        |   12:23         |
 | [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC, MAG, ANE]       | Paused               | -        |     12:11       |
-| [#326] | S-D7 Ten Simple Rules (TSR) for Credible Practice of Modeling and Simulation Y4M06     | -                    | Paused               | -        |     12:11       |
-| [#348] | S-D25 .3 Simulation Framework discretization service Y4M06                             | -                    | Paused               | -        |     12:11       |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          |       |   12:26         |
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback |        |   12:31         |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | -       |   12:32         |
