@@ -22,35 +22,35 @@
 
 ## Agenda
 
-| Issue  | Title                                                                                  | Presenter            | Status               | Duration | Start Time |
-|--------|----------------------------------------------------------------------------------------|----------------------|----------------------|----------|------------|
-| [#436] | filesystem integration idea                                                            | [SAN]                | In progress          |          |   11:00         |
-| [#405] | eth lecture                                                                            | [SAN]                | In progress          |        |   11:00         |
-| [#403] | working group: workshop follow-up                                                      | [MaG]                | In progress          |        |  11:03         |
-| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                            |                      | In progress          |        |  11:03        |
-| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                              | [EN] / [PC] / [IP]   | In progress          |        |  11:03          |
-| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                                      | [MaG] / [IP]         | In progress         |         |   11:15         |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC, SAN, KZ]        | In progress          |        |   11:27         |
-| [#428] | maintenance/scaling of the platform                                                    | [SAN, PC]            | In progress          |        |   11:27         |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                           | [SAN] / [ANE] / [PC] | In progress          |        |  11:32          |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]        | In progress          |        |  11:51          |
-| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | Paused              |        |   12:32         |
-| [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused              | -       |    12:11        |
-| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | -       |   11:51         |
-| [#425] | export into SDS format                                                                 | [ANE, KZ]            | Not scheduled        | -       |   11:51         |
-| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06          | [ANE]                | Not scheduled        | -       |   11:51         |
-| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | -       |   12:11         |
-| [#333] |S-D27 .1 User-Driven Service Creation iframe elements Y4M06                             | [KZ, MAG]            | Paused               | -       |   12:11         |
-| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              |         |   12:23         |
-| [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              |        |   12:23         |
-| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | [PC, MAG, ANE]       | Paused               | -        |     12:11       |
-| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          |       |   12:26         |
-| [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback |        |   12:31         |
-| [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | -       |   12:32         |
-| [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | -       |   12:32         |
-| *      | Update on DevOps                                                                       | [ALL]                | Ongoing              |  3      |    12:34        |
-| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              |        |    12:37        |
-| *      | Others                                                                                 |
+| Issue  | Title                                                                         | Presenter            | Status               | Duration   | Start Time |
+| ------ | ----------------------------------------------------------------------------- | -------------------- | -------------------- | ---------- | ---------- |
+| [#436] | filesystem integration idea                                                   |                      |                      |            |            |
+| [#405] | eth lecture                                                                   | [SAN] / [team]       | In progress          | 3min       |            |
+| [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          |            |            |
+| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   |                      | In progress          |            |            |
+| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [EN] / [PC] / [IP]   | In progress          |            |            |
+| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                             | [MaG] / [IP]         | In progress          |            |            |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC] / [SAN] / [KZ]  | In progress          |            |            |
+| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]         | In progress          | 10min      |            |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE] / [PC] | In progress          | 5min       |            |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         | [OM] / [PC]          | In progress          |            |            |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                 | Paused               |            |            |
+| [#91]  | TI Treatment Planning                                                         | [MaG] / [OM] / [IP]  | Paused               | -          |            |
+| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | Not scheduled        | -          |            |
+| [#425] | export into SDS format                                                        | [ANE] / [KZ]         | Not scheduled        | -          |            |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [ANE]                | Not scheduled        | -          |            |
+| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | Paused               | -          |            |
+| [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [KZ] / [MAG]         | Paused               | -          |            |
+| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                 | [KZ]                 | Ongoing              |            |            |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                 | Ongoing              |            |            |
+| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03         | [PC] / [MAG] / [ANE] | Paused               | -          |            |
+| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                   | [PC] / [IP]          | In progress          |            |            |
+| [#363] | modeler & postpro completeness                                                | [IP] / [MaG]         | waiting for feedback |            |            |
+| [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                 |                      | Paused               | -          |            |
+| [#406] | wiedemayr                                                                     |                      | Nothing              | -          |            |
+| *      | Update on DevOps                                                              | [ALL]                | Ongoing              | 3          |            |
+| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]                | Ongoing              | see [#428] |            |
+| *      | Others                                                                        |
 
 
 
