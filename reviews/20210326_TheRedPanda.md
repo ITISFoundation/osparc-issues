@@ -33,25 +33,40 @@
 | [#304] | Prep2Go: creating features to support complex S4L scripts                              | [PC]                 | In progress          | 5'       |   11:27         |
 | [#428] | maintenance/scaling of the platform                                                    | [PC]                 | In progress          | 5'       |   11:27         |
 | [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                           | [SAN] / [ANE]        | In progress          | 9'       |  11:32          |
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
-
-| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
-| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | -       |   11:51         |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                                  | [OM] / [PC]          | In progress          | 8'       |  11:51          |
-| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] ([PC])         | In progress         | 2'        | 11:59           |
-| [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |    12:01      |
+| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | Paused              | 2'       |   12:32         |
 | [#91]  | TI Treatment Planning                                                                  | [MaG] / [OM] / [IP]  | Paused              | -       |    12:11        |
+| [#410] | Gitlab Failover & High Availability Setup                                              | [ANE]                | Not scheduled        | -       |   11:51         |
+| [#425] | export into SDS format                                                                 | [ANE]                | Not scheduled        | -       |   11:51         |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06          | [ANE]                | Not scheduled        | -       |   11:51         |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | -       |   12:11         |
-| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | -                    | Paused               | -        |     12:11       |
-| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |   12:11         |
-| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |   12:18         |
+| [#333] |S-D27 .1 User-Driven Service Creation iframe elements Y4M06                             | [ALL]                | Paused               | -       |   12:11         |
 | [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                          | [KZ]                 | Ongoing              | 0'        |   12:23         |
 | [#232] | Placeholder for Team Black feedback                                                    | [OM]                 | Ongoing              | 3'       |   12:23         |
+| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03                  | -                    | Paused               | -        |     12:11       |
+| [#326] | S-D7 Ten Simple Rules (TSR) for Credible Practice of Modeling and Simulation Y4M06     | -                    | Paused               | -        |     12:11       |
+| [#348] | S-D25 .3 Simulation Framework discretization service Y4M06                             | -                    | Paused               | -        |     12:11       |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                            | [PC] / [IP]          | In progress          | 5'       |   12:26         |
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |   12:31         |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | -       |   12:32         |
 | [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | -       |   12:32         |
-| [#407] | UI: S4L/ EM Sim Service                                                                | [IP]                 | Paused              | 2'       |   12:32         |
+
+| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
+| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
+
+| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] ([PC])         | In progress         | 2'        | 11:59           |
+| [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |    12:01      |
+
+| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | -       |   12:11         |
+
+| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |   12:11         |
+| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |   12:18         |
+
+
+
+
+
+
 | *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |    12:34        |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 3'       |    12:37        |
 | *      | Others                                                                                 |
@@ -103,15 +118,18 @@ Needs PO update, see previous reviews
 [#304]:https://github.com/ITISFoundation/osparc-issues/issues/304
 [#306]:https://github.com/ITISFoundation/osparc-issues/issues/306
 [#325]:https://github.com/ITISFoundation/osparc-issues/issues/325
+[#326]:https://github.com/ITISFoundation/osparc-issues/issues/326
 [#327]:https://github.com/ITISFoundation/osparc-issues/issues/327
 [#328]:https://github.com/ITISFoundation/osparc-issues/issues/328
 [#329]:https://github.com/ITISFoundation/osparc-issues/issues/329
 [#331]:https://github.com/ITISFoundation/osparc-issues/issues/331
 [#332]:https://github.com/ITISFoundation/osparc-issues/issues/332
+[#341]:https://github.com/ITISFoundation/osparc-issues/issues/341
 [#342]:https://github.com/ITISFoundation/osparc-issues/issues/342
 [#343]:https://github.com/ITISFoundation/osparc-issues/issues/343
 [#344]:https://github.com/ITISFoundation/osparc-issues/issues/344
 [#345]:https://github.com/ITISFoundation/osparc-issues/issues/345
+[#348]:https://github.com/ITISFoundation/osparc-issues/issues/348
 [#349]:https://github.com/ITISFoundation/osparc-issues/issues/349
 [#350]:https://github.com/ITISFoundation/osparc-issues/issues/350
 [#356]:https://github.com/ITISFoundation/osparc-issues/issues/356
@@ -125,6 +143,7 @@ Needs PO update, see previous reviews
 [#406]:https://github.com/ITISFoundation/osparc-issues/issues/406
 [#407]:https://github.com/ITISFoundation/osparc-issues/issues/407
 [#410]:https://github.com/ITISFoundation/osparc-issues/issues/410
+[#425]:https://github.com/ITISFoundation/osparc-issues/issues/425
 [#428]:https://github.com/ITISFoundation/osparc-issues/issues/428
 [#436]:https://github.com/ITISFoundation/osparc-issues/issues/436
 
