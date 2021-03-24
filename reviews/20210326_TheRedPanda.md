@@ -50,23 +50,6 @@
 | [#363] | modeler & postpro completeness                                                         | [IP] / [MaG]         | waiting for feedback | 1'       |   12:31         |
 | [#8]   | NEUROCOUPLE / NEUROFAUNA service, S-D19, Y3M9                                          | [SAN]                | Paused               | -       |   12:32         |
 | [#406] | wiedemayr                                                                              | [SAN]                | Nothing              | -       |   12:32         |
-
-| [#344] | J-D4.6. A computational Minimal Information Standard (cMIS) has been established Y4M03 | [KZ]/ [PC]          | In progress          | 5'       |   11:22         |
-| [#399] | HW/SW Dev Support Case: New features on the material Database for Solid Materials      | [PC] / [IP]          | In progress          | 10'      |   11:41         |
-
-| [#404] | put mesher into jupyterlab & s4l python                                                | [MaG] ([PC])         | In progress         | 2'        | 11:59           |
-| [#327] | S-D8 o2S2PARC Guided Mode Y4M05                                                        | [OM] / [SAN]         | In progress         | 10'      |    12:01      |
-
-| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                                | [ALL]                | Paused               | -       |   12:11         |
-
-| [#365] | S-D23.3 Data Analysis and Derived Data: Jupyter Lab Y4M06                              | [KZ]                 | Ongoing              | 7'       |   12:11         |
-| [#332] | S-D26 Machine Learning Support (continuous)                                            | AF                   | Ongoing              | 5'       |   12:18         |
-
-
-
-
-
-
 | *      | Update on DevOps                                                                       | [ALL]                | Ongoing              | 3'       |    12:34        |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?                     | [SAN]                | Ongoing              | 3'       |    12:37        |
 | *      | Others                                                                                 |
@@ -117,6 +100,8 @@ Needs PO update, see previous reviews
 [#273]:https://github.com/ITISFoundation/osparc-issues/issues/273
 [#304]:https://github.com/ITISFoundation/osparc-issues/issues/304
 [#306]:https://github.com/ITISFoundation/osparc-issues/issues/306
+[#307]:https://github.com/ITISFoundation/osparc-issues/issues/307
+[#309]:https://github.com/ITISFoundation/osparc-issues/issues/309
 [#325]:https://github.com/ITISFoundation/osparc-issues/issues/325
 [#326]:https://github.com/ITISFoundation/osparc-issues/issues/326
 [#327]:https://github.com/ITISFoundation/osparc-issues/issues/327
