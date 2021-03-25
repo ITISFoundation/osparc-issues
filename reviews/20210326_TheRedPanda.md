@@ -36,8 +36,8 @@
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         | [OM] / [PC]          | In progress          |            |            |
 | [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                 | Paused               |            |            |
 | [#91]  | TI Treatment Planning                                                         | [MaG] / [OM] / [IP]  | Paused               | -          |            |
-| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | In progress.         | 2min       |            |
-| [#425] | export into SDS format                                                        | [ANE] / [KZ]         | Not scheduled        | 8min       |            |
+| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | In progress          | 2min       |            |
+| [#425] | export into SDS format                                                        | [ANE]                | Done                 | 8min       |            |
 | [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 |                      | Not scheduled        | -          |            |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | Paused               | -          |            |
 | [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [KZ] / [MAG]         | Paused               | -          |            |
