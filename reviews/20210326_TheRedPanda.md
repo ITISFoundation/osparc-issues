@@ -1,4 +1,4 @@
-# Review Meeting - 2021/03/26 @?
+# Review Meeting - 2021/03/26 @ 10:45
 
 - Sprint
   - **The Red Panda** (Cute being)
@@ -24,28 +24,28 @@
 
 | Issue  | Title                                                                         | Presenter            | Status               | Duration   | Start Time |
 | ------ | ----------------------------------------------------------------------------- | -------------------- | -------------------- | ---------- | ---------- |
-| [#405] | eth lecture                                                                   | [SAN] / [team]       | In progress          | 3min       |            |
-| [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          | 1min       |            |
-| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [MaG]                | In progress          | 1min      |            |
-| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [PC]                 | In progress          | 3min       |            |
-| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                             | [MaG]                | In progress          | 10min     |            |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                 | In progress          | 10min     |            |
-| [#428] | maintenance/scaling of the platform                                           | [SAN]                | In progress          | 10min      |            |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]        | In progress          | 7min       |            |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         | [OM] / [PC]          | In progress          | 1min           |            |
-| [#407] | UI: S4L/ EM Sim Service                                                       | [MAG]                | Paused               | 1min       |            |
-| [#91]  | TI Treatment Planning                                                         | [MaG]                | Paused               | 0min       |            |
-| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | In progress          | 2min       |            |
-| [#425] | export into SDS format                                                        | [ANE]                | Done                 | 8min       |            |
-| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | Paused               | 0min       |            |
-| [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [KZ] / [MAG]         | In progress          | 10min      |            |
-| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                 | [KZ]                 | Ongoing              | 2min       |            |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                 | Ongoing              | 12min      |            |
-| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03         | [PC]                 | Paused               | 0min       |            |
-| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                   | [PC]                 | In progress          | 1min       |            |
-| [#363] | modeler & postpro completeness                                                | [MaG]                | Paused               | 0min       |            |
-| *      | Update on DevOps                                                              | [ALL]                | Ongoing              | 3min          |            |
-| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]                | Ongoing              | see [#428] |            |
+| [#405] | eth lecture                                                                   | [SAN] / [team]       | In progress          | 3min       |     10:45       |
+| [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          | 1min       |    10:48        |
+| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [MaG]                | In progress          | 1min      |      10:49      |
+| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [PC]                 | In progress          | 3min       |    10:50        |
+| [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                             | [MaG]                | In progress          | 10min     |    10:53        |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                 | In progress          | 10min     |    11:03        |
+| [#428] | maintenance/scaling of the platform                                           | [SAN]                | In progress          | 10min      |    11:13        |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]        | In progress          | 7min       |   11:23         |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         | [OM] / [PC]          | In progress          | 1min           |   11:30         |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [MAG]                | Paused               | 1min       |    11:31        |
+| [#91]  | TI Treatment Planning                                                         | [MaG]                | Paused               | 0min       |    11:32        |
+| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | In progress          | 2min       |      11:32      |
+| [#425] | export into SDS format                                                        | [ANE]                | Done                 | 8min       |      11:34      |
+| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | Paused               | 0min       |    11:42        |
+| [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [KZ] / [MAG]         | In progress          | 10min      |    11:42        |
+| [#26]  | support onboarding of SPARC computational mode, S-D1, Y3M1-12                 | [KZ]                 | Ongoing              | 2min       |    11:52        |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                 | Ongoing              | 12min      |     11:54       |
+| [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03         | [PC]                 | Paused               | 0min       |    12:06        |
+| [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                   | [PC]                 | In progress          | 1min       |     12:06       |
+| [#363] | modeler & postpro completeness                                                | [MaG]                | Paused               | 0min       |      12:07      |
+| *      | Update on DevOps                                                              | [ALL]                | Ongoing              | 3min          |   12:07         |
+| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]                | Ongoing              | see [#428] |      12:10      |
 | *      | Others                                                                        |
 
 
