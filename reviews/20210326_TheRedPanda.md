@@ -25,7 +25,7 @@
 | Issue  | Title                                                                         | Presenter            | Status               | Duration   | Start Time |
 | ------ | ----------------------------------------------------------------------------- | -------------------- | -------------------- | ---------- | ---------- |
 | [#405] | eth lecture                                                                   | [SAN] / [team]       | In progress          | 3min       |            |
-| [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          |            |            |
+| [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          | 1min       |            |
 | [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [MaG]                | In progress          | 1min      |            |
 | [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [PC]                 | In progress          | 5min       |            |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                             | [MaG]                | In progress          | 10min     |            |
@@ -34,7 +34,7 @@
 | [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]        | In progress          | 7min       |            |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         | [OM] / [PC]          | In progress          | 1min           |            |
 | [#407] | UI: S4L/ EM Sim Service                                                       | [MAG]                | Paused               | 1min       |            |
-| [#91]  | TI Treatment Planning                                                         | [ANE]                | Paused               | 0min       |            |
+| [#91]  | TI Treatment Planning                                                         | [MaG]                | Paused               | 0min       |            |
 | [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | In progress          | 2min       |            |
 | [#425] | export into SDS format                                                        | [ANE]                | Done                 | 8min       |            |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | Paused               | 0min       |            |
@@ -43,7 +43,7 @@
 | [#232] | Placeholder for Team Black feedback                                           | [OM]                 | Ongoing              | 12min      |            |
 | [#325] | S-D6 Provenance and Change History of (Derived) Data and Models Y4M03         | [PC]                 | Paused               | 0min       |            |
 | [#343] | J-D13.1.5 Dynamic dataset viewer simulation component Y4M03                   | [PC]                 | In progress          | 1min       |            |
-| [#363] | modeler & postpro completeness                                                | [MaG]                | Paused               | 1min       |            |
+| [#363] | modeler & postpro completeness                                                | [MaG]                | Paused               | 0min       |            |
 | *      | Update on DevOps                                                              | [ALL]                | Ongoing              | 3min          |            |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]                | Ongoing              | see [#428] |            |
 | *      | Others                                                                        |
