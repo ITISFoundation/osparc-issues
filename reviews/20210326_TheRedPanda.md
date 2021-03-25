@@ -26,8 +26,8 @@
 | ------ | ----------------------------------------------------------------------------- | -------------------- | -------------------- | ---------- | ---------- |
 | [#405] | eth lecture                                                                   | [SAN] / [team]       | In progress          | 3min       |            |
 | [#403] | working group: workshop follow-up                                             | [MaG]                | In progress          |            |            |
-| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [MaG]                | In progress          | 1mnin      |            |
-| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [PC]                 | In progress          |            |            |
+| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [MaG]                | In progress          | 1min      |            |
+| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     | [PC]                 | In progress          | 5min       |            |
 | [#331] | S-D25 .1 Simulation Framework FUNCTIONALITY Y4M04                             | [MaG]                | In progress          | 10 min     |            |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                 | In progress          | 10 min     |            |
 | [#428] | maintenance/scaling of the platform                                           | [SAN]                | In progress          | 10min      |            |
