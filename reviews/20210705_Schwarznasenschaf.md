@@ -125,7 +125,9 @@ Needs PO update, see previous reviews
 [#425]:https://github.com/ITISFoundation/osparc-issues/issues/425
 [#428]:https://github.com/ITISFoundation/osparc-issues/issues/428
 [#436]:https://github.com/ITISFoundation/osparc-issues/issues/436
+[#436]:https://github.com/ITISFoundation/osparc-issues/issues/449
 [#459]:https://github.com/ITISFoundation/osparc-issues/issues/459
+[#463]:https://github.com/ITISFoundation/osparc-issues/issues/463
 
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
 [#496]:https://github.com/ITISFoundation/osparc-simcore/issues/496
