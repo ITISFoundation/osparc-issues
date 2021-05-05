@@ -27,8 +27,8 @@
 | [#449] | Steering Committee Demo                                                       | [MAG]                | In progress          |  min       |            |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC] / [MAG] / [TN]  | In progress          | min        |            |
 | [#403] | working group: workshop follow-up                                             | [MaG] / [PC]         | In progress          | min        |            |
-| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]         | In progress          | min        |            |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]                | In progress          | min        |            |
+| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]         | In progress          | 10 + ?min        |            |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]                | In progress          | 5 min        |            |
 | [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [PC] / [KZ]          | In progress          | min        |            |
 | [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [KZ]                 | In progress          | min        |            |
 | [#91]  | TI Treatment Planning                                                         | [MaG]                | In progress          | min        |            |
