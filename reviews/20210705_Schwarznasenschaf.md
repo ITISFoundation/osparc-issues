@@ -1,7 +1,7 @@
 # Review Meeting - 2021/05/07 @ ??
 
 - Sprint
-  - **Schwarznasenschaf** (Another cute being)
+  - 🐑 **Schwarznasenschaf** (Another [cute being](https://de.wikipedia.org/wiki/Walliser_Schwarznasenschaf))
   - 🕐 PM1(07/04)-PM2(09/04) -(*19 wd*)- RM(07/05)
   - Scrum Master: [ALL]
 - **Dashboards** 📊
