@@ -50,10 +50,10 @@
 | *      | Others                                                                        |
 
 ##### Status
-- **Paused**: this task was not scheduled/skip for this sprint
-- **In Progress**: this task is under development
-- **Resolved**: completed this task and it available for review
-- **Ongoing**: a recurrent task
+- *Paused*: this task was not scheduled/skip for this sprint
+- *In Progress*: this task is under development
+- *Resolved*: completed this task and it available for review
+- *Ongoing*: a recurrent task
 
 [online]:http://status.osparc.io/
 [operational]:https://git.speag.com/oSparc/e2e-testing/-/pipelines
