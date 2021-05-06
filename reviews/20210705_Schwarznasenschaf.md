@@ -1,3 +1,5 @@
+
+
 # Review Meeting - 2021/05/07 @ ??
 
 - Sprint
@@ -8,7 +10,7 @@
   - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
   - [Scrum Wall](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?repos=118596920,174557929,151701223,135289610,118910047,181836792,167586968)  (Developers view)
   - Activity: [sprint-PRs] and [sprint-MRs]
-- **Deployed environments** 🚀  
+- **Deployed environments** 🚀
   - AWS cluster (us-east-1)
     - [staging_aws](https://staging.osparc.io) (Testers only - [changelogs])
     - [production_aws](https://osparc.io) ([changelogs])
@@ -22,32 +24,36 @@
 
 ## Agenda
 
-| Issue  | Title                                                                         | Presenter            | Status               | Duration   | Start Time |
-| ------ | ----------------------------------------------------------------------------- | -------------------- | -------------------- | ---------- | ---------- |
-| [#449] | Steering Committee Demo                                                       | [MAG]                | In progress          |  min       |            |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC] / [MAG] / [TN]  | In progress          | min        |            |
-| [#403] | working group: workshop follow-up                                             | [MaG] / [PC]         | In progress          | min        |            |
-| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]         | In progress          | 10 + ?min        |            |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]        | In progress          | 8 min      |            |
-| [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [PC] / [KZ]          | In progress          | min        |            |
-| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [KZ]                 | In progress          | min        |            |
-| [#91]  | TI Treatment Planning                                                         | [MaG]                | In progress          | min        |            |
-| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC] / [IP]          | In progress          | min        |            |
-| [#343] | D13.1.5 Dynamic dataset viewer simulation component Y4M03                     |                      | Paused               | min        |            |
-| [#463] | s4l gui service                                                               |                      | Paused               | min        |            |
-| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                 | In progress          | min        |            |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                      | Paused               | min        |            |
-| [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     |                      | Paused               | min        |            |
-| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | Not scheduled        | 0          |            |
-| [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | In progress          | 1min       |            |
-| [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [MAG]                | In progress          | min        |            |
-| [#232] | Placeholder for Team Black feedback                                           |                      | Ongoing              | min        |            |
-| [#91]  | TI Treatment Planning                                                         | [MaG]                | Paused               | 0min       |         |
-| *      | Update on DevOps                                                              | [ALL]                | Ongoing              | 3min          |            |
-| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]                | Ongoing              | see [#428] |            |
+| Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
+|--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
+| [#449] | Steering Committee Demo                                                       | [MAG]               | In progress | min        |            |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 5 min      |            |
+| [#403] | working group: workshop follow-up                                             | [PC]                | In progress | 8 min      |            |
+| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]        | In progress | 10 + ?min  |            |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]       | In progress | 5 min      |            |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08                                    | [PC] / [KZ]         | In progress | 2 min      |            |
+| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [KZ]                | In progress | min        |            |
+| [#91]  | TI Treatment Planning                                                         | [MaG]               | In progress | min        |            |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved    | 5 min      |            |
+| [#343] | D13.1.5 Dynamic dataset viewer simulation component Y4M03                     | [PC]                | Resolved    | 0 min      |            |
+| [#463] | s4l gui service                                                               |                     | Paused      | min        |            |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | min        |            |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                     | Paused      | min        |            |
+| [#342] | J-D18.2 Data-awareness-Python-layer for JupyterLab Y4M06                      |                     | Paused      | min        |            |
+| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]               | Paused      | 0 min      |            |
+| [#350] | S-D25.4 Simulation Framework resource allocation Y4M05                        | [ALL]               | In progress | 1min       |            |
+| [#333] | S-D27.1 User-Driven Service Creation iframe elements Y4M06                    | [MaG]               | In progress | min        |            |
+| [#232] | Placeholder for Team Black feedback                                           |                     | Ongoing     | min        |            |
+| [#91]  | TI Treatment Planning                                                         | [MaG]               | Paused      | 0min       |            |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 3 min      |            |
+| *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]               | Ongoing     | see [#428] |            |
 | *      | Others                                                                        |
 
-
+##### Status
+- **Paused**: this task was not scheduled/skip for this sprint
+- **In Progress**: this task is under development
+- **Resolved**: completed this task and it available for review
+- **Ongoing**: a recurrent task
 
 [online]:http://status.osparc.io/
 [operational]:https://git.speag.com/oSparc/e2e-testing/-/pipelines
@@ -125,7 +131,7 @@ Needs PO update, see previous reviews
 [#425]:https://github.com/ITISFoundation/osparc-issues/issues/425
 [#428]:https://github.com/ITISFoundation/osparc-issues/issues/428
 [#436]:https://github.com/ITISFoundation/osparc-issues/issues/436
-[#436]:https://github.com/ITISFoundation/osparc-issues/issues/449
+[#449]:https://github.com/ITISFoundation/osparc-issues/issues/449
 [#459]:https://github.com/ITISFoundation/osparc-issues/issues/459
 [#463]:https://github.com/ITISFoundation/osparc-issues/issues/463
 
