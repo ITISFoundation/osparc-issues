@@ -26,7 +26,7 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#449] | Steering Committee Demo                                                       | [KZ] / [all]        | In progress | 10 min     |            |
+| [#449] | Steering Committee Demo                                                       | [KZ] / [all]        | Resolved    | 10 min     |            |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |            |
 | [#403] | working group: workshop follow-up                                             | [PC]                | In progress | 8 min      |            |
 | [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]        | In progress | 10         |            |
