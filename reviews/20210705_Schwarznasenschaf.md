@@ -49,9 +49,9 @@
 | *      | Others                                                                        |
 
 ##### Status
-- *Paused*: this task was not scheduled/skip for this sprint
-- *In Progress*: this task is under development
-- *Resolved*: this task is done. PO will close or reopen after review.
+- *Paused*: this issue was not scheduled/skipped for this sprint
+- *In Progress*: this issue is still under development
+- *Resolved*: no more work left to do on this issue. PO can review an decide to close or reopen.
 - *Ongoing*: a recurrent task
 
 [online]:http://status.osparc.io/
