@@ -28,7 +28,7 @@
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC] / [MAG] / [TN]  | In progress          | min        |            |
 | [#403] | working group: workshop follow-up                                             | [MaG] / [PC]         | In progress          | min        |            |
 | [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]         | In progress          | 10 + ?min        |            |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]                | In progress          | 5 min        |            |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]        | In progress          | 8 min      |            |
 | [#328] | S-D22 .1 Meta-Modeling Infrastructure Y4M08                                   | [PC] / [KZ]          | In progress          | min        |            |
 | [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [KZ]                 | In progress          | min        |            |
 | [#91]  | TI Treatment Planning                                                         | [MaG]                | In progress          | min        |            |
@@ -38,7 +38,7 @@
 | [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                 | In progress          | min        |            |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                      | Paused               | min        |            |
 | [#342] | J-D18.2. data-awareness-Python-layer for JupyterLab Y4M06                     |                      | Paused               | min        |            |
-| [#410] | Gitlab Failover & High Availability Setup                                     |                      | In progress          | min        |            |
+| [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]                | Not scheduled        | 0          |            |
 | [#350] | S-D25 .4 Simulation Framework resource allocation Y4M05                       | [ALL]                | In progress          | 1min       |            |
 | [#333] | S-D27 .1 User-Driven Service Creation iframe elements Y4M06                   | [MAG]                | In progress          | min        |            |
 | [#232] | Placeholder for Team Black feedback                                           |                      | Ongoing              | min        |            |
