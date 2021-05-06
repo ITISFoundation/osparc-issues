@@ -1,6 +1,6 @@
 
 
-# Review Meeting - 2021/05/07 @ ??
+# Review Meeting - 2021/05/07 @ 11:00??
 
 - Sprint
   - 🐑 **Schwarznasenschaf** (Another [cute being](https://de.wikipedia.org/wiki/Walliser_Schwarznasenschaf))
@@ -26,25 +26,25 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#449] | Steering Committee Demo                                                       | [KZ] / [all]        | Resolved    | 10 min     |            |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |            |
-| [#403] | working group: workshop follow-up                                             | [PC]                | In progress | 8 min      |            |
-| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]        | In progress | 10         |            |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]       | In progress | 5 min      |            |
-| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08                                    | [PC] / [KZ]         | In progress | 2 min      |            |
+| [#449] | Steering Committee Demo                                                       | [KZ] / [all]        | Resolved    | 10 min     | 11:00      |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      | 11:10      |
+| [#403] | working group: workshop follow-up                                             | [PC]                | In progress | 8 min      | 11:13      |
+| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]        | In progress | 10         | 11:21      |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]       | In progress | 5 min      | 11:31      |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08                                    | [PC] / [KZ]         | In progress | 2 min      | 11:36      |
 | [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [ALL]               | Paused      | 0 min      |            |
-| [#91]  | TI Treatment Planning                                                         | [MaG]               | In progress | 6 min      |            |
-| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved    | 5 min      |            |
+| [#91]  | TI Treatment Planning                                                         | [MaG]               | In progress | 6 min      | 11:38      |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved    | 5 min      | 11:44      |
 | [#343] | D13.1.5 Dynamic dataset viewer simulation component Y4M03                     | [PC]                | Resolved    | 0 min      |            |
 | [#463] | s4l gui service                                                               |                     | Paused      | 0 min      |            |
-| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | 5 min      |            |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | 5 min      | 11:49      |
 | [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                     | Paused      | 0 min      |            |
 | [#342] | J-D18.2 Data-awareness-Python-layer for JupyterLab Y4M06                      |                     | Paused      | 0 min      |            |
 | [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]               | Paused      | 0 min      |            |
-| [#350] | S-D25.4 Simulation Framework resource allocation Y4M05                        | [ALL]               | In progress | 1 min      |            |
-| [#333] | S-D27.1 User-Driven Service Creation iframe elements Y4M06                    | [MaG]               | Resolved    | 1 min      |            |
-| [#232] | Placeholder for Team Black feedback                                           | [KZ]                | Ongoing     | 5 min      |            |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 3 min      |            |
+| [#350] | S-D25.4 Simulation Framework resource allocation Y4M05                        | [ALL]               | In progress | 1 min      | 11:54      |
+| [#333] | S-D27.1 User-Driven Service Creation iframe elements Y4M06                    | [MaG]               | Resolved    | 1 min      | 11:55      |
+| [#232] | Placeholder for Team Black feedback                                           | [KZ]                | Ongoing     | 5 min      | 11:56      |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 3 min      | 12:01      |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | [SAN]               | Ongoing     | see [#428] |            |
 | *      | Others                                                                        |
 
