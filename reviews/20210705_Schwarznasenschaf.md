@@ -36,10 +36,10 @@
 | [#91]  | TI Treatment Planning                                                         | [MaG]               | In progress | 6 min      |            |
 | [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved    | 5 min      |            |
 | [#343] | D13.1.5 Dynamic dataset viewer simulation component Y4M03                     | [PC]                | Resolved    | 0 min      |            |
-| [#463] | s4l gui service                                                               |                     | Paused      | min        |            |
-| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | min        |            |
-| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                     | Paused      | min        |            |
-| [#342] | J-D18.2 Data-awareness-Python-layer for JupyterLab Y4M06                      |                     | Paused      | min        |            |
+| [#463] | s4l gui service                                                               |                     | Paused      | 0 min      |            |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | 5 min      |            |
+| [#356] | S-D24 .3/.4 o2S2PARC framework metadata and TSR Y4M04                         |                     | Paused      | 0 min      |            |
+| [#342] | J-D18.2 Data-awareness-Python-layer for JupyterLab Y4M06                      |                     | Paused      | 0 min      |            |
 | [#410] | Gitlab Failover & High Availability Setup                                     | [ANE]               | Paused      | 0 min      |            |
 | [#350] | S-D25.4 Simulation Framework resource allocation Y4M05                        | [ALL]               | In progress | 1 min      |            |
 | [#333] | S-D27.1 User-Driven Service Creation iframe elements Y4M06                    | [MaG]               | Resolved    | 1 min      |            |
