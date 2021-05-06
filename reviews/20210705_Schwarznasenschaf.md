@@ -1,6 +1,6 @@
 
 
-# Review Meeting - 2021/05/07 @ 11:00??
+# Review Meeting - 2021/05/07 @ 11:00
 
 - Sprint
   - 🐑 **Schwarznasenschaf** (Another [cute being](https://de.wikipedia.org/wiki/Walliser_Schwarznasenschaf))
