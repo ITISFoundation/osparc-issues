@@ -181,6 +181,6 @@ Needs PO update, see previous reviews
 [TB-Backlog]:https://github.com/ITISFoundation/osparc-issues/projects/4
 [Z43-Backlog]:https://z43.fogbugz.com/f/filters/1112/osparc-cases
 
-[sprint-PRs]:https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+created%3A%3E2021-03-09
+[sprint-PRs]:https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+created%3A%3E2021-05-06
 [sprint-MRs]:https://git.speag.com/groups/oSparc/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all
 [changelogs]:https://github.com/ITISFoundation/osparc-simcore/releases
