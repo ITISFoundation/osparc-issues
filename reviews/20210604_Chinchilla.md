@@ -25,21 +25,21 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]?       | Ongoing     | 10 min     |       |
-| [#472] | JupyterLab Smash Availability                                                 | [MaG]               | Resolved    | 2 min      |       |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [MaG]/[SAN]/[ANE]   | In progress | 12 min     |       |
-| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [KZ]                | Paused      | 1 min      |       |
-| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [MaG]               | In progress | 1 min      |       |
-| [#463] | s4l gui service                                                               | [KZ]                | Paused      | 1 min      |       |
-| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | 5 min      |       |
-| [#473] | Voila Implementation                                                          | [MaG]               | Done        | 7 min      |       |
-| [#91]  | TI Treatment Planning                                                         | [KZ]                | Paused      | 1 min      |       |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |       |
-| [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | [KZ]                | Resolved?   | 1 min      |       |
-| [#436] | filesystem integration ideas                                                  | [KZ]                | Paused      | 1 min      |       |
-| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [IP]                | Resolved    | 5 min      |       |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 2 min      |       |
+| [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]        | Ongoing     | 10 min     |   10:50    |
+| [#472] | JupyterLab Smash Availability                                                 | [MaG]               | Resolved    | 2 min      |   11:00    |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [MaG]/[SAN]/[ANE]   | In progress | 12 min     |   11:02    |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [KZ]                | Paused      | 1 min      |   11:14    |
+| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [MaG]               | In progress | 1 min      |   11:15    |
+| [#463] | s4l gui service                                                               | [KZ]                | Paused      | 1 min      |   11:16    |
+| [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | 5 min      |   11:17    |
+| [#473] | Voila Implementation                                                          | [MaG]               | Done        | 7 min      |   11:22    |
+| [#91]  | TI Treatment Planning                                                         | [KZ]                | Paused      | 1 min      |   11:29    |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |   11:30    |
+| [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | [KZ]                | Resolved?   | 1 min      |   11:33    |
+| [#436] | filesystem integration ideas                                                  | [KZ]                | Paused      | 1 min      |   11:34    |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [IP]                | Resolved    | 5 min      |   11:35    |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |   11:40    |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 2 min      |   11:42    |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | ---                 | Ongoing     | see [#428] |       |
 | *      | Others                                                                        |
 
