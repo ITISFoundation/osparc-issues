@@ -37,7 +37,7 @@
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |       |
 | [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | ??                  | Resolved?   | ? min      |       |
 | [#436] | filesystem integration ideas                                                  | ??                  | ?           | ? min      |       |
-| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved?   | ? min      |       |
+| [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [IP]                | Resolved    | 5 min      |       |
 | [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 1 min      |       |
 | *      | Update on DevOps                                                              | [ALL]               | Ongoing     | ? min      |       |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | ???                 | Ongoing     | see [#428] |       |
