@@ -33,8 +33,8 @@
 | [#463] | s4l gui service                                                               | ???                 | Paused      | ? min      |       |
 | [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | ? min      |       |
 | [#473] | Voila Implementation                                                          | [MaG]               | Done        | 7 min      |       |
-| [#91]  | TI Treatment Planning                                                         | [MaG]               | paussed     | ? min      |       |
-| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [MaG]               | ??          | ? min      |       |
+| [#91]  | TI Treatment Planning                                                         | [MaG]               | Paused      | ? min      |       |
+| [#304] | Prep2Go: creating features to support complex S4L scripts                     | [PC]                | In progress | 3 min      |       |
 | [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | ??                  | Resolved?   | ? min      |       |
 | [#436] | filesystem integration ideas                                                  | ??                  | ?           | ? min      |       |
 | [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [PC]                | Resolved?   | ? min      |       |
