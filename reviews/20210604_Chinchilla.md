@@ -38,8 +38,8 @@
 | [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | ??                  | Resolved?   | ? min      |       |
 | [#436] | filesystem integration ideas                                                  | ??                  | ?           | ? min      |       |
 | [#341] | J-D4.1.5 Search for compatible models that can be coupled on the portal Y4M06 | [IP]                | Resolved    | 5 min      |       |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 1 min      |       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | ? min      |       |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |       |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 2 min      |       |
 | *      | Platform stability [[#1426]]: [online]+[operational]+[performant]?            | ???                 | Ongoing     | see [#428] |       |
 | *      | Others                                                                        |
 
