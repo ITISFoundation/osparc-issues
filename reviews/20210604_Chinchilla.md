@@ -1,5 +1,5 @@
 
-# Review Meeting - 2021/06/04 @ 10:00
+# Review Meeting - 2021/06/04 @ 10:50
 
 - Sprint
   - 🐭 **Chinchilla** (Another [cute being](https://en.wikipedia.org/wiki/Chinchilla))
