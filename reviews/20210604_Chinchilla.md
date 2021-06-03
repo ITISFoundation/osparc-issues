@@ -27,7 +27,7 @@
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
 | [#428] | maintenance/scaling of the platform                                           | [SAN] / [PC]?       | Ongoing     | 10 min     |       |
 | [#472] | JupyterLab Smash Availability                                                 | [MaG]               | Resolved    | 2 min      |       |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]       | In progress | ? min      |      |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [MaG]/[SAN]/[ANE]   | In progress | 7 min      |      |
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | ???                 | Paused      | ? min      |     |
 | [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [MaG]               | Ongoing     | 1 min      |      |
 | [#463] | s4l gui service                                                               | ???                 | Paused      | ? min      |      |
