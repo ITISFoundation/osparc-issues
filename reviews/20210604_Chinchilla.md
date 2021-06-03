@@ -29,11 +29,11 @@
 | [#472] | JupyterLab Smash Availability                                                 | [MaG]               | Resolved    | 2 min      |       |
 | [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN] / [ANE]       | In progress | ? min      |      |
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | ???                 | Paused      | ? min      |     |
-| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | ???                 | ???         | ? min      |      |
+| [#332] | S-D26 Machine Learning Support (continuous) Y4M1-12                           | [MaG]               | Ongoing     | 1 min      |      |
 | [#463] | s4l gui service                                                               | ???                 | Paused      | ? min      |      |
 | [#407] | UI: S4L/ EM Sim Service                                                       | [IP]                | In progress | ? min      |     |
-| [#473] | Voila Implementation                                                          | [MaG]               | In progress | ? min      |       |
-| [#91]  | TI Treatment Planning                                                         | [MaG]               | In progress | ? min      |       |
+| [#473] | Voila Implementation                                                          | [MaG]               | Done        | 7 min      |       |
+| [#91]  | TI Treatment Planning                                                         | [MaG]               | paussed     | ? min      |       |
 | [#304] | Prep2Go: creating features to support complex S4L scripts                     | [MaG]               | ??          | ? min      |       |
 | [#357] | User-Driven Service Creation DASH & Jupyter widgets Y4M09                     | ??                  | Resolved?   | ? min      |       |
 | [#436] | filesystem integration ideas                                                  | ??                  | ?           | ? min      |       |
