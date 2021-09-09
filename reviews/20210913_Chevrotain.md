@@ -26,7 +26,7 @@
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
 | [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress |    5min   |       |
 | [#349] | S-D25.4 Simulation Framework & Resource Allocation SCHEDULER Y4M05            | [SAN]/[MAG]         | In progress |   7min    |       |
-| [#496] | S4L:web - User story 1                                                        | [IP]/[MAG]/[CR]     | In progress |       |       |
+| [#496] | S4L:web - User story 1                                                        | [IP]/[MAG]/[CR]/[BL]    | In progress |       |       |
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      |       |
 | [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
 | [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
@@ -144,6 +144,7 @@ Needs PO update, see previous reviews
 [ANE]:https://github.com/GitHK
 [TN]:https://itis.swiss/who-we-are/staff-members/all-staff/newton-taylor/
 [CR]:https://github.com/colinRawlings
+[BL]:https://github.com/dyollb
 
 
 [J-D4]:https://github.com/ITISFoundation/osparc-issues/issues/62
