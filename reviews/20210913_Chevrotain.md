@@ -30,9 +30,8 @@
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      |       |
 | [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
 | [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     |       |       |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     |   -   |       |
 | *      | Update on DevOps                                                              | [ALL]               | Ongoing     |       |       |
-| *      | oSparc-S4L                                                                    | [MAG]/[OM]          | Nothing     |       |       |
 
 ##### Status
 - *Paused*: this issue was not scheduled/skipped for this sprint
