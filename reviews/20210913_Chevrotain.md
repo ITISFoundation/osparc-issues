@@ -1,8 +1,8 @@
-# Review Meeting - 2021/08/09 @ 10:00
+# Review Meeting - 2021/09/13 @ 10:00
 
 - Sprint
-  - **Wombat** (Another [cute being](https://en.wikipedia.org/wiki/Wombat))
-  - 🕐 PM1(09/07)-PM2(13/07) -(*18 wd*)- RM(09/08)
+  - **Chevrotain** (Another [cute being](https://en.wikipedia.org/wiki/Chevrotain))
+  - 🕐 PM1(16/08)-PM2(19/08) -(*16 wd*)- RM(13/09)
   - Scrum Master: [OM]
 - **Dashboards** 📊
   - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
@@ -24,18 +24,17 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#489] | J-D2.3.1 FAIR Codeathon                                                       | [KZ]                | Resolved    | 5 min      |     10:05       |
-| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress | 2 min      |       10:10     |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]               | In progress | 5 min      |    10:12        |
-| [#349] | S-D25.4 Simulation Framework Resource Allocation Y4M05                        |                     | Nothing     | 0 min      |  10:17          |
-| *      | oSparc-S4L                                                                    | [MAG]/[OM]          | In progress | 10 min     |    10:17        |
-| [#477] | S4L:web - Consolidation of Current State                                      | [IP]/[CR]           | In progress | 20 min     |      10:27      |
-| *      | Neuron Smash                                                                  | [CR]                | In progress | 5 min      |    10:47        |
-| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [OM]                | In progress | 5 min      |    10:52        |
-| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    | 2 min      |   10:57         |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |     10:59       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 4 min      |    11:01        |
-| *      | Misc. HW/SW CAse                                                              | [IP]                | Resolved    | 1 min      |     11:05       |
+| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress | 2 min      |       |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]               | In progress | 5 min      |       |
+| [#349] | S-D25.4 Simulation Framework Resource Allocation Y4M05                        |                     | Nothing     | 0 min      |       |
+| *      | oSparc-S4L                                                                    | [MAG]/[OM]          | In progress | 10 min     |       |
+| [#477] | S4L:web - Consolidation of Current State                                      | [IP]/[CR]           | In progress | 20 min     |       |
+| *      | Neuron Smash                                                                  | [CR]                | In progress | 5 min      |       |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [OM]                | In progress | 5 min      |       |
+| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    | 2 min      |       |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |       |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 4 min      |       |
+| *      | Misc. HW/SW CAse                                                              | [IP]                | Resolved    | 1 min      |       |
 
 ##### Status
 - *Paused*: this issue was not scheduled/skipped for this sprint
