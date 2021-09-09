@@ -31,7 +31,7 @@
 | [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
 | [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
 | [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     |   -   |       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     |       |       |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 10min    |       |
 
 ##### Status
 - *Paused*: this issue was not scheduled/skipped for this sprint
