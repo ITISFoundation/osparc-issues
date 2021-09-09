@@ -28,7 +28,7 @@
 | [#349] | S-D25.4 Simulation Framework & Resource Allocation SCHEDULER Y4M05            | [SAN]/[MAG]/[ANE]   | In progress |  10min    |       |
 | [#496] | S4L:web - User story 1                                                        | [IP]/[MAG]/[CR]/[BL]    | In progress | CR - 1min|       |
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      |       |
-| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
+| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |  1min     |       |
 | [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
 | [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     |   -   |       |
 | *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 10min    |       |
