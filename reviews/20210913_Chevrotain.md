@@ -26,7 +26,7 @@
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
 | [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress |    5min   |       |
 | [#349] | S-D25.4 Simulation Framework & Resource Allocation SCHEDULER Y4M05            | [SAN]/[MAG]         | In progress |   7min    |       |
-| [#477] | S4L:web - Consolidation of Current State                                      | [IP]/[MAG]/[CR]     | In progress |       |       |
+| [#496] | S4L:web - User story 1                                                        | [IP]/[MAG]/[CR]     | In progress |       |       |
 | [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      |       |
 | [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
 | [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
@@ -123,6 +123,7 @@ Needs PO update, see previous reviews
 [#473]:https://github.com/ITISFoundation/osparc-issues/issues/473
 [#477]:https://github.com/ITISFoundation/osparc-issues/issues/477
 [#489]:https://github.com/ITISFoundation/osparc-issues/issues/489
+[#496]:https://github.com/ITISFoundation/osparc-issues/issues/496
 
 [#54]:https://github.com/ITISFoundation/osparc-simcore/issues/54
 [#496]:https://github.com/ITISFoundation/osparc-simcore/issues/496
