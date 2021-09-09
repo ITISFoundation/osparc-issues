@@ -24,17 +24,16 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress | 2 min      |       |
-| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]               | In progress | 5 min      |       |
-| [#349] | S-D25.4 Simulation Framework Resource Allocation Y4M05                        |                     | Nothing     | 0 min      |       |
-| *      | oSparc-S4L                                                                    | [MAG]/[OM]          | In progress | 10 min     |       |
-| [#477] | S4L:web - Consolidation of Current State                                      | [IP]/[CR]           | In progress | 20 min     |       |
-| *      | Neuron Smash                                                                  | [CR]                | In progress | 5 min      |       |
-| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [OM]                | In progress | 5 min      |       |
-| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    | 2 min      |       |
-| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     | 2 min      |       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     | 4 min      |       |
-| *      | Misc. HW/SW CAse                                                              | [IP]                | Resolved    | 1 min      |       |
+| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress |       |       |
+| [#349] | S-D25.4 Simulation Framework SCHEDULER Y4M05                                  | [SAN]/[MAG]         | In progress |       |       |
+| [#477] | S4L:web - Consolidation of Current State                                      | [IP]/[MAG]/[CR]     | In progress |       |       |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress |       |       |
+| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |       |       |
+| [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |       |       |
+| [#232] | Placeholder for Team Black feedback                                           | [OM]                | Ongoing     |       |       |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     |       |       |
+| [#349] | S-D25.4 Simulation Framework Resource Allocation Y4M05                        |                     | Nothing     |       |       |
+| *      | oSparc-S4L                                                                    | [MAG]/[OM]          | Nothing     |       |       |
 
 ##### Status
 - *Paused*: this issue was not scheduled/skipped for this sprint
