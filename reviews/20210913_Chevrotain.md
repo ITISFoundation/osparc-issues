@@ -24,15 +24,15 @@
 
 | Issue  | Title                                                                         | Presenter           | Status      | Duration   | Start Time |
 |--------|-------------------------------------------------------------------------------|---------------------|-------------|------------|------------|
-| [#428] | storage issue                                                                 | [ALL]               | In progress |   10min    |       |
-| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress |    5min    |       |
-| [#349] | S-D25.4 Simulation Framework & Resource Allocation SCHEDULER Y4M05            | [SAN]/[MAG]/[ANE]   | In progress |  15min     |       |
-| [#496] | S4L:web - User story 1                                                        | [CR]                | In progress | CR - 1min  |       |
-| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      |       |
-| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |  1min      |       |
-| [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |       |
-| [#232] | Placeholder for Team Black feedback [Webinar](https://docs.google.com/presentation/d/1ZtGm_4J7xNJaHag08jF0M-OUto_M4cDWh7ZjebDvILg/edit#slide=id.geb79772908_0_0)                                           | [OM]                | Ongoing     |   -        |       |
-| *      | Update on DevOps                                                              | [ALL]               | Ongoing     |  2min      |       |
+| [#428] | storage issue                                                                 | [ALL]               | In progress |   10min    |   11:00    |
+| [#428] | maintenance/scaling of the platform: [online]+[operational]+[performant]      | [SAN]               | In progress |    5min    |  11:10     |
+| [#349] | S-D25.4 Simulation Framework & Resource Allocation SCHEDULER Y4M05            | [SAN]/[MAG]/[ANE]   | In progress |  15min     |  11:15     |
+| [#496] | S4L:web - User story 1                                                        | [CR]                | In progress | CR - 2min  | 11:30      |
+| [#328] | S-D22.1 Meta-Modeling Infrastructure Y4M08/Sensitivity/Uncertainty Analysis   | [PC]                | In progress | 10min      | 11:32      |
+| [#2380]| Python Runner flavors                                                         | [MAG]               | Resolved    |  1min      |  11:42     |
+| [#2380]| Classifiers support for ontologies                                            | [PC]                | Resolved    |  5min      |  11:43     |
+| [#232] | Placeholder for Team Black feedback [Webinar](https://docs.google.com/presentation/d/1ZtGm_4J7xNJaHag08jF0M-OUto_M4cDWh7ZjebDvILg/edit#slide=id.geb79772908_0_0)                                           | [OM]                | Ongoing     |   -        |  11:48     |
+| *      | Update on DevOps                                                              | [ALL]               | Ongoing     |  2min      |   11:48    |
 
 ##### Status
 - *Paused*: this issue was not scheduled/skipped for this sprint
