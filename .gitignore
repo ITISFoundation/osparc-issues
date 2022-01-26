@@ -150,3 +150,7 @@ cython_debug/
 # IDEs config (except templates)
 .vscode/*
 !.vscode/*.template.json
+
+
+scripts/*.csv
+scripts/*.md
