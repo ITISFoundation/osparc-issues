@@ -17,7 +17,7 @@ logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
-COLUMNS = "PO Issue Title Presenter Status Duration Start-Time".split()
+COLUMNS = "PO Topic Title Presenter Status Duration Start-Time".split()
 
 
 def to_md_row(row: List[str]):
@@ -39,12 +39,16 @@ def to_md(csv_path: Path):
                 # group
                 title = row["Title"]
                 topic = row["Group Topic"]
+                indented = False
                 if topic == current_topic and topic.lower() != "undefined":
+                    indented = True
                     title = f"<blockquote>{title}</blockquote>"
                 current_topic = topic
+                
 
                 # write
-                print(to_md_row([row["PO Priority"], "", title, row["Assignees"], row["Status"], "", "" ]) , file=md)
+                col_topic ="" if (indented or topic=="undefined") else topic
+                print(to_md_row([row["PO Priority"], , title, row["Assignees"], row["Status"], "", "" ]) , file=md)
 
     return md_path
 
