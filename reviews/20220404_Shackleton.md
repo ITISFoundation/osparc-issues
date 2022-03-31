@@ -53,12 +53,12 @@
 | 12  | TI          | [#91] TI Planning                                                                              | [OM]       | Ongoing   |          |      |
 | 13  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                         | [OM]       | Ongoing   |          |      |
 | undefined | integration | [#2409] Service integration (or service onboarding) backlog                              | [ANE]      | Ongoing   |  1m      |      |
-| 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Ongoing   |          |            |
+| 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Paused    |   0min        |            |
 | 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |    0min      |            |
 | 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [SAN],[PC] | Ongoing   |    10min      |            |
 | 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   |          |            |
 | 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   |          |            |
-| 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   |          |            |
+| 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   |   1min        |            |
 |           | devops      | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction  | [ALL], [DK]| Ongoing   |          |            |
 |           |             | [#522] M5 Extend/Create onboarding facilities                                                              | [ANE]      | Paused   |          |            |
 
