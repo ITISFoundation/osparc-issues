@@ -48,7 +48,7 @@
 | 7   |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>             |            | Done      |          |      |
 | 8   |             | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports            | [OM]       | Ongoing   |          |      |
 | 9   |             | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12                                |            | Ongoing   |          |      |
-| 16  | control     | [#510] M4 Modular platform for the generation and exploration of control strategies            | [ANE]      | Ongoing   |          |      |
+| 16  | control     | [#510] M4 Modular platform for the generation and exploration of control strategies            | [KZ]/[EI]  | Ongoing   |   10min   |      |
 | 9   |             | <blockquote>[#555] Coupling API</blockquote>                                                   |            | Ongoing   |          |      |
 | 12  | TI          | [#91] TI Planning                                                                              | [OM]       | Ongoing   |          |      |
 | 13  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                         | [OM]       | Ongoing   |          |      |
@@ -96,6 +96,7 @@ Needs PO update, see previous reviews
 [san]: https://github.com/sanderegg
 [syr]: https://zmt.swiss/about/about-zmt/all-staff/reboux-sylvain/
 [tn]: https://itis.swiss/who-we-are/staff-members/all-staff/newton-taylor/
+[ei]: https://github.com/elisabettai
 [j-d4]: https://github.com/ITISFoundation/osparc-issues/issues/62
 [j-d7.a]: https://github.com/ITISFoundation/osparc-issues/issues/21
 [j-d35]: https://github.com/ITISFoundation/osparc-issues/issues/31
