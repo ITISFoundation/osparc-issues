@@ -41,7 +41,7 @@
 | 1   |             | <blockquote>[#580] osparc-fs: Internals</blockquote>                                           | [OM]      | Ongoing   |          |      |
 | 2   |             | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                           | [DK]       | Ongoing   |          |      |
 | 5   |             | <blockquote> [#579] osparc-fs: Remote Mounts</blockquote>                                      |            |           |          |      |
-| 3   | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                            |[SAN], [ALL]| Ongoing   |          |      |
+| 3   | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                            |[SAN], [ALL]| Ongoing   |  15min        |      |
 | 19  |             | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>        |            | Ongoing   |          |      |
 | 4   |             | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework              |            | Ongoing   |          |      |
 | 6   | meta        | [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08                                        | [PC]       | Done      | 10m      |      |
@@ -54,7 +54,7 @@
 | 13  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                         | [OM]       | Ongoing   |          |      |
 | undefined | integration | [#2409] Service integration (or service onboarding) backlog                              | [ANE]      | Ongoing   |  1m      |      |
 | 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Ongoing   |          |            |
-| 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |          |            |
+| 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |    0min      |            |
 | 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [SAN],[PC] | Ongoing   |    10min      |            |
 | 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   |          |            |
 | 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   |          |            |
