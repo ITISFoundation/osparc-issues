@@ -48,10 +48,10 @@
 | 7   |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>               |            | Done   |          |            |
 | 8   |             | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports              | [OM]       | Ongoing   |          |      |
 | 9   |             | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12                                  |            | Ongoing   |          |      |
-| 16  | control     | [#510] M4 Modular platform for the generation and exploration of control strategies              | [ANE]      | Ongoing   |          |            | 9   |             | <blockquote>[#555] Coupling API</blockquote>                                                               |            | Ongoing   |          |            |
-| 12        | TI          | [#91] TI Planning                                                                                          | [KZ]       | Ongoing   |          |            |
-| 13        | support     | [#517] Team Black and Support                                                                              | [OM], [PC] | Ongoing   |          |            |
-| 14        | UI/UX       | [#546] oSPARC UI/UX                                                                                        | [OM]       | Ongoing   |          |            |
+| 16  | control     | [#510] M4 Modular platform for the generation and exploration of control strategies              | [ANE]      | Ongoing   |          |            | 9   |             | <blockquote>[#555] Coupling API</blockquote>                                                     |            | Ongoing   |          |      |
+| 12  | TI          | [#91] TI Planning                                                                                | [OM]       | Ongoing   |          |      |
+| 13 | support      | [#517] Team Black and Support                                                                    | [OM]       | Ongoing   |          |      |
+| 14 | UI/UX        | [#546] oSPARC UI/UX                                                                              | [OM]       | Ongoing   |          |      |
 | undefined | integration | [#2409] Service integration (or service onboarding) backlog                                                | [ANE]      | Ongoing   |          |            |
 | 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Ongoing   |          |            |
 | 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |          |            |
