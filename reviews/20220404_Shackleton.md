@@ -38,7 +38,7 @@
 | PO        | Topic       | Title                                                                                                      | Presenter  | Status    | Duration | Start-Time |
 |-----------|-------------|------------------------------------------------------------------------------------------------------------|------------|-----------|----------|------------|
 | 5   | file-system | [#513] M5 Filesystem integration                                                               |            |           |          |      |
-| 1   |             | <blockquote>[#580] osparc-fs: Internals</blockquote>                                           | [ANE]      | Ongoing   |          |      |
+| 1   |             | <blockquote>[#580] osparc-fs: Internals</blockquote>                                           | [OM]      | Ongoing   |          |      |
 | 2   |             | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                           | [DK]       | Ongoing   |          |      |
 | 5   |             | <blockquote> [#579] osparc-fs: Remote Mounts</blockquote>                                      |            |           |          |      |
 | 3   | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                            |[SAN], [ALL]| Ongoing   |          |      |
@@ -52,7 +52,7 @@
 | 9   |             | <blockquote>[#555] Coupling API</blockquote>                                                   |            | Ongoing   |          |      |
 | 12  | TI          | [#91] TI Planning                                                                              | [OM]       | Ongoing   |          |      |
 | 13  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                         | [OM]       | Ongoing   |          |      |
-| undefined | integration | [#2409] Service integration (or service onboarding) backlog                              | [ANE]      | Ongoing   |          |      |
+| undefined | integration | [#2409] Service integration (or service onboarding) backlog                              | [ANE]      | Ongoing   |  1m      |      |
 | 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Ongoing   |          |            |
 | 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |          |            |
 | 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [SAN],[PC] | Ongoing   |    10min      |            |
@@ -60,7 +60,7 @@
 | 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   |          |            |
 | 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   |          |            |
 |           | devops      | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction  | [ALL], [DK]| Ongoing   |          |            |
-|           |             | [#522] M5 Extend/Create onboarding facilities                                                              | [ANE]      | Ongoing   |          |            |
+|           |             | [#522] M5 Extend/Create onboarding facilities                                                              | [ANE]      | Paused   |          |            |
 
 ##### Status Legend
 
