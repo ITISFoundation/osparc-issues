@@ -44,8 +44,8 @@
 | 3         | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                        |[SAN], [ALL]| Ongoing   |          |            |
 | 19        |             | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>                    |            | Ongoing   |          |            |
 | 4         |             | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                          |            | Ongoing   |          |            |
-| 6         | meta        | [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08                                                    | [PC]       | Ongoing   |          |            |
-| 7         |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>                         |            | Ongoing   |          |            |
+| 6         | meta        | [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08                                                    | [PC]       | Done   | 10m          |            |
+| 7         |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>                         |            | Done   |          |            |
 | 16        | control     | [#510] M4 Modular platform for the generation and exploration of control strategies                        | [ANE]      | Ongoing   |          |            |
 | 9         |             | <blockquote>[#555] Coupling API</blockquote>                                                               |            | Ongoing   |          |            |
 | 10        |             | [#515] M6 Support for unit conversion and detection of compatible ports                                    |            | Ongoing   |          |            |
