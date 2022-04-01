@@ -1,4 +1,4 @@
-# Review Meeting - 04/04/2022 @ 11:00 CET
+# Review Meeting - 04/04/2022 @ 10:00 CET
 
 <p align="center">
 <img width="250" alt="Ernest Shackleton" src="https://i.inews.co.uk/content/uploads/2022/03/SEI_92405157-1-760x1056.jpg">
