@@ -56,7 +56,7 @@
 | 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Paused    |   0min        |            |
 | 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |    0min      |            |
 | 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [SAN],[PC] | Ongoing   |    10min      |            |
-| 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   |          |            |
+| 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   |    2min  |            |
 | 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   |          |            |
 | 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   |   1min        |            |
 |           | devops      | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction  | [ALL], [DK]| Ongoing   |          |            |
