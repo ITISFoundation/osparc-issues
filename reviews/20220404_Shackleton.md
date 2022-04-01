@@ -37,30 +37,30 @@
 
 | PO        | Topic       | Title                                                                                                      | Presenter  | Status    | Duration | Start-Time |
 |-----------|-------------|------------------------------------------------------------------------------------------------------------|------------|-----------|----------|------------|
-| 5   | file-system | [#513] M5 Filesystem integration                                                               |            |           |          |      |
-| 1   |             | <blockquote>[#580] osparc-fs: Internals</blockquote>                                           | [OM]      | Ongoing   |          |      |
-| 2   |             | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                           | [DK]       | Ongoing   |          |      |
-| 5   |             | <blockquote> [#579] osparc-fs: Remote Mounts</blockquote>                                      |            |           |          |      |
-| 3   | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                            |[SAN], [ALL]| Ongoing   |  15min        |      |
-| 19  |             | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>        |            | Ongoing   |          |      |
-| 4   |             | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework              |            | Ongoing   |          |      |
-| 6   | meta        | [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08                                        | [PC]       | Done      | 10m      |      |
-| 7   |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>             |            | Done      |          |      |
-| 8   |             | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports            | [OM]       | Ongoing   |          |      |
-| 9   |             | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12                                |            | Ongoing   |          |      |
-| 16  | control     | [#510] M4 Modular platform for the generation and exploration of control strategies            | [KZ]/[EI]  | Ongoing   |   10min   |      |
-| 9   |             | <blockquote>[#555] Coupling API</blockquote>                                                   |            | Ongoing   |          |      |
-| 12  | TI          | [#91] TI Planning                                                                              | [OM]       | Ongoing   |          |      |
-| 13  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                         | [OM]       | Ongoing   |          |      |
-| undefined | integration | [#2409] Service integration (or service onboarding) backlog                              | [ANE]      | Ongoing   |  1m      |      |
-| 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Paused    |   0min        |            |
-| 20        |             | <blockquote>[#576] Control, provide, and track resources</blockquote>                                      | [SAN]      | Ongoing   |    0min      |            |
-| 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [SAN],[PC] | Ongoing   |    10min      |            |
-| 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   |    2min  |            |
-| 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   |          |            |
-| 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   |   1min        |            |
-|           | devops      | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction  | [ALL], [DK]| Ongoing   |          |            |
-|           |             | [#522] M5 Extend/Create onboarding facilities                                                              | [ANE]      | Paused   |          |            |
+| 5         | file-system | [#513] M5 Filesystem integration                                                                           |            |           |          | 10:05      |
+| 1         |             | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                       | [MaG]      | Ongoing   | 3'       |            |
+| 2         |             | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                                       | [DK]       | Ongoing   | 3'       |            |
+| 5         |             | <blockquote> [#579] osparc-fs: Remote Mounts</blockquote>                                                  |            | Paused    |          |            |
+| 3         | scheduler   | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                        |[SAN], [ALL]| Ongoing   | 10'      | 10:11      |
+| 19        |             | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>                    |            | Ongoing   |          |            |
+| 4         | s4l web     | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                          |[CR], [MaG] | Ongoing   | 14'      | 10:21      |
+| 6         | meta        | [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08                                                    | [PC]       | Done      | 8'       | 10:35      |
+| 7         |             | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>                         |            | Done      |          |            |
+| 8         |             | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports                        | [OM]       | Ongoing   | 4'       | 10:43      |
+| 9         |             | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12                                            |            | Ongoing   |          |            |
+| 16        | control     | [#510] M4 Modular platform for the generation and exploration of control strategies                        | [EI]       | Ongoing   | 8'       | 10:47      |
+| 9         |             | <blockquote>[#555] Coupling API</blockquote>                                                               |            | Ongoing   |          |            |
+| 12        | TI          | [#91] TI Planning                                                                                          | [OM]       | Ongoing   | 3'       | 10:55      |
+| 13        | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                                     | [OM]       | Ongoing   | 8'       | 10:58      |
+|           | integration | [#522] M5 Extend/Create onboarding facilities                                                              |            | Ongoing   |          |            |
+|           |             | <blockquote>[#2409] Service integration (or service onboarding) backlog</blockquote>                       | [ANE]      | Ongoing   | 1'       | 11:06      |
+| 15        |             | <blockquote>[#595] Comsol license server</blockquote>                                                      | [KZ]       | Paused    | 1'       | 11:07      |
+| 20        |  resources  | [#576] Control, provide, and track resources                                                               | [SAN]      | Ongoing   | 1'       | 11:08      |
+| 17        | maintenance | [#428] Maintenance/scaling of the platform                                                                 | [PC]       | Ongoing   | 5'       | 11:09      |
+| 18        |             | [#509] M1–9 Cybersecurity and privacy                                                                      | [DK]       | Ongoing   | 2'       | 11:14      |
+| 21        |             | [#545] Portal work                                                                                         | [IP]       | Ongoing   | 1'       | 11:16      |
+| 22        |             | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                      | [KZ]       | Ongoing   | 1'       | 11:17      |
+|           | devops      | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction  | [ALL], [DK]| Ongoing   | 5'       | 11:18      |
 
 ##### Status Legend
 
