@@ -151,6 +151,7 @@ Needs PO update, see previous reviews
 [#546]: https://github.com/ITISFoundation/osparc-issues/issues/546
 [#555]: https://github.com/ITISFoundation/osparc-issues/issues/555
 [#557]: https://github.com/ITISFoundation/osparc-issues/issues/557
+[#558]: https://github.com/ITISFoundation/osparc-issues/issues/558
 [#576]: https://github.com/ITISFoundation/osparc-issues/issues/576
 [#577]: https://github.com/ITISFoundation/osparc-issues/issues/577
 [#578]: https://github.com/ITISFoundation/osparc-issues/issues/578
