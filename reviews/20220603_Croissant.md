@@ -3,7 +3,7 @@
 ## Sprint 🏃
 
 - **Croissant**
-- 🕐 PM1(Mar.9) - RM(Apr.4)
+- 🕐 PM1(May.9) - RM(June.3)
 - Scrum Master: [ALL]
 
 ### Users Feedback
