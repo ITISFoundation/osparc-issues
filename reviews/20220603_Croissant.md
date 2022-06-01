@@ -34,13 +34,13 @@
 | PO  | Topic          | Title                                                                                         | Presenter  | Status  | Duration | Start-Time |
 | --- | -------------- | --------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | ---------- |
 |   1 | UI/UX, support | [#558] Fix duplicate feature for large studies                                                | [PC]       | Ongoing |          |            |
-|   2 | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |          |            |
-|   3 | file-system    | [#617] 5Gb Limit                                                                              | [SAN]      | Ongoing |          |            |
+|   2 | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |     5m     |            |
+|   3 | file-system    | [#617] 5Gb Limit                                                                              | [SAN]      | Ongoing |     5m     |            |
 |     | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
 |   4 |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
 |   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
 |   6 | UI/UX, support | [#622] Pipeline update issue                                                                  | [OM],[KZ],[EI],[ANE] | Done | 10m |          |
-|     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           |            | Ongoing |          |            |
+|     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           | [SAN]           | Ongoing |   1m       |            |
 |   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing | 1m       |            |
 |   8 |                | [#621] API framework for ISOLVE                                                               | [PC]       | Done    |          |            |
 |   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing | 15m |            |
@@ -54,7 +54,7 @@
 |     | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |          |            |
 |  16 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
 |  17 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
-|  18 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |          |            |
+|  18 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |   4m       |            |
 |  19 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |         |            |
 |  20 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
 |  21 |                | [#545] Portal work                                                                            | [IP]       | Ongoing | 1m       |            |
