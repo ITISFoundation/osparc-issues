@@ -31,35 +31,34 @@
 
 ## Agenda
 
-| PO  | Topic          | Title                                                                                                     | Presenter    | Status  | Duration | Start-Time |
-| --- | -------------- | --------------------------------------------------------------------------------------------------------- | ------------ | ------- | -------- | ---------- |
-| 1   | file-system    | [#617] 5gb Limit                                                                                          | [SAN]        | Ongoing | 5m       |            |
-| 2   | file-system    | [#618] Personalizable resource limits                                                                     |  [SAN], [OM] | Ongoing | 5m       |            |
-| 6   | file-system    | [#513] M5 Filesystem integration                                                                          |              |         |          |            |
-| 3   |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                      | [MaG]        | Ongoing | 1m       |            |
-| 4   |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                                      | [DK]         | Ongoing | 2m       |            |
-| 8   |                | <blockquote> [#579] osparc-fs: Remote Mounts</blockquote>                                                 |   [MaG]      | Paused  | 0m       |            |
-| 5   | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                       |              | Ongoing |          |            |
-| 23  |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>                   |   [ALL]      | Ongoing | 4m       |            |
-| 7   | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                         | [CR], [MaG], [IP]  | Ongoing | 10m |            |
-| 12  | meta           | [#515] M6 Support for unit conversion and detection of compatible ports                                   | [PC], [OM]   | Ongoing | 5m       |            |
-| 9   |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>                        |              | Done    |          |   
-| 10  |                | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>                        |              | Done    |          |            |
-| 13  |                | <blockquote>[#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>            |              | Ongoing |          |            |
-| 14  |                | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                              |              | Ongoing |          |            |
-| 19  | control        | [#510] M4 Modular platform for the generation and exploration of control strategies                       | [EI]         | Ongoing |          |            |
-| 11  |                | <blockquote>[#555] Coupling API</blockquote>                                                              |              | Ongoing | 1m       |            |
-| 15  | TI             | [#91] TI Planning                                                                                         | [OM]         | Ongoing | 2m       |            |
-| 27  | integration    | [#522] M5 Extend/Create onboarding facilities                                                             | [ANE]        | Ongoing | 6m       |            |
-| 16  |                | <blockquote>[#595] Comsol license server</blockquote>                                                     | [KZ]         | Done | 1m       |            |
-| 17  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                                       | [OM], [EI]   | Ongoing | 5m       |            |
-| 18  |                | User requests                                                                                             | [SAN]        | Ongoing | 0m       |            |
-| 20  | maintenance    | [#428] Maintenance/scaling of the platform                                                                | [PC] [SAN]   | Ongoing | 2m       |            |
-| 22  |                | [#576] Control, provide and track resources                                                               | [SAN]        | Ongoing | 0m       |            |
-| 21  |                | [#509] M1–9 Cybersecurity and privacy                                                                     | [DK]         | Ongoing | 2m       |            |
-| 24  |                | [#545] Portal work                                                                                        | [IP]         | Ongoing | 3m       |            |
-| 25  |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol                      | [KZ]         | Ongoing | 0m       |            |
-|     | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction | [ALL], [DK]  | Ongoing | 8m       |            |
+| PO  | Topic          | Title                                                                                         | Presenter  | Status  | Duration | Start-Time |
+| --- | -------------- | --------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | ---------- |
+| 1   | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |          |            |
+| 2   | file-system    | [#617] 5gb Limit                                                                              | [SAN]      | Ongoing |          |            |
+| 6   | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
+| 3   |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
+| 4   |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
+| 4   | UI/UX, support | [#578] Pipeline update issue                                                                  | [OM],[KZ],[ANE] | Done | 5m     |            |
+| 5   | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           |            | Ongoing |          |            |
+| 23  |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       |   [ALL]    | Ongoing |          |            |
+| 7   | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing |     |            |
+| 12  | meta           | [#515] M6 Support for unit conversion and detection of compatible ports                       | [PC],[OM]  | Ongoing |          |            |
+| 9   |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>            |            | Done    |          |            | | 9   |                | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>            |            | Done    |          |            |
+| 13  |                | <blockquote>[#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|            | Ongoing |          |            |
+| 14  |                | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                  |            | Ongoing |          |            |
+| 19  | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |          |            |
+| 11  |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
+| 15  | TI             | [#91] TI Planning                                                                             | [OM]       | Ongoing |          |            |
+| 27  | integration    | [#522] M5 Extend/Create onboarding facilities                                                 | [ANE]      | Ongoing |          |            |
+| 16  |                | <blockquote>[#595] Comsol license server</blockquote>                                         | [KZ]       | Done    |          |            |
+| 17  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                           | [OM],[EI]  | Ongoing |          |            |
+| 18  |                | User requests                                                                                 | [SAN]      | Ongoing |          |            |
+| 20  | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |          |            |
+| 22  |                | [#576] Control, provide and track resources                                                   | [SAN]      | Ongoing |          |            |
+| 21  |                | [#509] M1–9 Cybersecurity and privacy                                                         | [DK]       | Ongoing |          |            |
+| 24  |                | [#545] Portal work                                                                            | [IP]       | Ongoing |          |            |
+| 25  |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ]       | Ongoing |          |            |
+|     | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
 
 ##### Status Legend
 
