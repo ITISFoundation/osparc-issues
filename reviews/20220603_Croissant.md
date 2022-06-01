@@ -41,7 +41,7 @@
 |   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
 |   6 | UI/UX, support | [#622] Pipeline update issue                                                                  | [OM],[KZ],[EI],[ANE] | Done | 10m |          |
 |     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           |            | Ongoing |          |            |
-|   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing |          |            |
+|   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing | 1m       |            |
 |   8 |                | [#621] API framework for ISOLVE                                                               | [PC]       | Done    |          |            |
 |   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing | 15m |            |
 |  10 | TI             | [#91] TI Planning                                                                             | [OM],[MAG],[KZ] | Ongoing |     |            |
