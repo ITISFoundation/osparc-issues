@@ -33,32 +33,34 @@
 
 | PO  | Topic          | Title                                                                                         | Presenter  | Status  | Duration | Start-Time |
 | --- | -------------- | --------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | ---------- |
-| 1   | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |          |            |
-| 2   | file-system    | [#617] 5gb Limit                                                                              | [SAN]      | Ongoing |          |            |
-| 6   | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
-| 3   |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
-| 4   |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
-| 4   | UI/UX, support | [#578] Pipeline update issue                                                                  | [OM],[KZ],[ANE] | Done | 5m     |            |
-| 5   | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           |            | Ongoing |          |            |
-| 23  |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       |   [ALL]    | Ongoing |          |            |
-| 7   | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing |     |            |
-| 12  | meta           | [#515] M6 Support for unit conversion and detection of compatible ports                       | [PC],[OM]  | Ongoing |          |            |
-| 9   |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>            |            | Done    |          |            | | 9   |                | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>            |            | Done    |          |            |
-| 13  |                | <blockquote>[#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|            | Ongoing |          |            |
-| 14  |                | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                  |            | Ongoing |          |            |
-| 19  | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |          |            |
-| 11  |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
-| 15  | TI             | [#91] TI Planning                                                                             | [OM]       | Ongoing |          |            |
-| 27  | integration    | [#522] M5 Extend/Create onboarding facilities                                                 | [ANE]      | Ongoing |          |            |
-| 16  |                | <blockquote>[#595] Comsol license server</blockquote>                                         | [KZ]       | Done    |          |            |
-| 17  | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black and Support                                           | [OM],[EI]  | Ongoing |          |            |
-| 18  |                | User requests                                                                                 | [SAN]      | Ongoing |          |            |
-| 20  | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |          |            |
-| 22  |                | [#576] Control, provide and track resources                                                   | [SAN]      | Ongoing |          |            |
-| 21  |                | [#509] M1–9 Cybersecurity and privacy                                                         | [DK]       | Ongoing |          |            |
-| 24  |                | [#545] Portal work                                                                            | [IP]       | Ongoing |          |            |
-| 25  |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ]       | Ongoing |          |            |
-|     | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
+|   1 | UI/UX, support | [#558] Fix duplicate feature for large studies                                                | [PC]       | Ongoing |          |            |
+|   2 | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |          |            |
+|   3 | file-system    | [#617] 5Gb Limit                                                                              | [SAN]      | Ongoing |          |            |
+|     | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
+|   4 |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
+|   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
+|   6 | UI/UX, support | [#622] Pipeline update issue                                                                  | [OM],[KZ],[EI],[ANE] | Done | 10m |          |
+|     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           |            | Ongoing |          |            |
+|   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing |          |            |
+|   8 |                | [#621] API framework for ISOLVE                                                               | [PC]       | Done    |          |            |
+|   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing |     |            |
+|  10 | TI             | [#91] TI Planning                                                                             | [OM],[MAG],[KZ] | Ongoing |     |            |
+|     | meta           | [#515] M6 Support for unit conversion and detection of compatible ports                       | [PC],[OM]  | Ongoing |          |            |
+|  11 |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>            |            | Done    |          |            |
+|  12 |                | <blockquote> [#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>           |            | Done    |          |            |
+|  13 |                | <blockquote> [#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|            | Ongoing |         |            |
+|  14 |                | <blockquote> [#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                 | [PC]       | Paused  |          |            |
+|  15 |                | [#521] ASCENT                                                                                 | [KZ]       | Done    |          |            |
+|     | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |          |            |
+|  16 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
+|  17 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
+|  18 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |          |            |
+|  19 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |         |            |
+|  20 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
+|  21 |                | [#545] Portal work                                                                            | [IP]       | Ongoing |          |            |
+|  22 |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ],[EI]  | Ongoing |          |            |
+|  23 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
+
 
 ##### Status Legend
 
@@ -142,6 +144,7 @@ Needs PO update, see previous reviews
 [#516]: https://github.com/ITISFoundation/osparc-issues/issues/516
 [#517]: https://github.com/ITISFoundation/osparc-issues/issues/517
 [#519]: https://github.com/ITISFoundation/osparc-issues/issues/519
+[#521]: https://github.com/ITISFoundation/osparc-issues/issues/521
 [#522]: https://github.com/ITISFoundation/osparc-issues/issues/522
 [#529]: https://github.com/ITISFoundation/osparc-issues/issues/529
 [#545]: https://github.com/ITISFoundation/osparc-issues/issues/545
@@ -156,5 +159,7 @@ Needs PO update, see previous reviews
 [#595]: https://github.com/ITISFoundation/osparc-issues/issues/595
 [#617]: https://github.com/ITISFoundation/osparc-issues/issues/617
 [#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
+[#621]: https://github.com/ITISFoundation/osparc-issues/issues/621
+[#622]: https://github.com/ITISFoundation/osparc-issues/issues/622
 
 [#2409]: https://github.com/ITISFoundation/osparc-simcore/issues/2409
