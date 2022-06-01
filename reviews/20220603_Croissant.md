@@ -45,21 +45,22 @@
 |   8 |                | [#621] API framework for ISOLVE                                                               | [PC]       | Done    |          |            |
 |   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing | 15m |            |
 |  10 | TI             | [#91] TI Planning                                                                             | [OM],[MAG],[KZ] | Ongoing |  5m |            |
-|     | meta           | [#515] M6 Support for unit conversion and detection of compatible ports                       | [PC],[OM]  | Ongoing |          |            |
+|     | meta           | [#626] meta-modeling                                                                          | [PC],[OM]  | Ongoing |          |            |
 |  11 |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>            |            | Done    |          |            |
 |  12 |                | <blockquote> [#354] S-D22.3 Meta-Modeling uncertainty assessment Y4M10</blockquote>           |            | Done    |          |            |
-|  13 |                | <blockquote> [#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|           | Ongoing |          |            |
-|  14 |                | <blockquote> [#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                 | [PC]       | Paused  |          |            |
-|  15 |                | [#521] ASCENT                                                                                 | [KZ]       | Done    |          |            |
+|  13 |                | <blockquote> [#515] M6 Support for unit conversion and detection of compatible ports </blockquote> |       | Ongoing |          |            |
+|  14 |                | <blockquote> [#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|           | Ongoing |          |            |
+|  15 |                | <blockquote> [#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                 | [PC]       | Paused  |          |            |
+|  16 |                | [#521] ASCENT                                                                                 | [KZ]       | Done    |          |            |
 |     | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |          |            |
-|  16 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
-|  17 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
-|  18 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |   4m     |            |
-|  19 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |         |            |
-|  20 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
-|  21 |                | [#545] Portal work                                                                            | [IP]       | Ongoing | 1m       |            |
-|  22 |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ],[EI]  | Ongoing |          |            |
-|  23 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
+|  17 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
+|  18 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
+|  19 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |   4m     |            |
+|  20 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |         |            |
+|  21 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
+|  22 |                | [#545] Portal work                                                                            | [IP]       | Ongoing | 1m       |            |
+|  23 |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ],[EI]  | Ongoing |          |            |
+|  24 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
 
 
 ##### Status Legend
@@ -162,5 +163,6 @@ Needs PO update, see previous reviews
 [#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
 [#621]: https://github.com/ITISFoundation/osparc-issues/issues/621
 [#622]: https://github.com/ITISFoundation/osparc-issues/issues/622
+[#626]: https://github.com/ITISFoundation/osparc-issues/issues/626
 
 [#2409]: https://github.com/ITISFoundation/osparc-simcore/issues/2409
