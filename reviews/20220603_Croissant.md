@@ -56,8 +56,8 @@
 |  17 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
 |  18 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
 |  19 | maintenance    | [#428] Maintenance/scaling of the platform                                                    | [PC],[SAN] | Ongoing |   4m     |            |
-|  20 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |         |            |
-|  21 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
+|  20 |                | [#509] M1–9 Cybersecurity and privacy                                                         | [ANE],[MAG] | Ongoing |  2m       |            |
+|  21 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing | 0 m         |            |
 |  22 |                | [#545] Portal work                                                                            | [IP]       | Ongoing | 1m       |            |
 |  23 |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ],[EI]  | Ongoing | 5m       |            |
 |  24 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing | 3m       |            |
