@@ -38,7 +38,7 @@
 |   3 | file-system    | [#617] 5Gb Limit                                                                              | [SAN]      | Ongoing |   5m     |            |
 |     | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
 |   4 |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
-|   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |          |            |
+|   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |   1m     |            |
 |   6 | UI/UX, support | [#622] Pipeline update issue                                                                  | [OM],[KZ],[EI],[ANE] | Done | 10m |          |
 |     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           | [SAN]      | Ongoing |   1m     |            |
 |   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing | 1m       |            |
@@ -60,7 +60,7 @@
 |  21 |                | [#576] Control, provide and track resources                                                   | [MAG]      | Ongoing |          |            |
 |  22 |                | [#545] Portal work                                                                            | [IP]       | Ongoing | 1m       |            |
 |  23 |                | [#26] Support onboarding of SPARC computational models, S-D1, Y3M1-12    with comsol          | [KZ],[EI]  | Ongoing | 5m       |            |
-|  24 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing |          |            |
+|  24 | devops         | [#529] M1–12 DevOps: platform monitoring and maintenance;                                     | [ALL],[DK] | Ongoing | 3m       |            |
 
 
 ##### Status Legend
