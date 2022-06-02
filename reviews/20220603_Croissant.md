@@ -43,7 +43,7 @@
 |     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           | [SAN]      | Ongoing |   1m     |            |
 |   7 |                | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05 </blockquote>       | [ALL]      | Ongoing | 1m       |            |
 |   8 |                | [#621] API framework for ISOLVE                                                               | [PC]       | Ongoing | 2m         |            |
-|   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing | 25m |            |
+|   9 | s4l web        | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework             | [CR],[MaG],[IP] | Ongoing | 20-25m |            |
 |  10 | TI             | [#91] TI Planning                                                                             | [OM],[MAG],[KZ] | Ongoing |  5m |            |
 |     | meta           | [#626] meta-modeling                                                                          | [PC],[OM]  | Ongoing |    1m      |            |
 |  11 |                | <blockquote> [#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08 </blockquote>            |            | Done    |          |            |
