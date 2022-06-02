@@ -51,7 +51,7 @@
 |  13 |                | <blockquote> [#515] M6 Support for unit conversion and detection of compatible ports </blockquote> |       | Ongoing |          |            |
 |  14 |                | <blockquote> [#516] M7 Dynamic checking during pipeline execution, ... constraints</blockquote>|           | Ongoing |          |            |
 |  15 |                | <blockquote> [#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                 | [PC]       | Paused  |          |            |
-|  16 |                | [#521] ASCENT                                                                                 | [KZ]       | Done    |          |            |
+|  16 |                | [#521] ASCENT                                                                                 | [ALL]      | Done    |  1m  n   |            |
 |     | control        | [#510] M4 Modular platform for the generation and exploration of control strategies           | [EI]       | Ongoing |   1m       |            |
 |  17 |                | <blockquote>[#555] Coupling API</blockquote>                                                  |            | Ongoing |          |            |
 |  18 | UI/UX, support | [#546], [#517] oSPARC UI/UX: Team Black, Support and User Requests                            | [OM]       | Ongoing | 2m       |            |
