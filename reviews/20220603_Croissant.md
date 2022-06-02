@@ -37,7 +37,7 @@
 |   2 | file-system    | [#618] Personalizable resource limits                                                         | [SAN]      | Ongoing |   5m     |            |
 |   3 | file-system    | [#617] 5Gb Limit                                                                              | [SAN]      | Ongoing |   5m     |            |
 |     | file-system    | [#513] M5 Filesystem integration                                                              |            | Ongoing |          |            |
-|   4 |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |          |            |
+|   4 |                | <blockquote>[#580] osparc-fs: Internals</blockquote>                                          | [MaG]      | Ongoing |  1m        |            |
 |   5 |                | <blockquote> [#578] osparc-fs: Hardware</blockquote>                                          | [DK]       | Ongoing |   1m     |            |
 |   6 | UI/UX, support | [#622] Pipeline update issue                                                                  | [OM],[KZ],[EI],[ANE] | Done | 10m |          |
 |     | scheduler      | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                           | [SAN]      | Ongoing |   1m     |            |
