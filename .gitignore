@@ -154,3 +154,5 @@ cython_debug/
 
 scripts/*.csv
 scripts/*.md
+
+*.ignore.*
