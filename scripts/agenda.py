@@ -24,6 +24,23 @@ COLUMNS = "PO Topic Title Presenter Status Duration Start-Time".split()
 def to_md_row(row: List[str]):
     return "|" + "|".join(row) + "|"
 
+def search_in_mapping_db(issue_title):
+    file_content = Path("mapping_db.ignore.txt").read_text()
+    lines = file_content.strip().split("\n")
+
+    def _extract(line):
+        description, issue = line.split("#")
+        return description, issue
+    mapping = dict({_extract(l)  for l in lines})
+
+    return mapping[issue_title]
+
+def format_status(status):
+    if status == "undefined":
+        return ""
+    elif status != "Paused":
+        return f"**{status}**"
+    return status
 
 def to_md(csv_path: Path):
     md_path = csv_path.with_suffix(".md")
@@ -36,9 +53,13 @@ def to_md(csv_path: Path):
             print(to_md_row(["--"] * len(COLUMNS)), file=md)
 
             current_topic = None
+
+            issue_numbers = []
             for row in reader:
                 # group
-                title = row["Title"]
+                issue = search_in_mapping_db(row['Title'])
+                issue_numbers.append(issue)
+                title = f"[#{issue}] {row['Title']}"
                 topic = row["Group Topic"]
                 indented = False
                 if topic == current_topic and topic.lower() != "undefined":
@@ -54,14 +75,17 @@ def to_md(csv_path: Path):
                             row["PO Priority"],
                             col_topic,
                             title,
-                            row["Assignees"],
-                            row["Status"],
+                            "",# do not add presenters
+                            format_status(row["Status"]),
                             "",
                             "",
                         ]
                     ),
                     file=md,
                 )
+            for issue in issue_numbers:
+                md.writelines(f"[#{issue}]: https://github.com/ITISFoundation/osparc-issues/issues/{issue}\n")
+        
 
     return md_path
 
@@ -74,7 +98,6 @@ def create_md_from_csv():
 
 
 def parse_agenda_and_print_links(agenda_md):
-
     issues = []
     for issue_number in re.findall(r"\[#(\d+)\][^:]", Path(agenda_md).read_text()):
         issues.append(int(issue_number))
@@ -90,5 +113,5 @@ def parse_agenda_and_print_links(agenda_md):
 
 
 if __name__ == "__main__":
-
-    parse_agenda_and_print_links("../reviews/20220128_Rudolph.md")
+    create_md_from_csv()
+    #parse_agenda_and_print_links("../reviews/temp_agenda.md")
