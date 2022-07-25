@@ -25,6 +25,12 @@ def to_md_row(row: List[str]):
     return "|" + "|".join(row) + "|"
 
 def search_in_mapping_db(issue_title):
+    # NOTE: below file contains issue names and item numbers,
+    # separated by `#`, example:
+    # `Portal work#545` will generate the following:
+    # - description=`Portal work`
+    # - issue=`545`
+
     file_content = Path("mapping_db.ignore.txt").read_text()
     lines = file_content.strip().split("\n")
 
