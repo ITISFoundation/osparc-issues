@@ -47,8 +47,8 @@
 | 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG  | **In Progress** |          |            |
 | 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MaG        | **In Progress** |          |            |
 | 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
-| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | Paused          |          |            |
-| 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ALL       | Paused          |          |            |
+| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | **In Progress** |          |            |
+| 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ALL       | **In Progress** |          |            |
 | 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | Paused          |          |            |
 | 8  | devops       | [#656] Autoscaling - Computational Backend                                                                                             | ALL       | **In Progress** |          |            |
 | 10 | devops       | [#655] Storage HW follow-up                                                                                                            | DK        | **In Progress** |          |            |
