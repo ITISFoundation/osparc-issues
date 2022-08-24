@@ -171,3 +171,10 @@ Needs PO update, see previous reviews
 [#26]: https://github.com/ITISFoundation/osparc-issues/issues/26
 [#232]: https://github.com/ITISFoundation/osparc-issues/issues/232
 [#529]: https://github.com/ITISFoundation/osparc-issues/issues/529
+[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
+[#594]: https://github.com/ITISFoundation/osparc-issues/issues/594
+[#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
+[#656]: https://github.com/ITISFoundation/osparc-issues/issues/656
+[#655]: https://github.com/ITISFoundation/osparc-issues/issues/655
+[#620]: https://github.com/ITISFoundation/osparc-issues/issues/620
+[#658]: https://github.com/ITISFoundation/osparc-issues/issues/658
