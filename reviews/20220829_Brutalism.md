@@ -4,7 +4,7 @@
 
 - **Brutalism**  (Zurich's favorite architectural style)
 - 🕐 PM1(Aug.05) - RM(Aug.29)
-- Scrum Master: [ANE]
+- Scrum Master: [DK]
 
 ### Users Feedback
 
