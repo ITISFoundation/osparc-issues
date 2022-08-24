@@ -39,13 +39,13 @@
 | 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |          |            |
 | 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |          |            |
 | 19 |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           |                 |          |            |
-| 20 |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               | MG        | Paused          |          |            |
-| 11 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   | MG        | Paused          |          |            |
+| 20 |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               | MaG        | Paused          |          |            |
+| 11 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   | MaG        | Paused          |          |            |
 | 7  |              | <blockquote>[#578] osparc-fs: Hardware</blockquote>                                                                                    | DK        | **done**        |          |            |
 | 4  | TI           | [#91] TI Planning                                                                                                                      | OM        | **In Progress** |          |            |
 | 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |          |            |
-| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | CR (MG)   | **In Progress** |          |            |
-| 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MG        | **In Progress** |          |            |
+| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG  | **In Progress** |          |            |
+| 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MaG        | **In Progress** |          |            |
 | 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
 | 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | Paused          |          |            |
 | 8  | devops       | [#656] Autoscaling - Computational Backend                                                                                             | ALL       | **In Progress** |          |            |
@@ -55,7 +55,7 @@
 | 0  | devops       | [#658] Dynamic Service Deprecation                                                                                                     | DK        | **In Progress** |          |            |
 | 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ANE       | Paused          |          |            |
 | 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ANE       | Paused          |          |            |
-| 18 | public-api   | [#621] API framework for iSolve                                                                                                        | MG        | Paused          |          |            |
+| 18 | public-api   | [#621] API framework for iSolve                                                                                                        | MaG        | Paused          |          |            |
 | 12 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | Paused          |          |            |
 | 13 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
 | 14 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
