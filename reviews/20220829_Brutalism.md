@@ -35,7 +35,7 @@
 | PO | Topic        | Title                                                                                                                                  | Presenter | Status          | Duration | Start-Time |
 |----|--------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|----------|------------|
 | 1  | support      | [#638] codathon support                                                                                                                | ELI (DK)  | **In Progress** |          |            |
-| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | PC-SAN    | **In Progress** |          |            |
+| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | ANE (PC)  | **In Progress** |          |            |
 | 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |          |            |
 | 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |          |            |
 | 19 |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           |                 |          |            |
@@ -44,7 +44,7 @@
 | 7  |              | <blockquote>[#578] osparc-fs: Hardware</blockquote>                                                                                    | DK        | **done**        |          |            |
 | 4  | TI           | [#91] TI Planning                                                                                                                      | OM        | **In Progress** |          |            |
 | 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |          |            |
-| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | IP        | **In Progress** |          |            |
+| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | CR (IP)   | **In Progress** |          |            |
 | 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MG        | **In Progress** |          |            |
 | 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
 | 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | Paused          |          |            |
@@ -63,14 +63,14 @@
 | 22 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
 | 23 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
 | 16 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC        | Paused          |          |            |
-| 0  | control      | [#555] coupling API                                                                                                                    | ANE       | Paused          |          |            |
-| 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           | OM        |                 |          |            |
+| 0  | control      | [#555] coupling API                                                                                                                    | ANE (PC)  | Paused          |          |            |
+| 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           | ANE (PC)  | Paused          |          |            |
 | 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |          |            |
-| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI        |                 |          |            |
+| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   |                 |          |            |
 | 0  | maintenance  | [#428] maintenance/scaling of the platform                                                                                             | SAN       | **Ongoing**     |          |            |
 | 0  |              | <blockquote>[#509] M1–9 Cybersecurity and privacy</blockquote>                                                                         | DK        | Paused          |          |            |
-| 25 | resources    | [#576] control, provide, and track resources                                                                                           | SAN/PC    | Paused          |          |            |
-| 27 | integration  | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI        | **Ongoing**     |          |            |
+| 25 | resources    | [#576] control, provide, and track resources                                                                                           | PC        | Paused          |          |            |
+| 27 | integration  | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI (DK)   | **Ongoing**     |          |            |
 | 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL       | **Ongoing**     |          |            |
 
 
