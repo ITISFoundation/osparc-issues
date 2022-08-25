@@ -67,7 +67,7 @@
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           | EI (DK)  | Paused          |          |            |
 | 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |          |            |
 | 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   | **Ongoing**               |          |            |
-| 0  | maintenance  | [#428] maintenance/scaling of the platform                                                                                             | SAN       | **Ongoing**     |          |            |
+| 0  | maintenance  | [#428] maintenance/scaling of the platform                                                                                             | SAN       | **Ongoing**     |     2min     |            |
 | 0  |              | <blockquote>[#509] M1–9 Cybersecurity and privacy</blockquote>                                                                         | DK        | Paused          |          |            |
 | 25 | resources    | [#576] control, provide, and track resources                                                                                           | PC        | Paused          |          |            |
 | 27 | integration  | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI (DK)   | **Ongoing**     |          |            |
