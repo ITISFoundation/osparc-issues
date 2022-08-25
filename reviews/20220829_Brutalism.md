@@ -36,7 +36,7 @@
 |----|--------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|----------|------------|
 | 1  | support      | [#638] codathon support                                                                                                                | ELI (DK)  | **Done** |          |            |
 | 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | ANE (PC)  | **In Progress** |          |            |
-| 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |          |            |
+| 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |    7min      |            |
 | 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |          |            |
 | 19 |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           |                 |          |            |
 | 20 |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               | MaG        | Paused          |          |            |
