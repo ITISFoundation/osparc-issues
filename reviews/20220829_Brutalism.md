@@ -49,8 +49,8 @@
 | 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
 | 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | **In Progress** |          |            |
 | 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ALL       | **In Progress** |          |            |
-| 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | Paused          |          |            |
-| 8  | devops       | [#656] Autoscaling - Computational Backend                                                                                             | ALL       | **In Progress** |          |            |
+| 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | **In Progress** | 5min         |            |
+| 8  | devops       | [#656] Autoscaling - Computational Backend                                                                                             | ALL       | **In Progress** | 2min         |            |
 | 10 | devops       | [#655] Storage HW follow-up                                                                                                            | DK        | **In Progress** |          |            |
 | 0  | support      | [#620] Automatically Open iSeg Input & Automatically Save Output                                                                       | DK        | **In Progress** |          |            |
 | 5  | resources    | [#618] personalizable resource limits                                                                                                  | SAN       | Paused          |          |            |
@@ -71,7 +71,7 @@
 | 0  |              | <blockquote>[#509] M1–9 Cybersecurity and privacy</blockquote>                                                                         | DK        | Paused          |          |            |
 | 25 | resources    | [#576] control, provide, and track resources                                                                                           | PC        | Paused          |          |            |
 | 27 | integration  | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI (DK)   | **Ongoing**     |          |            |
-| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL       | **Ongoing**     |          |            |
+| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL       | **Ongoing**     |   2min   |            |
 
 
 
