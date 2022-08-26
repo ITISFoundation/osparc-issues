@@ -34,44 +34,45 @@
 
 | PO | Topic        | Title                                                                                                                                  | Presenter | Status          | Duration | Start-Time |
 |----|--------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|----------|------------|
-| 1  | support      | [#638] codathon support                                                                                                                | ELI (DK)  | **Done** |          |            |
-| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | ANE (PC)  | **In Progress** |  5min        |            |
-| 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |    7min      |            |
-| 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |    1min      |            |
+| 1  | support      | [#638] codathon support                                                                                                                | DK for EI | **Done**        | 2min     |            |
+| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | ANE (PC)  | **In Progress** |  5min    |            |
+| 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |    7min  |            |
+| 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |    1min  |            |
 | 19 |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           |                 |          |            |
-| 20 |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               | MaG        | Paused          |          |            |
-| 11 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   | MaG        | Paused          |          |            |
+| 20 |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
+| 11 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   |           | Paused          |          |            |
 | 7  |              | <blockquote>[#578] osparc-fs: Hardware</blockquote>                                                                                    | DK        | **done**        |          |            |
-| 4  | TI           | [#91] TI Planning                                                                                                                      | OM        | **In Progress** |          |            |
-| 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |    1 min      |            |
-| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG  | **In Progress** |      15 min    |            |
-| 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MaG        | **In Progress** |          |            |
-| 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
+| 4  | TI           | [#91] TI Planning                                                                                                                      | OM        | **In Progress** | 10min    |            |
+| 5  | resources    | [#618] personalizable resource limits                                                                                                  |           | **Todo**        |          |            |
+| 25 |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
+| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG       | **In Progress** | 15 min   |            |
 | 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | **In Progress** |          |            |
 | 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ALL       | **In Progress** |          |            |
-| 7  | devops       | [#657] Autoscaling - Dynamic Services                                                                                                  | ALL       | **In Progress** | 5min         |            |
-| 8  | devops       | [#656] Autoscaling - Computational Backend                                                                                             | ALL       | **In Progress** | 2min         |            |
+| 7  | devops       | <blockquote>[#657] Autoscaling - Dynamic Services</blockquote>                                                                         | ALL       | **In Progress** | 5min     |            |
+| 8  | devops       | <blockquote>[#656] Autoscaling - Computational Backend</blockquote>                                                                    | ALL       | **In Progress** | 2min     |            |
+| 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MaG       | **In Progress** | 1min     |            |
 | 10 | devops       | [#655] Storage HW follow-up                                                                                                            | DK        | **In Progress** |          |            |
-| 0  | support      | [#620] Automatically Open iSeg Input & Automatically Save Output                                                                       | DK        | **In Progress** |          |            |
-| 5  | resources    | [#618] personalizable resource limits                                                                                                  | SAN       | Paused          |          |            |
-| 0  | devops       | [#658] Dynamic Service Deprecation                                                                                                     | DK        | **In Progress** |          |            |
-| 18 | public-api   | [#621] API framework for iSolve                                                                                                        | MaG        | Paused          |          |            |
 | 12 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | Paused          |          |            |
 | 13 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
 | 14 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
-| 21 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | **In Progress** |    3min      |            |
+| 21 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | **In Progress** |    3min  |            |
 | 22 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
 | 23 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
 | 16 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC        | Paused          |          |            |
-| 0  | control      | [#555] coupling API                                                                                                                    | EI (DK)  | Paused          |          |            |
-| 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           | EI (DK)  | Paused          |          |            |
-| 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |          |            |
-| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   | **Ongoing**               |          |            |
+| 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |  2min        |            |
+| 18 | public-api   | [#621] API framework for iSolve                                                                                                        | MaG       | Paused          |          |            |
+| 0  | control      | [#555] coupling API                                                                                                                    | DK for EI | Paused          |  1min        |            |
+| 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |           | Paused          |          |            |
+| 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |  4min        |            |
 | 0  | maintenance  | [#428] maintenance/scaling of the platform                                                                                             | SAN       | **Ongoing**     |     2min     |            |
 | 0  |              | <blockquote>[#509] M1–9 Cybersecurity and privacy</blockquote>                                                                         | DK        | Paused          |          |            |
-| 25 | resources    | [#576] control, provide, and track resources                                                                                           | PC        | Paused          |          |            |
-| 27 | integration  | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI (DK)   | **Ongoing**     |          |            |
-| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL       | **Ongoing**     |   2min   |            |
+| 0  |              | <blockquote>[#658] Dynamic Service Deprecation</blockquote>                                                                            | DK        | Paused |          |            |
+| 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |    1 min      |            |
+| 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | DK for EI | **Ongoing**     |  1min        |            |
+| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   | **Ongoing**               |          |            |
+| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | DK        | **done** | 1min         |            |
+| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  |           | **Todo** |          |            |
+| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL, DK   | **Ongoing**     |   4min   |            |
 
 
 
@@ -178,3 +179,4 @@ Needs PO update, see previous reviews
 [#655]: https://github.com/ITISFoundation/osparc-issues/issues/655
 [#620]: https://github.com/ITISFoundation/osparc-issues/issues/620
 [#658]: https://github.com/ITISFoundation/osparc-issues/issues/658
+[#665]: https://github.com/ITISFoundation/osparc-issues/issues/665
