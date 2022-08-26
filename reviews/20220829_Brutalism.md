@@ -63,7 +63,7 @@
 | 18 | public-api   | [#621] API framework for iSolve                                                                                                        | MaG       | Paused          |          |            |
 | 0  | control      | [#555] coupling API                                                                                                                    | DK for EI | Paused          |  1min    |            |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |           | Paused          |          |            |
-| 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |  4min    |            |
+| 0  | UI/UX        | [#546] oSPARC UI/UX                                                                                                                    | OM        | **In Progress** |           |            |
 | 0  | maintenance  | [#428] maintenance/scaling of the platform                                                                                             | SAN       | **Ongoing**     |  2min    |            |
 | 0  |              | <blockquote>[#509] M1–9 Cybersecurity and privacy</blockquote>                                                                         | DK        | Paused          |          |            |
 | 0  |              | <blockquote>[#658] Dynamic Service Deprecation</blockquote>                                                                            | DK        | Paused          |          |            |
