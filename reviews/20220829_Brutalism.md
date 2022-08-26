@@ -44,7 +44,7 @@
 | 7  |              | <blockquote>[#578] osparc-fs: Hardware</blockquote>                                                                                    | DK        | **done**        |          |            |
 | 4  | TI           | [#91] TI Planning                                                                                                                      | OM        | **In Progress** |          |            |
 | 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |    1 min      |            |
-| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG  | **In Progress** |          |            |
+| 6  | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                                                      | MaG  | **In Progress** |      15 min    |            |
 | 9  | support      | [#654] z43 publishing (working group)                                                                                                  | MaG        | **In Progress** |          |            |
 | 17 | portal       | [#545] Portal Work                                                                                                                     | IP        | **In Progress** |          |            |
 | 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | **In Progress** |          |            |
