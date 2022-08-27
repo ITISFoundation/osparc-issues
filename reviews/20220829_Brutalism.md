@@ -72,7 +72,7 @@
 | 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   | **Ongoing**     |          |            |
 | 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | DK        | **done**        | 1min     |  11:03     |
 | 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  |           | **Todo**        |          |            |
-| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL, DK   | **Ongoing**     |   4min   |  11:07     |
+| 29 | devops       | [#529] M1–12 DevOps: platform monitoring and maintenance; fixing of stability issues; down-time reduction                              | ALL, DK   | **Ongoing**     |   4min   |  11:04     |
 
 
 
