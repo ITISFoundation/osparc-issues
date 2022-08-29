@@ -35,7 +35,7 @@
 | PO | Topic        | Title                                                                                                                                  | Presenter | Status          | Duration | Start-Time |
 |----|--------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|----------|------------|
 | 1  | support      | [#638] codathon support                                                                                                                | DK for EI | **Done**        | 2min     |  10:05     |
-| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | PC (+ANE) | **In Progress** |  5min    |  10:07     |
+| 0  | dy-services  | [#638] improving dynamic-sidecar design                                                                                                | SAN (+ANE) | **In Progress** |  5min    |  10:07     |
 | 3  | support      | [#558] Fix duplicate feature for large studies                                                                                         | SAN       | **In Progress** |    7min  |  10:12     |
 | 2  | filesystem   | [#617] 5Gb limit                                                                                                                       | PC        | **In Progress** |    1min  |  10:19     |
 | 19 |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
