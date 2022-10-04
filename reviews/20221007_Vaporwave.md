@@ -47,31 +47,31 @@
 | xx | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
-| xx |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | **In Progress** |    3min  |  10:53     |
+| xx |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | **??** |       |      |
 | xx |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
 | 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC,OM    | Paused          |          |            |
-| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | ALL       | **In Progress** |          |            |
-| 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | ALL       | **In Progress** |          |            |
+| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |          |            |
+| 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | PC, ALL       | **In Progress** |          |            |
 |6|scheduler|<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
 |9|scheduler|<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**In Progress**|||
 |7|API|[#668] DRC & o2S API|PC, MaG|**Todo**|||
-|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP,OM,MAG,CR|**In Progress**|||
+|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, OM, MAG, CR|**In Progress**|||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
-| 0  | control      | [#555] coupling API    | EI | ??          |  1min    |  10:58     |
+| 0  | control      | [#555] coupling API    | EI | ??          |     |     |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
 |11|API|[#686] M2 Query I/O Port Descriptors for Study via API|PC|**Todo**|||
 |12|devops|[#655] Storage HW follow-up|DK|**Ongoing**||
-|0|integration|[#658] Dynamic Service Deprecation|OM,SAN,DK|**In Progress**|||
+|0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|||
 |13|filesystem|[#580] osparc-fs: Internals|MaG|Paused|||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
 |0|iSeg|[#665]  Automatically Save iSeg Output|MaG|**Todo**|||
-| 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |  1 min   |  11:01     |
-| 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |  1min    |  11:02     |
-| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI (DK)   | **Ongoing**     |          |            |
-| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | DK        | **done**        | 1min     |  11:03     |
-| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  |           | **Todo**        |          |            |
+| 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |     |    |
+| 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
+| 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
+| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Todo**        |    |    |
+| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Todo**        |          |            |
 |0|user request|[#662] Delete study feature: specify study name</blockquote>|OM|**Resolved**|||
 
 
@@ -173,3 +173,41 @@ Needs PO update, see previous reviews
 [#662]: https://github.com/ITISFoundation/osparc-issues/issues/662
 [#412]: https://github.com/ITISFoundation/osparc-issues/issues/412
 [#626]: https://github.com/ITISFoundation/osparc-issues/issues/626
+[#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
+[#617]: https://github.com/ITISFoundation/osparc-issues/issues/617
+[#513]: https://github.com/ITISFoundation/osparc-issues/issues/513
+[#579]: https://github.com/ITISFoundation/osparc-issues/issues/579
+[#580]: https://github.com/ITISFoundation/osparc-issues/issues/580
+[#578]: https://github.com/ITISFoundation/osparc-issues/issues/578
+[#558]: https://github.com/ITISFoundation/osparc-issues/issues/558
+[#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
+[#91]: https://github.com/ITISFoundation/osparc-issues/issues/91
+[#519]: https://github.com/ITISFoundation/osparc-issues/issues/519
+[#349]: https://github.com/ITISFoundation/osparc-issues/issues/349
+[#545]: https://github.com/ITISFoundation/osparc-issues/issues/545
+[#621]: https://github.com/ITISFoundation/osparc-issues/issues/621
+[#626]: https://github.com/ITISFoundation/osparc-issues/issues/626
+[#353]: https://github.com/ITISFoundation/osparc-issues/issues/353
+[#354]: https://github.com/ITISFoundation/osparc-issues/issues/354
+[#625]: https://github.com/ITISFoundation/osparc-issues/issues/625
+[#515]: https://github.com/ITISFoundation/osparc-issues/issues/515
+[#516]: https://github.com/ITISFoundation/osparc-issues/issues/516
+[#355]: https://github.com/ITISFoundation/osparc-issues/issues/355
+[#555]: https://github.com/ITISFoundation/osparc-issues/issues/555
+[#510]: https://github.com/ITISFoundation/osparc-issues/issues/510
+[#546]: https://github.com/ITISFoundation/osparc-issues/issues/546
+[#428]: https://github.com/ITISFoundation/osparc-issues/issues/428
+[#509]: https://github.com/ITISFoundation/osparc-issues/issues/509
+[#576]: https://github.com/ITISFoundation/osparc-issues/issues/576
+[#350]: https://github.com/ITISFoundation/osparc-issues/issues/350
+[#26]: https://github.com/ITISFoundation/osparc-issues/issues/26
+[#232]: https://github.com/ITISFoundation/osparc-issues/issues/232
+[#529]: https://github.com/ITISFoundation/osparc-issues/issues/529
+[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
+[#594]: https://github.com/ITISFoundation/osparc-issues/issues/594
+[#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
+[#656]: https://github.com/ITISFoundation/osparc-issues/issues/656
+[#655]: https://github.com/ITISFoundation/osparc-issues/issues/655
+[#620]: https://github.com/ITISFoundation/osparc-issues/issues/620
+[#658]: https://github.com/ITISFoundation/osparc-issues/issues/658
+[#665]: https://github.com/ITISFoundation/osparc-issues/issues/665
