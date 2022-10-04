@@ -34,8 +34,8 @@
 
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
-|0|dy-services|[#638] improving dynamic-sidecar design|ANE, PC, SAN|**In Progress**||9:30|
-|1|TIP|[#670] TIP - FollowUp Items|OM, DK, PC, SAN|**Todo**|||
+|0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**||9:30|
+|1|TIP|[#670] TIP - FollowUp Items|OM, DK, SAN|**In Progress**|||
 |2|filesystem|[#617] 5Gb limit|SAN, PC|**In Progress**|||
 | xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
 | xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
@@ -44,30 +44,30 @@
 |0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI, ANE|**Todo**|||
 |4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
 |0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, ALL|**Ongoing**|||
-| xx | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | Paused          |          |            |
+| xx | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    6 min      |            |
 | xx |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
-| xx |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | **??** |       |      |
+| xx |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | Paused |       |      |
 | xx |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
-| 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC,OM    | Paused          |          |            |
+| 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC,OM    | **In Progress**          |          |            |
 | 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |          |            |
 | 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | PC, ALL       | **In Progress** |          |            |
 |6|scheduler|<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
-|9|scheduler|<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**In Progress**|||
-|7|API|[#668] DRC & o2S API|PC, MaG|**Todo**|||
+|9|scheduler|<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
+|7|API|[#668] DRC & o2S API|PC, MaG|**In Progress**|  1 min |  |
 |8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, OM, MAG, CR|**In Progress**|||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
 | 0  | control      | [#555] coupling API    | EI | ??          |     |     |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
-|11|API|[#686] M2 Query I/O Port Descriptors for Study via API|PC|**Todo**|||
+|11|API|[#686] M2 Query I/O Port Descriptors for Study via API| PC| **Ongoing** | 1 min ||
 |12|devops|[#655] Storage HW follow-up|DK|**Ongoing**||
 |0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|||
 |13|filesystem|[#580] osparc-fs: Internals|MaG|Paused|||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
 |0|iSeg|[#665]  Automatically Save iSeg Output|MaG|**Todo**|||
-| 0  | support      | [#594] Add Save Button                                                                                                                 | PC        | **In Progress** |     |    |
+| 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** |     |    |
 | 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
 | 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
 | 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Todo**        |    |    |
