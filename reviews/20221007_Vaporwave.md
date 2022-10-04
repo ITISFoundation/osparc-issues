@@ -70,8 +70,8 @@
 | 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** |     |    |
 | 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
 | 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
-| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Todo**        |    |    |
-| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Todo**        |          |            |
+| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Resolved**        |    |    |
+| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Resolved**        |   3 min       |            |
 |0|user request|[#662] Delete study feature: specify study name</blockquote>|OM|**Resolved**|||
 
 
