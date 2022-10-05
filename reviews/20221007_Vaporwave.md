@@ -37,14 +37,14 @@
 | --- | ------------ | ------------------------------------------------------------------------------------------------------------ | ---------------- | --------------- | ---------- | ---------- |
 | 0   | dy-services  | [#638] improving dynamic-sidecar design                                                                      | ANE              | **In Progress** | 3 min      | 9:30       |
 | 1   | TIP          | [#670] TIP - FollowUp Items                                                                                  | OM               | **In Progress** | 5 min      |            |
-| 2   | filesystem   | [#617] 5Gb limit                                                                                             | SAN              | **In Progress** |            |            |
-| xx  |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                    |                  | **In Progress** |            |            |
+| 2   | support      | [#617] 5Gb limit                                                                                             | SAN              | **In Progress** | 1 min      |            |
+| xx  | filesystem   | [#513] M5 Filesystem integration                                                                             |                  | Paused          |            |            |
 | xx  |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                     |                  | Paused          |            |            |
 | 13  |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                         |                  | Paused          |            |            |
-| 3   | support      | [#558] Fix duplicate feature for large studies                                                               | SAN              | **Resolved**    | 3min       |            |
+| 3   | support      | [#558] Fix duplicate feature for large studies                                                               | SAN              | **Resolved**    | 5 min      |            |
 | 0   | metrics      | [#688] M3 Additional o²S²PARC Metrics                                                                        | EI               | **Todo**        |            |            |
 | 4   | z43          | [#654] z43 publishing (working group)                                                                        | MaG              | **Ongoing**     |            |            |
-| 0   | maintenance  | [#675] M1-12 Maintenance and DevOps                                                                          | DK, SAN, MAG, PC | **Ongoing**     | 10 min     |            |
+| 0   | maintenance  | [#675] M1-12 Maintenance and DevOps                                                                          | DK, SAN, MAG, PC | **Ongoing**     | 13 min     |            |
 | 14  | metamodeling | [#626] meta-modeling                                                                                         | PC               | **In Progress** | 7 min      |            |
 | 5   |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                 | PC               | **In Progress** |            |            |
 | 15  |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                             |                  | Paused          |            |            |
@@ -72,9 +72,6 @@
 | 0   | support      | [#620] Automatically Open iSeg Input                                                                         | MAG              | **Resolved**    |            |            |
 | 0   | support      | [#665] Automatically Save iSeg Output                                                                        | MAG              | **Resolved**    | 3 min      |            |
 | 0   | user request | App Mode and Various                                                                                         | OM               | **Ongoing**     | 10 min     |            |
-
-
-
 
 ##### Status Legend
 
