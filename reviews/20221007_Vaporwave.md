@@ -45,17 +45,17 @@
 |0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI|**Todo**|||
 |4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
 |0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, MAG, PC|**Ongoing**| 10 min||
-| 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    6 min      |            |
-| 15 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
-| 16 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
-| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        | PC        | Paused |       |      |
-| 0 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
-| 0 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
+| 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    7 min      |            |
+| 15 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       |         | Paused          |          |            |
+| 16 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    |        | Paused          |          |            |
+| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |         | Paused |       |      |
+| 0 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       |         | Paused          |          |            |
+| 0 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> |         | Paused          |          |            |
 | 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC    | **In Progress**          |          |            |
-| 0 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |    2 min      |            |
-| 0 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | PC, ALL       | **In Progress** |          |            |
-|6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
-|9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
+| 0 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |    3 min      |            |
+| 0 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 |          | **In Progress** |          |            |
+|6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>| |**In Progress**|||
+|9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>| |**Paused**|||
 |7|API|[#668] DRC & o2S API| MaG|**In Progress**|  1 min |  |
 |11| |<blockquote>[#686] M2 Query I/O Port Descriptors for Study via API</blockquote>| |  | ||
 |8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5mins||
