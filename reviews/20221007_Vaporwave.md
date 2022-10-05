@@ -48,7 +48,7 @@
 | 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    7 min      |            |
 | 15 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       |         | Paused          |          |            |
 | 16 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    |        | Paused          |          |            |
-| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |         | ** Ongoing** |   1 min    |      |
+| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |         | **Ongoing** |   1 min    |      |
 | 0 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       |         | Paused          |          |            |
 | 0 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> |         | Paused          |          |            |
 | 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC    | **In Progress**          |          |            |
@@ -57,8 +57,9 @@
 |6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>| |**In Progress**|||
 |9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>| |**Paused**|||
 |7|API|[#668] DRC & o2S API| MaG|**In Progress**|  1 min |  |
-|11| |<blockquote>[#686] M2 Query I/O Port Descriptors for Study via API</blockquote>| |  | ||
-|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5mins||
+|11| |<blockquote>[#686] M2 Query I/O 
+  Descriptors for Study via API</blockquote>| |  | ||
+|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5 mins||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
 | 0  | control      | [#555] coupling API    | EI | **Paused**          |  0 min   |     |
