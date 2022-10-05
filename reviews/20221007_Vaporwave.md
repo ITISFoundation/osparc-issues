@@ -35,7 +35,7 @@
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
 |0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**||9:30|
-|1|TIP|[#670] TIP - FollowUp Items|OM, DK, SAN|**In Progress**|||
+|1|TIP|[#670] TIP - FollowUp Items|OM, SAN|**In Progress**|||
 |2|filesystem|[#617] 5Gb limit|SAN, PC|**In Progress**|||
 | xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
 | xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
@@ -62,8 +62,8 @@
 | 0  | control      | [#555] coupling API    | EI | ??          |     |     |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
 |11|API|[#686] M2 Query I/O Port Descriptors for Study via API| PC| **Ongoing** | 1 min ||
-|12|devops|[#655] Storage HW follow-up|DK|**Ongoing**||
-|0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|||
+|12|devops|[#655] Storage HW follow-up|DK|**Ongoing**|6 min|
+|0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
 |13|filesystem|[#580] osparc-fs: Internals|MaG|Paused|||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
 |0|iSeg|[#665]  Automatically Save iSeg Output|MaG|**Todo**|||
