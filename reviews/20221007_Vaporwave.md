@@ -52,10 +52,10 @@
 | xx |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> | PC        | Paused          |          |            |
 | 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC,OM    | **In Progress**          |          |            |
-| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |          |            |
+| 15 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |    2 min      |            |
 | 15 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | PC, ALL       | **In Progress** |          |            |
-|6|scheduler|<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
-|9|scheduler|<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
+|6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
+|9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
 |7|API|[#668] DRC & o2S API|PC, MaG|**In Progress**|  1 min |  |
 |8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, OM, MAG, CR|**In Progress**| MaG 5mins||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
