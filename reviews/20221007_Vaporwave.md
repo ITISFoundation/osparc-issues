@@ -33,46 +33,45 @@
 
 ## Agenda
 
-|PO|Topic|Title|Presenter|Status|Duration|Start-Time|
-|--|--|--|--|--|--|--|
-|0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**|3 min|9:30|
-|1|TIP|[#670] TIP - FollowUp Items|OM|**In Progress**|5min||
-|2|filesystem|[#617] 5Gb limit|SAN, PC|**In Progress**|||
-| xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
-| xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
-| 13 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   |           | Paused          |          |            |
-|3|support|[#558] Fix duplicate feature for large studies|SAN|**Resolved**|3min||
-|0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI|**Todo**|||
-|4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
-|0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, MAG, PC|**Ongoing**| 10 min||
-| 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    7 min      |            |
-| 15 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       |         | Paused          |          |            |
-| 16 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    |        | Paused          |          |            |
-| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |   PC      | **In Progress** |   1 min    |      |
-| 0 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       |         | Paused          |          |            |
-| 0 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> |         | Paused          |          |            |
-| 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC    | **In Progress**          |          |            |
-| 0 | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                                                    | PC,ALL       | **In Progress** |    3 min      |            |
-| 0 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 |          | **In Progress** |          |            |
-|6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>| |**In Progress**|||
-|9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>| |**Paused**|||
-|7|API|[#668] DRC & o2S API| MaG|**In Progress**|  1 min |  |
-|11| |<blockquote>[#686] M2 Query I/O 
-  Descriptors for Study via API</blockquote>| |  | ||
-|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5 mins||
-|10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
-| XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
-| 0  | control      | [#555] coupling API    | EI | **Paused**          |  0 min   |     |
-| 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
-|12|devops|[#655] Storage HW follow-up|DK|**Ongoing**|6 min|
-|0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
-|17|portal|[#545] Portal work|IP|**Resolved**|||
-| 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** | 1 min |    |
-| 0 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |   5 min   |      |
-| 0 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Paused**     |   0 min       |            |
-| 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Resolved**        |    |    |
-| 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Resolved**        |   3 min       |            |
-|0|user request|App Mode and Various|OM|**Ongoing**|10min||
+| PO  | Topic        | Title                                                                                                        | Presenter        | Status          | Duration   | Start-Time |
+| --- | ------------ | ------------------------------------------------------------------------------------------------------------ | ---------------- | --------------- | ---------- | ---------- |
+| 0   | dy-services  | [#638] improving dynamic-sidecar design                                                                      | ANE              | **In Progress** | 3 min      | 9:30       |
+| 1   | TIP          | [#670] TIP - FollowUp Items                                                                                  | OM               | **In Progress** | 5 min      |            |
+| 2   | filesystem   | [#617] 5Gb limit                                                                                             | SAN              | **In Progress** |            |            |
+| xx  |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                    |                  | **In Progress** |            |            |
+| xx  |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                     |                  | Paused          |            |            |
+| 13  |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                         |                  | Paused          |            |            |
+| 3   | support      | [#558] Fix duplicate feature for large studies                                                               | SAN              | **Resolved**    | 3min       |            |
+| 0   | metrics      | [#688] M3 Additional o²S²PARC Metrics                                                                        | EI               | **Todo**        |            |            |
+| 4   | z43          | [#654] z43 publishing (working group)                                                                        | MaG              | **Ongoing**     |            |            |
+| 0   | maintenance  | [#675] M1-12 Maintenance and DevOps                                                                          | DK, SAN, MAG, PC | **Ongoing**     | 10 min     |            |
+| 14  | metamodeling | [#626] meta-modeling                                                                                         | PC               | **In Progress** | 7 min      |            |
+| 15  |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                             |                  | Paused          |            |            |
+| 16  |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                          |                  | Paused          |            |            |
+| 0   |              | <blockquote>[#625] port annotation</blockquote>                                                              | PC               | **In Progress** | 1 min      |            |
+| 0   |              | <blockquote>[#515] M6 Support for unit ... compatible ports</blockquote>                                     |                  | Paused          |            |            |
+| 0   |              | <blockquote>[#516] M7 Dynamic checking ... constraints</blockquote>                                          |                  | Paused          |            |            |
+| 5   |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                 | PC               | **In Progress** |            |            |
+| 0   | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                          | PC,ALL           | **In Progress** | 3 min      |            |
+| 0   |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                       |                  | **In Progress** |            |            |
+| 6   |              | <blockquote>[#657] Autoscaling - Dynamic Services</blockquote>                                               |                  | **In Progress** |            |            |
+| 9   |              | <blockquote>[#656] Autoscaling - Computational Backend</blockquote>                                          |                  | **Paused**      |            |            |
+| 7   | API          | [#668] DRC & o2S API                                                                                         | MaG              | **In Progress** | 1 min      |            |
+| 11  |              | <blockquote>[#686] M2 Query I/O Descriptors for Study via API</blockquote>                                   |                  |                 |            |            |
+| 8   | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                            | IP, MAG, CR      | **In Progress** | MaG 5 mins |            |
+| 10  | resources    | [#618] personalizable resource limits                                                                        | PC, SAN          | Paused          |            |            |
+| XX  |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                        |                  | **Todo**        |            |            |
+| 0   | control      | [#555] coupling API                                                                                          | EI               | **Paused**      | 0 min      |            |
+| 0   |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote> | EI               | Paused          |            |            |
+| 12  | devops       | [#655] Storage HW follow-up                                                                                  | DK               | **Ongoing**     | 6 min      |            |
+| 0   | integration  | [#658] Dynamic Service Deprecation                                                                           | OM, SAN, DK      | **In Progress** | 5 min      |            |
+| 17  | portal       | [#545] Portal work                                                                                           | IP               | **Resolved**    |            |            |
+| 0   | support      | [#594] Add Save Button                                                                                       | ANE              | **In Progress** | 1 min      |            |
+| 0   | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                        | EI               | **Ongoing**     | 5 min      |            |
+| 0   | support      | [#232] Placeholder for Team Black feedback                                                                   | EI               | **Paused**      | 0 min      |            |
+| 0   | support      | [#620] Automatically Open iSeg Input                                                                         | MAG              | **Resolved**    |            |            |
+| 0   | support      | [#665] Automatically Save iSeg Output                                                                        | MAG              | **Resolved**    | 3 min      |            |
+| 0   | user request | App Mode and Various                                                                                         | OM               | **Ongoing**     | 10 min     |            |
 
 
 
