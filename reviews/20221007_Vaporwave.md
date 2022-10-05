@@ -60,15 +60,15 @@
 |8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5mins||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
-| 0  | control      | [#555] coupling API    | EI | ??          |     |     |
+| 0  | control      | [#555] coupling API    | EI | **Paused**          |  0 min   |     |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
 |11|API|[#686] M2 Query I/O Port Descriptors for Study via API| PC| **Ongoing** | 1 min ||
 |12|devops|[#655] Storage HW follow-up|DK|**Ongoing**|6 min|
 |0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
 | 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** | 1 min |    |
-| 0 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
-| 0 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
+| 0 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |   5 min   |      |
+| 0 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Paused**     |   0 min       |            |
 | 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Resolved**        |    |    |
 | 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Resolved**        |   3 min       |            |
 |0|user request|App Mode and Various|OM|**Ongoing**|10min||
