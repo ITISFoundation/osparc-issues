@@ -41,7 +41,7 @@
 | xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
 | xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
 | 13 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   |           | Paused          |          |            |
-|3|support|[#558] Fix duplicate feature for large studies|OM, SAN|**In Progress**|||
+|3|support|[#558] Fix duplicate feature for large studies|SAN|**Done**|3min||
 |0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI|**Todo**|||
 |4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
 |0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, MAG, PC|**Ongoing**| 10 min||
