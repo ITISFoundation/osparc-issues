@@ -48,7 +48,7 @@
 | 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    7 min      |            |
 | 15 |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       |         | Paused          |          |            |
 | 16 |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    |        | Paused          |          |            |
-| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |         | Paused |       |      |
+| 0 |              | <blockquote>[#625] port annotation</blockquote>                                                                                        |         | ** Ongoing** |   1 min    |      |
 | 0 |              | <blockquote>[#515] M6 Support for unit conversion and detection of compatible ports</blockquote>                                       |         | Paused          |          |            |
 | 0 |              | <blockquote>[#516] M7 Dynamic checking during pipeline execution, whether input arguments to services satisfy constraints</blockquote> |         | Paused          |          |            |
 | 5 |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                                           | PC    | **In Progress**          |          |            |
