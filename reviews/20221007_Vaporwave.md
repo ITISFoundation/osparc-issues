@@ -28,7 +28,8 @@
   - [staging_z43](http://osparc-staging.speag.com) (Testers only - [changelogs])
   - [production_z43](http://osparc.speag.com) ([changelogs])
   - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
-  - [master](https://osparc-master.speag.com) (Developers only)
+  - [master](https://osparc-master.speag.com) (
+  elopers only)
 
 ## Agenda
 
@@ -43,7 +44,7 @@
 |3|support|[#558] Fix duplicate feature for large studies|OM, SAN|**In Progress**|||
 |0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI, ANE|**Todo**|||
 |4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
-|0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, ALL|**Ongoing**|||
+|0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, MAG, PC|**Ongoing**| 10 min||
 | xx | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    6 min      |            |
 | xx |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                                                       | PC        | Paused          |          |            |
 | xx |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                                                    | PC        | Paused          |          |            |
