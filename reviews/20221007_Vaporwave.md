@@ -71,7 +71,7 @@
 | 0 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
 | 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Resolved**        |    |    |
 | 0  | support      | [#665] Automatically Save iSeg Output                                                                                                  | MAG        | **Resolved**        |   3 min       |            |
-|0|user request|[#662] Delete study feature: specify study name</blockquote>|OM|**Resolved**|||
+|0|user request|Various|OM|**Ongoing**|10min||
 
 
 
