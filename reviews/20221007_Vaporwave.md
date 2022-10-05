@@ -36,7 +36,7 @@
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
 |0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**|3 min|9:30|
-|1|TIP|[#670] TIP - FollowUp Items|OM, SAN|**In Progress**|||
+|1|TIP|[#670] TIP - FollowUp Items|OM|**In Progress**|10min||
 |2|filesystem|[#617] 5Gb limit|SAN, PC|**In Progress**|||
 | xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
 | xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
