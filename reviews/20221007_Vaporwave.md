@@ -35,14 +35,14 @@
 
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
-|0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**||9:30|
+|0|dy-services|[#638] improving dynamic-sidecar design|ANE |**In Progress**|3 min|9:30|
 |1|TIP|[#670] TIP - FollowUp Items|OM, SAN|**In Progress**|||
 |2|filesystem|[#617] 5Gb limit|SAN, PC|**In Progress**|||
 | xx |              | <blockquote>[#513] M5 Filesystem integration</blockquote>                                                                              |           | **In Progress** |          |            |
 | xx |              | <blockquote>[#579] osparc-fs: Remote Mounts</blockquote>                                                                               |           | Paused          |          |            |
 | 13 |              | <blockquote>[#580] osparc-fs: Internals</blockquote>                                                                                   |           | Paused          |          |            |
 |3|support|[#558] Fix duplicate feature for large studies|OM, SAN|**In Progress**|||
-|0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI, ANE|**Todo**|||
+|0|metrics|[#688] M3 Additional o²S²PARC Metrics|EI|**Todo**|||
 |4|z43|[#654] z43 publishing (working group)|MaG|**Ongoing**|||
 |0|maintenance|[#675] M1-12 Maintenance and DevOps|DK, SAN, MAG, PC|**Ongoing**| 10 min||
 | 14 | metamodeling | [#626] meta-modeling                                                                                                                   | PC        | **In Progress**          |    6 min      |            |
@@ -66,7 +66,7 @@
 |12|devops|[#655] Storage HW follow-up|DK|**Ongoing**|6 min|
 |0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
-| 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** |     |    |
+| 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** | 1 min |    |
 | 0 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
 | 0 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
 | 0  | support      | [#620] Automatically Open iSeg Input                                                                                                   | MAG        | **Resolved**        |    |    |
