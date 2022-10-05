@@ -56,7 +56,7 @@
 |6|scheduler|<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
 |9|scheduler|<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
 |7|API|[#668] DRC & o2S API|PC, MaG|**In Progress**|  1 min |  |
-|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, OM, MAG, CR|**In Progress**|||
+|8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, OM, MAG, CR|**In Progress**| MaG 5mins||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
 | 0  | control      | [#555] coupling API    | EI | ??          |     |     |
@@ -66,7 +66,6 @@
 |0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
 |13|filesystem|[#580] osparc-fs: Internals|MaG|Paused|||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
-|0|iSeg|[#665]  Automatically Save iSeg Output|MaG|**Todo**|||
 | 0  | support      | [#594] Add Save Button                                                                                                                 | ANE        | **In Progress** |     |    |
 | 27 | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                                                  | EI | **Ongoing**     |      |      |
 | 28 | support      | [#232] Placeholder for Team Black feedback                                                                                             | EI  | **Ongoing**     |          |            |
