@@ -56,13 +56,13 @@
 | 0 |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                                                 | PC, ALL       | **In Progress** |          |            |
 |6| |<blockquote>[#657] Autoscaling - Dynamic Services</blockquote>|PC, ALL|**In Progress**|||
 |9| |<blockquote>[#656] Autoscaling - Computational Backend</blockquote>|PC, ALL|**Paused**|||
-|7|API|[#668] DRC & o2S API|PC, MaG|**In Progress**|  1 min |  |
+|7|API|[#668] DRC & o2S API| MaG|**In Progress**|  1 min |  |
+|11| |<blockquote>[#686] M2 Query I/O Port Descriptors for Study via API</blockquote>| |  | ||
 |8|s4l:web|[#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework|IP, MAG, CR|**In Progress**| MaG 5mins||
 |10|resources|[#618] personalizable resource limits|PC, SAN|Paused|||
 | XX |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                                                  |           | **Todo**        |          |            |
 | 0  | control      | [#555] coupling API    | EI | **Paused**          |  0 min   |     |
 | 0  |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote>                           |  EI         | Paused          |          |            |
-|11|API|[#686] M2 Query I/O Port Descriptors for Study via API| PC| **Ongoing** | 1 min ||
 |12|devops|[#655] Storage HW follow-up|DK|**Ongoing**|6 min|
 |0|integration|[#658] Dynamic Service Deprecation|OM, SAN, DK|**In Progress**|5 min||
 |17|portal|[#545] Portal work|IP|**Resolved**|||
