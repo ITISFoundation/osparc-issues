@@ -46,25 +46,25 @@
 | 4   | z43          | [#654] z43 publishing (working group)                                                                        | MaG              | **Ongoing**     | 1 min      | 9:49       |
 | 0   | maintenance  | [#675] M1-12 Maintenance and DevOps                                                                          | DK, SAN, MAG, PC | **Ongoing**     | 9 min      | 9:50       |
 | 14  | metamodeling | [#626] meta-modeling                                                                                         | PC               | **In Progress** |            |            |
-| 5   |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                 | PC               | **In Progress** | 7 min      | 9:59       |
+| 5   |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>                                 | PC               | **In Progress** | 2 min      | 9:59       |
 | 15  |              | <blockquote>[#353] S-D22.2 Meta-Modeling sensitivity analysis Y4M08</blockquote>                             |                  | Paused          |            |            |
 | 16  |              | <blockquote>[#354] S-D22.3 Meta-Modeling uncertainty assessment  Y4M10</blockquote>                          |                  | Paused          |            |            |
-| 0   |              | <blockquote>[#625] port annotation</blockquote>                                                              | PC               | **In Progress** | 1 min      | 10:06      |
+| 0   |              | <blockquote>[#625] port annotation</blockquote>                                                              | PC               | **In Progress** | 1 min      | 10:01      |
 | 0   |              | <blockquote>[#515] M6 Support for unit ... compatible ports</blockquote>                                     |                  | Paused          |            |            |
 | 0   |              | <blockquote>[#516] M7 Dynamic checking ... constraints</blockquote>                                          |                  | Paused          |            |            |
-| 0   | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                          | PC,ALL           | **In Progress** | 3 min      | 10:07      |
+| 0   | scheduler    | [#349] S-D25.4 Simulation framework SCHEDULER Y4M05                                                          | PC,ALL           | **In Progress** | 3 min      | 10:02      |
 | 0   |              | <blockquote>[#350] S-D25.5 Simulation Framework resource allocation Y4M05</blockquote>                       |                  | **In Progress** |            |            |
 | 6   |              | <blockquote>[#657] Autoscaling - Dynamic Services</blockquote>                                               |                  | **In Progress** |            |            |
 | 9   |              | <blockquote>[#656] Autoscaling - Computational Backend</blockquote>                                          |                  | Paused          |            |            |
-| 7   | API          | [#668] DRC & o2S API                                                                                         | MaG              | **In Progress** | 1 min      | 10:10      |
+| 7   | API          | [#668] DRC & o2S API                                                                                         | MaG              | **In Progress** | 1 min      | 10:05      |
 | 11  |              | <blockquote>[#686] M2 Query I/O Descriptors for Study via API</blockquote>                                   |                  |                 |            |            |
-| 8   | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                            | IP, MAG, CR      | **In Progress** | 12 mins    | 10:11      |
+| 8   | s4l:web      | [#519] M1–12 Enhancements of the modeling/simulator/postpro service and framework                            | IP, MAG, CR      | **In Progress** | 12 mins    | 10:06      |
 | 10  | resources    | [#618] personalizable resource limits                                                                        | PC, SAN          | Paused          |            |            |
 | 0   |              | <blockquote>[#576] control, provide, and track resources</blockquote>                                        |                  | Todo            |            |            |
 | 0   | control      | [#555] coupling API                                                                                          | EI               | Paused          |            |            |
 | 0   |              | <blockquote>[#510] M4 Modular platform for the generation and exploration of control strategies</blockquote> | EI               | Paused          |            |            |
-| 12  | devops       | [#655] Storage HW follow-up                                                                                  | DK               | **In Progress** | 2 min      | 10:23      |
-| 0   | integration  | [#658] Dynamic Service Deprecation                                                                           | OM, SAN, DK      | **In Progress** | 1 min      | 10:25      |
+| 12  | devops       | [#655] Storage HW follow-up                                                                                  | DK               | **In Progress** | 2 min      | 10:18      |
+| 0   | integration  | [#658] Dynamic Service Deprecation                                                                           | OM, SAN, DK      | **In Progress** | 6 min      | 10:20      |
 | 17  | portal       | [#545] Portal work                                                                                           | IP               | Resolved        |            |            |
 | 0   | support      | [#594] Add Save Button                                                                                       | ANE              | **In Progress** | 1 min      | 10:26      |
 | 0   | support      | [#26] support onboarding of SPARC computational models, S-D1, Y3M1-12                                        | EI               | **Ongoing**     | 5 min      | 10:27      |
