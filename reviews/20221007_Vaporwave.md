@@ -2,7 +2,7 @@
 
 ## Sprint 🏃
 
-- **vaporwave**  (Zurich's favorite architectural style)
+- **vaporwave**  (visual art style originating in 2010's internet culture)
 - 🕐 PM1(Sept09) - RM(Oct07)
 - Scrum Master: [DK]
 
