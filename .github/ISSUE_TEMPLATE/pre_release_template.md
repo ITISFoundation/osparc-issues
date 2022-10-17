@@ -1,3 +1,12 @@
+---
+name: Pre-release to staging
+about: Creates an issue to pre-release from master to staging deploy
+title: ''
+labels: ''
+assignees: 'pcrespov'
+
+---
+
 # Pre-release master -> staging_XXXXX (DATE)
 
 
