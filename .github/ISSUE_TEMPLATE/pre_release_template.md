@@ -1,7 +1,7 @@
 ---
 name: Pre-release to staging
 about: Creates an issue to pre-release from master to staging deploy
-title: ''
+title: 'Pre-release master -> staging_SPRINTNAMEX (DATE)'
 labels: ''
 assignees: 'pcrespov'
 
@@ -10,13 +10,14 @@ assignees: 'pcrespov'
 # Pre-release master -> staging_XXXXX (DATE)
 
 
-In preparation for [pre-release *staging_XXXXX*](https://github.com/ITISFoundation/osparc-simcore/releases). Here an initial (incomplete) list of tasks to prepare before pre-releasing:
+In preparation for [pre-release](https://github.com/ITISFoundation/osparc-simcore/releases), here is an initial (incomplete) list of tasks to prepare before pre-releasing:
 
 - [ ] Draft changelog from commits list (see [docs/releasing-workflow-instructions.md](https://github.com/ITISFoundation/osparc-simcore/blob/6cae77e5444f825f67fca65876922c8d26901fd2/docs/releasing-workflow-instructions.md))
 - [ ] Target pre-release date
-- [ ] Set commit SHA to pre-release to staging
-- [ ] Evaluate devops makred with (⚠️ devops)
-- [ ] Define important changes 🚨
+- [ ] Set commit SHA to pre-release to staging (not necessarily HEAD)
+- [ ] Monitor state in e2e
+- [ ] Evaluate devops marked with (⚠️ devops)
+- [ ] Mark important changes 🚨 (i.e. issues to be target-tested in staging ASAP)
 
 
 ---
@@ -33,6 +34,8 @@ Changelog follow structure defined in https://keepachangelog.com/en/1.0.0/
 <!-- for soon-to-be removed features. -->
 ## Removed
 <!-- for now removed features. -->
+## Fixed
+<!-- for any bug fixes. -->
 ## Security / Maintenance
 <!--  Security in case of vulnerabilities.
 	or some maintanence work on CI/CD/tests/scripts
