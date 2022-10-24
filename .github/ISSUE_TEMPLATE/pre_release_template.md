@@ -15,7 +15,7 @@ In preparation for [pre-release](https://github.com/ITISFoundation/osparc-simcor
 - [ ] Devops check (⚠️ devops)
 - [ ] e2e testing check
 - [ ] Pre-release summary
-- [ ] After-release notes
+- [ ] Pre-release assessment
 
 ---
 
@@ -90,11 +90,9 @@ This procedure should be taken also as an exercise in preparation for the releas
 
 
 
-# After-release notes
+# Pre-release assessment
 
-
-<!-- 
-This section is to keep notes/logs about the pre-release process. We should report any problem or incident
-that occurred during this process. Notes on special warnings or configurations we should pay attention ...
-or in general any relevant information that helps us mitigate the risk of failure when releasing to production
- -->
+<!-- How did the release go? Any incidents, problems, difficulties, unexpected issues, ... during the release process? 
+Notes on special warnings or configurations we should pay attention ... or in general any relevant information that helps us 
+mitigate the risk of failure when releasing to production
+-->
