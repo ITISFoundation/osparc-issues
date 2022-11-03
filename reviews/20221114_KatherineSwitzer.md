@@ -4,7 +4,7 @@
 |    |              | <blockquote>[#3447] Allow selective starting/stopping of dynamic services</blockquote>     |   SAN      | **In Progress** |     7'     |            |
 | 2  | maintenance  | [#675] M1-12 Maintenance and DevOps                                                        | SA/PC/DK  | **Ongoing**     |    4'      |            |
 | 4  | devops       | [#657] Autoscaling - Dynamic Services                                                      |   SAN      | **In Progress** |    3'      |            |
-|    |              | <blockquote>[#735] Migrate Postgres to newer version</blockquote>                          |   DK      | **Todo**        |  2 min   |   |
+|    |              | <blockquote>[#735] Migrate Postgres to newer version</blockquote>                          |   DK      | **In Progress**  |  2 min   |   |
 | 22 | metamodeling | [#626] meta-modeling                                                                       |   PC      | **In Progress** |          |            |
 | 3  |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>               |   PC      | **In Progress** |          |            |
 | 5  | s4l:web      | [#741] s4l light features & ui                                                             | CR/IP/MaG | **In Progress**        |          |            |
