@@ -18,6 +18,7 @@
 |21|app|[#684] M1-12 Push Publication of More Modeling Studies on the Portal Itself||**Ongoing**|||
 |16|portal|[#674] M1-12 Portal development work ||**Ongoing**|||
 |13|TIP|[#670] TIP - FollowUp Items||**Todo**|||
+
 [#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
 [#3447]: https://github.com/ITISFoundation/osparc-issues/issues/3447
 [#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
