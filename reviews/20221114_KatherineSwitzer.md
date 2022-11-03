@@ -7,8 +7,8 @@
 |    |              | <blockquote>[#735] Migrate Postgres to newer version</blockquote>                          |   DK      | **Todo**        |          |            |
 | 22 | metamodeling | [#626] meta-modeling                                                                       |   PC      | **In Progress** |          |            |
 | 3  |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>               |   PC      | **In Progress** |          |            |
-| 5  | s4l:web      | [#741] s4l light features & ui                                                             | CR/IP/MaG | **Todo**        |          |            |
-| 7  |              | <blockquote>[#740] Deploy S4L light on AWS</blockquote>                                    |   DK      | **Todo**        |          |            |
+| 5  | s4l:web      | [#741] s4l light features & ui                                                             | CR/IP/MaG | **In Progress**        |          |            |
+| 7  |              | <blockquote>[#740] Deploy S4L light on AWS</blockquote>                                    |   DK      | **In Progress**        |          |            |
 |    | user request | [#743] follow up on TN’s user-test and TIP’s stress-test                                   |   EI      | **In Progress** |    2'    |            |
 |    | UI           | [#671] M1-12: oSPARC Usability (UI/UX improvements based on users and Team Black feedback) |   OM      |                 |          |            |
 |    | user request | [#644] Cannot see Pennsieve data files                                                     |   SA      | **Resolved**    |          |            |
