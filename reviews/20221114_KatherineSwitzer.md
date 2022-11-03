@@ -1,6 +1,6 @@
 | PO | Topic        | Title                                                                                      | Presenter | Status          | Duration | Start-Time |
 |----|--------------|--------------------------------------------------------------------------------------------|-----------|-----------------|----------|------------|
-| 1  | dy-services  | [#638] improving dynamic-sidecar design                                                    |   ANE     | **In Progress** |          |            |
+| 1  | dy-services  | [#638] improving dynamic-sidecar design                                                    |   ANE     | **In Progress** |          | 3'         |
 |    |              | <blockquote>[#3447] Allow selective starting/stopping of dynamic services</blockquote>     |   SA      | **In Progress** |          |            |
 | 2  | maintenance  | [#675] M1-12 Maintenance and DevOps                                                        | SA/PC/DK  | **Ongoing**     |          |            |
 | 4  | devops       | [#657] Autoscaling - Dynamic Services                                                      |   SA      | **In Progress** |          |            |
