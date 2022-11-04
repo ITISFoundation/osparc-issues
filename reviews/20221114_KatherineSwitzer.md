@@ -48,7 +48,7 @@
 | 6   | API          | [#687] M2 Access to log after job was run (via API)                                        | PC        | **Resolved**    | 5 min    |            |
 | 8   |              | <blockquote>[#686] M2 Query I/O Port Descriptors for Study via API</blockquote>            | PC        | **In Progress** | 3 min    |            |
 | 21  | app          | [#684] M1-12 Push Publication of More Modeling Studies on the Portal Itself                | EI        | **Ongoing**     | 2 min    |            |
-| 16  | portal       | [#674] M1-12 Portal development work                                                       | IP        | **Ongoing**     |          |            |
+| 16  | portal       | [#674] M1-12 Portal development work                                                       | IP        | **Ongoing**     | 3 min   |            |
 | 13  | TIP          | [#670] TIP - FollowUp Items                                                                | PC        | **Paused**      | 0 min       |            |
 
 ##### Status Legend
