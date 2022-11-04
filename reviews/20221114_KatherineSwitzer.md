@@ -2,7 +2,7 @@
 
 ## Sprint 🏃
 
-- **Katherine Switzer**  (First woman officially completing a marathon, Boston 1967)
+- [**Katherine Switzer**](https://www.youtube.com/watch?v=fOGXvBAmTsY)  (First woman officially completing a marathon, Boston 1967)
 - 🕐 PM1(Oct17) - RM(Nov07)
 - Scrum Master: [EI](https://github.com/elisabettai)
 
@@ -49,7 +49,7 @@
 | 8   |              | <blockquote>[#686] M2 Query I/O Port Descriptors for Study via API</blockquote>            | PC        | **In Progress** | 3 min    |            |
 | 21  | app          | [#684] M1-12 Push Publication of More Modeling Studies on the Portal Itself                | EI        | **Ongoing**     | 2 min    |            |
 | 16  | portal       | [#674] M1-12 Portal development work                                                       | IP        | **Ongoing**     |          |            |
-| 13  | TIP          | [#670] TIP - FollowUp Items                                                                | PC        | **Todo**        |          |            |
+| 13  | TIP          | [#670] TIP - FollowUp Items                                                                | PC        | **Paused**      | 0 min       |            |
 
 ##### Status Legend
 
