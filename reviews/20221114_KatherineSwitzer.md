@@ -38,7 +38,7 @@
 |     |              | <blockquote>[#735] Migrate Postgres to newer version</blockquote>                          | DK        | **In Progress** | 2 min    |            |
 | 22  | metamodeling | [#626] meta-modeling                                                                       | PC        | **In Progress** | 5 min    |            |
 | 3   |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>               | PC        | **In Progress** | 5 min    |            |
-| 5   | s4l:web      | [#741] s4l light features & ui                                                             | CR/IP/MaG | **In Progress** | 10 min   |            |
+| 5   | s4l:web      | [#741] s4l light features & ui                                                             | CR/IP/MaG/OM | **In Progress** | 15 min   |            |
 | 7   |              | <blockquote>[#740] Deploy S4L light on AWS</blockquote>                                    | DK        | **In Progress** | 3 min    |            |
 |     |              | <blockquote>[#740] oSPARC - S4L:Light</blockquote>                                         | OM        | **In Progress** | 3 min    |            |
 |     | user request | [#743] follow up on TN’s user-test and TIP’s stress-test                                   | EI        | **In Progress** | 2 min    |            |
