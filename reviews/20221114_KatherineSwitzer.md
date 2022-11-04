@@ -1,3 +1,34 @@
+# Review Meeting - 07/11/2022 @ 10:00 CET
+
+## Sprint 🏃
+
+- **Katherine Switzer**  (First woman officially completing a marathon, Boston 1967)
+- 🕐 PM1(Oct17) - RM(Nov07)
+- Scrum Master: [EI](https://github.com/elisabettai)
+
+### Users Feedback
+
+- [closed](https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+closed%3A%3E2022-10-07) since last RM
+- [opened](https://github.com/ITISFoundation/osparc-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions)
+
+### Dashboards 📊
+
+- [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
+- [Sprint Scrum Wall](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?repos=118596920,174557929,151701223,135289610,118910047,181836792,167586968) (developers view)
+- [PM2 board](https://github.com/orgs/ITISFoundation/projects/9) (developers view)
+- Activity: [sprint-PRs] and [sprint-MRs]
+
+### Deployed environments 🚀
+
+- AWS cluster (us-east-1)
+  - [staging_aws](https://staging.osparc.io) (Testers only - [changelogs])
+  - [production_aws](https://osparc.io) ([changelogs])
+- Z43 cluster (ch-zh)
+  - [staging_z43](http://osparc-staging.speag.com) (Testers only - [changelogs])
+  - [production_z43](http://osparc.speag.com) ([changelogs])
+  - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
+  - [master](https://osparc-master.speag.com) (delopers only)
+
 | PO  | Topic        | Title                                                                                      | Presenter | Status          | Duration | Start-Time |
 | --- | ------------ | ------------------------------------------------------------------------------------------ | --------- | --------------- | -------- | ---------- |
 | 1   | dy-services  | [#638] improving dynamic-sidecar design                                                    | ANE       | **In Progress** | 3 min    |            |
@@ -19,6 +50,26 @@
 | 21  | app          | [#684] M1-12 Push Publication of More Modeling Studies on the Portal Itself                | EI        | **Ongoing**     | 2 min    |            |
 | 16  | portal       | [#674] M1-12 Portal development work                                                       | IP        | **Ongoing**     |          |            |
 | 13  | TIP          | [#670] TIP - FollowUp Items                                                                | PC        | **Todo**        |          |            |
+
+##### Status Legend
+
+- _Todo_: no work done on this issue. This is the first time it apprears in a sprint.
+- _Paused_: this issue was not scheduled/skipped for this sprint
+- _In Progress_: this issue is still under development
+- _Resolved_: no more work left to do on this issue. PO can review an decide to close or reopen.
+- _Ongoing_: a recurrent task
+
+[online]: http://status.osparc.io/
+[operational]: https://git.speag.com/oSparc/e2e-testing/-/pipelines
+[performant]: https://git.speag.com/oSparc/e2e-portal-testing/-/pipelines
+
+## Progress
+
+Needs PO update, see previous reviews
+
+## Blockers
+
+Needs PO update, see previous reviews
 
 [#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
 [#3447]: https://github.com/ITISFoundation/osparc-issues/issues/3447
