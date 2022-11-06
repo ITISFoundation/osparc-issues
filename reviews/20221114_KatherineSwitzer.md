@@ -32,7 +32,7 @@
 | PO  | Topic        | Title                                                                                      | Presenter | Status          | Duration | Start-Time |
 | --- | ------------ | ------------------------------------------------------------------------------------------ | --------- | --------------- | -------- | ---------- |
 | 1   | dy-services  | [#638] improving dynamic-sidecar design                                                    | ANE       | **In Progress** | 3 min    |  10:05     |
-|     |              | <blockquote>[#3447] Allow selective starting/stopping of dynamic services</blockquote>     | SAN       | **In Progress** | 7 min    |  10:08     |
+|     |              | <blockquote>[#594] add "save" button / [#3447] Allow selective starting/stopping of dynamic services</blockquote>     | SAN       | **In Progress** | 7 min    |  10:08     |
 | 2   | maintenance  | [#675] M1-12 Maintenance and DevOps                                                        | SA/PC/DK  | **Ongoing**     | 5 min    |  10:15     |
 | 4   | devops       | [#657] Autoscaling - Dynamic Services                                                      | SAN       | **In Progress** | 3 min    |  10:20     |
 |     |              | <blockquote>[#735] Migrate Postgres to newer version</blockquote>                          | DK        | **In Progress** | 2 min    |  10:23     |
@@ -72,8 +72,9 @@ Needs PO update, see previous reviews
 
 Needs PO update, see previous reviews
 
+[#594]: https://github.com/ITISFoundation/osparc-issues/issues/594
 [#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
-[#3447]: https://github.com/ITISFoundation/osparc-issues/issues/3447
+[#3447]: https://github.com/ITISFoundation/osparc-simcore/issues/3447
 [#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
 [#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
 [#735]: https://github.com/ITISFoundation/osparc-issues/issues/735
