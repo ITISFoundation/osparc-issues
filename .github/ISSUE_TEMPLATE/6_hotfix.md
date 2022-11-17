@@ -14,13 +14,11 @@ assignees: 'pcrespov'
 
 ---
 
+Hotfix on last production [release](https://github.com/ITISFoundation/osparc-simcore/releases) 🚀
 
 # Commits (in order)
-<!-- List of commits for this release. 
-
-Copy&paste list produced by ``make release`` 
-
-These items create cross links to PR issues
+<!-- 
+- ITISFoundation/osparc-simcore#3498
 -->
 
 # Draft Changelog
@@ -38,6 +36,7 @@ These items create cross links to PR issues
 
 ## Fixed
 <!-- for any bug fixes. -->
+- 🐛 Sharing: Fix/sanitize old data for usergroups.thumbnail (3498)
 
 ## Security / Maintenance
 <!--  Security in case of vulnerabilities.
