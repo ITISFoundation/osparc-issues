@@ -1,7 +1,7 @@
 ---
 name: 🚑️ Hotfix
 about: critical hotfix to staging or production
-title: '🚑️ Hotfix <staging_hotfix/v.X.Y.Z>'
+title: '🚑️ Release <staging_hotfix/v.X.Y.Z> (hotfix)'
 labels: 'release'
 assignees: 'pcrespov'
 ---
