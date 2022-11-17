@@ -2,9 +2,8 @@
 name: Pre-release to staging
 about: Creates an issue to pre-release from master to staging deploy
 title: 'Pre-release master -> staging_SPRINTNAME_VERSION (DATE)'
-labels: ''
+labels: 'release'
 assignees: 'pcrespov'
-
 ---
 
 In preparation for [pre-release](https://github.com/ITISFoundation/osparc-simcore/releases). Here an initial (incomplete) list of tasks to prepare before pre-releasing:
