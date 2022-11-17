@@ -47,21 +47,30 @@ This procedure should be taken also as an exercise in preparation for the releas
 
 
 
+# Commits (in order)
+<!-- List of commits for this release. 
+
+Copy&paste list produced by ``make release`` 
+
+These items create cross links to PR issues
+-->
 
 # Draft Changelog
+```markdown
 <!-- Changelog follow structure defined in https://keepachangelog.com/en/1.0.0/ -->
 
 
-## Added
+## Added / Changed / Removed
 <!-- Added for new features.  -->
-## Changed
 <!-- Changed for changes in existing functionality.  -->
+<!-- for now removed features. -->
+
 ## Deprecated
 <!-- for soon-to-be removed features. -->
-## Removed
-<!-- for now removed features. -->
+
 ## Fixed
 <!-- for any bug fixes. -->
+
 ## Security / Maintenance
 <!--  Security in case of vulnerabilities.
 	or some maintanence work on CI/CD/tests/scripts
