@@ -66,7 +66,7 @@ def to_md(csv_path: Path):
                 issue = search_in_mapping_db(row['Title'])
                 issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
-                topic = row["Group Topic"]
+                topic = row["Topic"]
                 indented = False
                 if topic == current_topic and topic.lower() != "undefined":
                     indented = True
