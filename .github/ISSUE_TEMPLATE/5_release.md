@@ -1,8 +1,8 @@
 ---
-name: Release to production
+name: 🚀 Release to production
 about: Creates an issue to release from staging to production
-title: 'Release vX.X.0'
-labels: ''
+title: '🚀 Release vX.X.0'
+labels: 'release'
 assignees: 'pcrespov'
 
 ---
