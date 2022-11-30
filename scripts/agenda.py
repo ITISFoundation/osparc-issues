@@ -20,9 +20,24 @@ logging.basicConfig(level=logging.INFO)
 
 COLUMNS = "PO Topic Title Presenter Status Duration Start-Time".split()
 
+TEAM_ACRONYMS_MAP = {
+    "ALL": "Surfict",
+    "ANE": "GitHK",
+    "BL": "dyollb",
+    "CR": "colinRawlings",
+    "DK": "mrnicegyu11",
+    "EI": "elisabettai",
+    "IP": "ignapas",
+    "MaG": "mguidon",
+    "OM": "odeimaiz",
+    "PC": "pcrespov",
+    "SAN": "sanderegg",
+}
+
 
 def to_md_row(row: List[str]):
     return "|" + "|".join(row) + "|"
+
 
 def search_in_mapping_db(issue_title):
     # NOTE: below file contains issue names and item numbers,
@@ -37,9 +52,11 @@ def search_in_mapping_db(issue_title):
     def _extract(line):
         description, issue = line.split("#")
         return description, issue
-    mapping = dict({_extract(l)  for l in lines})
+
+    mapping = dict({_extract(l) for l in lines})
 
     return mapping[issue_title]
+
 
 def format_status(status):
     if status == "undefined":
@@ -47,6 +64,7 @@ def format_status(status):
     elif status != "Paused":
         return f"**{status}**"
     return status
+
 
 def to_md(csv_path: Path):
     md_path = csv_path.with_suffix(".md")
@@ -63,7 +81,7 @@ def to_md(csv_path: Path):
             issue_numbers = []
             for row in reader:
                 # group
-                issue = search_in_mapping_db(row['Title'])
+                issue = search_in_mapping_db(row["Title"])
                 issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
                 topic = row["Topic"]
@@ -81,7 +99,7 @@ def to_md(csv_path: Path):
                             row["PO Priority"],
                             col_topic,
                             title,
-                            "",# do not add presenters
+                            "",  # do not add presenters
                             format_status(row["Status"]),
                             "",
                             "",
@@ -90,8 +108,14 @@ def to_md(csv_path: Path):
                     file=md,
                 )
             for issue in issue_numbers:
-                md.writelines(f"[#{issue}]: https://github.com/ITISFoundation/osparc-issues/issues/{issue}\n")
-        
+                md.writelines(
+                    f"[#{issue}]: https://github.com/ITISFoundation/osparc-issues/issues/{issue}\n"
+                )
+
+            print("", file=md)
+            for acronym in sorted(TEAM_ACRONYMS_MAP.keys()):
+                username = TEAM_ACRONYMS_MAP[acronym]
+                print(f"[{acronym}]:https://github.com/{username}", kwargs)
 
     return md_path
 
@@ -120,4 +144,4 @@ def parse_agenda_and_print_links(agenda_md):
 
 if __name__ == "__main__":
     create_md_from_csv()
-    #parse_agenda_and_print_links("../reviews/temp_agenda.md")
+    # parse_agenda_and_print_links("../reviews/temp_agenda.md")
