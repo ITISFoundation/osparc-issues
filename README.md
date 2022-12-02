@@ -6,3 +6,4 @@ This is an [issue-only repo](https://help.github.com/en/articles/creating-an-iss
 - 🏷️ [issues](https://github.com/ITISFoundation/osparc-issues/issues)
   - Create a [new issue](https://github.com/ITISFoundation/osparc-issues/issues/new/choose)  ?
 - 📅 [reviews](reviews) - agenda & report on every sprint review
+- :trophy: [SM_counts](SM_counts) - Scrum Masters rankings (by counts)
