@@ -8,7 +8,7 @@ Pre-requisite: up-to-date PM2 board
 - On your keyboard: press "CTRL+c" (copies table in CSV)
 - Create a new csv file in this folder (with the name of the current sprint)
 - Paste clipboard
-- Check "mapping_db.ignore.txt": entries in PM2 board have to be present in this file (see an example in this folder, edit accordingly to the current PM2 board)
+- Create a "mapping_db.ignore.txt": entries in PM2 board have to be present in this file (ask ANE/EI for an example)
 - Make sure no other csv file is present in this folder
 - Run this script
 - Here you go! You have a first version to share with the Team
