@@ -1,10 +1,18 @@
 """
-Go to https://github.com/orgs/ITISFoundation/projects/9/views/1
-
-- select row in table
-- CTRL+ a twice (copies table in CSV)
-- create a csv file
-- paste clipboard
+This script generates the .md file for the review agenda (original version by ANE, extended instructions by EI)
+Pre-requisite: up-to-date PM2 board 
+- Go to PM2 Board https://github.com/orgs/ITISFoundation/projects/9/views/23
+- Make sure "Topic" is correctly set -> It will be used to group items in the agenda
+- Select one row in table
+- On your keyboard: press "CTRL+a"
+- On your keyboard: press "CTRL+c" (copies table in CSV)
+- Create a new csv file in this folder (with the name of the current sprint)
+- Paste clipboard
+- Check "mapping_db.ignore.txt": entries in PM2 board have to be present in this file (see an example in this folder, edit accordingly to the current PM2 board)
+- Make sure no other csv file is present in this folder
+- Run this script
+- Here you go! You have a first version to share with the Team
+- Optional: to make the table in the .md file easier to edit, use http://markdowntable.com
 """
 
 
