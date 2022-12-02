@@ -4,7 +4,7 @@ Feb 04 2022: After running for multiple hours a sophisticated algorithm by the `
 
 Last update on Dec 2 2022 by @iavarone
 
-1. :trophy:  @maiz  (10 times)
+1. :trophy:  @https://github.com/odeimaiz  (10 times)
 2. :first_place_medal: @crespo ( 8.5 times)
 (1. :second_place_medal: @zhuang (7.5 times))
 3. :third_place_medal: @anderegg (6 times)
