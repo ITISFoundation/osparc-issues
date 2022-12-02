@@ -10,11 +10,11 @@ Original source: Feb 04 2022, After running for multiple hours a sophisticated a
 3. 🥉 [SAN] (6 times)
 4. 🍺 [MaG] (5 times) 
 5. 🧋 [ANE] (4 times)  
-6. [IP] (3 times)
-7. [ALL] (3 times)
-8. [CR] (2.3 times)
-9. [DK] (2 times)
-10. [EI] (2 times) 
+6. 🍫 [IP] (3 times)
+7. 🍫 [ALL] (3 times)
+8. 🍫 [CR] (2.3 times)
+9. 🍫 [DK] (2 times)
+10. 🍫 [EI] (2 times) 
 
 ----
 
