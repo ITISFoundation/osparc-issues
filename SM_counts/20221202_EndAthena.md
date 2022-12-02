@@ -1,7 +1,7 @@
 # The SMs Ranking
 
 
-Last update on Dec 2 2022 by [EI] with agendas from Feb 2022 and corrected counts for [ANE]. 1 full sprint counts as 1.
+Last update on Dec 2 2022 by [EI] with agendas from Feb 2022 to Dec 2022 and corrected counts for [ANE]. 1 full sprint counts as 1.
 
 Original source: Feb 04 2022, After running for multiple hours a sophisticated algorithm by the ``MaGnificient``,  here is the "ranking" of SMs  (full/shared SMship adds 1/0.5 times).
 
