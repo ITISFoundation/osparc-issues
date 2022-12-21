@@ -1,5 +1,7 @@
 # osparc-issues
 
+[![Join the chat at https://gitter.im/osparc-support/community](https://badges.gitter.im/osparc-support/community.svg)](https://gitter.im/osparc-support/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an [issue-only repo](https://help.github.com/en/articles/creating-an-issues-only-repository) for the **osparc project**
 
 -  🚩[milestones](https://github.com/ITISFoundation/osparc-issues/milestones)
