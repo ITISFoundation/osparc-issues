@@ -2,13 +2,13 @@
 
 ## Sprint 🏃
 
-- [**Athena**](https://www.britannica.com/topic/Athena-Greek-mythology) (Ancient Greek Goddess of war, handicraft and practical reason.)
-- 🕐 PM1(Nov10) - RM(Dec02)
-- Scrum Master: [EI]
+- **Zefram Cochrane** (Scientist, Inventor, Genius, Drunk)
+- 🕐 PM1(Dec09) - RM(Jan11)
+- Scrum Master: [MaG]
 
 ### Users Feedback
 
-- [closed](https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+closed%3A%3E2022-11-07) since last RM
+- [closed](https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3AITISFoundation+closed%3A%3E2022-12-02) since last RM
 - [opened](https://github.com/ITISFoundation/osparc-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions)
 
 ### Dashboards 📊
