@@ -39,6 +39,7 @@
 |5|s4l:web|[#741] s4l-lite:web features & ui||**In Progress**|||
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>||**In Progress**|||
 |7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>||**In Progress**|||
+|||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>||**In Progress**| [EO]/[CF]/[HBS]/[MB]| 5'|
 |8||<blockquote>[#766] S4L Lite - Admin</blockquote>||**Todo**|||
 |9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
 |10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
@@ -100,3 +101,7 @@ Needs PO update, see previous reviews
 [OM]:https://github.com/odeimaiz
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
+[EO]:https://github.com/eofli
+[MB]:https://github.com/BouldiMelina
+[CF]:https://github.com/cosfor1
+[HBS]:https://github.com/habz-bs
