@@ -50,6 +50,8 @@
 |15|app|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||2'|
 |16|portal|[#674] M1-12 Portal development work||**Ongoing**|||
 |17|metrics|[#688] M3 Additional o²S²PARC Metrics|[EI]|**In Progress**||2'|
+|22|API|[#654] DRC & o2S API|[PC]|**In Progress**||2'|
+
 
 ##### Status Legend
 
@@ -88,6 +90,7 @@ Needs PO update, see previous reviews
 [#694]: https://github.com/ITISFoundation/osparc-issues/issues/694
 [#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
 [#688]: https://github.com/ITISFoundation/osparc-issues/issues/688
+[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
 
 
 [ALL]:https://github.com/Surfict
