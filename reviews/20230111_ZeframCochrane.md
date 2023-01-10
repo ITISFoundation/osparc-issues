@@ -32,7 +32,7 @@
 
 |PO|Topic|Title|Presenter|Status|Start-Time|Duration|
 |--|--|--|--|--|--|--|
-|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|[EI]|||4'|
+|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|[EI]|||1'|
 |2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|[EI]|||1'|
 |3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**||3'|
 |4|devops|[#657] Autoscaling - Dynamic Services|[ALL]/[DK]/[MAG]/[SAN]|**In Progress**||2' + 4'|
