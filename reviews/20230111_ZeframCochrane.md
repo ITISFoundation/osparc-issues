@@ -30,16 +30,16 @@
   - [master](https://osparc-master.speag.com) (delopers only)
 
 
-|PO|Topic|Title|Presenter|Status|Duration|Start-Time|
+|PO|Topic|Title|Presenter|Status|Start-Time|Duration|
 |--|--|--|--|--|--|--|
 |1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|||||
 |2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|||||
 |3|dy-services|[#638] improving dynamic-sidecar design||**In Progress**|||
-|4|devops|[#657] Autoscaling - Dynamic Services||**In Progress**| [ALL]/[DK]/[MAG]|4'|
-|5|s4l:web|[#741] s4l-lite:web features & ui|[OM]|**In Progress**|5'||
+|4|devops|[#657] Autoscaling - Dynamic Services|[ALL]/[DK]/[MAG]|**In Progress**||4'|
+|5|s4l:web|[#741] s4l-lite:web features & ui|[OM]|**In Progress**||5'|
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>||**In Progress**|||
 |7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>||**In Progress**|||
-|||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>||**In Progress**| [EO]/[CF]/[HBS]/[MB]| 5'|
+|||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
 |8||<blockquote>[#766] S4L Lite - Admin</blockquote>||**Todo**|||
 |9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
 |10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
