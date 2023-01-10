@@ -34,7 +34,7 @@
 |--|--|--|--|--|--|--|
 |1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|||||
 |2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|||||
-|3|dy-services|[#638] improving dynamic-sidecar design||**In Progress**|||
+|3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**||3'|
 |4|devops|[#657] Autoscaling - Dynamic Services|[ALL]/[DK]/[MAG]/[SAN]|**In Progress**||4' + 4'|
 |5|s4l:web|[#741] s4l-lite:web features & ui|[OM]|**In Progress**||5'|
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>||**In Progress**|||
