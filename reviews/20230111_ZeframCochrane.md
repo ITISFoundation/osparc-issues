@@ -46,11 +46,11 @@
 |11||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>||**Paused**|||
 |12|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
 |13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| [PC] |**Ongoing**|| 2' |
+|22||<blockquote>[#654] DRC & o2S API</blockquote>| [PC] |**Ongoing**|| 2' |
 |14|resources|[#618] personalizable resource limits||Paused|||
 |15|app|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||2'|
 |16|portal|[#674] M1-12 Portal development work||**Ongoing**|||
 |17|metrics|[#688] M3 Additional o²S²PARC Metrics|[EI]|**In Progress**||2'|
-|22|API|[#654] DRC & o2S API|[PC]|**In Progress**||2'|
 
 
 ##### Status Legend
