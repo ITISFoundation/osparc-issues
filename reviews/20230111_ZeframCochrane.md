@@ -36,9 +36,9 @@
 |2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|[EI]|||1'|
 |3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**||5'|
 |4|devops|[#657] Autoscaling - Dynamic Services|[SAN]|**In Progress**||5'|
-|5|s4l:web|[#741] s4l-lite:web features & ui|[CR]/[MaG]/[IP]|**In Progress**||15'|
+|5|s4l:web|[#765] oSPARC: S4L-Lite|[OM]|**In Progress**||5'|
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>|[ALL]/[DK]/[MAG]|**In Progress**||4'|
-|7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>|[OM]|**In Progress**||5'|
+|7||<blockquote>[#741] s4l-lite:web features & ui</blockquote>|[CR]/[MaG]/[IP]|**In Progress**||15'|
 |||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
 |8||<blockquote>[#766] S4L Lite - Admin</blockquote>| [PC] |**Todo**|| 3' |
 |9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|[ALL]/[DK]/[SAN]|6'|
