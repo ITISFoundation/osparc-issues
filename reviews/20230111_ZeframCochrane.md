@@ -32,25 +32,25 @@
 
 |PO|Topic|Title|Presenter|Status|Start-Time|Duration|
 |--|--|--|--|--|--|--|
-|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|[EI]|||1'|
-|2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|[EI]|||1'|
-|3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**||5'|
-|4|devops|[#657] Autoscaling - Dynamic Services|[SAN]|**In Progress**||5'|
-|5|s4l:web|[#765] oSPARC: S4L-Lite|[OM]|**In Progress**||5'|
-|6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>|[ALL]/[DK]/[MAG]|**In Progress**||4'|
-|7||<blockquote>[#741] s4l-lite:web features & ui</blockquote>|[CR]/[MaG]/[IP]|**In Progress**||15'|
-|||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
-|8||<blockquote>[#766] S4L Lite - Admin</blockquote>| [PC] |**Todo**|| 3' |
-|9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|[ALL]/[DK]/[SAN]|6'|
-|10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**Paused**|||
+|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|[EI]||10:35|1'|
+|2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|[EI]||10:36|1'|
+|3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**|10:37|5'|
+|4|devops|[#657] Autoscaling - Dynamic Services|[SAN]|**In Progress**|10:42|5'|
+|5|s4l:web|[#765] oSPARC: S4L-Lite|[OM]|**In Progress**|10:47|5'|
+|6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>|[ALL]/[DK]/[MAG]|**In Progress**|10:52|4'|
+|7||<blockquote>[#741] s4l-lite:web features & ui</blockquote>|[CR]/[MaG]/[IP]|**In Progress**|10:56|15'|
+|||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|11:11| 5'|
+|8||<blockquote>[#766] S4L Lite - Admin</blockquote>| [PC] |**Todo**|11:16| 3' |
+|9|maintenance|[#675] M1-12 Maintenance and DevOps|[ALL]/[DK]/[SAN]|**Ongoing**|11:19|6'|
+|10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**Paused**|11:25||
 |11||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>||**Paused**|||
 |12|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
-|13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| [PC] |**Ongoing**|| 2' |
-|22||<blockquote>[#654] DRC & o2S API</blockquote>| [PC] |**Ongoing**|| 2' |
-|14|resources|[#618] personalizable resource limits||Paused|||
-|15|app|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||2'|
-|16|portal|[#674] M1-12 Portal development work||**Ongoing**|||
-|17|metrics|[#688] M3 Additional o²S²PARC Metrics|[EI]|**In Progress**||2'|
+|13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| [PC] |**Ongoing**|11:25| 2' |
+|22||<blockquote>[#654] DRC & o2S API</blockquote>| [PC] |**Ongoing**|11:27| 2' |
+|14|resources|[#618] personalizable resource limits||Paused|11:29||
+|15|app|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**|11:29|2'|
+|16|portal|[#674] M1-12 Portal development work||**Ongoing**|11:31||
+|17|metrics|[#688] M3 Additional o²S²PARC Metrics|[EI]|**In Progress**|11:31|2'|
 
 
 ##### Status Legend
