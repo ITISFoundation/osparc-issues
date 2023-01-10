@@ -32,8 +32,8 @@
 
 |PO|Topic|Title|Presenter|Status|Start-Time|Duration|
 |--|--|--|--|--|--|--|
-|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|||||
-|2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|||||
+|1|non-dev|[#793] working group publishing explorable data analyses in jupyterlab|[EI]|||4'|
+|2||<blockquote>[#676] M4 Help Users Find Out About o²S²PARC</blockquote>|[EI]|||1'|
 |3|dy-services|[#638] improving dynamic-sidecar design|[ANE]|**In Progress**||3'|
 |4|devops|[#657] Autoscaling - Dynamic Services|[ALL]/[DK]/[MAG]/[SAN]|**In Progress**||2' + 4'|
 |5|s4l:web|[#741] s4l-lite:web features & ui|[OM]|**In Progress**||5'|
@@ -47,9 +47,9 @@
 |12|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
 |13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| [PC] |**Ongoing**|| 2' |
 |14|resources|[#618] personalizable resource limits||Paused|||
-|15|app|[#694] M1-12 Proactive onboarding of services and models||**Ongoing**|||
+|15|app|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||2'|
 |16|portal|[#674] M1-12 Portal development work||**Ongoing**|||
-|17|metrics|[#688] M3 Additional o²S²PARC Metrics||**In Progress**|||
+|17|metrics|[#688] M3 Additional o²S²PARC Metrics|[EI]|**In Progress**||2'|
 
 ##### Status Legend
 
