@@ -41,7 +41,7 @@
 |7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>||**In Progress**|||
 |||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
 |8||<blockquote>[#766] S4L Lite - Admin</blockquote>||**Todo**|||
-|9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
+|9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|[SAN]|2'|
 |10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
 |11||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>||**In Progress**|||
 |12|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
