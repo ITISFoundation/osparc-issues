@@ -38,7 +38,7 @@
 |4|devops|[#657] Autoscaling - Dynamic Services|[ALL]/[DK]/[MAG]/[SAN]|**In Progress**||2' + 4'|
 |5|s4l:web|[#741] s4l-lite:web features & ui|[OM]|**In Progress**||5'|
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>|[ALL]/[DK]/[MAG]|**In Progress**||4'|
-|7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>||**In Progress**|||
+|7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>|[CR]/[MaG]/[IP]|**In Progress**||15'|
 |||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
 |8||<blockquote>[#766] S4L Lite - Admin</blockquote>| [PC] |**Todo**|| 3' |
 |9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|[SAN]|2'|
