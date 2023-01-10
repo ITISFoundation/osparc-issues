@@ -40,12 +40,12 @@
 |6||<blockquote>[#740] Deploy S4L Lite on AWS - DevOps</blockquote>||**In Progress**|||
 |7||<blockquote>[#765] oSPARC: S4L-Lite</blockquote>||**In Progress**|||
 |||<blockquote> oSPARC: S4L-Lite App Team Testing</blockquote>|[EO]/[CF]/[HBS]/[MB]|**In Progress**|| 5'|
-|8||<blockquote>[#766] S4L Lite - Admin</blockquote>||**Todo**|||
+|8||<blockquote>[#766] S4L Lite - Admin</blockquote>| [PC] |**Todo**|| 3' |
 |9|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|[SAN]|2'|
-|10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
-|11||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>||**In Progress**|||
+|10|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**Paused**|||
+|11||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>||**Paused**|||
 |12|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
-|13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>||**Ongoing**|||
+|13||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| [PC] |**Ongoing**|| 2' |
 |14|resources|[#618] personalizable resource limits||Paused|||
 |15|app|[#694] M1-12 Proactive onboarding of services and models||**Ongoing**|||
 |16|portal|[#674] M1-12 Portal development work||**Ongoing**|||
