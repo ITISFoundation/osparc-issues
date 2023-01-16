@@ -1,5 +1,5 @@
 ---
-name: Pre-release to staging
+name: 🚀 Pre-release to staging (developers-only)
 about: Creates an issue to pre-release from master to staging deploy (includes hotfixes)
 title: '🚀 Pre-release master -> staging_SPRINTNAME_VERSION (DATE)'
 labels: 'release'

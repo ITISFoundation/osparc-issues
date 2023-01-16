@@ -1,5 +1,5 @@
 ---
-name: 🚑️ Hotfix
+name: 🚑️ Hotfix  (developers-only)
 about: critical hotfix to staging or production
 title: '🚑️ Release <staging_hotfix/v.X.Y.Z> (hotfix)'
 labels: 'release'
@@ -17,7 +17,7 @@ assignees: 'pcrespov'
 Hotfix on last production [release](https://github.com/ITISFoundation/osparc-simcore/releases) 🚀
 
 # Commits (in order)
-<!-- 
+<!--
 - ITISFoundation/osparc-simcore#3498
 -->
 
