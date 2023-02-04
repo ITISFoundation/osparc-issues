@@ -13,39 +13,33 @@ In preparation for [pre-release](https://github.com/ITISFoundation/osparc-simcor
 - [ ] Check important changes 🚨
 - [ ] Devops check (⚠️ devops)
 - [ ] e2e testing check
-- [ ] Pre-release summary
-- [ ] Pre-release assessment
+- [ ] Summary
+- [ ] Release
+- [ ] Postmortem
 
 ---
+# Motivation:
 
-<!-- Staging is an intermediate environment between development (master) and production that allows us to test in isolation
-changes in the framework. In addition, the pre-release workflow shall be used as a simulation to production that can help us to
-anticipate changes and mitigate failures. 
+<!-- Staging is an intermediate environment between development (master) and production that allows us to test in isolation changes in the framework.
+In addition, the pre-release workflow shall be used as a simulation to production that can help us to anticipate changes and mitigate failures.
 
-Explain what motivates this pre-release? Which important changes we might pay attention to? How should we
-test them? Is there anything in particular we should monitor?
-
-TIPs:
-
-- Start this section with a *motivation* 
-- Mark commits with 🚨 to warn about possible issues. Contact PR creator to understand how to test/target
-- It is preferable that pre-releases should address the outcome of a single sprint at a time. This might be done by pre-releasing to
-staging just after the sprint review, and then hotfix staging all fixes to staging that have been solved during the subsequent sprint.
-Mark all the commits that were cherry picked for a hotfix as [ 📌  ``staging_switzer_5``]
-
+- Explain what motivates this pre-release?
+- Which important changes we might pay attention to?
+- How should we test them?
+- Is there anything in particular we should monitor?
 -->
 
 
 
 #  Devops check (⚠️ devops)
-<!-- The goal here is to analyze the PRs marked with (⚠️ devops).  We should determine and prepare necessary changes required in the environments configs. 
+<!-- The goal here is to analyze the PRs marked with (⚠️ devops).  We should determine and prepare necessary changes required in the environments configs.
 
 This procedure should be taken also as an exercise in preparation for the release to production as well.
  -->
 
 
 # e2e testing check
-<!-- Check that e2e in master: are there any major known issues? 
+<!-- Check that e2e in master: are there any major known issues?
 
 Keep an agenda of what has been reported on every daily
 -->
@@ -57,63 +51,43 @@ Keep an agenda of what has been reported on every daily
 
 
 # [Commits (in order)](https://github.com/ITISFoundation/osparc-simcore/commits/master)
-<!-- List of commits for this release. 
+<!-- Is there anything in particular we should monitor?
 
-Copy&paste list produced by ``make release`` 
-
-These items create cross links to PR issues
-
-- Mark important changes 🚨
-- Mark cherry-picks for hotfixes with 📌
+- Mark commits with 🚨 to warn about possible issues. Contact PR creator to understand how to test/target
+- Mark all the commits that were already cherry picked from master a hotfix as [ 📌  ``staging_switzer_5``]
 -->
 
-# Draft Changelog
-```markdown
-<!-- Changelog follow structure defined in https://keepachangelog.com/en/1.0.0/ -->
 
 
-## Added / Changed / Removed
-<!-- Added for new features.  -->
-<!-- Changed for changes in existing functionality.  -->
-<!-- for now removed features. -->
 
-## Deprecated
-<!-- for soon-to-be removed features. -->
+# Summary
+<!-- Adapt
 
-## Fixed
-<!-- for any bug fixes. -->
+  - sprint_name
+  - version
+  - commit_sha
+  - start
+  - stop
+-->
 
-## Security / Maintenance
-<!--  Security in case of vulnerabilities.
-	or some maintanence work on CI/CD/tests/scripts
- -->
-
-
-**Legend**
-
-- ✨ New feature
-- 🐛 Fixes bugs
-- ♻️ Refactors code
-- ⬆️ Upgrades dependencies
-- 🔒️ Fixes security issues
-- 🔨 Adds or updates development scripts or CI.
-- 🚨 Important change. REQUIRES target testing before releasing to production. Steps to test appended as ``[TODO:  ... ]``
-- 📌 can be cherry-picked to production
+- [ ] `` make release-staging name=ResistanceIsFutile version=9 git_sha=7d9dcc313f9ced0bd1e6508363148841683b6d7c``
+- [ ] Draft [pre-release](https://github.com/ITISFoundation/osparc-simcore/releases)
+- [ ] Check [target commit 7d9dcc313f9ced0bd1e6508363148841683b6d7c](https://github.com/ITISFoundation/osparc-simcore/commits/master)  ✅ CI passed
+- [ ] Announce
+```json
+{"start": "2023-02-01T12:30:00.000Z", "end": "2023-02-01T13:00:00.000Z", "reason": "Release ResistanceIsFutile9 "}
 ```
 
 
+# Release
 
-# Pre-release summary
+- [ ] Release (release draft)
+- [ ] Check Release CI
+- [ ] Check deployed dalco/aws ()
+- [ ] Delete announcement
+- [ ] Check e2e runs
+- [ ] Announce
+``` md
+🚀 https://github.com/ITISFoundation/osparc-simcore/releases/tag/staging_ResistanceIsFutile10
+```
 
-- what:  <!-- ```make release-staging name=switzer version=2 git_sha=dbcc9a645f25468ed57d227c42e8daad6ccb62d8``` -->
-- who: <!-- @Surfict @GitHK  -->
-- when: <!-- THURSDAY Oct.20, afternoon -->
-
-
-
-# Pre-release assessment
-
-<!-- How did the release go? Any incidents, problems, difficulties, unexpected issues, ... during the release process? 
-Notes on special warnings or configurations we should pay attention ... or in general any relevant information that helps us 
-mitigate the risk of failure when releasing to production
--->
