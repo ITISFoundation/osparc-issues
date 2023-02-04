@@ -151,8 +151,11 @@ cython_debug/
 .vscode/*
 !.vscode/*.template.json
 
-
 scripts/*.csv
 scripts/*.md
 
-*.ignore.*
+# keywords embedded in filename
+*secret*
+*ignore*
+!.dockerignore
+!.gitignore
