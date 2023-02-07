@@ -88,6 +88,6 @@ Keep an agenda of what has been reported on every daily
 - [ ] Check e2e runs
 - [ ] Announce
 ``` md
-🚀 https://github.com/ITISFoundation/osparc-simcore/releases/tag/staging_ResistanceIsFutile10
+https://github.com/ITISFoundation/osparc-simcore/releases/tag/staging_ResistanceIsFutile10
 ```
 

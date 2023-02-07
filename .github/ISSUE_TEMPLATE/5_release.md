@@ -6,7 +6,6 @@ labels: 'release'
 assignees: 'pcrespov'
 
 ---
-
 In preparation for [release](https://github.com/ITISFoundation/osparc-simcore/releases). Here an initial (incomplete) list of tasks to prepare before releasing:
 
 
@@ -16,12 +15,11 @@ In preparation for [release](https://github.com/ITISFoundation/osparc-simcore/re
 - [ ] Test assessment: e2e-testing
 - [ ] Test assessment: targeted-testing
 - [ ] Test assessment: user-testing ✅
-- [ ] Release summary
-- [ ] Release assessment
+- [ ] Summary
+- [ ] Release
 
 ---
-
-# Prepare staging
+# Motivation
 <!--
 - Pre-release and hotfix until stable
 - Keep "motivation" as concrete as possible
@@ -56,15 +54,35 @@ In preparation for [release](https://github.com/ITISFoundation/osparc-simcore/re
 
 
 # Release summary
+<!-- Adapt
 
-- what:  <!-- ```make release-prod version=MAJ.MIN.0 git_sha=SHA_OF_THE_WANTED_STAGING_RELEASE``` -->
-- who: <!-- @Surfict @GitHK  -->
-- when: <!-- THURSDAY Oct.20, afternoon -->
+  - sprint_name
+  - version
+  - commit_sha
+  - start
+  - stop
+-->
+
+- [] Prepare
+```cmd
+make release-prod version=X.X.0  git_sha=7d9dcc313f9ced0bd1e6508363148841683b6d7c
+```
+- [ ] [**draft** release changelog](https://github.com/ITISFoundation/osparc-simcore/releases)
+- [ ] Check [target commit 7d9dcc313f9ced0bd1e6508363148841683b6d7c CI passed](https://github.com/ITISFoundation/osparc-simcore/commits/master)
+- [ ] Announce maintenance in **both** status page :
+```json
+{"start": "2023-02-03T10:00:00.000Z", "end": "2023-02-03T11:00:00.000Z", "reason": "Release vX.X.0 "}
+```
 
 
 # Release assessment
 
-<!-- How did the release go? Any incidents, problems, difficulties, unexpected issues, ... during the release process?
-Notes on special warnings or configurations we should pay attention ... or in general any relevant information that helps us
-mitigate the risk of failure when releasing to production
--->
+- [ ] Release (release draft)
+- [ ] Check CI
+- [ ] Check deployed dalco/aws/tip
+- [ ] Delete announcement
+- [ ] Check e2e runs
+- [ ] Announce
+``` md
+https://github.com/ITISFoundation/osparc-simcore/releases/tag/vX.X.0
+```
