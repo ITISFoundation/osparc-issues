@@ -30,27 +30,27 @@
   - [master](https://osparc-master.speag.com) (delopers only)
 
 
-|PO|Topic|Title|Presenter|Status|Start-Time|Duration|
-|--|--|--|--|--|--|--|
-|1|dy-services|[#638] improving dynamic-sidecar design|| | | |
-|2|devops|[#657] Autoscaling - Dynamic Services|||||
-|3|s4l-lite|<em>S4L<sup>lite</sup></em>|||||
-|4||<blockquote>Platform updates</blockquote>|||||
-|5||<blockquote>Application Updates</blockquote>||||
-|6||<blockquote>Internet Blocking/Video Streaming/Turn</blockquote>|[MaG]| Resolved |10'||
-|7|meta|[#693] M4 Creation of Own osparc servcies|||||
-|8|API |[#830] Portal - osparc connection|||||
-|9|platform |[#829] you need to be logged in|||||
-|10|TIP|[#831] TIP v2|||||
-|11|resources|[#618] presonalizable resource limits |||||
-|12|app|[#694] M1-12 Proactive onboarding of services and models|||||
-|13|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)|||||
-|15||<blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>|||||
-|14|maintenance|[#675] M1-12 Maintenance and DevOps|||||
-|16|API|[#711] M4 Launch Computational Study Parameters from Portal|||||
-|17||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>|||||
-|20||<blockquote>[#668] DRC & o2S API</blockquote>|||||
-|18|portal|[#674] M1-12 Portal development work|||||
+| PO  | Topic        | Title                                                                             | Presenter | Status   | Start-Time | Duration |
+| --- | ------------ | --------------------------------------------------------------------------------- | --------- | -------- | ---------- | -------- |
+| 1   | dy-services  | [#638] improving dynamic-sidecar design                                           |           |          |            |          |
+| 2   | devops       | [#657] Autoscaling - Dynamic Services                                             |           |          |            |          |
+| 3   | s4l-lite     | <em>S4L<sup>lite</sup></em>                                                       |           |          |            |          |
+| 4   |              | <blockquote>Platform updates</blockquote>                                         |           |          |            |          |
+| 5   |              | <blockquote>Application Updates</blockquote>                                      |           |          |            |
+| 6   |              | <blockquote>Internet Blocking/Video Streaming/Turn</blockquote>                   | [MaG]     | Resolved | 10'        |          |
+| 8   | API          | [#830] Portal - osparc connection                                                 |           |          |            |          |
+| 9   | platform     | [#829] you need to be logged in                                                   |           |          |            |          |
+| 10  | TIP          | [#831] TIP v2                                                                     |           |          |            |          |
+| 11  | resources    | [#618] personalizable resource limits                                             |           |          |            |          |
+| 12  | app          | [#694] M1-12 Proactive onboarding of services and models                          |           |          |            |          |
+| 13  | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | Paused   |            |          |
+| 7   |              | <blockquote>[#693] M4 Creation of Own osparc services   </blockquote>             |           |          |            |          |
+| 15  |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>      |           |          |            |          |
+| 14  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               |           |          |            |          |
+| 16  | API          | [#711] M4 Launch Computational Study Parameters from Portal                       |           |          |            |          |
+| 17  |              | <blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote> | [PC]      | Ongoing  | 1'         |          |
+| 20  |              | <blockquote>[#668] DRC & o2S API</blockquote>                                     | [PC]      | Ongoing  | 1'         |          |
+| 18  | portal       | [#674] M1-12 Portal development work                                              |           |          |            |          |
 
 
 ##### Status Legend
