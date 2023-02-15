@@ -73,28 +73,29 @@ Needs PO update, see previous reviews
 
 Needs PO update, see previous reviews
 
-[#830]: https://github.com/ITISFoundation/osparc-issues/issues/830
-[#693]: https://github.com/ITISFoundation/osparc-issues/issues/693
-[#793]: https://github.com/ITISFoundation/osparc-issues/issues/793
-[#676]: https://github.com/ITISFoundation/osparc-issues/issues/676
+[#355]: https://github.com/ITISFoundation/osparc-issues/issues/355
+[#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
 [#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
+[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
 [#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
-[#741]: https://github.com/ITISFoundation/osparc-issues/issues/741
+[#668]: https://github.com/ITISFoundation/osparc-issues/issues/668
+[#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
+[#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
+[#676]: https://github.com/ITISFoundation/osparc-issues/issues/676
+[#681]: https://github.com/ITISFoundation/osparc-issues/issues/681
+[#693]: https://github.com/ITISFoundation/osparc-issues/issues/693
+[#694]: https://github.com/ITISFoundation/osparc-issues/issues/694
+[#711]: https://github.com/ITISFoundation/osparc-issues/issues/711
 [#740]: https://github.com/ITISFoundation/osparc-issues/issues/740
+[#741]: https://github.com/ITISFoundation/osparc-issues/issues/741
 [#765]: https://github.com/ITISFoundation/osparc-issues/issues/765
 [#766]: https://github.com/ITISFoundation/osparc-issues/issues/766
-[#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
 [#767]: https://github.com/ITISFoundation/osparc-issues/issues/767
-[#355]: https://github.com/ITISFoundation/osparc-issues/issues/355
-[#711]: https://github.com/ITISFoundation/osparc-issues/issues/711
-[#681]: https://github.com/ITISFoundation/osparc-issues/issues/681
-[#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
-[#694]: https://github.com/ITISFoundation/osparc-issues/issues/694
-[#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
-[#668]: https://github.com/ITISFoundation/osparc-issues/issues/668
-[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
+[#793]: https://github.com/ITISFoundation/osparc-issues/issues/793
+[#830]: https://github.com/ITISFoundation/osparc-issues/issues/830
 
 
+[MD]:https://github.com/matusdrobuliak66
 [ALL]:https://github.com/Surfict
 [ANE]:https://github.com/GitHK
 [BL]:https://github.com/dyollb
