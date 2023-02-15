@@ -1,8 +1,8 @@
 # The SMs Ranking (by latest)
 
-This list is up to date as of 2023-01-11.
+This list is up to date as of 2023-02-15
 
-1.  🍫 [MaG] (2023-01-11)
+1.  🍫 [MaG] (2023-02-20)
 2. 🏆 [EI] (2022-12-02) 
 3. 🥈 [DK] (2022-10-07)
 4. 🥉 [ANE] (2022-07-27)
@@ -25,7 +25,7 @@ Original source: Feb 04 2022, After running for multiple hours a sophisticated a
 
 1. 🏆 [OM]  (10 times)
 2. 🥈 [PC] (8.5 times)
-3. 🍺 [MaG] (6 times) 
+3. 🍺 [MaG] (7 times) 
 4. 🥉 [SAN] (6 times)
 5. 🧋 [ANE] (4 times)  
 6. 🍫 [IP] (3.8 times)
