@@ -12,6 +12,7 @@ This list is up to date as of 2023-02-15
 8. 🍫 [CR] (2021-11-05)
 9. 🍫 [OM] (2021-09-13)
 10. 🍫 [SAN] (2021-03-01)
+11. 🍫 [MD] ()
 
 ----
 
@@ -33,6 +34,7 @@ Original source: Feb 04 2022, After running for multiple hours a sophisticated a
 8. 🍫 [CR] (2.3 times)
 9. 🍫 [DK] (2 times)
 10. 🍫 [EI] (2 times) 
+11. 🍫 [MD] (0 times) 
 
 ----
 
@@ -48,3 +50,4 @@ Original source: Feb 04 2022, After running for multiple hours a sophisticated a
 [OM]:https://github.com/odeimaiz
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
+[MD]:https://github.com/matusdrobuliak66
