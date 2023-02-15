@@ -2,7 +2,7 @@
 
 ## Sprint 🏃
 
-- **Resistance is Futile** (Badass Space Vikings)
+- **Resistance is Futile** (Call sign of some badass space vikings)
 - 🕐 PM1(Jan18) - RM(Feb20)
 - Scrum Master: [MaG]
 
