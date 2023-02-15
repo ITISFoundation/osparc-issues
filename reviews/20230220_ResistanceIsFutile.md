@@ -37,7 +37,7 @@
 |3|s4l-lite|<em>s4l<sup>lite</sup></em>|||||
 |4||<blockquote>Platform updates</blockquote>|||||
 |5||<blockquote>Application Updates</blockquote>||||
-|6||<blockquote>Internet Blocking/Video Streaming</blockquote>|[MaG]| Resolved |10'||
+|6||<blockquote>Internet Blocking/Video Streaming/Turn</blockquote>|[MaG]| Resolved |10'||
 |7|meta|[#693] M4 Creation of Own osparc servcies|||||
 |8|API |[#830] Portal - osparc connection|||||
 |9|platform |[#829] you need to be logged in|||||
