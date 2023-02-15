@@ -1,9 +1,7 @@
 # Review Meeting - 20/02/2023 @ 10:00 CET
-
-## Sprint 🏃
-
 <img width="931" alt="image" src="https://user-images.githubusercontent.com/32402063/219133918-f976243e-3cfd-4e43-8de1-c4a518843e47.png">
 
+## Sprint 🏃
 - **Resistance is Futile** (Call sign of some badass space vikings)
 - 🕐 PM1(Jan18) - RM(Feb20)
 - Scrum Master: [MaG]
