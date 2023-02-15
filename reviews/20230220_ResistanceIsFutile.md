@@ -34,7 +34,7 @@
 |--|--|--|--|--|--|--|
 |1|dy-services|[#638] improving dynamic-sidecar design|| | | |
 |2|devops|[#657] Autoscaling - Dynamic Services|||||
-|3|s4l-lite|<em>s4l<sup>lite</sup></em>|||||
+|3|s4l-lite|<em>S4L<sup>lite</sup></em>|||||
 |4||<blockquote>Platform updates</blockquote>|||||
 |5||<blockquote>Application Updates</blockquote>||||
 |6||<blockquote>Internet Blocking/Video Streaming/Turn</blockquote>|[MaG]| Resolved |10'||
