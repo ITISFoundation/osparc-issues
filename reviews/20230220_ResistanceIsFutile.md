@@ -92,7 +92,9 @@ Needs PO update, see previous reviews
 [#766]: https://github.com/ITISFoundation/osparc-issues/issues/766
 [#767]: https://github.com/ITISFoundation/osparc-issues/issues/767
 [#793]: https://github.com/ITISFoundation/osparc-issues/issues/793
+[#829]: https://github.com/ITISFoundation/osparc-issues/issues/829
 [#830]: https://github.com/ITISFoundation/osparc-issues/issues/830
+[#831]: https://github.com/ITISFoundation/osparc-issues/issues/831
 
 
 [MD]:https://github.com/matusdrobuliak66
