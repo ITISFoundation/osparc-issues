@@ -46,7 +46,7 @@
 | 13  | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | Paused   |            |          |
 | 7   |              | <blockquote>[#693] M4 Creation of Own osparc services   </blockquote>             |           |          |            |          |
 | 15  |              | <blockquote>[#355] S-D22.4 Meta-Modeling optimizer module Y4M12</blockquote>      |           |          |            |          |
-| 14  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               |           |          |            |          |
+| 14  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [SAN] [DK]|          | +3'           |          |
 | 16  | API          | [#711] M4 Launch Computational Study Parameters from Portal                       |           |          |            |          |
 | 17  |              | <blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote> | [PC]      | Ongoing  | 1'         |          |
 | 20  |              | <blockquote>[#668] DRC & o2S API</blockquote>                                     | [PC]      | Ongoing  | 1'         |          |
