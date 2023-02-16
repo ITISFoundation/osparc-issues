@@ -35,7 +35,7 @@
 | 1   | dy-services  | [#638] improving dynamic-sidecar design                                           | [ANE]     |          | 3'         |          |
 | 2   | devops       | [#657] Autoscaling - Dynamic Services                                             |           |          |            |          |
 | 3   | s4l-lite     | <em>S4L<sup>lite</sup></em>                                                       |           |          |            |          |
-| 4   |              | <blockquote>Platform updates</blockquote>                                         |           |          |            |          |
+| 4   |              | <blockquote>Platform updates</blockquote>                                         | [OM]      | Ongoing  | 10'        |          |
 | 5   |              | <blockquote>Application Updates</blockquote>                                      |           |          |            |
 | 6   |              | <blockquote>Internet Blocking/Video Streaming/Turn</blockquote>                   | [MaG]     | Resolved | 10'        |          |
 | 8   | API          | [#830] Portal - osparc connection                                                 |           |          |            |          |
