@@ -49,7 +49,7 @@
 | 14  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [SAN] [DK]|          |            |   2'+3'  |
 | 16  | API          | [#711] M4 Launch Computational Study Parameters from Portal                       |           |          |            |          |
 | 17  |              | <blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote> | [MaG]      | Ongoing  |            |   1'     |
-| 20  |              | <blockquote>[#668] DRC & o2S API</blockquote>                                     | [MaG]      | Ongoing  |            |   1'     |
+| 20  |              | <blockquote>[#668] DRC & o2S API</blockquote>                                     | [MaG]      | In Progress  |            |   1'     |
 | 18  | portal       | [#674] M1-12 Portal development work                                              |           |          |            |          |
 
 
