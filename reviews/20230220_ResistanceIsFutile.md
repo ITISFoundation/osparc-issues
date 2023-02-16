@@ -37,7 +37,7 @@
 | 3   | s4l-lite     | <em>S4L<sup>lite</sup></em>                                                       |           |          |            |          |
 | 4   |              | <blockquote>Platform updates</blockquote>                                         | [OM]      | Ongoing  |            |  10'     |
 | 5   |              | <blockquote>Application Updates</blockquote>                                      | [IP]      |          |            |   2'     |
-| 6   |              | <blockquote>Internet Blocking/Video Streaming/Turn</blockquote>                   | [MaG]     | Resolved |            |  10'     |
+| 6   |              | <blockquote>Internet Blocking/Video Streaming/Turn</blockquote>                   | [MaG]     | Ongoing  |            |  10'     |
 | 8   | API          | [#830] Portal - osparc connection                                                 |           |          |            |          |
 | 9   | platform     | [#829] you need to be logged in                                                   |           |          |            |          |
 | 10  | TIP          | [#831] TIP v2                                                                     |           |          |            |          |
