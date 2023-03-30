@@ -1,4 +1,5 @@
 import datetime
+from typing import Optional
 
 import arrow
 import requests
@@ -33,7 +34,7 @@ def _list_organization_repos(token: str, org: str) -> list[str]:
 
 
 @app.command()
-def create_milestones(
+def create(
     token: str = typer.Option(...),
     username: str = typer.Option(...),
     repos: list[str] = typer.Option(_DEFAULT_REPOS),
@@ -42,9 +43,9 @@ def create_milestones(
     due_on: datetime.datetime = datetime.datetime.now() + datetime.timedelta(days=20),
 ):
     """
-    Create milestones in multiple GitHub repositories.
+    Create milestone in multiple GitHub repositories.
     Example:
-    python milestones.py create-milestone --repos osparc-simcore --repos osparc-issues --token TOKEN --username ITISFoundation --title "My awesome sprint name" --description "this sprint is great"
+    python milestones.py create --token TOKEN --username ITISFoundation --title "My awesome sprint name" --description "this sprint is great"
     """
     for repo in repos:
         url = f"https://api.github.com/repos/{username}/{repo}/milestones"
@@ -64,16 +65,65 @@ def create_milestones(
         else:
             typer.echo(f"Failed to create milestone in {repo}: {response.json()}")
 
+@app.command()
+def modify(token: str = typer.Option(...),
+    username: str = typer.Option(...),
+    repos: list[str] = typer.Option(_DEFAULT_REPOS),
+    title: str = typer.Option(...),
+    new_title: Optional[str] = typer.Option(None),
+    new_description: Optional[str] = typer.Option(None),
+    new_due_on: Optional[datetime.datetime] = typer.Option(None),
+    new_state: Optional[bool] = typer.Option(None)):
+    """
+    Modify milestone in multiple GitHub repositories.
+    Example:
+    python milestones.py modify --token TOKEN --username ITISFoundation --title "My awesome sprint name" --new_description "this sprint is great"
+    """
+    data = {}
+    if new_title:
+        data["title"] = new_title
+    if new_description:
+        data["description"] = new_description
+    if new_due_on:
+        data["due_on"] = new_due_on
+    if new_state:
+        data["state"] = new_state
+    for repo in repos:
+        url = f"https://api.github.com/repos/{username}/{repo}/milestones"
+        headers = {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github.v3+json",
+        }
+        params = {"state": "open"}
+        response = requests.get(url, headers=headers, params=params)
+
+        if response.status_code == 200:
+            milestones = response.json()
+            for milestone in milestones:
+                if milestone["title"] == title:
+                    milestone_number = milestone["number"]
+                    modify_url = f"{url}/{milestone_number}"
+                    modify_response = requests.patch(modify_url, headers=headers, json=data)
+                    if modify_response.status_code == 200:
+                        typer.echo(
+                            f"Milestone '{title}' modified successfully in {repo}"
+                        )
+                    else:
+                        typer.echo(f"Failed to modify milestone '{title}' in {repo}")
+        else:
+            typer.echo(f"Failed to get milestones in {repo}")
 
 @app.command()
-def delete_milestones(
+def delete(
     token: str = typer.Option(...),
     username: str = typer.Option(...),
     repos: list[str] = typer.Option(_DEFAULT_REPOS),
     title: str = typer.Option(...),
 ):
     """
-    Delete milestones with the given title in multiple GitHub repositories.
+    Delete milestone in multiple GitHub repositories.
+    Example:
+    python milestones.py create --token TOKEN --username ITISFoundation --title "My awesome sprint name" --description "this sprint is great"
     """
     for repo in repos:
         url = f"https://api.github.com/repos/{username}/{repo}/milestones"
