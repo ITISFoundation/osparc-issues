@@ -90,4 +90,3 @@ Keep an agenda of what has been reported on every daily
 ``` md
 https://github.com/ITISFoundation/osparc-simcore/releases/tag/staging_ResistanceIsFutile10
 ```
-

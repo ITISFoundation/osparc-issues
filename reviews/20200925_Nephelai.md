@@ -8,7 +8,7 @@
   - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
   - [Scrum Wall](https://app.zenhub.com/workspaces/osparc---scrum-wall-5c9260f3d76ef51f6b0fe78d/board?repos=118596920,174557929,151701223,135289610,118910047,181836792,167586968)  (Developers view)
   - Activity: [sprint-PRs] and [sprint-MRs]
-- **Deployed environments** 🚀  
+- **Deployed environments** 🚀
   - AWS cluster (us-east-1)
     - [staging_aws](https://staging.osparc.io) (Testers only - [changelogs])
     - [production_aws](https://osparc.io) ([changelogs])

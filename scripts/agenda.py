@@ -1,6 +1,6 @@
 """
 This script generates the .md file for the review agenda (original version by ANE, extended instructions by EI)
-Pre-requisite: up-to-date PM2 board 
+Pre-requisite: up-to-date PM2 board
 - Go to PM2 Board https://github.com/orgs/ITISFoundation/projects/9/views/23
 - Make sure "Topic" is correctly set -> It will be used to group items in the agenda
 - Select one row in table
@@ -20,7 +20,6 @@ import csv
 import logging
 import re
 from pathlib import Path
-from typing import List
 
 logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
@@ -43,7 +42,7 @@ TEAM_ACRONYMS_MAP = {
 }
 
 
-def to_md_row(row: List[str]):
+def to_md_row(row: list[str]):
     return "|" + "|".join(row) + "|"
 
 
