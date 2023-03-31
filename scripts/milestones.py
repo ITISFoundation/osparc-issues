@@ -1,4 +1,15 @@
+"""
+In order to use these scripts one needs to:
+- get a Personal Access Token on github: https://github.com/settings/tokens?type=beta
+  - Resource owner must be ITISFoundation
+  - Repository access must be: All repositories
+  - Permissions on repositories: Issues ReadWrite
+
+"""
+
+
 import datetime
+from enum import Enum
 from typing import Optional
 
 import arrow
@@ -33,6 +44,11 @@ def _list_organization_repos(token: str, org: str) -> list[str]:
     return [repo["name"] for repo in list_of_repos]
 
 
+class StateEnum(str, Enum):
+    open = "open"
+    closed = "closed"
+
+
 @app.command()
 def create(
     token: str = typer.Option(...),
@@ -65,15 +81,18 @@ def create(
         else:
             typer.echo(f"Failed to create milestone in {repo}: {response.json()}")
 
+
 @app.command()
-def modify(token: str = typer.Option(...),
+def modify(
+    token: str = typer.Option(...),
     username: str = typer.Option(...),
     repos: list[str] = typer.Option(_DEFAULT_REPOS),
     title: str = typer.Option(...),
     new_title: Optional[str] = typer.Option(None),
     new_description: Optional[str] = typer.Option(None),
     new_due_on: Optional[datetime.datetime] = typer.Option(None),
-    new_state: Optional[bool] = typer.Option(None)):
+    new_state: Optional[StateEnum] = typer.Option(None),
+):
     """
     Modify milestone in multiple GitHub repositories.
     Example:
@@ -85,9 +104,15 @@ def modify(token: str = typer.Option(...),
     if new_description:
         data["description"] = new_description
     if new_due_on:
-        data["due_on"] = new_due_on
+        data["due_on"] = f"{arrow.get(new_due_on)}"
     if new_state:
-        data["state"] = new_state
+        data["state"] = new_state.value
+
+    if not data:
+        typer.echo(f"Nothing to modify in {title}, wrong call?", err=True)
+        raise typer.Exit(127)
+
+    milestone_found = False
     for repo in repos:
         url = f"https://api.github.com/repos/{username}/{repo}/milestones"
         headers = {
@@ -101,9 +126,12 @@ def modify(token: str = typer.Option(...),
             milestones = response.json()
             for milestone in milestones:
                 if milestone["title"] == title:
+                    milestone_found = True
                     milestone_number = milestone["number"]
                     modify_url = f"{url}/{milestone_number}"
-                    modify_response = requests.patch(modify_url, headers=headers, json=data)
+                    modify_response = requests.patch(
+                        modify_url, headers=headers, json=data
+                    )
                     if modify_response.status_code == 200:
                         typer.echo(
                             f"Milestone '{title}' modified successfully in {repo}"
@@ -112,6 +140,11 @@ def modify(token: str = typer.Option(...),
                         typer.echo(f"Failed to modify milestone '{title}' in {repo}")
         else:
             typer.echo(f"Failed to get milestones in {repo}")
+            raise typer.Exit(127)
+    if not milestone_found:
+        typer.echo(f"Failed to find {title} in any of {repos}", err=True)
+        raise typer.Exit(127)
+
 
 @app.command()
 def delete(
@@ -125,6 +158,7 @@ def delete(
     Example:
     python milestones.py create --token TOKEN --username ITISFoundation --title "My awesome sprint name" --description "this sprint is great"
     """
+    milestone_found = False
     for repo in repos:
         url = f"https://api.github.com/repos/{username}/{repo}/milestones"
         headers = {
@@ -138,6 +172,7 @@ def delete(
             milestones = response.json()
             for milestone in milestones:
                 if milestone["title"] == title:
+                    milestone_found = True
                     milestone_number = milestone["number"]
                     delete_url = f"{url}/{milestone_number}"
                     delete_response = requests.delete(delete_url, headers=headers)
@@ -147,8 +182,13 @@ def delete(
                         )
                     else:
                         typer.echo(f"Failed to delete milestone '{title}' in {repo}")
+                        raise typer.Exit(127)
         else:
             typer.echo(f"Failed to get milestones in {repo}")
+            raise typer.Exit(127)
+    if not milestone_found:
+        typer.echo(f"Failed to find {title} in any of {repos}", err=True)
+        raise typer.Exit(127)
 
 
 if __name__ == "__main__":
