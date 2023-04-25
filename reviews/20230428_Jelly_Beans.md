@@ -102,6 +102,13 @@
 [#881]: https://github.com/ITISFoundation/osparc-issues/issues/881
 [#885]: https://github.com/ITISFoundation/osparc-issues/issues/885
 [#886]: https://github.com/ITISFoundation/osparc-issues/issues/886
+[#917]: https://github.com/ITISFoundation/osparc-issues/issues/917
+[#922]: https://github.com/ITISFoundation/osparc-issues/issues/922
+[#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
+[#929]: https://github.com/ITISFoundation/osparc-issues/issues/929
+[#930]: https://github.com/ITISFoundation/osparc-issues/issues/930
+[#931]: https://github.com/ITISFoundation/osparc-issues/issues/931
+[#933]: https://github.com/ITISFoundation/osparc-issues/issues/933
 
 
 [MD]:https://github.com/matusdrobuliak66
