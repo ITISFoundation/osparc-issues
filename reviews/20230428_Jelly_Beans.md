@@ -103,6 +103,7 @@
 [#885]: https://github.com/ITISFoundation/osparc-issues/issues/885
 [#886]: https://github.com/ITISFoundation/osparc-issues/issues/886
 [#917]: https://github.com/ITISFoundation/osparc-issues/issues/917
+[#920]: https://github.com/ITISFoundation/osparc-issues/issues/920
 [#922]: https://github.com/ITISFoundation/osparc-issues/issues/922
 [#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
 [#929]: https://github.com/ITISFoundation/osparc-issues/issues/929
