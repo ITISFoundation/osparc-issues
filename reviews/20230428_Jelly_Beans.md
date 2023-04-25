@@ -31,23 +31,23 @@
 
 | PO  | Topic        | Title                                                                             | Presenter | Status      | Start-Time | Duration |
 | --- | ------------ | --------------------------------------------------------------------------------- | --------- | ----------- | ---------- | -------- |
-| 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]  |             |            |        |
-|     |              | <blockquote>M7 Pulling files from Portal</blockquote>          |           | In Progress    |            |          |
+| 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]      |             |            |        |
+|     |              | <blockquote>M7 Pulling files from Portal</blockquote>                             |           | In Progress |            |          |
 |     |              | <blockquote>M7 Create (Model) Service Section on the Portal</blockquote>          |           | Resolved    |            |          |
 |     |              | <blockquote>M4 Launch Computational Study Parameters from Portal</blockquote>     |           | In Progress |            |          |
-|     |              | <blockquote>M4 support MAP-Core for simulation on the Portal</blockquote>     |           | OnGoing |            |          |
-|     |              | <blockquote>M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote>                     |           | ToDo    |            |          |
-| 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |                 |          |
-| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [ANE]     | In Progress |                 |        |
-| 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) ([MaG]) | In Progress |  |        |
-| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  |  |    |
-| 12  | z43          | [#929] "Anonymous User Experience" Mode | [OM] | ToDo | | |
-| 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies [OM] | In Progress | | |
-| 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...] | Ongoing     |            |       |
-| 15   | z43          | [#831] TIP v2                                                                     |  | Paused |   |        |
-|   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                      |  | Paused |   |       |
+|     |              | <blockquote>M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |          |
+|     |              | <blockquote>M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |          |
+| 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |          |
+| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [ANE]     | In Progress |            |          |
+| 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) ([MaG]) | In Progress | |          |
+| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  | |          |
+| 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |            |    2'    |
+| 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |            |    3'    |
+| 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |            |    5'    |
+| 15   | z43          | [#831] TIP v2                                                                    |           | Paused      |            |        |
+|   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     |           | Paused      |            |       |
 | 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [CR] [OM] [MaG] | ToDo |  |   |
-| 17 | z43         | [#923] Product Design: Web Presence, Product | [OM] | Resolved | | |
+| 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |            | 3'      |
 | 18 | z43         | [#922] Billing & Tracking: User Metrics | [DK] | ToDo | | |
 | 19  | metrics      | [#881] basic monitoring functionality                                             | [DK]      | In Progress |            |        |
 | 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | | |
