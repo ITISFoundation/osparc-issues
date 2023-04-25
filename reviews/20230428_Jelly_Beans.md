@@ -32,11 +32,11 @@
 | PO  | Topic        | Title                                                                             | Presenter | Status      | Start-Time | Duration |
 | --- | ------------ | --------------------------------------------------------------------------------- | --------- | ----------- | ---------- | -------- |
 | 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]      |             |            |        |
-|     |              | <blockquote>M7 Pulling files from Portal</blockquote>                             |           | In Progress |            |          |
-|     |              | <blockquote>M7 Create (Model) Service Section on the Portal</blockquote>          |           | Resolved    |            |          |
-|     |              | <blockquote>M4 Launch Computational Study Parameters from Portal</blockquote>     |           | In Progress |            |          |
-|     |              | <blockquote>M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |          |
-|     |              | <blockquote>M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |          |
+|     |              | <blockquote>[#682] M7 Pulling files from Portal</blockquote>                             |           | In Progress |            |          |
+|     |              | <blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>          |           | Resolved    |            |          |
+|     |              | <blockquote>[#711] M4 Launch Computational Study Parameters from Portal</blockquote>     |           | In Progress |            |          |
+|     |              | <blockquote>[#681] M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |          |
+|     |              | <blockquote>[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |          |
 | 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |          |
 | 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [ANE]     | In Progress |            |          |
 | 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) ([MaG]) | In Progress | |          |
@@ -80,10 +80,13 @@
 [#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
 [#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
 [#668]: https://github.com/ITISFoundation/osparc-issues/issues/668
+[#673]: https://github.com/ITISFoundation/osparc-issues/issues/673
 [#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
 [#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
 [#676]: https://github.com/ITISFoundation/osparc-issues/issues/676
 [#681]: https://github.com/ITISFoundation/osparc-issues/issues/681
+[#682]: https://github.com/ITISFoundation/osparc-issues/issues/682
+[#683]: https://github.com/ITISFoundation/osparc-issues/issues/683
 [#693]: https://github.com/ITISFoundation/osparc-issues/issues/693
 [#694]: https://github.com/ITISFoundation/osparc-issues/issues/694
 [#711]: https://github.com/ITISFoundation/osparc-issues/issues/711
