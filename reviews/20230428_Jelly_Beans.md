@@ -40,7 +40,7 @@
 | 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |          |
 | 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |            |     2'     |
 | 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) [MaG] | In Progress | |    2'      |
-| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  | |          |
+| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  | | CR(+BL): 8'         |
 | 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |            |    2'    |
 | 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |            |    3'    |
 | 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |            |    5'    |
