@@ -40,13 +40,13 @@
 | 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |    4'      |
 | 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |            |     2'     |
 | 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) [MaG] | In Progress | |    2'      |
-| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  | | CR(+BL): 8'         |
+| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] | In Progress  | | CR(+BL): 8'         |
 | 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |            |    2'    |
 | 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |            |    3'    |
 | 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |            |    5'    |
-| 15   | z43          | [#831] TIP v2                                                                    |           | Paused      |            |        |
-|   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     |           | Paused      |            |       |
-| 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [CR] [OM] [MaG] | ToDo |  |   |
+| 15   | z43          | [#831] TIP v2                                                                    |           | Paused      |            |    0'    |
+|   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     |           | Paused      |            |    0'   |
+| 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [SAN] ([MaG] [IP]) | ToDo |  | 0'  |
 | 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |            | 3'      |
 | 18 | z43         | [#922] Billing & Tracking: User Metrics |  [ALL] ([DK])    | Ongoing | | 2' |
 | 19  | metrics      | [#881] basic monitoring functionality                                             | [ALL] ([DK])      | In Progress |         |  1'      |
@@ -55,7 +55,7 @@
 | 22  |              | [#917] Users notify users | [PC] [OM] | ToDo | | 0' |
 | 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |            |   5'    |
 | 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [ALL] | Ongoing    |           |   3'+2'     |
-| 25  | portal       | [#674] M1-12 Portal development work                                              | [IP]      | Ongoing     |            |        |
+| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |            |   0'     |
 
 
 
