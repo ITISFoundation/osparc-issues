@@ -55,7 +55,7 @@
 | 22  |              | [#917] Users notify users | [PC] [OM] | ToDo |10:46 | 0' |
 | 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |    10:46        |   5'    |
 | 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [ALL] | Ongoing    |   10:51        |   3'+2'     |
-| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |   10:56         |   0'     |
+| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |   10:56         |   1'     |
 
 
 
