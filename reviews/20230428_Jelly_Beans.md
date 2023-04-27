@@ -31,31 +31,31 @@
 
 | PO  | Topic        | Title                                                                             | Presenter | Status      | Start-Time | Duration |
 | --- | ------------ | --------------------------------------------------------------------------------- | --------- | ----------- | ---------- | -------- |
-| 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]      |             |            |        |
+| 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]      |             |    10:05        |        |
 |     |              | <blockquote>[#682] M7 Pulling files from Portal</blockquote>                             |           | In Progress |            |   3'         |
 |     |              | <blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>          |           | Resolved    |            |   1'      |
 |     |              | <blockquote>[#711] M4 Launch Computational Study Parameters from Portal</blockquote>     |           | In Progress |            |   2'       |
 |     |              | <blockquote>[#681] M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |   1'      |
 |     |              | <blockquote>[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |   1'       |
-| 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |    4'      |
-| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |            |     2'     |
-| 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([MaG]) | In Progress | |    2'      |
-| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] | In Progress  | | CR(+BL): 8'         |
-| 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |            |    2'    |
-| 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |            |    3'    |
-| 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |            |    5'    |
-| 15   | z43          | [#831] TIP v2                                                                    | [SAN]          | Paused      |            |    0'    |
+| 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |   10:13         |    4'      |
+| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |    10:17        |     2'     |
+| 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([MaG]) | In Progress |10:19 |    2'      |
+| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] | In Progress  |10:21 | CR(+BL): 8'         |
+| 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |    10:29        |    2'    |
+| 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |   10:31         |    3'    |
+| 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |    10:34        |    5'    |
+| 15   | z43          | [#831] TIP v2                                                                    | [SAN]          | Paused      |    10:39        |    0'    |
 |   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     | [SAN]          | Paused      |            |    0'   |
 | 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [SAN] ([MaG] [IP]) | ToDo |  | 0'  |
-| 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |            | 3'      |
-| 18 | z43         | [#922] Billing & Tracking: User Metrics |  [ALL] ([DK])    | Ongoing | | 2' |
-| 19  | metrics      | [#881] basic monitoring functionality                                             | [ALL] ([DK])      | In Progress |         |  1'      |
-| 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | | 0' |
-| 21  | resources    | <blockquote>[#618] personalizable resource limits</blockquote>                                             | [SAN]     | In Progress |            | 1'       |
-| 22  |              | [#917] Users notify users | [PC] [OM] | ToDo | | 0' |
-| 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |            |   5'    |
-| 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [ALL] | Ongoing    |           |   3'+2'     |
-| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |            |   0'     |
+| 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |   10:39         | 3'      |
+| 18 | z43         | [#922] Billing & Tracking: User Metrics |  [ALL] ([DK])    | Ongoing |10:42 | 2' |
+| 19  | metrics      | [#881] basic monitoring functionality                                             | [ALL] ([DK])      | In Progress |   10:44      |  1'      |
+| 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | 10:45| 0' |
+| 21  | resources    | <blockquote>[#618] personalizable resource limits</blockquote>                                             | [SAN]     | In Progress |    10:45        | 1'       |
+| 22  |              | [#917] Users notify users | [PC] [OM] | ToDo |10:46 | 0' |
+| 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |    10:46        |   5'    |
+| 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [ALL] | Ongoing    |   10:51        |   3'+2'     |
+| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |   10:56         |   0'     |
 
 
 
