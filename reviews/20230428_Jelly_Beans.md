@@ -53,7 +53,7 @@
 | 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | | 0' |
 | 21  | resources    | <blockquote>[#618] personalizable resource limits</blockquote>                                             | [SAN]     | In Progress |            | 1'       |
 | 22  |              | [#917] Users notify users | [PC] [OM] | ToDo | | |
-| 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |            |        |
+| 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |            |   5'    |
 | 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [ALL] | Ongoing    |           |   2'     |
 | 25  | portal       | [#674] M1-12 Portal development work                                              | [IP]      | Ongoing     |            |        |
 
