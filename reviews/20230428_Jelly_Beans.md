@@ -48,8 +48,8 @@
 |   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     |           | Paused      |            |       |
 | 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [CR] [OM] [MaG] | ToDo |  |   |
 | 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |            | 3'      |
-| 18 | z43         | [#922] Billing & Tracking: User Metrics | [DK] | ToDo | | |
-| 19  | metrics      | [#881] basic monitoring functionality                                             | [DK]      | In Progress |            |        |
+| 18 | z43         | [#922] Billing & Tracking: User Metrics |  [ALL] ([DK])    | Ongoing | | |
+| 19  | metrics      | [#881] basic monitoring functionality                                             | [ALL] ([DK])      | In Progress |         |        |
 | 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | | 0' |
 | 21  | resources    | <blockquote>[#618] personalizable resource limits</blockquote>                                             | [SAN]     | In Progress |            | 1'       |
 | 22  |              | [#917] Users notify users | [PC] [OM] | ToDo | | 0' |
