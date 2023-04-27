@@ -38,7 +38,7 @@
 |     |              | <blockquote>[#681] M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |          |
 |     |              | <blockquote>[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |          |
 | 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |            |          |
-| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [ANE]     | In Progress |            |          |
+| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |            |     2'     |
 | 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([CF]) [MaG] | In Progress | |    2'      |
 | 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] [Mag] [BL] [OM] | In Progress  | |          |
 | 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |            |    2'    |
