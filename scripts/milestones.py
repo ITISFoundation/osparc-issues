@@ -10,7 +10,8 @@ In order to use these scripts one needs to:
 
 import datetime
 from enum import Enum
-from typing import Optional
+from http import HTTPStatus
+from typing import Final, Optional
 
 import arrow
 import requests
@@ -29,6 +30,8 @@ _DEFAULT_REPOS = [
     "osparc-deployment-agent",
 ]
 
+_FAILED_EXIT_CODE: Final[int] = 127
+
 
 def _list_organization_repos(token: str, org: str) -> list[str]:
     url = f"https://api.github.com/orgs/{org}/repos"
@@ -37,8 +40,10 @@ def _list_organization_repos(token: str, org: str) -> list[str]:
         "Accept": "application/vnd.github.v3+json",
     }
     response = requests.get(url, headers=headers)
-    if response.status_code != 200:
-        raise RuntimeError(f"Could not list {org} repositories, {response.json()}")
+    if response.status_code != HTTPStatus.OK:
+        raise RuntimeError(
+            f"Could not list {org} repositories, {response.reason} with {response.json()}"
+        )
 
     list_of_repos = response.json()
     return [repo["name"] for repo in list_of_repos]
@@ -76,10 +81,12 @@ def create(
         }
         response = requests.post(url, headers=headers, json=data)
 
-        if response.status_code == 201:
+        if response.status_code == HTTPStatus.CREATED:
             typer.echo(f"Milestone created successfully in {repo}")
         else:
-            typer.echo(f"Failed to create milestone in {repo}: {response.json()}")
+            typer.echo(
+                f"Failed to create milestone in {repo}: {response.reason} with {response.json()}"
+            )
 
 
 @app.command()
@@ -110,7 +117,7 @@ def modify(
 
     if not data:
         typer.echo(f"Nothing to modify in {title}, wrong call?", err=True)
-        raise typer.Exit(127)
+        raise typer.Exit(_FAILED_EXIT_CODE)
 
     milestone_found = False
     for repo in repos:
@@ -122,7 +129,7 @@ def modify(
         params = {"state": "open"}
         response = requests.get(url, headers=headers, params=params)
 
-        if response.status_code == 200:
+        if response.status_code == HTTPStatus.OK:
             milestones = response.json()
             for milestone in milestones:
                 if milestone["title"] == title:
@@ -132,18 +139,20 @@ def modify(
                     modify_response = requests.patch(
                         modify_url, headers=headers, json=data
                     )
-                    if modify_response.status_code == 200:
+                    if modify_response.status_code == HTTPStatus.OK:
                         typer.echo(
                             f"Milestone '{title}' modified successfully in {repo}"
                         )
                     else:
-                        typer.echo(f"Failed to modify milestone '{title}' in {repo}")
+                        typer.echo(
+                            f"Failed to modify milestone '{title}' in {repo}: {modify_response.reason}"
+                        )
         else:
-            typer.echo(f"Failed to get milestones in {repo}")
-            raise typer.Exit(127)
+            typer.echo(f"Failed to get milestones in {repo}: {response.reason}")
+            raise typer.Exit(_FAILED_EXIT_CODE)
     if not milestone_found:
         typer.echo(f"Failed to find {title} in any of {repos}", err=True)
-        raise typer.Exit(127)
+        raise typer.Exit(_FAILED_EXIT_CODE)
 
 
 @app.command()
@@ -168,7 +177,7 @@ def delete(
         params = {"state": "open"}
         response = requests.get(url, headers=headers, params=params)
 
-        if response.status_code == 200:
+        if response.status_code == HTTPStatus.OK:
             milestones = response.json()
             for milestone in milestones:
                 if milestone["title"] == title:
@@ -176,19 +185,21 @@ def delete(
                     milestone_number = milestone["number"]
                     delete_url = f"{url}/{milestone_number}"
                     delete_response = requests.delete(delete_url, headers=headers)
-                    if delete_response.status_code == 204:
+                    if delete_response.status_code == HTTPStatus.NO_CONTENT:
                         typer.echo(
                             f"Milestone '{title}' deleted successfully in {repo}"
                         )
                     else:
-                        typer.echo(f"Failed to delete milestone '{title}' in {repo}")
-                        raise typer.Exit(127)
+                        typer.echo(
+                            f"Failed to delete milestone '{title}' in {repo}: {delete_response.reason}"
+                        )
+                        raise typer.Exit(_FAILED_EXIT_CODE)
         else:
             typer.echo(f"Failed to get milestones in {repo}")
-            raise typer.Exit(127)
+            raise typer.Exit(_FAILED_EXIT_CODE)
     if not milestone_found:
         typer.echo(f"Failed to find {title} in any of {repos}", err=True)
-        raise typer.Exit(127)
+        raise typer.Exit(_FAILED_EXIT_CODE)
 
 
 if __name__ == "__main__":
