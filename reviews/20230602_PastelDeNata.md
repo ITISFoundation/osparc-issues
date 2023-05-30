@@ -44,7 +44,7 @@
 |10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| ||
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [MB] |**In Progress**|  ||
 |13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
-|14|TIP|[#831] TIP v2| |**In Progress**|||
+|14|TIP|[#831] TIP v2| [OM] |**In Progress**| 2' | |
 |16|dy-services|[#638] improving dynamic-sidecar design| [ANE] |**In Progress**|||
 |19|user request|[#886] user requests (10%)| |**Ongoing**|||
 |12||<blockquote>[#716] Organization of OSPARC User Workspace</blockquote>| |**In Progress**|||
