@@ -30,37 +30,36 @@
 - [Platform releases](https://github.com/ITISFoundation/osparc-simcore/releases)
 
 
-** DO NOT FILL **
-
-| PO  | Topic        | Title                                                                             | Presenter | Status      | Start-Time | Duration |
-| --- | ------------ | --------------------------------------------------------------------------------- | --------- | ----------- | ---------- | -------- |
-| 1   | API          | [#830] Portal - OSPARC connection                                                 | [PC]      |             |    10:05        |        |
-|     |              | <blockquote>[#682] M7 Pulling files from Portal</blockquote>                             |           | In Progress |            |   3'         |
-|     |              | <blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>          |           | Resolved    |            |   1'      |
-|     |              | <blockquote>[#711] M4 Launch Computational Study Parameters from Portal</blockquote>     |           | In Progress |            |   2'       |
-|     |              | <blockquote>[#681] M4 support MAP-Core for simulation on the Portal</blockquote>         |           | OnGoing     |            |   1'      |
-|     |              | <blockquote>[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)</blockquote> |     | ToDo        |            |   1'       |
-| 7   | metamodeling | [#767] metamodeling framework (functionality for cedric and mads)                 | [PC]      | In Progress |   10:13         |    4'      |
-| 8   | dy-services  | [#638] improving dynamic-sidecar design                                           | [SAN] ([ANE])     | In Progress |    10:17        |     2'     |
-| 9   | z43          | [#885] AppTeam Std Simulations on S4L/AWS                                         | [SAN] ([MaG]) | In Progress |10:19 |    2'      |
-| 10  | z43          | [#933] 🚀s4l:web                                                                 | [CR] | In Progress  |10:21 | CR(+BL): 8'         |
-| 12  | z43          | [#929] "Anonymous User Experience" Mode                                           | [OM]      | In Progress |    10:29        |    2'    |
-| 13  | z43          | [#931] S4L Introduction Mode, Helpers/Tippies                                     | [OM]      | In Progress |   10:31         |    3'    |
-| 14  | user_request | [#886] user requests (10%)                                                        | [OM] [...]| Ongoing     |    10:34        |    5'    |
-| 15   | z43          | [#831] TIP v2                                                                    | [SAN]          | Paused      |    10:39        |    0'    |
-|   | z43          | <blockquote>[#880] placeholder TIP field libraries</blockquote>                     | [SAN]          | Paused      |            |    0'   |
-| 16 | z43         | [#930] UX: Introductory Mode for Simulation Tab | [SAN] ([MaG] [IP]) | ToDo |  | 0'  |
-| 17 | z43         | [#923] Product Design: Web Presence, Product                                        | [OM]      | Resolved    |   10:39         | 3'      |
-| 18 | z43         | [#922] Billing & Tracking: User Metrics |  [ALL] ([DK])    | Ongoing |10:42 | 2' |
-| 19  | metrics      | [#881] basic monitoring functionality                                             | [ALL] ([DK])      | In Progress |   10:44      |  1'      |
-| 20  | resources    | [#920] Resource Control: Personalized Resources | [SAN] | In Progress | 10:45| 0' |
-| 21  | resources    | <blockquote>[#618] personalizable resource limits</blockquote>                                             | [SAN]     | In Progress |    10:45        | 1'       |
-| 22  |              | [#917] Users notify users | [PC] [OM] | ToDo |10:46 | 0' |
-| 23  | app          | [#694] M1-12 Proactive onboarding of services and models                          | [EI]      | Ongoing     |    10:46        |   5'    |
-| 24  | maintenance  | [#675] M1-12 Maintenance and DevOps                                               | [PC] [MD] [ALL] | Ongoing    |   10:51        |   3'+2'     |
-| 25  | portal       | [#674] M1-12 Portal development work                                              | [SAN] ([IP])      | Ongoing     |   10:56         |   1'     |
-
-
+|PO|Topic|Title|Presenter|Status|Duration|Start-Time|
+|--|--|--|--|--|--|--|
+|1|s4l:web|[#923] sim4life.io - WP1:  Web Presence||**In Progress**|||
+|2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>||**In Progress**|||
+|3|resources|[#922] sim4life.io - WP3: Tracking of resource usage||**In Progress**|||
+|4|s4l:web|[#950] sim4life.io - WP4: Computational backend||**In Progress**|||
+|5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
+|6|API|[#952] sim4life.io - WP6: API||**In Progress**|||
+|7||[#953] sim4life.io -  WP7: Platform improvements||**In Progress**|||
+|8|s4l:web|[#933] sim4life.io - WP8: s4l:web||**In Progress**|||
+|9|portal|[#682] M7 Pulling files from the Portal||**In Progress**|||
+|10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>||**Resolved**|||
+|11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
+|12|user request|[#716] Organization of OSPARC User Workspace||**In Progress**|||
+|13|API|[#668] DRC & o2S API||**In Progress**|||
+|14|TIP|[#831] TIP v2||**In Progress**|||
+|15|user request|[#419] Allow for dynamic number of input ports in dynamic services||**In Progress**|||
+|16|dy-services|[#638] improving dynamic-sidecar design||**In Progress**|||
+|17|user request|[#909] notify sharer of studies when sharee does not have access to services inside study ||**In Progress**|||
+|18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>||**In Progress**|||
+|19||<blockquote>[#886] user requests (10%)</blockquote>||**Ongoing**|||
+|20||[#697] M8 Attribute (& Charge) Resource Usage||**Todo**|||
+|21|app|[#684] M1-12 Proactive onboarding of services and models||**Ongoing**|||
+|22|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
+|23|API|[#711] M4 Launch Computational Study Parameters from Portal||**In Progress**|||
+|24||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>||**Ongoing**|||
+|25|portal|[#674] M1-12 Portal development work ||**Ongoing**|||
+|26|z43|[#885] AppTeam Std Simulations on S4L/AWS||**In Progress**|||
+|27|resources|[#618] personalizable resource limits||**In Progress**|||
+|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)||**In Progress**|||
 
 
 
@@ -77,46 +76,34 @@
 [performant]: https://git.speag.com/oSparc/e2e-portal-testing/-/pipelines
 
 
-[#355]: https://github.com/ITISFoundation/osparc-issues/issues/355
-[#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
-[#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
-[#654]: https://github.com/ITISFoundation/osparc-issues/issues/654
-[#657]: https://github.com/ITISFoundation/osparc-issues/issues/657
-[#668]: https://github.com/ITISFoundation/osparc-issues/issues/668
-[#673]: https://github.com/ITISFoundation/osparc-issues/issues/673
-[#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
-[#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
-[#676]: https://github.com/ITISFoundation/osparc-issues/issues/676
-[#681]: https://github.com/ITISFoundation/osparc-issues/issues/681
+[#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
+[#949]: https://github.com/ITISFoundation/osparc-issues/issues/949
+[#922]: https://github.com/ITISFoundation/osparc-issues/issues/922
+[#950]: https://github.com/ITISFoundation/osparc-issues/issues/950
+[#951]: https://github.com/ITISFoundation/osparc-issues/issues/951
+[#952]: https://github.com/ITISFoundation/osparc-issues/issues/952
+[#953]: https://github.com/ITISFoundation/osparc-issues/issues/953
+[#933]: https://github.com/ITISFoundation/osparc-issues/issues/933
 [#682]: https://github.com/ITISFoundation/osparc-issues/issues/682
 [#683]: https://github.com/ITISFoundation/osparc-issues/issues/683
-[#693]: https://github.com/ITISFoundation/osparc-issues/issues/693
-[#694]: https://github.com/ITISFoundation/osparc-issues/issues/694
-[#711]: https://github.com/ITISFoundation/osparc-issues/issues/711
-[#740]: https://github.com/ITISFoundation/osparc-issues/issues/740
-[#741]: https://github.com/ITISFoundation/osparc-issues/issues/741
-[#765]: https://github.com/ITISFoundation/osparc-issues/issues/765
-[#766]: https://github.com/ITISFoundation/osparc-issues/issues/766
 [#767]: https://github.com/ITISFoundation/osparc-issues/issues/767
-[#793]: https://github.com/ITISFoundation/osparc-issues/issues/793
-[#829]: https://github.com/ITISFoundation/osparc-issues/issues/829
-[#830]: https://github.com/ITISFoundation/osparc-issues/issues/830
+[#716]: https://github.com/ITISFoundation/osparc-issues/issues/716
+[#668]: https://github.com/ITISFoundation/osparc-issues/issues/668
 [#831]: https://github.com/ITISFoundation/osparc-issues/issues/831
-[#878]: https://github.com/ITISFoundation/osparc-issues/issues/878
-[#879]: https://github.com/ITISFoundation/osparc-issues/issues/879
-[#880]: https://github.com/ITISFoundation/osparc-issues/issues/880
-[#881]: https://github.com/ITISFoundation/osparc-issues/issues/881
-[#885]: https://github.com/ITISFoundation/osparc-issues/issues/885
+[#419]: https://github.com/ITISFoundation/osparc-issues/issues/419
+[#638]: https://github.com/ITISFoundation/osparc-issues/issues/638
+[#909]: https://github.com/ITISFoundation/osparc-issues/issues/909
+[#747]: https://github.com/ITISFoundation/osparc-issues/issues/747
 [#886]: https://github.com/ITISFoundation/osparc-issues/issues/886
-[#917]: https://github.com/ITISFoundation/osparc-issues/issues/917
-[#920]: https://github.com/ITISFoundation/osparc-issues/issues/920
-[#922]: https://github.com/ITISFoundation/osparc-issues/issues/922
-[#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
-[#929]: https://github.com/ITISFoundation/osparc-issues/issues/929
-[#930]: https://github.com/ITISFoundation/osparc-issues/issues/930
-[#931]: https://github.com/ITISFoundation/osparc-issues/issues/931
-[#933]: https://github.com/ITISFoundation/osparc-issues/issues/933
-
+[#697]: https://github.com/ITISFoundation/osparc-issues/issues/697
+[#684]: https://github.com/ITISFoundation/osparc-issues/issues/684
+[#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
+[#711]: https://github.com/ITISFoundation/osparc-issues/issues/711
+[#681]: https://github.com/ITISFoundation/osparc-issues/issues/681
+[#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
+[#885]: https://github.com/ITISFoundation/osparc-issues/issues/885
+[#618]: https://github.com/ITISFoundation/osparc-issues/issues/618
+[#673]: https://github.com/ITISFoundation/osparc-issues/issues/673
 
 [MD]:https://github.com/matusdrobuliak66
 [ALL]:https://github.com/Surfict
