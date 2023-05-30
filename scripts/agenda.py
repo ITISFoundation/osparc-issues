@@ -36,6 +36,8 @@ TEAM_ACRONYMS_MAP = {
     "EI": "elisabettai",
     "IP": "ignapas",
     "MaG": "mguidon",
+    "MB" : "bisgaard-itis",
+    "Nik": "drniiken",
     "OM": "odeimaiz",
     "PC": "pcrespov",
     "SAN": "sanderegg",
