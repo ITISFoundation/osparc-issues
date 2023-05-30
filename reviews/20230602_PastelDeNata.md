@@ -50,7 +50,7 @@
 |12||<blockquote>[#716] Organization of OSPARC User Workspace</blockquote>| |**In Progress**|||
 |15||<blockquote>[#419] Allow for dynamic number of input ports in dynamic services</blockquote>| [OM] |**Resolved**| 3' ||  
 |17||<blockquote>[#909] notify sharer of studies when sharee does not have access to services inside study</blockquote>| [MD] |**In Progress**|||
-|18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>| [OM] |**In Progress**|||
+|18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>| [OM] |**In Progress**| 1' ||
 |20||[#697] M8 Attribute (& Charge) Resource Usage||**Todo**|||
 |21|app|[#684] M1-12 Proactive onboarding of services and models||**Ongoing**|||
 |22|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
