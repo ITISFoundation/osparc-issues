@@ -33,7 +33,7 @@
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
 |1|s4l:web|[#923] sim4life.io - WP1:  Web Presence| [OM] [Nik]  |**In Progress**|||
-|2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>||**In Progress**|||
+|2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>||**In Progress**|3'||
 |3|resources|[#922] sim4life.io - WP3: Tracking of resource usage| [SAN] |**In Progress**|||
 |4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [MaG] |**In Progress**|||
 |5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
