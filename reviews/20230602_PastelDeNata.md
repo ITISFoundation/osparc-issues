@@ -32,25 +32,25 @@
 
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
-|1|s4l:web|[#923] sim4life.io - WP1:  Web Presence||**In Progress**|||
+|1|s4l:web|[#923] sim4life.io - WP1:  Web Presence| [OM] [Nik]  |**In Progress**|||
 |2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>||**In Progress**|||
-|3|resources|[#922] sim4life.io - WP3: Tracking of resource usage||**In Progress**|||
-|4|s4l:web|[#950] sim4life.io - WP4: Computational backend||**In Progress**|||
+|3|resources|[#922] sim4life.io - WP3: Tracking of resource usage| [SAN] |**In Progress**|||
+|4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [MaG] |**In Progress**|||
 |5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
-|6|API|[#952] sim4life.io - WP6: API||**In Progress**|||
-|7||[#953] sim4life.io -  WP7: Platform improvements||**In Progress**|||
-|8|s4l:web|[#933] sim4life.io - WP8: s4l:web||**In Progress**|||
-|9|portal|[#682] M7 Pulling files from the Portal||**In Progress**|||
-|10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>||**Resolved**|||
-|11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)||**In Progress**|||
+|6|API|[#952] sim4life.io - WP6: API| [PC] |**In Progress**| 3' ||
+|7||[#953] sim4life.io -  WP7: Platform improvements| |**In Progress**|||
+|8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG] |**In Progress**|||
+|9|portal|[#682] M7 Pulling files from the Portal| [IP] |**In Progress**| ||
+|10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| ||
+|11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [MB] |**In Progress**|  ||
 |12|user request|[#716] Organization of OSPARC User Workspace||**In Progress**|||
-|13|API|[#668] DRC & o2S API||**In Progress**|||
-|14|TIP|[#831] TIP v2||**In Progress**|||
-|15|user request|[#419] Allow for dynamic number of input ports in dynamic services||**In Progress**|||
-|16|dy-services|[#638] improving dynamic-sidecar design||**In Progress**|||
-|17|user request|[#909] notify sharer of studies when sharee does not have access to services inside study ||**In Progress**|||
-|18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>||**In Progress**|||
-|19||<blockquote>[#886] user requests (10%)</blockquote>||**Ongoing**|||
+|13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
+|14|TIP|[#831] TIP v2| |**In Progress**|||
+|15|user request|[#419] Allow for dynamic number of input ports in dynamic services| [OM] |**In Progress**|||
+|16|dy-services|[#638] improving dynamic-sidecar design| [ANE] |**In Progress**|||
+|19|[#886] user requests (10%)|**Ongoing**|||
+|17||<blockquote>user request|[#909] notify sharer of studies when sharee does not have access to services inside study</blockquote> | [MD] |**In Progress**|||
+|18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>| [OM] |**In Progress**|||
 |20||[#697] M8 Attribute (& Charge) Resource Usage||**Todo**|||
 |21|app|[#684] M1-12 Proactive onboarding of services and models||**Ongoing**|||
 |22|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
@@ -59,7 +59,7 @@
 |25|portal|[#674] M1-12 Portal development work ||**Ongoing**|||
 |26|z43|[#885] AppTeam Std Simulations on S4L/AWS||**In Progress**|||
 |27|resources|[#618] personalizable resource limits||**In Progress**|||
-|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)||**In Progress**|||
+|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [ANE] |**In Progress**|||
 
 
 
@@ -122,3 +122,4 @@
 [CF]:https://github.com/cosfor1
 [HBS]:https://github.com/habz-bs
 [MB]:https://github.com/bisgaard-itis
+[Nik]:https://github.com/drniiken
