@@ -90,7 +90,8 @@ def to_md(csv_path: Path):
             issue_numbers = []
             for row in reader:
                 # group
-                issue = search_in_mapping_db(row["Title"])
+                # issue = search_in_mapping_db(row["Title"])
+                issue = row['Issue']
                 issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
                 topic = row["Topic"]
