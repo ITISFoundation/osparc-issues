@@ -34,8 +34,8 @@
 |--|--|--|--|--|--|--|
 |1|s4l:web|[#923] sim4life.io - WP1:  Web Presence| [OM] [Nik]  |**In Progress**| 5' ||
 |2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>| [OM] |**In Progress**| 3' ||
-|3|resources|[#922] sim4life.io - WP3: Tracking of resource usage| [SAN] |**In Progress**|||
-|4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [MaG] |**In Progress**|||
+|3|resources|[#922] sim4life.io - WP3: Tracking of resource usage| [SAN] |**In Progress**| 4' (SAN) ||
+|4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [MaG] |**In Progress**| 8' (SAN) ||
 |5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
 |6|API|[#952] sim4life.io - WP6: API| [PC] |**In Progress**| 3' ||
 |7||[#953] sim4life.io -  WP7: Platform improvements| |**In Progress**|||
