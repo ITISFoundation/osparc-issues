@@ -52,7 +52,7 @@
 |17||<blockquote>[#909] notify sharer of studies when sharee does not have access to services inside study</blockquote>| [MD] |**In Progress**|||
 |18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>| [OM] |**In Progress**| 1' ||
 |20||[#697] M8 Attribute (& Charge) Resource Usage||**Todo**|||
-|21|app|[#684] M1-12 Proactive onboarding of services and models||**Ongoing**|||
+|21|app|[#684] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**|3'||
 |22|maintenance|[#675] M1-12 Maintenance and DevOps||**Ongoing**|||
 |23|API|[#711] M4 Launch Computational Study Parameters from Portal| [PC] |**In Progress**| 2' ||
 |24||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| |**Ongoing**|||
