@@ -41,7 +41,7 @@
 |7||[#953] sim4life.io -  WP7: Platform improvements| |**In Progress**|||
 |8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG] |**In Progress**| 2'||
 |9|portal|[#682] M7 Pulling files from the Portal| [IP] |**In Progress**| ||
-|10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| ||
+|10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| 1'||
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [MB] |**In Progress**|  ||
 |13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
 |14|TIP|[#831] TIP v2| [OM] |**In Progress**| 2' | |
