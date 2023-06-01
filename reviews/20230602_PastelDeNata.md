@@ -14,9 +14,9 @@
 
 ### Dashboards 📊
 
-- [Product Backlog](https://github.com/orgs/ITISFoundation/projects/3) (PO view)
+- [Product Backlog](https://github.com/orgs/ITISFoundation/projects/13) (PO view)
 - [Sprint Scrum Wall](https://github.com/orgs/ITISFoundation/projects/9) (developers view)
-- Activity: [sprint-PRs](https://github.com/pulls?q=is%3Apr+user%3AITISFoundation+archived%3Afalse+milestone%3A%22Jelly+Beans%22) and [sprint-MRs](https://git.speag.com/groups/oSparc/-/merge_requests)
+- Activity: [sprint-PRs](https://github.com/pulls?q=is%3Apr+user%3AITISFoundation+archived%3Afalse+milestone%3A%22Pastel+de+Nata%22) and [sprint-MRs](https://git.speag.com/groups/oSparc/-/merge_requests)
 
 ### Deployed environments 🚀
 
