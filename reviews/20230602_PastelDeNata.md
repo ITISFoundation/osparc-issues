@@ -43,7 +43,7 @@
 |5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
 |6|API|[#952] sim4life.io - WP6: API| [PC] |**In Progress**| 2' ||
 |7||[#953] sim4life.io -  WP7: Platform improvements| [PC] |**In Progress**| 2' ||
-|8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG], [CR] |**In Progress**| 2', 1'||
+|8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG], [CR] |**In Progress**| 2' + 1'||
 |9|portal|[#682] M7 Pulling files from the Portal| [PC] on behalf of [IP] |**In Progress**| 1' ||
 |10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| 1'||
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [PC] [MB]  |**In Progress**| 4' ||
