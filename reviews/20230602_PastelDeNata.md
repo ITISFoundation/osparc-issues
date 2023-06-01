@@ -1,4 +1,4 @@
-# Review Meeting - 02 June, 2023 @ 10:00 CET
+# Review Meeting - June 2, 2023 @ 10:00 CET
 ![image](https://github.com/ITISFoundation/osparc-issues/assets/32402063/1ee34262-8c3d-4fd1-858b-6c98eafb1825)
 
 
