@@ -3,7 +3,7 @@
 
 
 ## Sprint 🏃
-- **Pastel de Nata**
+- [**Pastel de Nata**](https://en.wikipedia.org/wiki/Pastel_de_nata) 🧁
 - 🕐 PM1(May 10) - PM2(May 12+15) - RM(June 2)
 - Scrum Master: [PC]
 
