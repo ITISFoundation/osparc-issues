@@ -1,6 +1,6 @@
 # Review Meeting - June 2, 2023 @ 10:00 CET
-![image](https://github.com/ITISFoundation/osparc-issues/assets/32402063/1ee34262-8c3d-4fd1-858b-6c98eafb1825)
 
+<img width="600" alt="image" src="https://github.com/ITISFoundation/osparc-issues/assets/32402063/1ee34262-8c3d-4fd1-858b-6c98eafb1825">
 
 ## Sprint 🏃
 - [**Pastel de Nata**](https://en.wikipedia.org/wiki/Pastel_de_nata) 🧁
