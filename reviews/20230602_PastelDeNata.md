@@ -59,7 +59,7 @@
 |25|portal|[#674] M1-12 Portal development work ||**Ongoing**|||
 |26|z43|[#885] AppTeam Std Simulations on S4L/AWS||**In Progress**|||
 |27|resources|[#618] personalizable resource limits| [SAN] |**In Progress**| 1' ||
-|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] |**In Progress**|3'||
+|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] ([ANE]) |**In Progress**|3'||
 
 
 
