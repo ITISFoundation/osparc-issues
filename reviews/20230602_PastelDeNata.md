@@ -40,7 +40,7 @@
 |6|API|[#952] sim4life.io - WP6: API| [PC] |**In Progress**| 2' ||
 |7||[#953] sim4life.io -  WP7: Platform improvements| [PC] |**In Progress**| 2' ||
 |8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG] |**In Progress**| 2'||
-|9|portal|[#682] M7 Pulling files from the Portal| [PC] [IP] |**In Progress**| 1' ||
+|9|portal|[#682] M7 Pulling files from the Portal| [PC] on behalf of [IP] |**In Progress**| 1' ||
 |10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| 1'||
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [PC] [MB]  |**In Progress**| 4' ||
 |13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
@@ -56,10 +56,10 @@
 |22|maintenance|[#675] M1-12 Maintenance and DevOps| [PC] |**Ongoing**| 2' | |
 |23|API|[#711] M4 Launch Computational Study Parameters from Portal| [PC] |**In Progress**| 1' ||
 |24||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>|  [PC] |**Ongoing**| 1' ||
-|25|portal|[#674] M1-12 Portal development work | [IP] [MaG] |**Ongoing**| 1' ||
+|25|portal|[#674] M1-12 Portal development work | [MaG] on behalf of [IP]  |**Ongoing**| 1' ||
 |26|z43|[#885] AppTeam Std Simulations on S4L/AWS| [MaG] |**In Progress**| 1' ||
 |27|resources|[#618] personalizable resource limits| [SAN] |**In Progress**| 1' ||
-|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] on belhalf of [ANE] |**In Progress**|3'||
+|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] on behalf of [ANE] |**In Progress**|3'||
 
 
 
