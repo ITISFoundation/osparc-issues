@@ -35,29 +35,29 @@
 |1|s4l:web|[#923] sim4life.io - WP1:  Web Presence| [OM] [Nik]  |**In Progress**| 5' ||
 |2||<blockquote>[#949] sim4life.io - WP2: Product</blockquote>| [OM] |**In Progress**| 3' ||
 |3|resources|[#922] sim4life.io - WP3: Tracking of resource usage| [SAN] |**In Progress**| 4' ||
-|4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [SAN] on behalf of [MaG] |**In Progress**| 8' ||
+|4|s4l:web|[#950] sim4life.io - WP4: Computational backend| [SAN] [MaG] |**In Progress**| 8' ||
 |5||<blockquote>[#951] sim4life.io - WP5: Dynamic services backend</blockquote>||**In Progress**|||
 |6|API|[#952] sim4life.io - WP6: API| [PC] |**In Progress**| 2' ||
-|7||[#953] sim4life.io -  WP7: Platform improvements| |**In Progress**|||
+|7||[#953] sim4life.io -  WP7: Platform improvements| [PC] |**In Progress**| 2' ||
 |8|s4l:web|[#933] sim4life.io - WP8: s4l:web| [MaG] |**In Progress**| 2'||
-|9|portal|[#682] M7 Pulling files from the Portal| [IP] |**In Progress**| ||
+|9|portal|[#682] M7 Pulling files from the Portal| [PC] [IP] |**In Progress**| 1' ||
 |10||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>| [EI] |**Resolved**| 1'||
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [PC] [MB]  |**In Progress**| 4' ||
 |13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
 |14|TIP|[#831] TIP v2| [OM] |**In Progress**| 2' | |
 |16|dy-services|[#638] improving dynamic-sidecar design| [ANE] |**In Progress**|||
 |19|user request|[#886] user requests (10%)| |**Ongoing**|||
-|12||<blockquote>[#716] Organization of OSPARC User Workspace</blockquote>| |**In Progress**|||
+|12||<blockquote>[#716] Organization of OSPARC User Workspace</blockquote>| [MD] |**In Progress**| 1' ||
 |15||<blockquote>[#419] Allow for dynamic number of input ports in dynamic services</blockquote>| [OM] |**Resolved**| 3' ||  
-|17||<blockquote>[#909] notify sharer of studies when sharee does not have access to services inside study</blockquote>| [MD] |**In Progress**|||
+|17||<blockquote>[#909] notify sharer of studies when sharee does not have access to services inside study</blockquote>| [OM] [MD] |**Resolved**| 2' ||
 |18||<blockquote>[#747] Clicking on logger while opening large study crashes the browser</blockquote>| [OM] |**In Progress**| 1' ||
 |20||[#697] M8 Attribute (& Charge) Resource Usage||**Todo**|||
-|21|app|[#684] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**|3'||
+|21|app|[#684] M1-12 Proactive onboarding of services and models| [EI] |**Ongoing**|3'||
 |22|maintenance|[#675] M1-12 Maintenance and DevOps| [PC] |**Ongoing**| 2' | |
 |23|API|[#711] M4 Launch Computational Study Parameters from Portal| [PC] |**In Progress**| 1' ||
-|24||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>| |**Ongoing**|||
-|25|portal|[#674] M1-12 Portal development work ||**Ongoing**|||
-|26|z43|[#885] AppTeam Std Simulations on S4L/AWS||**In Progress**|||
+|24||<blockquote>[#681] M4 Support MAP-Core for simulations on the Portal</blockquote>|  [PC] |**Ongoing**| 1' ||
+|25|portal|[#674] M1-12 Portal development work | [IP] [MaG] |**Ongoing**| 1' ||
+|26|z43|[#885] AppTeam Std Simulations on S4L/AWS| [MaG] |**In Progress**| 1' ||
 |27|resources|[#618] personalizable resource limits| [SAN] |**In Progress**| 1' ||
 |28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] ([ANE]) |**In Progress**|3'||
 
