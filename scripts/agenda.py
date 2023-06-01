@@ -36,7 +36,7 @@ TEAM_ACRONYMS_MAP = {
     "EI": "elisabettai",
     "IP": "ignapas",
     "MaG": "mguidon",
-    "MB" : "bisgaard-itis",
+    "MB": "bisgaard-itis",
     "Nik": "drniiken",
     "OM": "odeimaiz",
     "PC": "pcrespov",
@@ -48,25 +48,6 @@ def to_md_row(row: list[str]):
     return "|" + "|".join(row) + "|"
 
 
-def search_in_mapping_db(issue_title):
-    # NOTE: below file contains issue names and item numbers,
-    # separated by `#`, example:
-    # `Portal work#545` will generate the following:
-    # - description=`Portal work`
-    # - issue=`545`
-
-    file_content = Path("mapping_db.ignore.txt").read_text()
-    lines = file_content.strip().split("\n")
-
-    def _extract(line):
-        description, issue = line.split("#")
-        return description, issue
-
-    mapping = dict({_extract(l) for l in lines})
-
-    return mapping[issue_title]
-
-
 def format_status(status):
     if status == "undefined":
         return ""
@@ -75,7 +56,7 @@ def format_status(status):
     return status
 
 
-def to_md(csv_path: Path):
+def create_markdown_file(csv_path: Path) -> Path:
     md_path = csv_path.with_suffix(".md")
 
     with csv_path.open() as csvfile:
@@ -90,9 +71,9 @@ def to_md(csv_path: Path):
             issue_numbers = []
             for row in reader:
                 # group
-                # issue = search_in_mapping_db(row["Title"])
-                issue = row['Issue']
-                issue_numbers.append(issue)
+                issue = row.get("Issue")  # This column is added manually!
+                if issue is not None:
+                    issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
                 topic = row["Topic"]
                 indented = False
@@ -117,6 +98,8 @@ def to_md(csv_path: Path):
                     ),
                     file=md,
                 )
+
+            print("", file=md)
             for issue in issue_numbers:
                 md.writelines(
                     f"[#{issue}]: https://github.com/ITISFoundation/osparc-issues/issues/{issue}\n"
@@ -125,7 +108,7 @@ def to_md(csv_path: Path):
             print("", file=md)
             for acronym in sorted(TEAM_ACRONYMS_MAP.keys()):
                 username = TEAM_ACRONYMS_MAP[acronym]
-                print(f"[{acronym}]:https://github.com/{username}", kwargs)
+                print(f"[{acronym}]:https://github.com/{username}", file=md)
 
     return md_path
 
@@ -133,7 +116,7 @@ def to_md(csv_path: Path):
 def create_md_from_csv():
     for csv_path in Path.cwd().glob("*.csv"):
         logger.info("Processing %s ...", csv_path)
-        md_path = to_md(csv_path)
+        md_path = create_markdown_file(csv_path)
         logger.info("Created %s", md_path)
 
 
