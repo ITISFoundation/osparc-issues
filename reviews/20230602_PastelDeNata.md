@@ -30,6 +30,8 @@
 - [Platform releases](https://github.com/ITISFoundation/osparc-simcore/releases)
 
 
+### Agenda 📝
+
 |PO|Topic|Title|Presenter|Status|Duration|Start-Time|
 |--|--|--|--|--|--|--|
 |1|s4l:web|[#923] sim4life.io - WP1:  Web Presence| [OM] [Nik]  |**In Progress**| 5' ||
