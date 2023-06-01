@@ -45,7 +45,7 @@
 |11|metamodeling|[#767] metamodeling framework (functionality for cedric and mads)| [PC] [MB]  |**In Progress**| 4' ||
 |13|API|[#668] DRC & o2S API| [PC] |**In Progress**| 1' ||
 |14|TIP|[#831] TIP v2| [OM] |**In Progress**| 2' | |
-|16|dy-services|[#638] improving dynamic-sidecar design| [ANE] |**In Progress**|||
+|16|dy-services|[#638] improving dynamic-sidecar design| [SAN] on behalf of [ANE] |**In Progress**| 3' ||
 |19|user request|[#886] user requests (10%)| |**Ongoing**|||
 |12||<blockquote>[#716] Organization of OSPARC User Workspace</blockquote>| [MD] |**In Progress**| 1' ||
 |15||<blockquote>[#419] Allow for dynamic number of input ports in dynamic services</blockquote>| [OM] |**Resolved**| 3' ||  
@@ -59,7 +59,7 @@
 |25|portal|[#674] M1-12 Portal development work | [IP] [MaG] |**Ongoing**| 1' ||
 |26|z43|[#885] AppTeam Std Simulations on S4L/AWS| [MaG] |**In Progress**| 1' ||
 |27|resources|[#618] personalizable resource limits| [SAN] |**In Progress**| 1' ||
-|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] ([ANE]) |**In Progress**|3'||
+|28|portal|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)| [EI] on belhalf of [ANE] |**In Progress**|3'||
 
 
 
