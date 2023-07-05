@@ -25,9 +25,9 @@ logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
-COLUMNS = "PO Topic Title Presenter Status Duration Start-Time".split()
+COLUMNS = "Topic Title Presenter Status Duration Start-Time".split()
 
-TEAM_ACRONYMS_MAP = {
+INITIALS_TO_USERNAMES = {
     "ALL": "Surfict",
     "ANE": "GitHK",
     "BL": "dyollb",
@@ -42,6 +42,8 @@ TEAM_ACRONYMS_MAP = {
     "PC": "pcrespov",
     "SAN": "sanderegg",
 }
+
+USERNAMES_TO_INITIALS = {value: key for key, value in INITIALS_TO_USERNAMES.items()}
 
 
 def to_md_row(row: list[str]):
@@ -60,7 +62,7 @@ def create_markdown_file(csv_path: Path) -> Path:
     md_path = csv_path.with_suffix(".md")
 
     with csv_path.open() as csvfile:
-        reader = csv.DictReader(csvfile)
+        reader = csv.DictReader(csvfile, delimiter="	")
 
         with md_path.open("wt") as md:
             print(to_md_row(COLUMNS), file=md)
@@ -71,9 +73,8 @@ def create_markdown_file(csv_path: Path) -> Path:
             issue_numbers = []
             for row in reader:
                 # group
-                issue = row.get("Issue")  # This column is added manually!
-                if issue is not None:
-                    issue_numbers.append(issue)
+                issue = row["Issue"].split("/")[-1]
+                issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
                 topic = row["Topic"]
                 indented = False
@@ -81,19 +82,22 @@ def create_markdown_file(csv_path: Path) -> Path:
                     indented = True
                     title = f"<blockquote>{title}</blockquote>"
                 current_topic = topic
-
+                assignees = [
+                    f"[{USERNAMES_TO_INITIALS[u]}]"
+                    for u in re.findall(r"(\b\w+\b)", row["Assignees"])
+                    if u in USERNAMES_TO_INITIALS
+                ]
                 # write
                 col_topic = "" if (indented or topic == "undefined") else topic
                 print(
                     to_md_row(
                         [
-                            row["PO Priority"],
-                            col_topic,
-                            title,
-                            "",  # do not add presenters
-                            format_status(row["Status"]),
-                            "",
-                            "",
+                            col_topic,  # topic
+                            title,  # title
+                            ", ".join(assignees),  # presenters
+                            format_status(row["Status"]),  # Status
+                            "",  # Duration
+                            "",  #
                         ]
                     ),
                     file=md,
@@ -106,8 +110,8 @@ def create_markdown_file(csv_path: Path) -> Path:
                 )
 
             print("", file=md)
-            for acronym in sorted(TEAM_ACRONYMS_MAP.keys()):
-                username = TEAM_ACRONYMS_MAP[acronym]
+            for acronym in sorted(INITIALS_TO_USERNAMES.keys()):
+                username = INITIALS_TO_USERNAMES[acronym]
                 print(f"[{acronym}]:https://github.com/{username}", file=md)
 
     return md_path
