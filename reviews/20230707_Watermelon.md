@@ -47,8 +47,8 @@
 |WP6|[#952] sim4life.io - WP6: API| [PC], [MB]|**In Progress**||5'|
 |WP7|[#953] sim4life.io -  WP7: Platform improvements|[PC]|**In Progress**|||
 ||<blockquote>[#979] Project home page</blockquote>|[BL], [MD], [MaG], [OM]|**In Progress**|||
-||<blockquote>[#716] Folders in User Workspace</blockquote>|[MD], [OM]|**In Progress**|||
-||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Done**|||
+||<blockquote>[#716] Folders in User Workspace</blockquote>|[MD], [OM]|**Todo**|||
+||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Duplicated**|||
 ||<blockquote>[#980] Fast navigation between projects</blockquote>|[MD], [OM], [PC], [SAN]|**Todo**|||
 ||<blockquote>[#917] Users notify users</blockquote>|[OM]|**In Progress**|||
 |WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL],[IP], [MaG]|**In Progress**|||
