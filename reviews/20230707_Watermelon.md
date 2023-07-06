@@ -51,7 +51,7 @@
 ||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Duplicated**|||
 ||<blockquote>[#980] Fast navigation between projects</blockquote>|[MD], [OM], [PC], [SAN]|**Todo**|||
 ||<blockquote>[#917] Users notify users</blockquote>|[OM]|**Done**||3'|
-|WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL],[IP], [MaG]|**In Progress**|||
+|WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL],[IP], [MaG]|**In Progress**||CR 7'|
 ||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP], [MaG], [OM]|**In Progress**|||
 ||<blockquote>[#881] basic monitoring functionality</blockquote>|[MaG]|**In Progress**||3'|
 ||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**||1'|
