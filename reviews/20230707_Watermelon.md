@@ -59,7 +59,7 @@
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
 |TIP|[#831] TIP v2|[MaG], [OM]|**In Progress**|||
 |Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|||
-||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**||1'|
+||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**|||
 |ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
 |Y6-API|[#668] DRC & o2S API|[PC][MB]|**In Progress**||3'|
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
