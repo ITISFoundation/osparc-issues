@@ -42,7 +42,7 @@
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**|||
 ||<blockquote>[#885] AppTeam Std Simulations on S4L/AWS</blockquote>|-|**In Progress**|||
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[SAN]|**In Progress**|||
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**||3'|
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE],[SAN]|**In Progress**||3'|
 ||<blockquote>[#638] improving dynamic-sidecar design</blockquote>|[ANE]|**In Progress**||1'|
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[SAN]|**In Progress**|||
 |WP6|[#952] sim4life.io - WP6: API| [PC], [MB]|**In Progress**||5'|
