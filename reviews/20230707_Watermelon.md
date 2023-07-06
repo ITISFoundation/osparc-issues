@@ -53,11 +53,11 @@
 ||<blockquote>[#917] Users notify users</blockquote>|[OM]|**In Progress**|||
 |WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL],[IP], [MaG]|**In Progress**|||
 ||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP], [MaG], [OM]|**In Progress**|||
-||<blockquote>[#881] basic monitoring functionality</blockquote>|[MD], [MaG], [DK]|**Todo**|||
-||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**|||
+||<blockquote>[#881] basic monitoring functionality</blockquote>|[MaG]|**In Progress**||3'|
+||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**||1'|
 ||<blockquote>[#929] Anonymous User Experience Mode</blockquote>|[MaG], [OM], [PC]|**Todo**|||
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
-|TIP|[#831] TIP v2|[MaG], [OM]|**In Progress**|||
+|TIP|[#831] TIP v2|[MaG], [OM]|**In Progress**||1'|
 |Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|||
 ||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**|||
 |ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
