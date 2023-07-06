@@ -73,6 +73,7 @@
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
 |Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**||2'+|
 |Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**|||
+|Z43|[#1000] Sim4Life with Electron: proof of concept|[SCA]|**Ongoing**|||
 
 
 
@@ -129,6 +130,8 @@
 [#674]: https://github.com/ITISFoundation/osparc-issues/issues/674
 [#675]: https://github.com/ITISFoundation/osparc-issues/issues/675
 [#976]: https://github.com/ITISFoundation/osparc-issues/issues/976
+[#1000]: https://github.com/ITISFoundation/osparc-issues/issues/1000
+
 
 [ALL]:https://github.com/Surfict
 [ANE]:https://github.com/GitHK
@@ -145,6 +148,6 @@
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
 [SB]:https://github.com/sbenkler
-[SC]:https://github.com/SCA-ZMT
+[SCA]:https://github.com/SCA-ZMT
 [TN]:https://github.com/newton1985
 [YH]:https://github.com/YuryHrytsuk
