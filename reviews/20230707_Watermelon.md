@@ -34,7 +34,7 @@
 
 ### Agenda 📝
 
-|Topic|Title|Presenter|Status|Duration|Start-Time|
+|Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 |WP1|[#923] sim4life.io - WP1:  Web Presence|[Nik], [OM]|**In Progress**|||
 |WP2|[#949] sim4life.io - WP2: Product|[DK], [OM], [ALL]|**In Progress**|||
