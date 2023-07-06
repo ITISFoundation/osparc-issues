@@ -69,9 +69,9 @@
 |Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI], [DK]|**Ongoing**|||
 |Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**In Progress**|||
-||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[EI], [PC]|**Ongoing**|||
+||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[EI], [PC]|**Ongoing**||1'|
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
-|Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**|||
+|Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**||2'+|
 |Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**|||
 
 
