@@ -37,10 +37,15 @@ INITIALS_TO_USERNAMES = {
     "IP": "ignapas",
     "MaG": "mguidon",
     "MB": "bisgaard-itis",
+    "MD": "matusdrobuliak66",
     "Nik": "drniiken",
     "OM": "odeimaiz",
     "PC": "pcrespov",
     "SAN": "sanderegg",
+    "SB": "sbenkler",
+    "SC": "SCA-ZMT",
+    "TN": "newton1985",
+    "YH": "YuryHrytsuk",
 }
 
 USERNAMES_TO_INITIALS = {value: key for key, value in INITIALS_TO_USERNAMES.items()}
