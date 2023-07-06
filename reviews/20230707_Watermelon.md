@@ -38,43 +38,43 @@
 |--|--|--|--|--|--|
 |WP1|[#923] sim4life.io - WP1:  Web Presence|[Nik], [OM]|**In Progress**|11:55 |1'|
 |WP2|[#949] sim4life.io - WP2: Product|[OM]|**In Progress**|11:56|2'|
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[SAN],  [MD]|**In Progress**|| 15'|
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[SAN],  [MD]|**In Progress**|11:58| 15'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**|||
 ||<blockquote>[#885] AppTeam Std Simulations on S4L/AWS</blockquote>|-|**In Progress**|||
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[SAN]|**In Progress**|||
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE],[SAN]|**In Progress**||3'|
-||<blockquote>[#638] improving dynamic-sidecar design</blockquote>|[ANE]|**In Progress**||1'|
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE],[SAN]|**In Progress**|12:13|3'|
+||<blockquote>[#638] improving dynamic-sidecar design</blockquote>|[ANE]|**In Progress**|12:16|1'|
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[SAN]|**In Progress**|||
-|WP6|[#952] sim4life.io - WP6: API| [PC], [MB]|**In Progress**||5'|
+|WP6|[#952] sim4life.io - WP6: API| [PC], [MB]|**In Progress**|12:17|5'|
 |WP7|[#953] sim4life.io -  WP7: Platform improvements|[PC]|**In Progress**|||
-||<blockquote>[#979] Project home page</blockquote>|[OM], [BL]  |**In Progress**||5'|
+||<blockquote>[#979] Project home page</blockquote>|[OM], [BL]  |**In Progress**|12:22|5'|
 ||<blockquote>[#716] Folders in User Workspace</blockquote>|[MD], [OM]|**Todo**|||
 ||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Duplicated**|||
 ||<blockquote>[#980] Fast navigation between projects</blockquote>|[MD], [OM], [PC], [SAN]|**Todo**|||
-||<blockquote>[#917] Users notify users</blockquote>|[OM]|**Done**||3'|
-|WP8|[#933] sim4life.io - WP8: s4l:web|[CR]|**In Progress**||7'|
-||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP]|**In Progress**|| 5'|
-||<blockquote>[#881] basic monitoring functionality</blockquote>|[MaG]|**In Progress**||3'|
-||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**||1'|
+||<blockquote>[#917] Users notify users</blockquote>|[OM]|**Done**|12:27|3'|
+|WP8|[#933] sim4life.io - WP8: s4l:web|[CR]|**In Progress**|12:30|7'|
+||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP]|**In Progress**|12:37| 5'|
+||<blockquote>[#881] basic monitoring functionality</blockquote>|[MaG]|**In Progress**|12:42|3'|
+||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**|12:45|1'|
 ||<blockquote>[#929] Anonymous User Experience Mode</blockquote>|[MaG], [OM], [PC]|**Todo**|||
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
-|TIP|[#831] TIP v2|[MaG] |**In Progress**||1'|
-|Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|| 5' |
-||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**|| 1'|
-|ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
-|Y6-API|[#668] DRC & o2S API|[PC], [MB] |**In Progress**||3'|
+|TIP|[#831] TIP v2|[MaG] |**In Progress**|12:46|1'|
+|Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|12:47| 5' |
+||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**|12:52| 1'|
+|ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**|12:53|2'|
+|Y6-API|[#668] DRC & o2S API|[PC], [MB] |**In Progress**|12:55|3'|
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
-||<blockquote>[#710] M12 API tutorial</blockquote>| [MB]|**In Progress**||1'|
-|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**||2'|
-|Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage| [DK] |**In Progress**||1'|
-|Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||8'|
-|Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal| [PC]|**Done**||1'|
-||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[PC]|**Ongoing**||1'|
-||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP]|**Ongoing**||1'|
-|Maintenance|[#675] M1-12 Maintenance and DevOps| [DK], [PC]|**Ongoing**||6'|
-|Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**||2'|
-|Z43|[#1000] Sim4Life with Electron: proof of concept|[SCA]|**Ongoing**||1'|
+||<blockquote>[#710] M12 API tutorial</blockquote>| [MB]|**In Progress**|12:58|1'|
+|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**|12:59|2'|
+|Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage| [DK] |**In Progress**|13:01|1'|
+|Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**|13:02|8'|
+|Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal| [PC]|**Done**|13:10|1'|
+||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[PC]|**Ongoing**|13:11|1'|
+||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP]|**Ongoing**|13:12|1'|
+|Maintenance|[#675] M1-12 Maintenance and DevOps| [DK], [PC]|**Ongoing**|13:13|6'|
+|Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**|13:19|2'|
+|Z43|[#1000] Sim4Life with Electron: proof of concept|[SCA]|**Ongoing**|13:21|1'|
 
 
 
