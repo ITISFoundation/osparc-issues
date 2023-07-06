@@ -65,7 +65,7 @@
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#710] M12 API tutorial</blockquote>|[EI],[MB]|**In Progress**|||
-|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**|||
+|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**||1'|
 |Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||8'|
 |Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**In Progress**|||
