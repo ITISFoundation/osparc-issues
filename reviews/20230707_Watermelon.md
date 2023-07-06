@@ -68,7 +68,7 @@
 |Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**||1'|
 |Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||8'|
-|Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**In Progress**|||
+|Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**Done**|||
 ||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[EI]|**Ongoing**||1'|
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
 |Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**||2'+|
@@ -82,7 +82,7 @@
 - _Todo_: no work done on this issue. This is the first time it apprears in a sprint.
 - _Paused_: this issue was not scheduled/skipped for this sprint
 - _In Progress_: this issue is still under development
-- _Resolved_: no more work left to do on this issue. PO can review an decide to close or reopen.
+- _Done_: no more work left to do on this issue. PO can review an decide to close or reopen.
 - _Ongoing_: a recurrent task
 
 [online]: http://status.osparc.io/
