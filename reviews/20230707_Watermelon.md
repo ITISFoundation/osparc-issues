@@ -61,7 +61,7 @@
 |Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|||
 ||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI], [IP], [PC]|**Done**|||
 |ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
-|Y6-API|[#668] DRC & o2S API|[PC][MB]|**In Progress**||2'|
+|Y6-API|[#668] DRC & o2S API|[PC][MB]|**In Progress**||3'|
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#710] M12 API tutorial</blockquote>|[EI],[MB]|**In Progress**|||
