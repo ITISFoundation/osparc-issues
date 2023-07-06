@@ -38,7 +38,7 @@
 |--|--|--|--|--|--|
 |WP1|[#923] sim4life.io - WP1:  Web Presence|[Nik], [OM]|**In Progress**||1'|
 |WP2|[#949] sim4life.io - WP2: Product|[OM]|**In Progress**||2'|
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[SAN], [OM], [MD]|**In Progress**|| 12'|
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[SAN],  [MD]|**In Progress**|| 12'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**|||
 ||<blockquote>[#885] AppTeam Std Simulations on S4L/AWS</blockquote>|-|**In Progress**|||
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[SAN]|**In Progress**|||
