@@ -73,7 +73,7 @@
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
 |Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**||2'+|
 |Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**|||
-|Z43|[#1000] Sim4Life with Electron: proof of concept|[SCA]|**Ongoing**|||
+|Z43|[#1000] Sim4Life with Electron: proof of concept|[SCA]|**Ongoing**||1'|
 
 
 
