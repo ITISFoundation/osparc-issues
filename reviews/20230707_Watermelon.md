@@ -51,7 +51,7 @@
 ||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Done**|||
 ||<blockquote>[#980] Fast navigation between projects</blockquote>|[MD], [OM], [PC], [SAN]|**Todo**|||
 ||<blockquote>[#917] Users notify users</blockquote>|[OM]|**In Progress**|||
-|WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL], [EI], [IP], [MaG]|**In Progress**|||
+|WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL],[IP], [MaG]|**In Progress**|||
 ||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP], [MaG], [OM]|**In Progress**|||
 ||<blockquote>[#881] basic monitoring functionality</blockquote>|[MD], [MaG], [DK]|**Todo**|||
 ||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**|||
@@ -59,15 +59,15 @@
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
 |TIP|[#831] TIP v2|[MaG], [OM]|**In Progress**|||
 |Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|||
-||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI], [IP], [PC]|**Done**|||
+||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**||1'|
 |ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
 |Y6-API|[#668] DRC & o2S API|[PC][MB]|**In Progress**||3'|
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#710] M12 API tutorial</blockquote>|[EI],[MB]|**In Progress**|||
-|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[EI], [ANE]|**In Progress**|||
+|Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[ANE]|**In Progress**|||
 |Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
-|Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI], [DK]|**Ongoing**|||
+|Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**||8'|
 |Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**In Progress**|||
 ||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[EI], [PC]|**Ongoing**||1'|
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
