@@ -38,22 +38,22 @@
 |--|--|--|--|--|--|
 |WP1|[#923] sim4life.io - WP1:  Web Presence|[Nik], [OM]|**In Progress**|||
 |WP2|[#949] sim4life.io - WP2: Product|[DK], [OM], [ALL]|**In Progress**|||
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[DK], [OM], [SAN]|**In Progress**|||
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[MD], [DK], [OM], [SAN]|**In Progress**|||
 |WP4|[#950] sim4life.io - WP4: Computational backend|[MaG], [PC], [SAN]|**In Progress**|||
 ||<blockquote>[#885] AppTeam Std Simulations on S4L/AWS</blockquote>|[MaG], [SAN]|**In Progress**|||
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[OM], [SAN]|**In Progress**|||
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE], [PC], [SAN]|**In Progress**|||
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE], [MD], [PC], [SAN]|**In Progress**|||
 ||<blockquote>[#638] improving dynamic-sidecar design</blockquote>|[ANE]|**In Progress**|||
 |WP6|[#952] sim4life.io - WP6: API|[PC]|**In Progress**|||
 |WP7|[#953] sim4life.io -  WP7: Platform improvements|[PC]|**In Progress**|||
-||<blockquote>[#979] Project home page</blockquote>|[BL], [MaG], [OM]|**In Progress**|||
-||<blockquote>[#716] Folders in User Workspace</blockquote>|[OM]|**In Progress**|||
-||<blockquote>[#977] projects folders</blockquote>|[OM]|**Done**|||
-||<blockquote>[#980] Fast navigation between projects</blockquote>|[OM], [PC], [SAN]|**Todo**|||
+||<blockquote>[#979] Project home page</blockquote>|[BL], [MD], [MaG], [OM]|**In Progress**|||
+||<blockquote>[#716] Folders in User Workspace</blockquote>|[MD], [OM]|**In Progress**|||
+||<blockquote>[#977] projects folders</blockquote>|[MD], [OM]|**Done**|||
+||<blockquote>[#980] Fast navigation between projects</blockquote>|[MD], [OM], [PC], [SAN]|**Todo**|||
 ||<blockquote>[#917] Users notify users</blockquote>|[OM]|**In Progress**|||
 |WP8|[#933] sim4life.io - WP8: s4l:web|[CR], [BL], [EI], [IP], [MaG]|**In Progress**|||
 ||<blockquote>[#931] S4L Introduction Mode, Helpers/Tippies</blockquote>|[IP], [MaG], [OM]|**In Progress**|||
-||<blockquote>[#881] basic monitoring functionality</blockquote>|[MaG], [DK]|**Todo**|||
+||<blockquote>[#881] basic monitoring functionality</blockquote>|[MD], [MaG], [DK]|**Todo**|||
 ||<blockquote>[#621] API framework for iSolve</blockquote>|[MaG]|**In Progress**|||
 ||<blockquote>[#929] Anonymous User Experience Mode</blockquote>|[MaG], [OM], [PC]|**Todo**|||
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
@@ -66,12 +66,12 @@
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#710] M12 API tutorial</blockquote>|[EI], [PC]|**In Progress**|||
 |Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[EI], [ANE]|**In Progress**|||
-|Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[DK]|**In Progress**|||
+|Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI], [DK]|**Ongoing**|||
 |Y6-MIH|[#711] M4 Launch Computational Study Parameters from Portal|[EI], [PC]|**In Progress**|||
 ||<blockquote>[#681] M1-12 Support MAP-Core for simulations on the Portal</blockquote>|[EI], [PC]|**Ongoing**|||
 ||<blockquote>[#674] M1-12 Portal development work </blockquote>|[IP], [MaG]|**Ongoing**|||
-|Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**|||
+|Maintenance|[#675] M1-12 Maintenance and DevOps|[ANE], [MD], [DK], [OM], [PC], [SAN], [ALL]|**Ongoing**|||
 |Z43|[#976] Z43 Energy Monitoring|[DK], [ALL]|**Ongoing**|||
 
 
@@ -88,6 +88,8 @@
 [online]: http://status.osparc.io/
 [operational]: https://git.speag.com/oSparc/e2e-testing/-/pipelines
 [performant]: https://git.speag.com/oSparc/e2e-portal-testing/-/pipelines
+
+
 
 
 [#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
@@ -136,8 +138,13 @@
 [EI]:https://github.com/elisabettai
 [IP]:https://github.com/ignapas
 [MB]:https://github.com/bisgaard-itis
+[MD]:https://github.com/matusdrobuliak66
 [MaG]:https://github.com/mguidon
 [Nik]:https://github.com/drniiken
 [OM]:https://github.com/odeimaiz
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
+[SB]:https://github.com/sbenkler
+[SC]:https://github.com/SCA-ZMT
+[TN]:https://github.com/newton1985
+[YH]:https://github.com/YuryHrytsuk
