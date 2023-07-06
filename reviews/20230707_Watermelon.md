@@ -44,7 +44,7 @@
 ||<blockquote>[#618] personalizable resource limits</blockquote>|[OM], [SAN]|**In Progress**|||
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE], [MD], [PC], [SAN]|**In Progress**|||
 ||<blockquote>[#638] improving dynamic-sidecar design</blockquote>|[ANE]|**In Progress**|||
-|WP6|[#952] sim4life.io - WP6: API|[PC]|**In Progress**|||
+|WP6|[#952] sim4life.io - WP6: API|[PC][MB]|**In Progress**||5'|
 |WP7|[#953] sim4life.io -  WP7: Platform improvements|[PC]|**In Progress**|||
 ||<blockquote>[#979] Project home page</blockquote>|[BL], [MD], [MaG], [OM]|**In Progress**|||
 ||<blockquote>[#716] Folders in User Workspace</blockquote>|[MD], [OM]|**In Progress**|||
@@ -60,11 +60,11 @@
 |TIP|[#831] TIP v2|[MaG], [OM]|**In Progress**|||
 |Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|||
 ||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI], [IP], [PC]|**Done**|||
-|ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**|||
-|Y6-API|[#668] DRC & o2S API|[PC]|**In Progress**|||
+|ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**||2'|
+|Y6-API|[#668] DRC & o2S API|[PC][MB]|**In Progress**||2'|
 ||<blockquote>[#690] M10 API for import and export of data</blockquote>|[PC]|**Todo**|||
 ||<blockquote>[#692] M10 Accept Pointers from DRC API</blockquote>|[PC]|**Todo**|||
-||<blockquote>[#710] M12 API tutorial</blockquote>|[EI], [PC]|**In Progress**|||
+||<blockquote>[#710] M12 API tutorial</blockquote>|[EI],[MB]|**In Progress**|||
 |Y6-M9|[#673] M9 SDS and cMIS (model-related metadata exposed on the Portal)|[EI], [ANE]|**In Progress**|||
 |Y6-M8|[#697] M8 Attribute (& Charge) Resource Usage|[MD], [DK]|**In Progress**|||
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI], [DK]|**Ongoing**|||
