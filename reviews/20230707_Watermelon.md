@@ -59,7 +59,7 @@
 ||<blockquote>[#929] Anonymous User Experience Mode</blockquote>|[MaG], [OM], [PC]|**Todo**|||
 ||<blockquote>[#930] UX: Introductory Mode for Simulation Tab</blockquote>|[CR], [IP], [MaG]|**Todo**|||
 |TIP|[#831] TIP v2|[MaG] |**In Progress**|12:46|1'|
-|Y6-M7|[#682] M7 Pulling files from the Portal|[IP], [PC]|**Done**|12:47| 5' |
+|Y6-M7|[#682] M7 Pulling files from the Portal|[IP] |**Done**|12:47| 5' |
 ||<blockquote>[#683] M7 Create (Model) Service Section on the Portal</blockquote>|[EI]|**Done**|12:52| 1'|
 |ITIS|[#767] metamodeling framework (functionality for cedric and mads)|[PC]|**In Progress**|12:53|2'|
 |Y6-API|[#668] DRC & o2S API|[PC], [MB] |**In Progress**|12:55|3'|
