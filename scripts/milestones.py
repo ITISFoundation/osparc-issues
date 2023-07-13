@@ -21,6 +21,7 @@ app = typer.Typer()
 
 _DEFAULT_REPOS = [
     "osparc-simcore",
+    "osparc-simcore-clients",
     "osparc-ops-environments",
     "dockerfiles",
     "cookiecutter-osparc-service",

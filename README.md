@@ -12,7 +12,12 @@ This is an [issue-only repo](https://help.github.com/en/articles/creating-an-iss
 
 
 ## to create milestones in multiple repositories
-
+- firstly you need to create a github token
+  - in Github settings -> Personal access tokens -> Fine-grained tokens -> *Generate new token*
+    - Change resource owner -> ITISFoundation
+    - Choose Repository access -> All repositories
+    - Choose Permissions -> Reposioty permissions -> Issues (Read and Write)
+  - Now somebody with the organization admin rights must approve your token
 - use the code in scripts/milestones.py
 - do the following
 ```bash
@@ -33,6 +38,9 @@ source .venv/bin/activate
 make new-milestone token=GITHUB_TOKEN title="dummy-name" due_on="2030-03-12"
 # to delete the milestone
 make delete-milestone token=GITHUB_TOKEN title="dummy-name"
+
+# to close previous milestone
+make modify-milestone title="dummy-name" nstate=closed
 ```
 
 The code to create milestone uses a hard-coded list of repositories, don't be shy update it if it's missing information. Also, as this is open source, just feel free to improve the code...
