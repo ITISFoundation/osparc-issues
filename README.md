@@ -16,8 +16,8 @@ This is an [issue-only repo](https://help.github.com/en/articles/creating-an-iss
   - in Github settings -> Personal access tokens -> Fine-grained tokens -> *Generate new token*
     - Change resource owner -> ITISFoundation
     - Choose Repository access -> All repositories
-    - Choose Permissions -> Reposioty permissions -> Issues (Read and Write)
-  - Now somebody with the organization admin rights must approve your token
+    - Choose Permissions -> Repository permissions -> Issues (Read and Write)
+  - Now somebody with organization admin rights must approve your token
 - use the code in scripts/milestones.py
 - do the following
 ```bash
