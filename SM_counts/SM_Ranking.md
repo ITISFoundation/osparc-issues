@@ -18,7 +18,7 @@ This list is up to date as of 2023-09-08
 
 # The SMs Ranking (by counts)
 
-This list is up to date as of 2023-04-28
+This list is up to date as of 2023-09-08
 
 1. 🏆 [PC] (10.5 times)
 2. 🥈 [OM]  (10 times)
