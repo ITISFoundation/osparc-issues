@@ -23,7 +23,7 @@ This list is up to date as of 2023-09-08
 1. 🏆 [PC] (10.5 times)
 2. 🥈 [OM]  (10 times)
 3. 🥉 [SAN] (8 times)
-4. 🍺 [MaG] (7 times)
+4. 🍺 [MaG] (7.2 times)
 5. 🧋 [ANE] (4 times)
 6. 🍫 [IP] (3.8 times)
 7. 🍫 [ALL] (3.2 times)
