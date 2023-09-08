@@ -2,7 +2,7 @@
 name: Milestone template
 about: Create a new NIH milestone
 title: ''
-labels: PO issue
+labels: PO issue, y7
 projects: oSPARC Product Backlog
 assignees: ''
 
