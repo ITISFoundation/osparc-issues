@@ -1,14 +1,14 @@
 ---
-name: Feature request, TIP
-about: Suggest an idea for TIP
+name: Feature request o²S²PARC
+about: Suggest an idea for o²S²PARC
 title: ''
-labels: Feedback, labels: TIP, type:enhancement
+labels: Feedback, type:enhancement
 assignees: ''
 
 ---
 
 **Describe the user role**
-<!-- Specify a type of user, e.g. "As an investigator, I would like to..." -->
+<!-- Specify a type of user, e.g. "As a SPARC investigator, I would like to..." -->
 
 **Describe the goal**
 <!-- What does the type of user want to achieve? -->
