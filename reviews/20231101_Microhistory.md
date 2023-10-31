@@ -36,7 +36,7 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[Nik], [OM]|**In Progress**| |Big Show|
+|WP1|[#923] sim4life.io - WP1: Web Presence|[Nik]|**In Progress**| |Big Show|
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
 ||<blockquote>[#1032] ZMT deployment (WP9)</blockquote>|[DK]|**In Progress**| |3'|
 ||<blockquote> New products </blockquote>|[OM]|**In Progress**|10:11 |2'|
