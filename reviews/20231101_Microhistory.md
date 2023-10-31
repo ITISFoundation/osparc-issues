@@ -1,9 +1,9 @@
-# Review Meeting - October 06, 2023 @ 10:00 CET
+# Review Meeting - November 01, 2023 @ 09:30 CET
 
 ## Sprint 🏃
 - [**Microhistory**](20230908_Microhistory.md)
-- 🕐 PM1(September 15) - PM2(September 18+19) - RM(October 06)
-- Scrum Master: [MD]
+- 🕐 PM1(October 13) - PM2(October 16) - RM(November 01)
+- Scrum Master: [OM]
 
 ### Users Feedback
 
