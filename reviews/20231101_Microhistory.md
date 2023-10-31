@@ -50,7 +50,7 @@
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| |Big Show|
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| |Big Show|
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | |
-||<blockquote> Metrics </blockquote>|[EI]|**Ongoing**| |5'|
+||[#1099](https://github.com/ITISFoundation/osparc-issues/issues/1099)<blockquote> Metrics </blockquote>|[EI]|**Ongoing**| |5'|
 |Maintenance|[#675] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| |5'|
 
 
