@@ -46,7 +46,7 @@
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| |3'|
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| |Big Show|
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | |
-|WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
+|WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| |Big Show|
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| |Big Show|
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| |Big Show|
 |Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | |
