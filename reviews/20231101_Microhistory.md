@@ -43,6 +43,7 @@
 ||<blockquote> PO user center </blockquote>|[OM]|**In Progress**|10:11 |5'|
 ||<blockquote> Get insipired by App Motion's new Web </blockquote>|[OM]|**In Progress**| | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| |Big Show|
+||<blockquote>[#1027] Payment Service</blockquote>|   |**In Progress**| | |
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| |3'|
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | |
