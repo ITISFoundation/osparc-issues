@@ -49,9 +49,9 @@
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| |Big Show|
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| |Big Show|
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| |Big Show|
-|Y6-NIH|[#694] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | |
-||<blockquote> [#1099](https://github.com/ITISFoundation/osparc-issues/issues/1099) Metrics automation </blockquote>|[EI]|**Ongoing**| |5'|
-|Maintenance|[#675] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| |5'|
+|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | |
+||<blockquote> [#1099] Metrics automation </blockquote>|[EI]|**In progress**| |5'|
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| |5'|
 
 
 ##### Status Legend
@@ -114,6 +114,10 @@
 [#1032]: https://github.com/ITISFoundation/osparc-issues/issues/1032
 [#1073]: https://github.com/ITISFoundation/osparc-issues/issues/1073
 [#1074]: https://github.com/ITISFoundation/osparc-issues/issues/1074
+[#1093]: https://github.com/ITISFoundation/osparc-issues/issues/1093
+[#1099]: https://github.com/ITISFoundation/osparc-issues/issues/1099
+[#1108]: https://github.com/ITISFoundation/osparc-issues/issues/1108
+[#1109]: https://github.com/ITISFoundation/osparc-issues/issues/1109
 
 [#gl592]: https://git.speag.com/oSparc/osparc-s4l/-/issues/592
 [#gl593]: https://git.speag.com/oSparc/osparc-s4l/-/issues/593
