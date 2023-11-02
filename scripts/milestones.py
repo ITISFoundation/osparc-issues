@@ -28,7 +28,6 @@ _DEFAULT_REPOS = [
     "osparc-services",
     "osparc-issues",
     "osparc-python-runner",
-    "osparc-deployment-agent",
 ]
 
 _FAILED_EXIT_CODE: Final[int] = 127
