@@ -2,7 +2,7 @@
 name: Feature request TIP
 about: Suggest an idea for TIP
 title: ''
-labels: Feedback, TIP, type:enhancement
+labels: TIP, PO issue
 assignees: ''
 
 ---
