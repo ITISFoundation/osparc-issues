@@ -56,7 +56,7 @@
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| | |
-|User Feedback| MarkerIO | [EI] |**Ongoing**| | 5'|
+|User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
 |Showstoppers| Summary |[MaG]| **In Progress** | | |
 
 
@@ -73,7 +73,7 @@
 [performant]: https://git.speag.com/oSparc/e2e-portal-testing/-/pipelines
 
 
-
+[s4l-feedback]: https://z43.fogbugz.com/f/filters/1437/00-Sim4Life-web-Testing-w-Backlog
 [#923]: https://github.com/ITISFoundation/osparc-issues/issues/923
 [#949]: https://github.com/ITISFoundation/osparc-issues/issues/949
 [#922]: https://github.com/ITISFoundation/osparc-issues/issues/922
