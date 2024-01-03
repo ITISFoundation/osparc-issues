@@ -54,8 +54,9 @@
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [ANE]|**In Progress**| | |
 ||<blockquote> [?]() Logs streaming </blockquote>|[?]|**In Progress**| | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | |
-|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | |
+|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| | |
+|User Feedback| MarkerIO | [EI] |**Ongoing**| | 5'|
 
 
 ##### Status Legend
