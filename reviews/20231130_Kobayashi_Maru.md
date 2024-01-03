@@ -50,7 +50,7 @@
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
-||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| |2'|
+||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [ANE]|**In Progress**| | |
 ||<blockquote> [?]() Logs streaming </blockquote>|[?]|**In Progress**| | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | |
