@@ -47,7 +47,7 @@
 ||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | |
 ||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 5' |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | 1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
 ||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
