@@ -47,15 +47,15 @@
 ||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | |
 ||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | 1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
 ||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [ANE]|**In Progress**| | |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| | |
 ||<blockquote> [?]() Logs streaming </blockquote>|[?]|**In Progress**| | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [ANE], [MD] |**Ongoing**| | |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
 |Showstoppers| Summary |[MaG]| **In Progress** | | |
 
