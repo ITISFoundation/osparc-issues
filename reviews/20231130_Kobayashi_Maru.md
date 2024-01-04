@@ -42,7 +42,7 @@
 ||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**In Progress**| | |
 ||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | |
 ||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |Big show|
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | |
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | 10' |
 ||<blockquote>[#1027] Payment Service</blockquote>|[PC]|**In Progress**| | |
 ||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | |
