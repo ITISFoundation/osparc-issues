@@ -41,7 +41,7 @@
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
 ||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| | 1' |
 ||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | 2' |
-||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |Big show|
+||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |10'|
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | 10' |
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | 5' |
 ||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
