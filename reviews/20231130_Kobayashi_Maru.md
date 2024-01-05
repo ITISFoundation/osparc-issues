@@ -39,7 +39,7 @@
 |WP1|[#923] sim4life.io - WP1: Web Presence|[Nik]|**In Progress**| | |
 ||<blockquote>[?]() Content</blockquote>|[Anastasia]()|**Done**| | 6' |
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
-||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**In Progress**| | |
+||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| | 1' |
 ||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | |
 ||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |Big show|
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | 10' |
@@ -53,11 +53,11 @@
 ||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| | |
 ||<blockquote> [?]() Logs streaming </blockquote>|[?]|**In Progress**| | |
-|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | |
+|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | 2' |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | 5' |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
-|Showstoppers| Summary |[MaG]| **In Progress** | | |
+|Showstoppers| Summary |[MaG]| | | 5' |
 
 
 ##### Status Legend
