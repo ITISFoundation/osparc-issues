@@ -54,8 +54,8 @@
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | 2' |
 |WP10|[#1027] Payment Service |[PC]|**In Progress**| | 5' |
 ||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
-|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| | 7' |
+|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 3' |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| | 5' |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
 |Status| Summary, Showstoppers, Discussion |[MaG]| | | 15' |
 
