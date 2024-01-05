@@ -40,11 +40,9 @@
 ||<blockquote>[?]() Content</blockquote>|[Anastasia]()|**Done**| | 6' |
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
 ||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| | 1' |
-||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | |
+||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | 2' |
 ||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |Big show|
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | 10' |
-||<blockquote>[#1027] Payment Service</blockquote>|[PC]|**In Progress**| | |
-||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | |
 ||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 5' |
@@ -54,6 +52,8 @@
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| | |
 ||<blockquote> [?]() Logs streaming </blockquote>|[?]|**In Progress**| | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | 2' |
+|WP10|[#1027] Payment Service |[PC]|**In Progress**| | 5' |
+||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | 5' |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
