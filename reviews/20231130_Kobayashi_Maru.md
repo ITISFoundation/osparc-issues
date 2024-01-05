@@ -55,7 +55,7 @@
 |WP10|[#1027] Payment Service |[PC]|**In Progress**| | 5' |
 ||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |5'|
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | 5' |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| | 7' |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
 |Status| Summary, Showstoppers, Discussion |[MaG]| | | 15' |
 
