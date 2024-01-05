@@ -36,28 +36,28 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[Nik]|**In Progress**| | |
-||<blockquote>[?]() Content</blockquote>|[Anastasia]()|**Done**| | 3' |
+|WP1|[#923] sim4life.io - WP1: Web Presence|[Nik]|**In Progress**| 9:45 | 3' |
+||<blockquote>[?]() Content</blockquote>|[Anastasia]()|**Done**| 9:48 | 3' |
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
-||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| | 1' |
-||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| | 2' |
-||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| |6'|
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| | 10' |
-|WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| | 3' |
+||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| 9:51 | 1' |
+||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| 9:52 | 2' |
+||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| 9:54 | 6'|
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| 10:00 | 9' |
+|WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| 10:09 | 3' |
 ||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
-|WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | 1' |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| 10:12 | 3' |
+|WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| 10:15 | 1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
 ||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]|**In Progress**| |5' |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]|**In Progress**| 10:16 |5' |
 ||<blockquote> [?]() Logs streaming </blockquote>|[MaG]|**Done**| | |
-|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | 2' |
-|WP10|[#1027] Payment Service |[PC]|**In Progress**| | 3' |
-||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| |3'|
-|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 3' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| | 5' |
-|User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
-|Status| Summary, Showstoppers, Discussion |[MaG]| | | 15' |
+|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| 10:21 | 2' |
+|WP10|[#1027] Payment Service |[PC]|**In Progress**| 10:23 | 3' |
+||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| 10:26 |3'|
+|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| 10:29 | 3' |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| 10:32 | 5' |
+|User Feedback| [s4l-feedback] | [EI] |**Ongoing**| 10:37 | 5'|
+|Status| Summary, Showstoppers, Discussion |[MaG]| | 10:43 | 15' |
 
 
 ##### Status Legend
