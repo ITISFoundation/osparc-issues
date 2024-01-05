@@ -57,7 +57,7 @@
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| | 5' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD] |**Ongoing**| | 5' |
 |User Feedback| [s4l-feedback] | [EI] |**Ongoing**| | 5'|
-|Showstoppers| Summary |[MaG]| | | 5' |
+|Showstoppers| Summary |[MaG]| | | 15' |
 
 
 ##### Status Legend
