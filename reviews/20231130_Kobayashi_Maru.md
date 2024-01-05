@@ -49,7 +49,7 @@
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| | 1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
 ||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP]|**In Progress**| |5' |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]|**In Progress**| |5' |
 ||<blockquote> [?]() Logs streaming </blockquote>|[MaG]|**Done**| | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| | 2' |
 |WP10|[#1027] Payment Service |[PC]|**In Progress**| | 5' |
