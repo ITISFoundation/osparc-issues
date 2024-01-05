@@ -36,8 +36,8 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[Nik]|**In Progress**| 9:45 | 3' |
-||<blockquote>[?]() Content</blockquote>|[Anastasia]()|**Done**| 9:48 | 3' |
+|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()|**In Progress**| 9:45 | 6' |
+||<blockquote> Status, Demo</blockquote>|[NIK], [AL](), [EO]()|**In Progress**|  | |
 |WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
 ||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| 9:51 | 1' |
 ||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| 9:52 | 2' |
