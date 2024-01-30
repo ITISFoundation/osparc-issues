@@ -1,20 +1,19 @@
-# Review Meeting - January 08, 2024 @ 09:15 CET
+# Review Meeting - February 02, 2024
 
 ## Sprint 🏃
-- [**Kobayashi Maru**](20231130_Kobayashi_Maru.md)
-- 🕐 PM1(?) - PM2(November 30) - RM(January 08)
-- Scrum Master: [MaG]
+- [**This is Sparta!**](20240202_This_Is_Sparta.md)
+- Scrum Master: [MB]
 
 ### Users Feedback
 
-- [closed](https://github.com/issues?q=is%3Aissue+user%3AITISFoundation+archived%3Afalse+is%3Aclosed+label%3AFeedback+closed%3A%3E2023-11-01+) since last RM
+- [closed](https://github.com/issues?q=is%3Aissue+user%3AITISFoundation+archived%3Afalse+is%3Aclosed+label%3AFeedback+closed%3A%3E2024-01-08+) since last RM
 - [opened](https://github.com/ITISFoundation/osparc-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions)
 
 ### Dashboards 📊
 
 - [Product Backlog](https://github.com/orgs/ITISFoundation/projects/13) (PO view)
 - [Sprint Scrum Wall](https://github.com/orgs/ITISFoundation/projects/9) (developers view)
-- Activity: [sprint-PRs](https://github.com/ITISFoundation/osparc-simcore/milestone/70?closed=1) and [sprint-MRs](https://git.speag.com/groups/oSparc/-/merge_requests)
+- Activity: [sprint-PRs](https://github.com/ITISFoundation/osparc-simcore/milestone/73?closed=1) and [sprint-MRs](https://git.speag.com/groups/oSparc/-/merge_requests)
 
 ### Deployed environments 🚀
 
@@ -36,28 +35,42 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()|**In Progress**| 9:45 | 6' |
-||<blockquote> Status, Demo</blockquote>|[NIK], [AL](), [EO]()|**In Progress**|  | |
-|WP2|[#949] sim4life.io - WP2: Product|[OM], [DK]|**In Progress**| | |
-||<blockquote>[#1032] ZMT deployment (WP9) (email)</blockquote>|[DK]|**Done**| 9:51 | 1' |
-||<blockquote> PO user center </blockquote>|[PC]|**In Progress**| 9:52 | 2' |
-||<blockquote> oSPARC's UI/UX </blockquote>|[JQ]|**Done**| 9:54 | 6'|
-|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]|**In Progress**| 10:00 | 9' |
-|WP4|[#950] sim4life.io - WP4: Computational backend|[SAN]|**In Progress**| 10:09 | 3' |
-||<blockquote> Cluster/Comp services/Queues feedback </blockquote>|[SAN]|**Done**| | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| 10:12 | 3' |
-|WP6|[#952] sim4life.io - WP6: API| [MB], [PC]|**In Progress**| 10:15 | 1' |
-|WP7|[#953] sim4life.io - WP7: Platform improvements| |**In Progress**| | |
-||<blockquote> [?]() Inactivity </blockquote>|[MaG]|**Done**| | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]|**In Progress**| 10:16 |5' |
-||<blockquote> [?]() Logs streaming </blockquote>|[MaG]|**Done**| | |
-|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]|**In Progress**| 10:21 | 2' |
-|WP10|[#1027] Payment Service |[PC]|**In Progress**| 10:23 | 3' |
-||<blockquote>[?]() Billing center</blockquote>|[IP]|**In Progress**| 10:26 |3'|
-|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|**Ongoing**| 10:29 | 3' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing**| 10:32 | 5' |
-|User Feedback| [s4l-feedback] | [EI] |**Ongoing**| 10:37 | 5'|
-|Status| Summary, Showstoppers, Discussion |[MaG]| | 10:43 | 15' |
+|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| | | |
+||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
+|WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
+||<blockquote> Logins need to be bound to product </blockquote>|[PC]| |  | |
+||<blockquote> Preferences for auto update </blockquote>| [PC], [JQ]| |  | |
+||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
+||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
+|WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
+||<blockquote> Misalligned resource tracking </blockquote>|[MD]| |  | |
+|WP4|[#950] sim4life.io - WP4: Computational backend|[SAN], [MaG]| | | |
+||<blockquote> Concurrency for computational backend </blockquote>|[SAN]| |  | |
+||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>|[SAN], [MaG]| |  | |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]| | | |
+||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [MaG](), [PC]()| | | |
+||<blockquote> Better log messages  </blockquote>| [ANE] | |  | |
+||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] | |  | |
+|WP6|[#952] sim4life.io - WP6: API| [MB], [PC]| | | |
+||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**|  | |
+||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  | |
+||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**|  | |
+|WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
+||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **Todo**|  | |
+||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | | |
+||<blockquote> Videostreaming </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Cursor </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Ruler </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Linked tuples </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
+|WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]| | | |
+|WP10|[#1027] Payment Service |[PC]| | | |
+||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | |  | |
+||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | |  | |
+|Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]| | | |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
+|User Feedback| [s4l-feedback] | [EI] | | | |
 
 
 ##### Status Legend
@@ -124,6 +137,7 @@
 [#1099]: https://github.com/ITISFoundation/osparc-issues/issues/1099
 [#1108]: https://github.com/ITISFoundation/osparc-issues/issues/1108
 [#1109]: https://github.com/ITISFoundation/osparc-issues/issues/1109
+[#5078]: https://github.com/ITISFoundation/osparc-simcore/issues/5078
 
 [#gl592]: https://git.speag.com/oSparc/osparc-s4l/-/issues/592
 [#gl593]: https://git.speag.com/oSparc/osparc-s4l/-/issues/593
