@@ -1,4 +1,5 @@
 # Review Meeting - February 02, 2024
+<img width="712" alt="image" src="https://github.com/ITISFoundation/osparc-issues/assets/32402063/7f3f0ae8-8868-487b-98cf-2c10c4999de7">
 
 ## Sprint 🏃
 - [**This is Sparta!**](20240202_This_Is_Sparta.md)
