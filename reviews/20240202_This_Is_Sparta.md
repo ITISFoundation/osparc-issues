@@ -38,8 +38,8 @@
 |WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| | | |
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
-||<blockquote> Logins need to be bound to product </blockquote>|[PC]| |  | |
-||<blockquote> Preferences for auto update </blockquote>| [PC], [JQ]| |  | |
+||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | |
+||<blockquote> Preferences for auto update </blockquote>| [ANE], [JQ]| |  | |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
@@ -66,8 +66,8 @@
 ||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]| | | |
 |WP10|[#1027] Payment Service |[PC]| | | |
-||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | |  | |
-||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | |  | |
+||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
+||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]| | | |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
 |User Feedback| [s4l-feedback] | [EI] | | | |
