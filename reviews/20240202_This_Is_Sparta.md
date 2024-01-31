@@ -73,6 +73,8 @@
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]| | | |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
 |TIP| TI Planning Tool | [MS] | | | |
+||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | |
+||<blockquote> Progress on Personalization [#1155] </blockquote>| [MD], [IP] | **In Progress**|  | |
 |User Feedback| [s4l-feedback] | [EI] | | | |
 
 
@@ -163,4 +165,4 @@
 [TN]:https://github.com/newton1985
 [YH]:https://github.com/YuryHrytsuk
 [JQ]:https://github.com/jsaq007
-[MS]:https://github.com/konohana0608
+[MEST]:https://github.com/konohana0608
