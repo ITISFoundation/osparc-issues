@@ -74,7 +74,7 @@
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
 |TIP| TI Planning Tool | [MS] | | | |
 ||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | |
-||<blockquote> Progress on Personalization [#1155] </blockquote>| [MD], [IP] | **In Progress**|  | |
+||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | |
 |User Feedback| [s4l-feedback] | [EI] | | | |
 
 
