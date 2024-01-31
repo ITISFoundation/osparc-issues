@@ -72,6 +72,7 @@
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]| | | |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
+|TIP| TI Planning Tool | [MS] | | | |
 |User Feedback| [s4l-feedback] | [EI] | | | |
 
 
@@ -162,3 +163,4 @@
 [TN]:https://github.com/newton1985
 [YH]:https://github.com/YuryHrytsuk
 [JQ]:https://github.com/jsaq007
+[JQ]:https://github.com/konohana0608
