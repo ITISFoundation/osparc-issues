@@ -44,7 +44,7 @@
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
-||<blockquote> Misalligned resource tracking </blockquote>|[MD]| |  | |
+||<blockquote> Misaligned resource tracking </blockquote>|[MD]| |  | 5 |
 |WP4|[#950] sim4life.io - WP4: Computational backend|[SAN], [MaG]| | | |
 ||<blockquote> Concurrency for computational backend </blockquote>|[SAN]| |  | |
 ||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>|[SAN], [MaG]| |  | |
