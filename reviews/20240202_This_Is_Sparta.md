@@ -65,6 +65,7 @@
 ||<blockquote> Ruler </blockquote>| [MaG] | **Todo**|  | |
 ||<blockquote> Linked tuples </blockquote>| [MaG] | **Todo**|  | |
 ||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Compression of smash files </blockquote>| [MaG] | **Todo**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]| | | |
 |WP10|[#1027] Payment Service |[PC]| | | |
 |MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 5-10 min |
