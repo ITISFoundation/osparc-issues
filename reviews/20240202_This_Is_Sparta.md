@@ -77,6 +77,8 @@
 ||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5 min |
 ||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5 min |
 |User Feedback| [s4l-feedback] | [EI] | | | |
+|Status| Summary, Showstoppers, Discussion |[MaG]| |  | 15' |
+
 
 
 ##### Status Legend
