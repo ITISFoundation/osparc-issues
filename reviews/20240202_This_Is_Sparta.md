@@ -68,7 +68,7 @@
 ||<blockquote> Compression of smash files </blockquote>| [MaG] | **Todo**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[DK]| | | |
 |WP10|[#1027] Payment Service |[PC]| | | |
-|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 5-10 min |
+|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 5 min |
 ||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
 |Y6-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]| | | |
