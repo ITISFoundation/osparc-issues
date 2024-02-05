@@ -49,7 +49,7 @@
 ||<blockquote> Concurrency for computational backend </blockquote>|[MaG]|**Done** |  | |
 ||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>| [MaG]|**Todo** |  | |
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
-||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [MaG](), [PC]()| | | |
+||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [ANE]|**In Progress**| | |
 ||<blockquote> Better log messages  </blockquote>| [ANE] |_In Progress_|  | |
 ||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] |**Todo** |  | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]| | | |
