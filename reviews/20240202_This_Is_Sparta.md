@@ -72,7 +72,7 @@
 ||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
 |Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3 min |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] | | | 7 min |
 |TIP| TI Planning Tool | [MEST] | | | |
 ||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5 min |
 ||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5 min |
