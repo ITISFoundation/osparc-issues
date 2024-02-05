@@ -40,7 +40,7 @@
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
 ||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | |
-||<blockquote> Preferences for auto update </blockquote>| [ANE], [JQ]| |  | |
+||<blockquote> Preferences for auto update </blockquote>| [JQ]| |  | |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
