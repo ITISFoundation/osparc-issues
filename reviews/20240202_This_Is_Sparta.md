@@ -45,9 +45,9 @@
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
 ||<blockquote> Misaligned resource tracking </blockquote>|[MD]| |  | 5 |
-|WP4|[#950] sim4life.io - WP4: Computational backend|[SAN], [MaG]| | | |
-||<blockquote> Concurrency for computational backend </blockquote>|[SAN]| |  | |
-||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>|[SAN], [MaG]| |  | |
+|WP4|[#950] sim4life.io - WP4: Computational backend| [MaG]| | |5' |
+||<blockquote> Concurrency for computational backend </blockquote>|[MaG]|**Done** |  | |
+||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>| [MaG]|**Todo** |  | |
 |WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]| | | |
 ||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [MaG](), [PC]()| | | |
 ||<blockquote> Better log messages  </blockquote>| [ANE] | |  | |
