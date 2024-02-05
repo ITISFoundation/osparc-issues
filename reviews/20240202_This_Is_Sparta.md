@@ -48,10 +48,10 @@
 |WP4|[#950] sim4life.io - WP4: Computational backend| [MaG]| | |5' |
 ||<blockquote> Concurrency for computational backend </blockquote>|[MaG]|**Done** |  | |
 ||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>| [MaG]|**Todo** |  | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]| | | 3' |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
 ||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [MaG](), [PC]()| | | |
-||<blockquote> Better log messages  </blockquote>| [ANE] | |  | |
-||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] | |  | |
+||<blockquote> Better log messages  </blockquote>| [ANE] |_In Progress_|  | |
+||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] |**Todo** |  | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]| | | |
 ||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**|  | |
 ||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  | |
