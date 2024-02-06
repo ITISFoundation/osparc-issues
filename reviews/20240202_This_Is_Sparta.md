@@ -36,46 +36,46 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| | | |
+|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| |12:30 |5' |
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
-||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | 3' |
-||<blockquote> Preferences for auto update </blockquote>| [JQ]| **Done** |  |3' |
+||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** | 12:35 | 2' |
+||<blockquote> Preferences for auto update </blockquote>| [JQ]| **Done** | 12:37 |2' |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  |0' |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  |0' |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
-||<blockquote> Misaligned resource tracking </blockquote>|[MD]| |  | 5' |
-|WP4|[#950] sim4life.io - WP4: Computational backend| [MaG]| | |5' |
+||<blockquote> Misaligned resource tracking </blockquote>|[MD]| | 12:39 | 3' |
+|WP4|[#950] sim4life.io - WP4: Computational backend| [MaG]| | 12:42 |3' |
 ||<blockquote> Concurrency for computational backend </blockquote>|[MaG]|**Done** |  | |
 ||<blockquote> Progress reporting for iSolve jobs (multiport/parsing) </blockquote>| [MaG]|**Todo** |  | |
-|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| | 3' |
+|WP5|[#951] sim4life.io - WP5: Dynamic services backend|[ANE]|**In Progress**| 12:45 | 3' |
 ||<blockquote> Shutdown cleanly in case credits < 0 </blockquote>|[MB], [ANE]|**In Progress**| | |
 ||<blockquote> Better log messages  </blockquote>| [ANE] |_In Progress_|  | |
 ||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] |**Todo** |  | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]| | | |
-||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**|  |2' |
+||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**| 12:48 |2' |
 ||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  |0' |
-||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**|  |1' |
+||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**| 12:50 |1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
 ||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **In Progress**|  | |
 ||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | |6' |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | 12:51 |6' |
 ||<blockquote> Videostreaming </blockquote>| [MaG] | **Paused**|  | |
 ||<blockquote> Cursor, Ruler, Linked Tuples </blockquote>| [MaG] | **In progress**|  ||
 ||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
 ||<blockquote> Compression of smash files </blockquote>| [MaG] | **In progress**|  | |
-|WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | | 1' |
-|WP10|[#1027] Payment Service |[PC]| **In progress** | | 5' |
+|WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | 12:57 | 1' |
+|WP10|[#1027] Payment Service |[PC]| **In progress** | 12:58 | 4' |
 ||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
-|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10' |
-|Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3' |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | | 7'|
-||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK], [MaG] | **Todo**|  | 1'|
+|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | 13:02 | 6' |
+|Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| 13:08 | 3' |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | 13:11 | 4'|
+||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK], [MaG] | **Todo**| 13:15 | 1'|
 |TIP| TI Planning Tool | [MEST] | | | |
-||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5' |
-||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5' |
-|Status| Summary, Showstoppers, Discussion |[MaG]| |  | 15' |
+||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**| 13:16  | 3' |
+||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**| 13:19 | 3' |
+|Status| Summary, Showstoppers, Discussion |[MaG]| | 13:22 | 13' |
 
 
 
