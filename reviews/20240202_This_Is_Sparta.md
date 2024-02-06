@@ -40,7 +40,7 @@
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
 ||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | |
-||<blockquote> Preferences for auto update </blockquote>| [JQ]| |  | |
+||<blockquote> Preferences for auto update </blockquote>| [JQ]| **Done** |  |3' |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
@@ -57,7 +57,7 @@
 ||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  | |
 ||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**|  | |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
-||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **Todo**|  | |
+||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **In Progress**|  | |
 ||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | | |
 ||<blockquote> Videostreaming </blockquote>| [MaG] | **Todo**|  | |
