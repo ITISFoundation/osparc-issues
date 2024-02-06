@@ -59,13 +59,11 @@
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
 ||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **In Progress**|  | |
 ||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
-|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | | |
-||<blockquote> Videostreaming </blockquote>| [MaG] | **Todo**|  | |
-||<blockquote> Cursor </blockquote>| [MaG] | **Todo**|  | |
-||<blockquote> Ruler </blockquote>| [MaG] | **Todo**|  | |
-||<blockquote> Linked tuples </blockquote>| [MaG] | **Todo**|  | |
+|WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | |6' |
+||<blockquote> Videostreaming </blockquote>| [MaG] | **Paused**|  | |
+||<blockquote> Cursor, Ruler, Linked Tuples </blockquote>| [MaG] | **In progress**|  ||
 ||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
-||<blockquote> Compression of smash files </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Compression of smash files </blockquote>| [MaG] | **In progress**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | | 1min |
 |WP10|[#1027] Payment Service |[PC]| | | |
 |MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10 min |
