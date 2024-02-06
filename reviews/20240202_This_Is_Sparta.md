@@ -41,8 +41,8 @@
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
 ||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | |
 ||<blockquote> Preferences for auto update </blockquote>| [JQ]| **Done** |  |3' |
-||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  | |
-||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  | |
+||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  |0' |
+||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  |0' |
 |WP3|[#922] sim4life.io - WP3: Tracking of resource usage|[PC], [MD]| | | |
 ||<blockquote> Misaligned resource tracking </blockquote>|[MD]| |  | 5' |
 |WP4|[#950] sim4life.io - WP4: Computational backend| [MaG]| | |5' |
