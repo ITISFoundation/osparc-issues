@@ -53,9 +53,9 @@
 ||<blockquote> Better log messages  </blockquote>| [ANE] |_In Progress_|  | |
 ||<blockquote> Spurious premature shutdown of services  </blockquote>| [ANE] |**Todo** |  | |
 |WP6|[#952] sim4life.io - WP6: API| [MB], [PC]| | | |
-||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**|  | |
-||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  | |
-||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**|  | |
+||<blockquote> Block download of results if credits < 0 </blockquote>|[MB]| **Done**|  |2' |
+||<blockquote> Block start of solver job if credits < 0 </blockquote>|[MB]| **Todo**|  |0' |
+||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**|  |1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
 ||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **In Progress**|  | |
 ||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
