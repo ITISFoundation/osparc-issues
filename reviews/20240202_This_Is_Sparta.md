@@ -75,8 +75,8 @@
 |TIP| TI Planning Tool | [MEST] | | | |
 ||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**| 13:16  | 3' |
 ||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**| 13:19 | 3' |
-|Status| Summary, Showstoppers, Discussion |[MaG]| | 13:22 | 13' |
 |Portal| Portal work |[IP]| |  | 1' |
+|Status| Summary, Showstoppers, Discussion |[MaG]| | 13:22 | 13' |
 
 
 
