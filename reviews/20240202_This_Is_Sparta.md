@@ -58,11 +58,11 @@
 ||<blockquote> Log streaming with > 200 jobs </blockquote>|[MB], [MaG](), [PC]()| **Todo**| 12:50 |1' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
 ||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | **In Progress**|  | |
-||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **Todo**|  | |
+||<blockquote> Polish billing center [#5078] </blockquote>| [MD], [IP] | **In progress**|  | 5' |
 |WP8|[#933] sim4life.io - WP8: s4l:web|[MaG], [IP], [SCA]| | 12:51 |6' |
 ||<blockquote> Videostreaming </blockquote>| [MaG] | **Paused**|  | |
 ||<blockquote> Cursor, Ruler, Linked Tuples </blockquote>| [MaG] | **In progress**|  ||
-||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
+||<blockquote> Groups in task manager </blockquote>| [MaG] | **In progress**|  | |
 ||<blockquote> Compression of smash files </blockquote>| [MaG] | **In progress**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | 12:57 | 1' |
 |WP10|[#1027] Payment Service |[PC]| **In progress** | 12:58 | 4' |
