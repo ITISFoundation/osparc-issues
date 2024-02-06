@@ -36,7 +36,7 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| |12:30 |5' |
+|WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| |12:32 |3' |
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
 ||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** | 12:35 | 2' |
