@@ -71,7 +71,7 @@
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
 |Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | | 7'|
-||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK, MaG] | **Todo**|  | 1'|
+||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK], [MaG] | **Todo**|  | 1'|
 |TIP| TI Planning Tool | [MEST] | | | |
 ||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5' |
 ||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5' |
