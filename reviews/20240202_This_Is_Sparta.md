@@ -66,9 +66,9 @@
 ||<blockquote> Compression of smash files </blockquote>| [MaG] | **In progress**|  | |
 |WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | | 1' |
 |WP10|[#1027] Payment Service |[PC]| **In progress** | | 5' |
-|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10' |
 ||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
+|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10' |
 |Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3' |
 |Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | | 7'|
 ||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK], [MaG] | **Todo**|  | 1'|
