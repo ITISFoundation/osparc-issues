@@ -39,7 +39,7 @@
 |WP1|[#923] sim4life.io - WP1: Web Presence|[NIK], [AL](), [EO]()| | | |
 ||<blockquote> </blockquote>|[NIK], [AL](), [EO]()| |  | |
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | |
-||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | |
+||<blockquote> Logins need to be bound to product </blockquote>|[PC]| **Done** |  | 3' |
 ||<blockquote> Preferences for auto update </blockquote>| [JQ]| **Done** |  |3' |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [MaG] | **Todo** |  |0' |
 ||<blockquote> Thumbnails </blockquote>| [MaG] | **Todo** |  |0' |
@@ -64,17 +64,17 @@
 ||<blockquote> Cursor, Ruler, Linked Tuples </blockquote>| [MaG] | **In progress**|  ||
 ||<blockquote> Groups in task manager </blockquote>| [MaG] | **Todo**|  | |
 ||<blockquote> Compression of smash files </blockquote>| [MaG] | **In progress**|  | |
-|WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | | 1min |
-|WP10|[#1027] Payment Service |[PC]| | | |
-|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10 min |
+|WP9|[#1030] sim4life.io - WP9: User Privacy|[NC], [DK], [AL]|  **In progress** | | 1' |
+|WP10|[#1027] Payment Service |[PC]| **In progress** | | 5' |
+|MetaModelling|[#767] Metamodelling progress |[WVG]| **In progress** | | 10' |
 ||<blockquote> Move to self hosted payment gateway and thorough testing </blockquote>| [PC] | **Done** |  | |
 ||<blockquote> Mails upon recharge (stripe and sim4life)  </blockquote>| [PC] | **In Progress** |  | |
-|Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3 min |
-|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | | 7 min|
-||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK, MaG] | **Todo**|  | 1 min|
+|Y7-NIH|[#1093] M1-12 Proactive onboarding of services and models|[EI]|  **Ongoing**| | 3' |
+|Maintenance|[#1108] [#1109] M1-12 Maintenance and DevOps| [DK], [YH], [SAN], [MD], [PC] |**Ongoing** | | 7'|
+||<blockquote> [#1101] Docker registry reorganization: images validation and deletion (Harbor?) </blockquote>| [DK, MaG] | **Todo**|  | 1'|
 |TIP| TI Planning Tool | [MEST] | | | |
-||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5 min |
-||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5 min |
+||<blockquote> Published TIP v2.2 [#1154, #1158, #1160] </blockquote>| [MEST] | **Done**|  | 5' |
+||<blockquote> Progress on Personalization [#1155] </blockquote>| [MEST]| **In Progress**|  | 5' |
 |Status| Summary, Showstoppers, Discussion |[MaG]| |  | 15' |
 
 
