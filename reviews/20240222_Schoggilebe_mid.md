@@ -36,7 +36,7 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | 16:00 |  |
+|WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| |  |  |
 ||<blockquote> Preferences for auto update </blockquote>| [JQ]| _Paused_ | 16:00 | 3' |
 ||<blockquote> Sorting/filtering dashboard </blockquote>| [JQ] | _In Progress_ | 16:05 | 3' |
 ||<blockquote> Thumbnails </blockquote>| [JQ] | _Done_ | 16:08 | 3' |
