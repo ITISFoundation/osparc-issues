@@ -37,11 +37,11 @@
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 |WP2|[#949] sim4life.io - WP2: Product|[PC], [JQ]| | | 5' |
-||<blockquote> Preferences for auto update </blockquote>| [JQ]| | | |
-||<blockquote> Sorting/filtering dashboard </blockquote>| [JQ] | |  | |
-||<blockquote> Thumbnails </blockquote>| [JQ] | |  | |
+||<blockquote> Preferences for auto update </blockquote>| [JQ]| _Paused_ | | 3' |
+||<blockquote> Sorting/filtering dashboard </blockquote>| [JQ] | _In Progress_ |  | 3' |
+||<blockquote> Thumbnails </blockquote>| [JQ] | _Done_ |  | 3' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
-||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | |  | |
+||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | _In Progress_ |  | 3' |
 ||<blockquote> Polish billing center [#5078] </blockquote>| [IP] [PC] | |  | 10' |
 |Status| Summary, Showstoppers, Discussion |[MaG]| | | |
 
