@@ -42,7 +42,7 @@
 ||<blockquote> Thumbnails </blockquote>| [JQ] | _Done_ |  | 3' |
 |WP7|[#953] sim4life.io - WP7: Platform improvements| | | | |
 ||<blockquote> Disk space limits (limit based on pricing plan) </blockquote>| [JQ] | _In Progress_ |  | 3' |
-||<blockquote> Polish billing center [#5078] </blockquote>| [IP] [PC] | |  | 10' |
+||<blockquote> Polish billing center [#5078] </blockquote>| [IP] [PC] | _In Progress_ |  | 10' |
 |Status| Summary, Showstoppers, Discussion |[MaG]| | | |
 
 
