@@ -157,14 +157,14 @@
 [#1382]: https://github.com/ITISFoundation/osparc-issues/issues/1382
 [#1396]: https://github.com/ITISFoundation/osparc-issues/issues/1396
 
-[#5293]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5293
-[#5493]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5493
-[#5606]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5606
-[#5614]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5614
-[#5625]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5625
-[#5627]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5627
-[#5628]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5628
-[#5630]: https://github.com/ITISFoundation/osparc-simcore-issues/issues/5630
+[#5293]: https://github.com/ITISFoundation/osparc-simcore/issues/5293
+[#5493]: https://github.com/ITISFoundation/osparc-simcore/issues/5493
+[#5606]: https://github.com/ITISFoundation/osparc-simcore/issues/5606
+[#5614]: https://github.com/ITISFoundation/osparc-simcore/issues/5614
+[#5625]: https://github.com/ITISFoundation/osparc-simcore/issues/5625
+[#5627]: https://github.com/ITISFoundation/osparc-simcore/issues/5627
+[#5628]: https://github.com/ITISFoundation/osparc-simcore/issues/5628
+[#5630]: https://github.com/ITISFoundation/osparc-simcore/issues/5630
 
 
 [ANE]:https://github.com/GitHK
