@@ -18,7 +18,7 @@
 ||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||
 ||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|||
 ||<blockquote>[#632] Migrate data from tip.itis.swiss osparc-ops-environments|[YH], [MD]|||
-||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|||
+||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_|1|
 ||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|||
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|||
 ||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|||
@@ -41,7 +41,7 @@
 ||<blockquote>[#1381] Renmove Skull|[MaG]|||
 ||<blockquote>[#1382] HTML Support for Reports|[MaG]|||
 |[#1327]|**Performance Improvements for Large Projects**||||
-||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|||
+||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|||
 ||<blockquote>[#5293] Improve logging parsing of services such as isolve osparc-simcore#5293|[SAN]|||
 |[#1331]|**S4L Application**|||||
@@ -49,7 +49,7 @@
 ||<blockquote>[#1311] 2D plots #1311|[SCA]|Done||1'
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]|||
 ||<blockquote>[#1320] IMSAFE|[MaG]|||
-||<blockquote>[#1317] UI Form Layouts|[JQ]|||
+||<blockquote>[#1317] UI Form Layouts|[JQ]|_In Progress_||
 |[#1332]|**NIH Year 7**|||||
 ||<blockquote>[#1080] Portal Development #1080|[IP]|||
 ||<blockquote>[#1112] o²S²PARC API Functionality for variability assessment #1112|[MB][WVG]|||
