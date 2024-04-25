@@ -37,23 +37,23 @@
 ||<blockquote> ? |[DK], [YH]|||
 |[#1305]|**User Feedback**||||
 ||<blockquote> Send email with invoice|[MD]|||
-||<blockquote>[#1380] Simplify cluster name|[MaG]|||
-||<blockquote>[#1381] Renmove Skull|[MaG]|||
-||<blockquote>[#1382] HTML Support for Reports|[MaG]|||
+||<blockquote>[#1380] Simplify cluster name|[MaG]|Done|| 1'
+||<blockquote>[#1381] Renmove Skull|[MaG]|Done|| 1'
+||<blockquote>[#1382] HTML Support for Reports|[MaG]| Done| | 1'
 |[#1327]|**Performance Improvements for Large Projects**||||
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_||
 ||<blockquote>[#5293] Improve logging parsing of services such as isolve osparc-simcore#5293|[SAN]|||
 |[#1331]|**S4L Application**|||||
-||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]|||
+||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]| Done | | 2'
 ||<blockquote>[#1311] 2D plots #1311|[SCA]|Done||1'
-||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]|||
-||<blockquote>[#1320] IMSAFE|[MaG]|||
+||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]| Done | | 2'
+||<blockquote>[#1320] IMSAFE|[MaG]| Done | | 5'
 ||<blockquote>[#1317] UI Form Layouts|[JQ]|_In Progress_||
 |[#1332]|**NIH Year 7**|||||
 ||<blockquote>[#1080] Portal Development #1080|[IP]|||
 ||<blockquote>[#1112] o²S²PARC API Functionality for variability assessment #1112|[MB][WVG]|||
-||<blockquote>[#1340] sim4life.lite reduced mode (CAD editing) #1340|[MaG]|||
+||<blockquote>[#1340] sim4life.lite reduced mode (CAD editing) #1340|[MaG]| Done | | 3'
 ||<blockquote>[#1092] Facilitation of Service Creation #1092|[EI], [PC]|||
 ||<blockquote>[#1102] DevOps Infrastructure and Automation (3/3) #1102|[YH], [DK]|||
 ||<blockquote>[#1306] Authentication service #1306||||
@@ -62,14 +62,14 @@
 ||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|||
 |[#1335]|**Working Groups**|||||
 ||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||2'
-||<blockquote>[#1312] IMAnalytics on the web #1312|[CFU], [MaG], [MD]|||
-||<blockquote>[#1321] Desktop Integration Working Group #1321|[MaG], [MB], [OM]|||
+||<blockquote>[#1312] IMAnalytics on the web #1312|[CFU], [MaG], [MD] | Done || 0'
+||<blockquote>[#1321] Desktop Integration Working Group #1321|[MaG], [MB], [OM]| Done | | 0'
 ||<blockquote>[#1324] On-Premise Deployment Working Group #1324|[PC]|||
 ||<blockquote>[#1322] Registration / Login Working Group #1322|[Nik]|||
 ||<blockquote>[#1325] Marketplace Working Group #1325|[DK]|||
 ||<blockquote>[#1326] Real time collaboration Working Group #1326|[OM]|||
-||<blockquote>[#1329] Versioning Working Group #1329|[MaG], [OM], [SCA]|Done||
-||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|||
+||<blockquote>[#1329] Versioning Working Group #1329|[MaG], [OM], [SCA]|Done|| 0'
+||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|Done|| 0'
 ||<blockquote>[#1339] Pre-Setup Cluster Working Group #1339|[MD], [MaG], [SAN]|||
 ||<blockquote>[#1339] Metamodeling and Control: working group #1316|[WVG]|||
 ||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|Done||2'
