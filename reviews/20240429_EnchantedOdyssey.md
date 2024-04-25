@@ -41,6 +41,8 @@
 ||<blockquote>[#1380] Simplify cluster name|[MaG]|_Done_|| 1'
 ||<blockquote>[#1381] Renmove Skull|[MaG]|_Done_|| 1'
 ||<blockquote>[#1382] HTML Support for Reports|[MaG]| _Done_| | 1'
+||<blockquote>[#5651] Data tab only visible in oSparc product| _Done_| | 1'
+||<blockquote>[#5662] Logo links to S4L marketing website| _Done_| | 1'
 |[#1327]|**Performance Improvements for Large Projects**||||
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_||
