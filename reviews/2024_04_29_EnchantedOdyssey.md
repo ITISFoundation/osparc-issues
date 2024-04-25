@@ -46,7 +46,7 @@
 ||<blockquote>[#5293] Improve logging parsing of services such as isolve osparc-simcore#5293|[SAN]|||
 |[#1331]|**S4L Application**|||||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]|||
-||<blockquote>[#1311] 2D plots #1311|[SCA]|Done||
+||<blockquote>[#1311] 2D plots #1311|[SCA]|Done||1'
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]|||
 ||<blockquote>[#1320] IMSAFE|[MaG]|||
 ||<blockquote>[#1317] UI Form Layouts|[JQ]|||
@@ -61,7 +61,7 @@
 ||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|||
 ||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|||
 |[#1335]|**Working Groups**|||||
-||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||
+||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||2'
 ||<blockquote>[#1312] IMAnalytics on the web #1312|[CFU], [MaG], [MD]|||
 ||<blockquote>[#1321] Desktop Integration Working Group #1321|[MaG], [MB], [OM]|||
 ||<blockquote>[#1324] On-Premise Deployment Working Group #1324|[PC]|||
@@ -72,7 +72,7 @@
 ||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|||
 ||<blockquote>[#1339] Pre-Setup Cluster Working Group #1339|[MD], [MaG], [SAN]|||
 ||<blockquote>[#1339] Metamodeling and Control: working group #1316|[WVG]|||
-||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|Done|2'|
+||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|Done||2'
 
 
 ##### Status Legend
