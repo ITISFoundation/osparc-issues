@@ -1,5 +1,5 @@
 # Review Meeting - April 29, 2024
-<img width="712" alt="image" src="">
+<img width="712" alt="image" src="https://github.com/ITISFoundation/osparc-issues/assets/87664284/b721d0be-f6f6-41e7-b61b-05629ab83511">
 
 ## Sprint 🏃
 - [**Enchanted Odyssey**](2024_04_29_EnchantedOdyssey.md)
@@ -9,22 +9,6 @@
 
 - [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14) (BUDGETS)
 - [Sprint Scrum Wall](https://github.com/orgs/ITISFoundation/projects/15/views/11) (developers' view)
-
-### Deployed environments 🚀
-
-- AWS cluster (us-east-1, ZMT)
-  - [master_zmt](https://sim4life.io) (Testers only)
-- AWS cluster (us-east-1, STRIDES)
-  - [staging_aws](https://staging.osparc.io) (Testers only)
-  - [production_aws](https://osparc.io)
-- Z43 cluster (ch-zh)
-  - [staging_z43](http://osparc-staging.speag.com) (Testers only)
-  - [production_z43](http://osparc.speag.com)
-  - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
-  - [master](https://osparc-master.speag.com) (developers only)
-
-- [Platform releases](https://github.com/ITISFoundation/osparc-simcore/releases)
-
 
 ### Agenda 📝
 
@@ -98,6 +82,22 @@
 - _In Progress_: this issue is still under development
 - _Done_: no more work left to do on this issue. PO can review an decide to close or reopen.
 - _Ongoing_: a recurrent task
+
+### Deployed environments 🚀
+
+- AWS cluster (us-east-1, ZMT)
+  - [master_zmt](https://sim4life.io) (Testers only)
+- AWS cluster (us-east-1, STRIDES)
+  - [staging_aws](https://staging.osparc.io) (Testers only)
+  - [production_aws](https://osparc.io)
+- Z43 cluster (ch-zh)
+  - [staging_z43](http://osparc-staging.speag.com) (Testers only)
+  - [production_z43](http://osparc.speag.com)
+  - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
+  - [master](https://osparc-master.speag.com) (developers only)
+
+- [Platform releases](https://github.com/ITISFoundation/osparc-simcore/releases)
+
 
 [online]: http://status.osparc.io/
 [operational]: https://git.speag.com/oSparc/e2e-testing/-/pipelines
