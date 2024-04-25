@@ -33,6 +33,7 @@
 |[#1328]|**Maintenance / Dev Issues**||||
 ||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[SAN]|_Done_||2
 ||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|_Done_||0
+||<blockquote>[#5554] Admin Center: Manage Pricing Plans and read Maintenance|[OM]|_Ongoing_||2'
 |[#1337]|**OPs Issues**||||
 ||<blockquote> ? |[DK], [YH]|||
 |[#1305]|**User Feedback**||||
