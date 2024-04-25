@@ -58,9 +58,8 @@
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1320] IMSAFE|[MaG]| _Done_ | | 5'
 ||<blockquote>[#1317] UI Form Layouts|[JQ]|_In Progress_||
-||<blockquote>[#5336] Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
-||<blockquote> Support for linked properties| [MaG], [IP] |_Done_ |  | 1'
-
+||<blockquote>[#5336]Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
+||<blockquote>Support for linked properties| [MaG], [IP] |_Done_ |  | 1'
 |[#1332]|**NIH Year 7**|||||
 ||<blockquote>[#1080] Portal Development #1080|[IP]|||
 ||<blockquote>[#1112] o²S²PARC API Functionality for variability assessment #1112|[MB][WVG]|||
@@ -83,7 +82,7 @@
 ||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|_Done_|| 0'
 ||<blockquote>[#1339] Pre-Setup Cluster Working Group #1339|[MD], [MaG], [SAN]|||
 ||<blockquote>[#1339] Metamodeling and Control: working group #1316|[WVG]|||
-||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|_Done_| | 2'
+||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|_Done_||2'
 
 
 ##### Status Legend
