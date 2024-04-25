@@ -40,7 +40,7 @@
 ||<blockquote> Send email with invoice|[MD]|_Done_|| 1'
 ||<blockquote>[#1380] Simplify cluster name|[MaG]|_Done_|| 1'
 ||<blockquote>[#1381] Renmove Skull|[MaG]|_Done_|| 1'
-||<blockquote>[#1382] HTML Support for Reports|[MaG]| _Done_| | 1'
+||<blockquote>[#1382] HTML Support for Reports|[MaG], [IP]| _Done_| | 1'
 ||<blockquote>[#5651] Data tab only visible in oSparc product|[OM]|_Done_| | 1'
 ||<blockquote>[#5662] Logo links to S4L marketing website|[OM]|_Done_| | 1'
 |[#1327]|**Performance Improvements for Large Projects**||||
@@ -54,14 +54,15 @@
 ||<blockquote>[#5645] Nodes can't be added while the pipeline is running|[OM]|_Done_||1'
 |[#1331]|**S4L Application**|||||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]| _Done_ | | 2'
-||<blockquote>[#1311] 2D plots #1311|[SCA]|_Done_||1'
+||<blockquote>[#1311] 2D plots #1311|[SCA], [IP]|_Done_||1'
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1320] IMSAFE|[MaG]| _Done_ | | 5'
-||<blockquote>[#1317] UI Form Layouts|[JQ]|_In Progress_||
+||<blockquote>[#1317] UI Form Layouts|[JQ], [IP]|_In Progress_||2'
 ||<blockquote>[#5336] Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
-||<blockquote>Support for linked properties| [MaG], [IP] |_Done_ |  | 1'
+||<blockquote>Support for linked properties| [MaG], [IP] |_Done_ |  | 2'
+||<blockquote>Upload button| [IP] |_Done_ |  | 2'
 |[#1332]|**NIH Year 7**|||||
-||<blockquote>[#1080] Portal Development #1080|[IP]|||
+||<blockquote>[#1080] Portal Development #1080|[IP]|_Ongoing_||3'
 ||<blockquote>[#1112] o²S²PARC API Functionality for variability assessment #1112|[MB][WVG]|||
 ||<blockquote>[#1340] sim4life.lite reduced mode (CAD editing) #1340|[MaG]| _Done_ | | 3'
 ||<blockquote>[#1092] Facilitation of Service Creation #1092|[EI]||| 5'
@@ -170,6 +171,7 @@
 [#5293]: https://github.com/ITISFoundation/osparc-simcore/issues/5293
 [#5336]: https://github.com/ITISFoundation/osparc-simcore/issues/5336
 [#5493]: https://github.com/ITISFoundation/osparc-simcore/issues/5493
+[#5554]: https://github.com/ITISFoundation/osparc-simcore/issues/5554
 [#5606]: https://github.com/ITISFoundation/osparc-simcore/issues/5606
 [#5614]: https://github.com/ITISFoundation/osparc-simcore/issues/5614
 [#5625]: https://github.com/ITISFoundation/osparc-simcore/issues/5625
