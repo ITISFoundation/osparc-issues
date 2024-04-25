@@ -18,11 +18,11 @@
 ||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||
 ||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|||
 ||<blockquote>[#632] Migrate data from tip.itis.swiss osparc-ops-environments|[YH], [MD]|||
-||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_||1
+||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_||1'
 ||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|||
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|||
 ||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|||
-||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|_Done_||2
+||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|_Done_||2'
 |[#1343]|**Meta-modeling merged in master**|||||
 ||<blockquote>[#1363] Map service for metamodelling #1363|[WVG]|||
 ||<blockquote>[#1366] Dakota service for metamodelling #1366|[WVG]|||
@@ -59,7 +59,7 @@
 ||<blockquote>[#1102] DevOps Infrastructure and Automation (3/3) #1102|[YH], [DK]|||
 ||<blockquote>[#1306] Authentication service #1306||||
 |[#1333]|**Platform Improvements**|||||
-||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|||
+||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|_Done_||5'
 ||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|||
 |[#1335]|**Working Groups**|||||
 ||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||2'
@@ -68,7 +68,7 @@
 ||<blockquote>[#1324] On-Premise Deployment Working Group #1324|[PC]|||
 ||<blockquote>[#1322] Registration / Login Working Group #1322|[Nik]|||
 ||<blockquote>[#1325] Marketplace Working Group #1325|[DK]|||
-||<blockquote>[#1326] Real time collaboration Working Group #1326|[OM]|||
+||<blockquote>[#1326] Real time collaboration Working Group #1326|[OM]|_Done_|| 0'
 ||<blockquote>[#1329] Versioning Working Group #1329|[MaG], [OM], [SCA]|_Done_|| 0'
 ||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|_Done_|| 0'
 ||<blockquote>[#1339] Pre-Setup Cluster Working Group #1339|[MD], [MaG], [SAN]|||
