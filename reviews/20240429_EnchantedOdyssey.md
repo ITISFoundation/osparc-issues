@@ -22,7 +22,7 @@
 ||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|||
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|||
 ||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|||
-||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|||
+||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|_Done_||2
 |[#1343]|**Meta-modeling merged in master**|||||
 ||<blockquote>[#1363] Map service for metamodelling #1363|[WVG]|||
 ||<blockquote>[#1366] Dakota service for metamodelling #1366|[WVG]|||
