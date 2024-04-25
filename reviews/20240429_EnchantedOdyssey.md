@@ -55,7 +55,7 @@
 ||<blockquote>[#1080] Portal Development #1080|[IP]|||
 ||<blockquote>[#1112] o²S²PARC API Functionality for variability assessment #1112|[MB][WVG]|||
 ||<blockquote>[#1340] sim4life.lite reduced mode (CAD editing) #1340|[MaG]| _Done_ | | 3'
-||<blockquote>[#1092] Facilitation of Service Creation #1092|[EI], [PC]|||
+||<blockquote>[#1092] Facilitation of Service Creation #1092|[EI]||| 5'
 ||<blockquote>[#1102] DevOps Infrastructure and Automation (3/3) #1102|[YH], [DK]|||
 ||<blockquote>[#1306] Authentication service #1306||||
 |[#1333]|**Platform Improvements**|||||
