@@ -43,7 +43,6 @@
 |[#1327]|**Performance Improvements for Large Projects**||||
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_||
-||<blockquote>[#5293] Improve logging parsing of services such as isolve osparc-simcore#5293|[SAN]|||
 |[#1331]|**S4L Application**|||||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1311] 2D plots #1311|[SCA]|_Done_||1'
