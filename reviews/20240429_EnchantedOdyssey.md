@@ -37,7 +37,7 @@
 |[#1337]|**OPs Issues**||||
 ||<blockquote> ? |[DK], [YH]|||
 |[#1305]|**User Feedback**||||
-||<blockquote> Send email with invoice|[MD]|||
+||<blockquote> Send email with invoice|[MD]|_Done_|| 1'
 ||<blockquote>[#1380] Simplify cluster name|[MaG]|_Done_|| 1'
 ||<blockquote>[#1381] Renmove Skull|[MaG]|_Done_|| 1'
 ||<blockquote>[#1382] HTML Support for Reports|[MaG]| _Done_| | 1'
@@ -68,7 +68,7 @@
 ||<blockquote>[#1306] Authentication service #1306||||
 |[#1333]|**Platform Improvements**|||||
 ||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|_Done_||5'
-||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|||
+||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|_Ongoing_|| 1'
 |[#1335]|**Working Groups**|||||
 ||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||2'
 ||<blockquote>[#1312] IMAnalytics on the web #1312|[CFU], [MaG], [MD] | _Done_ || 0'
