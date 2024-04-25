@@ -15,13 +15,13 @@
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 |[#1309]|**TIP on AWS**|||
-||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||
-||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|||
-||<blockquote>[#632] Migrate data from tip.itis.swiss osparc-ops-environments|[YH], [MD]|||
+||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||4'
+||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|_Done_||0'
+||<blockquote>[#632] Migrate data from tip.itis.swiss osparc-ops-environments|[YH], [MD]|_Ongoing_||0'
 ||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_||1'
-||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|||
+||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|_Done_||1'
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|||
-||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|||
+||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|_Ongoing_||0'
 ||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|_Done_||2'
 |[#1343]|**Meta-modeling merged in master**|||||
 ||<blockquote>[#1363] Map service for metamodelling #1363|[WVG]|||
