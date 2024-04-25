@@ -58,7 +58,7 @@
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1320] IMSAFE|[MaG]| _Done_ | | 5'
 ||<blockquote>[#1317] UI Form Layouts|[JQ]|_In Progress_||
-||<blockquote>[#5336]Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
+||<blockquote>[#5336] Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
 ||<blockquote>Support for linked properties| [MaG], [IP] |_Done_ |  | 1'
 |[#1332]|**NIH Year 7**|||||
 ||<blockquote>[#1080] Portal Development #1080|[IP]|||
