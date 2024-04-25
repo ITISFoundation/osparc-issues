@@ -31,8 +31,8 @@
 ||<blockquote>[#1362] Bring osparc-filecomms under itis-foundation github #1362|[WVG]|||
 ||<blockquote>[#1364] Deploy osparc_client with new endpoints to pypi #1364|[MB]|||
 |[#1328]|**Maintenance / Dev Issues**||||
-||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[DK], [SAN]|||
-||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|||
+||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[SAN]|_Done_||2
+||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|_Done_||0
 |[#1337]|**OPs Issues**||||
 ||<blockquote> ? |[DK], [YH]|||
 |[#1305]|**User Feedback**||||
@@ -42,7 +42,7 @@
 ||<blockquote>[#1382] HTML Support for Reports|[MaG]|||
 |[#1327]|**Performance Improvements for Large Projects**||||
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
-||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|||
+||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_||
 ||<blockquote>[#5293] Improve logging parsing of services such as isolve osparc-simcore#5293|[SAN]|||
 |[#1331]|**S4L Application**|||||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]|||
