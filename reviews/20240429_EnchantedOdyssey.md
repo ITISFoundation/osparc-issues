@@ -46,7 +46,7 @@
 |[#1327]|**Performance Improvements for Large Projects**||||
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [OM], [SAN]|_Ongoing_||
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_||
-||<blockquote>[#5520] Update Open Graph metadata in index.html|[OM]|_Done_||2'
+||<blockquote>[#5520] Update Open Graph metadata|[OM]|_Done_||2'
 ||<blockquote>[#5548] Check new UI version|[OM]|_Done_||2'
 ||<blockquote>[#5588] Human friendly Release info|[OM]|_Done_||2'
 ||<blockquote>[#5589] Show available Tiers in Service metadata|[OM]|_Done_||1'
