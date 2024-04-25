@@ -50,8 +50,8 @@
 ||<blockquote>[#5548] Check new UI version|[OM]|_Done_||2'
 ||<blockquote>[#5588] Human friendly Release info|[OM]|_Done_||2'
 ||<blockquote>[#5589] Show available Tiers in Service metadata|[OM]|_Done_||1'
-||<blockquote>[#5645] Nodes can't be added while the pipeline is running|[OM]|_Done_||2'
-||<blockquote>[#5657] Await for backend's confirmation when adding node|[OM]|_Done_||2'
+||<blockquote>[#5657] Await for backend's confirmation when adding node|[OM]|_Done_||1'
+||<blockquote>[#5645] Nodes can't be added while the pipeline is running|[OM]|_Done_||1'
 |[#1331]|**S4L Application**|||||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1311] 2D plots #1311|[SCA]|_Done_||1'
