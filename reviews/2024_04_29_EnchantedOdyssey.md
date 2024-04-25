@@ -18,7 +18,7 @@
 ||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||
 ||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|||
 ||<blockquote>[#632] Migrate data from tip.itis.swiss osparc-ops-environments|[YH], [MD]|||
-||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_|1|
+||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_||1
 ||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|||
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|||
 ||<blockquote>[#5630] Setup E2E tests on TIP osparc-simcore#5630|[YH], [MD], [DK], [OM], [SAN]|||
