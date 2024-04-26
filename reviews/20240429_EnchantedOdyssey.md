@@ -71,19 +71,6 @@
 |[#1333]|**Platform Improvements**|||||
 ||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|_Done_||5'
 ||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|_Ongoing_|| 1'
-|[#1335]|**Working Groups**|||||
-||<blockquote>[#1342] S4L UI Unification #1342|[SCA]|Ongoing||2'
-||<blockquote>[#1312] IMAnalytics on the web #1312|[CFU], [MaG], [MD] | _Done_ || 0'
-||<blockquote>[#1321] Desktop Integration Working Group #1321|[MaG], [MB], [OM]| _Done_ | | 0'
-||<blockquote>[#1324] On-Premise Deployment Working Group #1324|[PC]|||
-||<blockquote>[#1322] Registration / Login Working Group #1322|[Nik]|||
-||<blockquote>[#1325] Marketplace Working Group #1325|[DK]|||
-||<blockquote>[#1326] Real time collaboration Working Group #1326|[OM]|_Done_|| 0'
-||<blockquote>[#1329] Versioning Working Group #1329|[MaG], [OM], [SCA]|_Done_|| 0'
-||<blockquote>[#1330] VIP Service Working Group #1330|[MaG]|_Done_|| 0'
-||<blockquote>[#1339] Pre-Setup Cluster Working Group #1339|[MD], [MaG], [SAN]|||
-||<blockquote>[#1339] Metamodeling and Control: working group #1316|[WVG]|||
-||<blockquote>[#1310] Workbench and MATCH working group #1310|[SCA], [IP]|_Done_||2'
 
 
 ##### Status Legend
