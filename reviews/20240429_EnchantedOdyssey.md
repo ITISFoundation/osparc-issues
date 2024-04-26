@@ -36,7 +36,10 @@
 ||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|_Done_||0
 ||<blockquote>[#5554] Admin Center: Manage Pricing Plans and read Maintenance|[OM]|_Ongoing_||2'
 |[#1337]|**OPs Issues**||||
-||<blockquote> ? |[DK], [YH]|||
+||<blockquote> Refactoring e2e-ops tests (part 1) |[YH]|_Done_|| 1'
+||<blockquote> Improve external maintenance page (WIP) |[YH]|_Done_|| 1'
+||<blockquote> CI pipelines speedup / refactoring |[YH]|_Done_|| 1'
+||<blockquote> In-house cluster maintenance |[YH]|_Done_|| 0'
 |[#1305]|**User Feedback**||||
 ||<blockquote> Send email with invoice|[MD]|_Done_|| 1'
 ||<blockquote>[#1380] Simplify cluster name|[MaG]|_Done_|| 1'
