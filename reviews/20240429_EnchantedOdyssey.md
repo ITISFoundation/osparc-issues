@@ -166,6 +166,7 @@
 [#5627]: https://github.com/ITISFoundation/osparc-simcore/issues/5627
 [#5628]: https://github.com/ITISFoundation/osparc-simcore/issues/5628
 [#5630]: https://github.com/ITISFoundation/osparc-simcore/issues/5630
+[#5694]: https://github.com/ITISFoundation/osparc-simcore/issues/5694
 
 
 [ANE]:https://github.com/GitHK
