@@ -26,10 +26,11 @@
 |[#1343]|**Meta-modeling merged in master**|||||
 ||<blockquote>[#1363] Map service for metamodelling #1363|[WVG]|_Done_||0'
 ||<blockquote>[#1366] Dakota service for metamodelling #1366|[WVG]|_Done_||0'
-||<blockquote>[#1291] Merge the Studies API implementations #1291|[MB], [PC], [WVG]|_Done_||5'
+||<blockquote>[#1291] Merge the Studies API implementations #1291|[MB], [PC], [WVG]|_Done_||0'
 ||<blockquote>[#1360] Add a file probe #1360|[WVG]|_Done_||0'
 ||<blockquote>[#1362] Bring osparc-filecomms under itis-foundation github #1362|[WVG]|_Done_||0'
-||<blockquote>[#1364] Deploy osparc_client with new endpoints to pypi #1364|[MB]|_Ongoing_||0'
+||<blockquote>[#1364] Deploy osparc_client with new endpoints to pypi #1364|[MB]|_Done_||0'
+||<blockquote>[#5694] Show demo of metamodelling #5694|[WVG], [PC]|_Ongoing_||5'
 |[#1328]|**Maintenance / Dev Issues**||||
 ||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[SAN]|_Done_||2
 ||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|_Done_||0
