@@ -14,14 +14,14 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-|[#1309]|**TIP on AWS**|||
+|[#1309]|**TIP on AWS**|||10:40
 ||<blockquote>[#631] Add tip.science dedicated deployment on aws-zmt|[JQ], [DK], [OM], [YH], [MD]|||4'
 ||<blockquote>[#5628] Clean-Up and Audit tip.itis.swiss osparc-simcore|[MD], [PC], [SAN]|_Done_||0'
 ||<blockquote>[#5625] Add tip.science nicely styled maintenance page osparc-simcore|[JQ]|_Done_||1'
 ||<blockquote>[#5627] Make tip.itis.swiss billable osparc-simcore#5627|[MEST], [MD], [PC]|_Done_||1'
 ||<blockquote>[#645] Enable tip.science v1 and v2 dynamic and comp autoscaling osparc-ops-environments#645|[YH], [DK], [SAN]|_Done_||
 ||<blockquote>[#1396] Do not auto start TIP services #1396|[OM]|_Done_||2'
-|[#1343]|**Meta-modeling merged in master**|||||
+|[#1343]|**Meta-modeling merged in master**|||10:48||
 ||<blockquote>[#1363] Map service for metamodelling #1363|[WVG]|_Done_||0'
 ||<blockquote>[#1366] Dakota service for metamodelling #1366|[WVG]|_Done_||0'
 ||<blockquote>[#1291] Merge the Studies API implementations #1291|[MB], [PC], [WVG]|_Done_||0'
@@ -29,23 +29,23 @@
 ||<blockquote>[#1362] Bring osparc-filecomms under itis-foundation github #1362|[WVG]|_Done_||0'
 ||<blockquote>[#1364] Deploy osparc_client with new endpoints to pypi #1364|[MB]|_Done_||0'
 ||<blockquote>[#5694] Show demo of metamodelling #5694|[WVG], [PC]|_Ongoing_||5'
-|[#1328]|**Maintenance / Dev Issues**||||
-||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[SAN]|_Done_||2
+|[#1328]|**Maintenance / Dev Issues**|||10:53|
+||<blockquote>[#5493] External clusters: Provide metrics of all of them clusters for prometheus osparc-simcore#5493|[SAN]|_Done_||2'
 ||<blockquote>[#5606] Clusters-keeper: if application is not responding, then it prevents starting dynamic services osparc-simcore#5606|[SAN]|_Done_||0'
 ||<blockquote>[#5554] Admin Center: Manage Pricing Plans and read Maintenance|[OM]|_Ongoing_||2'
-|[#1337]|**OPs Issues**||||
+|[#1337]|**OPs Issues**|||10:57|
 ||<blockquote> Improve external maintenance page (WIP) |[YH]|_Done_|| 1'
 ||<blockquote> CI pipelines speedup / refactoring |[YH]|_Done_|| 1'
 ||<blockquote> In-house cluster maintenance |[YH]|_Done_|| 0'
 ||<blockquote> Refactoring e2e-ops tests (part 1) |[YH]|_Done_|| 0'
-|[#1305]|**User Feedback**||||
+|[#1305]|**User Feedback**|||11:05|
 ||<blockquote> Send email with invoice|[MD]|_Done_|| 1'
 ||<blockquote>[#1380] Simplify cluster name|[MaG]|_Done_|| 1'
 ||<blockquote>[#1381] Renmove Skull|[MaG]|_Done_|| 1'
 ||<blockquote>[#1382] HTML Support for Reports|[MaG], [IP]| _Done_| | 1'
 ||<blockquote>[#5651] Data tab only visible in oSparc product|[OM]|_Done_| | 1'
 ||<blockquote>[#5662] Logo links to S4L marketing website|[OM]|_Done_| | 1'
-|[#1327]|**Performance Improvements for Large Projects**||||
+|[#1327]|**Performance Improvements for Large Projects**|||11:11|
 ||<blockquote>[#1349] Improve the service startup progress display #1349|[JQ], [SAN]|_Ongoing_|| 3'
 ||<blockquote>[#5614] Architecture: Make services restartable osparc-simcore#5614|[ANE], [MB], [MD], [SAN]|_Ongoing_|| 1'
 ||<blockquote>[#5520] Update Open Graph metadata|[OM]|_Done_||2'
@@ -54,7 +54,7 @@
 ||<blockquote>[#5589] Show available Tiers in Service metadata|[OM]|_Done_||1'
 ||<blockquote>[#5657] Await for backend's confirmation when adding node|[OM]|_Done_||1'
 ||<blockquote>[#5645] Nodes can't be added while the pipeline is running|[OM]|_Done_||1'
-|[#1331]|**S4L Application**|||||
+|[#1331]|**S4L Application**|||11:25||
 ||<blockquote>[#1336] Task Manager improvements #1336|[MaG], [IP]| _Done_ | | 2'
 ||<blockquote>[#1311] 2D plots #1311|[SCA], [IP]|_Done_||1'
 ||<blockquote>[#1318] Screen capture #1318|[MaG], [IP]| _Done_ | | 2'
@@ -63,11 +63,11 @@
 ||<blockquote>[#5336] Redirect Solver log to osparc logger| [MaG]|_Done_ |  | 2'
 ||<blockquote>Support for linked properties| [MaG], [IP] |_Done_ |  | 2'
 ||<blockquote>Upload button| [IP] |_Done_ |  | 2'
-|[#1332]|**NIH Year 7**|||||
+|[#1332]|**NIH Year 7**|||11:43||
 ||<blockquote>[#1080] Portal Development #1080|[IP]|_Ongoing_||3'
 ||<blockquote>[#1340] sim4life.lite reduced mode (CAD editing) #1340|[MaG]| _Done_ | | 3'
 ||<blockquote>[#1092] Facilitation of Service Creation #1092|[EI]||| 5'
-|[#1333]|**Platform Improvements**|||||
+|[#1333]|**Platform Improvements**|||11:54||
 ||<blockquote>[#1315] 2FA Improvements #1315|[MD], [OM]|_Done_||5'
 ||<blockquote>[#1307] Resource Tracking improvements #1307|[ANE], [MD]|_Ongoing_|| 1'
 
