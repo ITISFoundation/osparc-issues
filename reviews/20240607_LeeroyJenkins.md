@@ -24,7 +24,7 @@
 |[#1327]|**Performance Improvements for Large Projects**||_Paused_||
 |[#1305]|**sim4life.io User Feedback**||||
 |[#1328]|**Maintenance / Dev Issues**||||
-|[#716]|**Project Folders in User Workspace**|[OM]|||2'
+|[#716]|**Project Folders in User Workspace**|[OM]|_Paused_||2'
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
 |[#1331]|**S4L Application Features**||||
