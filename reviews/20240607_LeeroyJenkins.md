@@ -17,7 +17,7 @@
 |[#1407]|**Meta-modeling deployed to production**||||
 |[#1332]|**NIH Year 7**||||
 |[#1404]|**Sim4Life service versioning**||||
-|[#1309]|**TIP v3 on AWS**||||
+|[#1309]|**TIP v3 on AWS**||_In Progress_||
 |[#1313]|**Filesystem concept**||||
 |[#1317]|**S4L: UI Form Layouts**|[JSAQ], [IP], [MaG]|||
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||
