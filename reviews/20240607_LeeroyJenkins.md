@@ -15,7 +15,7 @@
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 |[#1407]|**Meta-modeling deployed to production**||||
-|[#1332]|**NIH Year 7**||||
+|[#1332]|**NIH Year 7**|[EI]|_In Progress_||5'
 |[#1404]|**Sim4Life service versioning**||||
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||
 |[#1313]|**Filesystem concept**||||
