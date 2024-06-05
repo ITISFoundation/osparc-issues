@@ -23,7 +23,7 @@
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||
 |[#1327]|**Performance Improvements for Large Projects**||_Paused_||
 |[#1305]|**sim4life.io User Feedback**||||
-|[#1328]|**Maintenance / Dev Issues**|||10:53|
+|[#1328]|**Maintenance / Dev Issues**||||
 |[#716]|**Project Folders in User Workspace**||||
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
