@@ -24,11 +24,11 @@
 |[#1327]|**Performance Improvements for Large Projects**||_Paused_||
 |[#1305]|**sim4life.io User Feedback**||||
 |[#1328]|**Maintenance / Dev Issues**||||
-|[#716]|**Project Folders in User Workspace**||||
+|[#716]|**Project Folders in User Workspace**|[OM]||2'|
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
 |[#1331]|**S4L Application Features**||||
-|[#1409]|**UX of credits burning**||||
+|[#1409]|**UX of credits burning**|[OM]||2'|
 
 
 ##### Status Legend
