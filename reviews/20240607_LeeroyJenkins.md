@@ -31,7 +31,7 @@
 |[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|| 1'
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
 |[#1409]|**UX of credits burning**|||
-||[#1474] Hide credits indicator by default|[OM]|||2'
+||[#1474] Hide credits indicator by default|[OM]|_Done_||2'
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1305]|**sim4life.io User Feedback**||||
