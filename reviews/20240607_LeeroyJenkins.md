@@ -32,8 +32,6 @@
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
 |[#1409]|**UX of credits burning**|||
 ||[#1474] Hide credits indicator by default|[OM]|||2'
-|[#1395]|**App-team admin panel**||||
-|[#1408]|**Release Notes improvements**||||
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1305]|**sim4life.io User Feedback**||||
@@ -42,6 +40,8 @@
 ||[#1318] S4L Screen Capture||_Done_||
 ||[#1471] Parse solver stages||_Done_||
 ||[#1480] Dark themes for manual and API documentation||_Done_||
+|[#1395]|**App-team admin panel**||||
+|[#1408]|**Release Notes improvements**||_Paused_||
 
 
 ##### Status Legend
