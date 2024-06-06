@@ -132,6 +132,7 @@
 [#1407]: https://github.com/ITISFoundation/osparc-issues/issues/1407
 [#1408]: https://github.com/ITISFoundation/osparc-issues/issues/1408
 [#1409]: https://github.com/ITISFoundation/osparc-issues/issues/1409
+[#1417]: https://github.com/ITISFoundation/osparc-issues/issues/1417
 [#1419]: https://github.com/ITISFoundation/osparc-issues/issues/1419
 [#1420]: https://github.com/ITISFoundation/osparc-issues/issues/1420
 [#1442]: https://github.com/ITISFoundation/osparc-issues/issues/1442
