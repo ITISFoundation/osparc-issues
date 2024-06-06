@@ -38,8 +38,8 @@
 ||[#1318] S4L Screen Capture|||
 ||[#1471] Parse solver stages|||
 ||[#1480] Dark themes for manual and API documentation|||
-|[#1409]|**UX of credits burning**|[OM]|||2'
-||[#1474] Hide credits indicator by default|||
+|[#1409]|**UX of credits burning**|||
+||[#1474] Hide credits indicator by default|[OM]|||2'
 
 
 ##### Status Legend
