@@ -22,8 +22,8 @@
 ||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||1'
 ||[#1087] Tutorial 3|[EI]|_Done_||1'
 |[#1404]|**Sim4Life service versioning**||||
-||[#1419] Release a new sim4life.lite version||_In Progress_||0'
-||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_||0'
+||[#1419] Release a new sim4life.lite version|[MaG],[PC]|_In Progress_||0'
+||[#1420] Release 8.0.1 on sim4life.io/.science|[MaG],[PC]|_In Progress_||0'
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||8'
 |[#1313]|**Filesystem concept**||| |
 ||[#1442] Use EFS to cache user data|[MD]|||5'
