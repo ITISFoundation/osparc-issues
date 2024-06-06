@@ -14,31 +14,31 @@
 
 |Issue|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-||**DevOps Update**|[DK],[YH]|_Ongoing_||2'
+||**DevOps Update**|[DK],[YH]|_Ongoing_|11:10|2'
 |[#1407]|**Meta-modeling deployed to production**||||
-||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_||3'
+||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_|11:12|3'
 |[#1332]|**NIH Year 7**||||
-||[#1092] Facilitation of service creation|[EI]|_Done_||2'
-||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||1'
-||[#1087] Tutorial 3|[EI]|_Done_||1'
+||[#1092] Facilitation of service creation|[EI]|_Done_|11:15|2'
+||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_|11:17|1'
+||[#1087] Tutorial 3|[EI]|_Done_|11:18|1'
 |[#1404]|**Sim4Life service versioning**||||
 ||[#1419] Release a new sim4life.lite version|[MaG],[PC]|_In Progress_||0'
 ||[#1420] Release 8.0.1 on sim4life.io/.science|[MaG],[PC]|_In Progress_||0'
-|[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||8'
+|[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_|11:19|8'
 |[#1313]|**Filesystem concept**||| |
-||[#1442] Use EFS to cache user data|[MD]|_Done_||5'
-|[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|| 1'
-|[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|| 1'
-|[#716]|**Project Folders in User Workspace**|[OM]|_In Progress_||2'
+||[#1442] Use EFS to cache user data|[MD]|_Done_|11:27|5'
+|[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|11:32| 1'
+|[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|11:33| 1'
+|[#716]|**Project Folders in User Workspace**|[OM]|_In Progress_|11:34|2'
 |[#1409]|**UX of credits burning**|||
-||[#1474] Hide credits indicator by default|[OM]|_Done_||2'
-|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||1'
-|[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
+||[#1474] Hide credits indicator by default|[OM]|_Done_|11:36|2'
+|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_|11:38|1'
+|[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_|11:39|2'
 |[#1305]|**sim4life.io User Feedback**||||
-||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_||1'
+||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_|11:41|1'
 |[#1331]|**S4L Application Features**||||
-||[#1471] Parse solver stages|[MaG]|_Done_||1'
-||[#1480] Dark themes for manual and API documentation|[MaG]|_Done_||1'
+||[#1471] Parse solver stages|[MaG]|_Done_|11:42|1'
+||[#1480] Dark themes for manual and API documentation|[MaG]|_Done_|11:43|2'
 |[#1395]|**App-team admin panel**||_Paused_||
 |[#1408]|**Release Notes improvements**||_Paused_||
 
