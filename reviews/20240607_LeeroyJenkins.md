@@ -19,7 +19,7 @@
 ||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_||3'
 |[#1332]|**NIH Year 7**||||
 ||[#1092] Facilitation of service creation|[EI]|_Done_||2'
-||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_|0'|
+||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||0'
 ||[#1087] Tutorial 3|[EI]|_Done_||1'
 |[#1404]|**Sim4Life service versioning**||||
 ||[#1419] Release a new sim4life.lite version||_In Progress_|
