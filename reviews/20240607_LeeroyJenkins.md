@@ -26,10 +26,10 @@
 ||[#1420] Release 8.0.1 on sim4life.io/.science|[MaG],[PC]|_In Progress_||0'
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||8'
 |[#1313]|**Filesystem concept**||| |
-||[#1442] Use EFS to cache user data|[MD]|||5'
+||[#1442] Use EFS to cache user data|[MD]|_Done_||5'
 |[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|| 1'
 |[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|| 1'
-|[#716]|**Project Folders in User Workspace**|[OM]|||2'
+|[#716]|**Project Folders in User Workspace**|[OM]|_In Progress_||2'
 |[#1409]|**UX of credits burning**|||
 ||[#1474] Hide credits indicator by default|[OM]|_Done_||2'
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||1'
