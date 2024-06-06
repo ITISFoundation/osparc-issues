@@ -12,7 +12,7 @@
 
 ### Agenda 📝
 
-|Topic|Title|Presenter|Status| Start-Time| Duration |
+|Issue|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 ||**DevOps Update**|[DK],[YH]|_Ongoing_||2'
 |[#1407]|**Meta-modeling deployed to production**||||
