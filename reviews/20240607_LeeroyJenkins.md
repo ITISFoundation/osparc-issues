@@ -24,6 +24,7 @@
 ||[#1419] Release a new sim4life.lite version|||
 ||[#1420] Release 8.0.1 on sim4life.io/.science|||
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||[OM]: 3'
+|[#1155]|**TIP v3**|[MS], [OM]|_In Progress_||[MS]: 3'
 |[#1313]|**Filesystem concept**|[MD]|| | 5'
 ||[#1442] Use EFS to cache user data|||
 |[#1317]|**S4L: UI Form Layouts**|[JQ], [IP], [MaG]|||
@@ -80,6 +81,7 @@
 [#1080]: https://github.com/ITISFoundation/osparc-issues/issues/1080
 [#1087]: https://github.com/ITISFoundation/osparc-issues/issues/1087
 [#1092]: https://github.com/ITISFoundation/osparc-issues/issues/1092
+[#1155]: https://github.com/ITISFoundation/osparc-issues/issues/1155
 [#1102]: https://github.com/ITISFoundation/osparc-issues/issues/1102
 [#1112]: https://github.com/ITISFoundation/osparc-issues/issues/1112
 [#1291]: https://github.com/ITISFoundation/osparc-issues/issues/1291
@@ -172,5 +174,4 @@
 [TN]:https://github.com/newton1985
 [YH]:https://github.com/YuryHrytsuk
 [JQ]:https://github.com/jsaq007
-[MEST]:https://github.com/konohana0608
 [WVG]: https://github.com/wvangeit
