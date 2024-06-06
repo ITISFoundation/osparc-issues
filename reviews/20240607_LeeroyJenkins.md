@@ -37,7 +37,7 @@
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1305]|**sim4life.io User Feedback**||||
-||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JSAQ]|_In Progress_||
+||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_||
 |[#1331]|**S4L Application Features**||||
 ||[#1318] S4L Screen Capture||_Done_||
 ||[#1471] Parse solver stages||_Done_||
