@@ -21,8 +21,8 @@
 ||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||
 ||[#1087] Tutorial 3|[EI]|_Done_||1'
 |[#1404]|**Sim4Life service versioning**||||
-||[#1419] Release a new sim4life.lite version|||
-||[#1420] Release 8.0.1 on sim4life.io/.science|||
+||[#1419] Release a new sim4life.lite version||_In Progress_|
+||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_|
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||[OM]: 3'
 |[#1155]|**TIP v3**|[MS], [OM]|_In Progress_||[MS]: 3'
 |[#1313]|**Filesystem concept**|[MD]|| | 5'
@@ -36,9 +36,9 @@
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
 |[#1331]|**S4L Application Features**||||
-||[#1318] S4L Screen Capture|||
-||[#1471] Parse solver stages|||
-||[#1480] Dark themes for manual and API documentation|||
+||[#1318] S4L Screen Capture||_Done_|
+||[#1471] Parse solver stages|_Done_||
+||[#1480] Dark themes for manual and API documentation||_Done_|
 |[#1409]|**UX of credits burning**|||
 ||[#1474] Hide credits indicator by default|[OM]|||2'
 
