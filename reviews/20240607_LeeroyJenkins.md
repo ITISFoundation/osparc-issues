@@ -28,9 +28,9 @@
 ||[#1442] Use EFS to cache user data|||
 |[#1317]|**S4L: UI Form Layouts**|[JQ], [IP], [MaG]|||
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
-|[#1327]|**Performance Improvements for Large Projects**||_In Progress_||
+|[#1327]|**Performance Improvements for Large Projects**|[SAN]|_On going_|| 1'
 |[#1305]|**sim4life.io User Feedback**||||
-|[#1328]|**Maintenance / Dev Issues**||||
+|[#1328]|**Maintenance / Dev Issues**|[SAN]|_On going_|| 1'
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
