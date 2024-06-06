@@ -27,7 +27,7 @@
 |[#1155]|**TIP v3**|[MS], [OM]|_In Progress_||[MS]: 3'
 |[#1313]|**Filesystem concept**|[MD]|| | 5'
 ||[#1442] Use EFS to cache user data|||
-|[#1317]|**S4L: UI Form Layouts**|[JQ], [IP], [MaG]|||
+|[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
 |[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|| 1'
 |[#1305]|**sim4life.io User Feedback**||||
