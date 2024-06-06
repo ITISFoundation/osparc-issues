@@ -2,7 +2,7 @@
 <img width="400" alt="image" src="https://github.com/ITISFoundation/osparc-issues/assets/87664284/d60c9ced-eb80-466e-8389-b040b45afa64">
 
 ## Sprint 🏃
-- [**Leeroy Jenkins**](20240607_LeeroyJenkins.md)
+- [**Leeroy Jenkins**](https://en.wikipedia.org/wiki/Leeroy_Jenkins)
 - Scrum Master: [SCA]
 
 ### Dashboards 📊
