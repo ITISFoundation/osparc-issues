@@ -17,7 +17,7 @@
 ||**DevOps Update**|[DK],[YH]|_Ongoing_||2'
 |[#1407]|**Meta-modeling deployed to production**||||
 ||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_||3'
-|[#1332]|**NIH Year 7**||_Ongoing_||
+|[#1332]|**NIH Year 7**||||
 ||[#1092] Facilitation of service creation|[EI]|_Done_||2'
 ||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||
 ||[#1087] Tutorial 3|[EI]|_Done_||1'
