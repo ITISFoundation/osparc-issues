@@ -26,7 +26,7 @@
 ||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_|
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||8'
 |[#1313]|**Filesystem concept**||| |
-||[#1442] Use EFS to cache user data|[MD]||5'
+||[#1442] Use EFS to cache user data|[MD]|||5'
 |[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|| 1'
 |[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|| 1'
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
