@@ -14,7 +14,7 @@
 
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
-||**DevOps Update**|[DK],[YH]|||2'
+||**DevOps Update**|[DK],[YH]|_Ongoing_||2'
 |[#1407]|**Meta-modeling deployed to production**||||
 ||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_||3'
 |[#1332]|**NIH Year 7**||_Ongoing_||
