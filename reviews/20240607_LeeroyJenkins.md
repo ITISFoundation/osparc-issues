@@ -22,8 +22,8 @@
 ||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||0'
 ||[#1087] Tutorial 3|[EI]|_Done_||1'
 |[#1404]|**Sim4Life service versioning**||||
-||[#1419] Release a new sim4life.lite version||_In Progress_|
-||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_|
+||[#1419] Release a new sim4life.lite version||_In Progress_||0'
+||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_||0'
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||8'
 |[#1313]|**Filesystem concept**||| |
 ||[#1442] Use EFS to cache user data|[MD]|||5'
@@ -32,7 +32,7 @@
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
 |[#1409]|**UX of credits burning**|||
 ||[#1474] Hide credits indicator by default|[OM]|_Done_||2'
-|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
+|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||1'
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1305]|**sim4life.io User Feedback**||||
 ||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_||
