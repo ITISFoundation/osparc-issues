@@ -39,7 +39,7 @@
 |[#1331]|**S4L Application Features**||||
 ||[#1471] Parse solver stages||_Done_||
 ||[#1480] Dark themes for manual and API documentation||_Done_||
-|[#1395]|**App-team admin panel**||||
+|[#1395]|**App-team admin panel**||_Paused_||
 |[#1408]|**Release Notes improvements**||_Paused_||
 
 
