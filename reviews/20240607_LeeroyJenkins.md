@@ -35,10 +35,10 @@
 |[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||1'
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1305]|**sim4life.io User Feedback**||||
-||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_||
+||[198087](https://z43.fogbugz.com/f/cases/198087/Improve-search-feature) Improve search feature|[JQ]|_In Progress_||1'
 |[#1331]|**S4L Application Features**||||
-||[#1471] Parse solver stages||_Done_||
-||[#1480] Dark themes for manual and API documentation||_Done_||
+||[#1471] Parse solver stages|[MaG]|_Done_||1'
+||[#1480] Dark themes for manual and API documentation|[MaG]|_Done_||1'
 |[#1395]|**App-team admin panel**||_Paused_||
 |[#1408]|**Release Notes improvements**||_Paused_||
 
