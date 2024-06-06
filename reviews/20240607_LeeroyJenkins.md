@@ -27,20 +27,20 @@
 |[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||6'
 |[#1313]|**Filesystem concept**||| |
 ||[#1442] Use EFS to cache user data|[MD]||5'
-|[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
-|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
 |[#1327]|**Performance Improvements for Large Projects**|[SAN]|_Ongoing_|| 1'
 |[#1305]|**sim4life.io User Feedback**||||
 |[#1328]|**Maintenance / Dev Issues**|[SAN]|_Ongoing_|| 1'
 |[#716]|**Project Folders in User Workspace**|[OM]|||2'
+|[#1409]|**UX of credits burning**|||
+||[#1474] Hide credits indicator by default|[OM]|||2'
 |[#1395]|**App-team admin panel**||||
 |[#1408]|**Release Notes improvements**||||
+|[#1406]|**Sim4Life Desktop+Web UI Unification**|[SCA]|_In Progress_||2'
+|[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
 |[#1331]|**S4L Application Features**||||
 ||[#1318] S4L Screen Capture||_Done_||
 ||[#1471] Parse solver stages||_Done_||
 ||[#1480] Dark themes for manual and API documentation||_Done_||
-|[#1409]|**UX of credits burning**|||
-||[#1474] Hide credits indicator by default|[OM]|||2'
 
 
 ##### Status Legend
