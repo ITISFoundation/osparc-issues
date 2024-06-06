@@ -23,8 +23,7 @@
 |[#1404]|**Sim4Life service versioning**||||
 ||[#1419] Release a new sim4life.lite version||_In Progress_|
 ||[#1420] Release 8.0.1 on sim4life.io/.science||_In Progress_|
-|[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||[OM]: 3'
-|[#1155]|**TIP v3**|[MS], [OM]|_In Progress_||[MS]: 3'
+|[#1309]|**TIP v3 on AWS**|[MS], [OM]|_In Progress_||6'
 |[#1313]|**Filesystem concept**|[MD]|| | 5'
 ||[#1442] Use EFS to cache user data|||
 |[#1317]|**S4L: UI Form Layouts**|[IP]|_In Progress_||2'
