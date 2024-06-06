@@ -15,7 +15,7 @@
 |Topic|Title|Presenter|Status| Start-Time| Duration |
 |--|--|--|--|--|--|
 |[#1407]|**Meta-modeling deployed to production**||||
-||[#1417] Release to production and testing with selected group of users|||
+||[#1417] Release to production and testing with selected group of users|[MB]|_Only user testing missing_||3'
 |[#1332]|**NIH Year 7**||_Ongoing_||
 ||[#1092] Facilitation of service creation|[EI]|_Done_||2'
 ||[#1340] sim4life.lite reduced mode (CAD editing)|[MaG]|_Done_||
