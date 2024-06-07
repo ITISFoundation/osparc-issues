@@ -39,6 +39,8 @@
 |[#1331]|**S4L Application Features**||||
 ||[#1471] Parse solver stages|[MaG]|_Done_|11:42|1'
 ||[#1480] Dark themes for manual and API documentation|[MaG]|_Done_|11:43|2'
+||[198087](https://z43.fogbugz.com/f/cases/190055) Apply same number for all xyz directions||_Done_||0'
+||[198087](https://z43.fogbugz.com/f/cases/198088) Unable to kill queued solver job before it starts||_Done_||0'
 |[#1395]|**App-team admin panel**||_Paused_||
 |[#1408]|**Release Notes improvements**||_Paused_||
 
