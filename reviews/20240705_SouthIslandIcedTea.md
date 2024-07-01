@@ -15,7 +15,7 @@
 | Title                                               | Presenter                                          | Status          | Duration | Start-Time |
 |-----------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
 | [#1407] Meta-modeling: Refinements & FollowUps      | [MB], [PC], [SAN], [WVG]                           | **In progress** |          |            |
-| [#1332] NIH Year 7                                  | [EI], [IP], [MaG]                                  | **In progress** |          |            |
+| [#1332] NIH Year 7                                  | [EI]                                               | **In progress** |          |  1'        |
 | [#1404] Sim4Life service versioning                 | [MaG], [PC]                                        | **In progress** |          |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD], [OM], [PC], [SAN]                     | **In progress** |          |            |
 | [#1408] Release Notes Improvements                  | [EI] for [ANE]                                     | **In progress** | 3'       |            |
