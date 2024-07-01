@@ -1,20 +1,18 @@
 """
 This script generates the .md file for the review agenda (original version by ANE, extended instructions by EI)
 Pre-requisite: up-to-date PM2 board
-- Go to PM2 Board https://github.com/orgs/ITISFoundation/projects/9/views/23
+- Go to PM2 Board https://github.com/orgs/ITISFoundation/projects/15/views/14
 - Make sure "Topic" is correctly set -> It will be used to group items in the agenda
 - Select one row in table
 - On your keyboard: press "CTRL+a"
 - On your keyboard: press "CTRL+c" (copies table in CSV)
 - Create a new csv file in this folder (with the name of the current sprint)
 - Paste clipboard
-- Create a "mapping_db.ignore.txt": entries in PM2 board have to be present in this file (ask ANE/EI for an example)
 - Make sure no other csv file is present in this folder
 - Run this script
 - Here you go! You have a first version to share with the Team
 - Optional: to make the table in the .md file easier to edit, use http://markdowntable.com
 """
-
 
 import csv
 import logging
@@ -25,13 +23,11 @@ logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
-COLUMNS = "Topic Title Presenter Status Duration Start-Time".split()
+COLUMNS = "Title Presenter Status Duration Start-Time".split()
 
 INITIALS_TO_USERNAMES = {
-    "ALL": "Surfict",
     "ANE": "GitHK",
     "BL": "dyollb",
-    "CR": "colinRawlings",
     "DK": "mrnicegyu11",
     "EI": "elisabettai",
     "IP": "ignapas",
@@ -45,17 +41,18 @@ INITIALS_TO_USERNAMES = {
     "SB": "sbenkler",
     "SC": "SCA-ZMT",
     "TN": "newton1985",
+    "WVG": "wvangeit",
     "YH": "YuryHrytsuk",
 }
 
 USERNAMES_TO_INITIALS = {value: key for key, value in INITIALS_TO_USERNAMES.items()}
 
 
-def to_md_row(row: list[str]):
+def _to_md_row(row: list[str]):
     return "|" + "|".join(row) + "|"
 
 
-def format_status(status):
+def _format_status(status):
     if status == "undefined":
         return ""
     elif status != "Paused":
@@ -70,37 +67,27 @@ def create_markdown_file(csv_path: Path) -> Path:
         reader = csv.DictReader(csvfile, delimiter="	")
 
         with md_path.open("wt") as md:
-            print(to_md_row(COLUMNS), file=md)
-            print(to_md_row(["--"] * len(COLUMNS)), file=md)
-
-            current_topic = None
+            print(_to_md_row(COLUMNS), file=md)
+            print(_to_md_row(["--"] * len(COLUMNS)), file=md)
 
             issue_numbers = []
             for row in reader:
                 # group
-                issue = row["Issue"].split("/")[-1]
+                issue = row["URL"].split("/")[-1]
                 issue_numbers.append(issue)
                 title = f"[#{issue}] {row['Title']}"
-                topic = row["Topic"]
-                indented = False
-                if topic == current_topic and topic.lower() != "undefined":
-                    indented = True
-                    title = f"<blockquote>{title}</blockquote>"
-                current_topic = topic
                 assignees = [
                     f"[{USERNAMES_TO_INITIALS[u]}]"
                     for u in re.findall(r"(\b\w+\b)", row["Assignees"])
                     if u in USERNAMES_TO_INITIALS
                 ]
                 # write
-                col_topic = "" if (indented or topic == "undefined") else topic
                 print(
-                    to_md_row(
+                    _to_md_row(
                         [
-                            col_topic,  # topic
                             title,  # title
                             ", ".join(assignees),  # presenters
-                            format_status(row["Status"]),  # Status
+                            _format_status(row["Status"]),  # Status
                             "",  # Duration
                             "",  #
                         ]
