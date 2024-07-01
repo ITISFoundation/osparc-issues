@@ -34,12 +34,13 @@ INITIALS_TO_USERNAMES = {
     "MaG": "mguidon",
     "MB": "bisgaard-itis",
     "MD": "matusdrobuliak66",
+    "MEST": "Konohana0608",
     "Nik": "drniiken",
     "OM": "odeimaiz",
     "PC": "pcrespov",
     "SAN": "sanderegg",
     "SB": "sbenkler",
-    "SC": "SCA-ZMT",
+    "SCA": "SCA-ZMT",
     "TN": "newton1985",
     "WVG": "wvangeit",
     "YH": "YuryHrytsuk",
@@ -78,7 +79,7 @@ def create_markdown_file(csv_path: Path) -> Path:
                 title = f"[#{issue}] {row['Title']}"
                 assignees = [
                     f"[{USERNAMES_TO_INITIALS[u]}]"
-                    for u in re.findall(r"(\b\w+\b)", row["Assignees"])
+                    for u in [x.strip() for x in row["Assignees"].split(",")]
                     if u in USERNAMES_TO_INITIALS
                 ]
                 # write
