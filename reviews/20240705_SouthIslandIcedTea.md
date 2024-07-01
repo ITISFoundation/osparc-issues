@@ -19,20 +19,20 @@
 | [#1404] Sim4Life service versioning                 | [MaG], [PC]                                        | **In progress** |          |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD], [OM], [PC], [SAN]                     | **In progress** |          |            |
 | [#1408] Release Notes Improvements                  | [ANE]                                              | **In progress** |          |            |
-| [#1309] TIP v3 on AWS                               | [ANE], [MEST], [MD], [DK], [OM], [PC], [SAN], [YH] | **In progress** | OM:2'    |            |
-| [#1313] Filesystem concept                          | [ANE], [IP], [MD], [SAN]                           | **In progress** |          |            |
+| [#1309] TIP v3 on AWS                               | [MEST], [MD], [DK], [OM], [PC], [SAN], [YH]        | **In progress** | OM:2'    |            |
+| [#1313] Filesystem concept                          | [IP], [MD], [SAN]                                  | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                        | [IP], [MaG], [SCA]                                 | **In progress** |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **Planned**     |          |            |
-| [#1327] Performance Improvements for Large Projects | [MB], [ANE], [MD], [PC], [SAN]                     | **Ongoing**     |          |            |
+| [#1327] Performance Improvements for Large Projects | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |          |            |
 | [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |          |            |
-| [#1328] Maintenance / Dev Issues                    | [MB], [ANE], [MD], [PC], [SAN]                     | **Ongoing**     |          |            |
+| [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |          |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
 | [#1395] App-team admin panel                        | [PC]                                               | **Planned**     |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
 | [#1413] S4L Localization                            | [SCA]                                              | **Planned**     |          |            |
-| [#1326] Real time collaboration                     | [ANE], [MD], [OM], [SAN]                           | Paused          |          |            |
-| [#1410] Circuit Simulator                           | [PC]                                               | Paused          | 0'       |            |
-| [#1411] Meta-modeling user story and UI             | [WVG]                                              | Paused          | 0'       |            |
+| [#1326] Real time collaboration                     |                                                    | Paused          |          |            |
+| [#1410] Circuit Simulator                           |                                                    | Paused          | 0'       |            |
+| [#1411] Meta-modeling user story and UI             |                                                    | Paused          | 0'       |            |
 | [#1412] o2S+S4L Integration: User Stories           |                                                    | Paused          | 0'       |            |
 
 
