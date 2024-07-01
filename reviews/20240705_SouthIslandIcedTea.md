@@ -19,7 +19,7 @@
 | [#1404] Sim4Life service versioning                 | [MaG], [PC]                                        | **In progress** |          |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD], [OM], [PC], [SAN]                     | **In progress** |          |            |
 | [#1408] Release Notes Improvements                  | [ANE]                                              | **In progress** |          |            |
-| [#1309] TIP v3 on AWS                               | [ANE], [MEST], [MD], [DK], [OM], [PC], [SAN], [YH] | **In progress** |          |            |
+| [#1309] TIP v3 on AWS                               | [ANE], [MEST], [MD], [DK], [OM], [PC], [SAN], [YH] | **In progress** | OM:2'    |            |
 | [#1313] Filesystem concept                          | [ANE], [IP], [MD], [SAN]                           | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                        | [IP], [MaG], [SCA]                                 | **In progress** |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **Planned**     |          |            |
