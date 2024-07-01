@@ -35,7 +35,6 @@ INITIALS_TO_USERNAMES = {
     "MB": "bisgaard-itis",
     "MD": "matusdrobuliak66",
     "MEST": "Konohana0608",
-    "Nik": "drniiken",
     "OM": "odeimaiz",
     "PC": "pcrespov",
     "SAN": "sanderegg",
