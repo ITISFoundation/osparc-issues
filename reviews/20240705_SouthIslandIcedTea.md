@@ -14,9 +14,9 @@
 
 | Title                                               | Presenter                                          | Status          | Duration | Start-Time |
 |-----------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
-| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],  [WVG]                                       | **In progress** |    4'    |            |
+| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],  [WVG]                                       | **In progress** |    5'    |            |
 | [#1332] NIH Year 7                                  | [EI]                                               | **In progress** | 1'         |          |
-| [#1404] Sim4Life service versioning                 | [MaG], [PC]                                        | **In progress** |          |            |
+| [#1404] Sim4Life service versioning                 | [PC]                                               | **In progress** |  3'        |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD], [PC]                           | **In progress** |          |            |
 | [#1408] Release Notes Improvements                  | [EI] for [ANE]                                     | **In progress** | 3'       |            |
 | [#1309] TIP v3 on AWS                               | [MEST], [OM], [MD], [DK], [PC], [YH]        | **In progress** | OM:3'    |            |
