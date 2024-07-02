@@ -25,7 +25,7 @@
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **Planned**     |          |            |
 | [#1327] Performance Improvements for Large Projects | [MB], [MD], [SAN]                                  | **Ongoing**     | SAN:2'   |            |
 | [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [SCA]                     | **Ongoing**     |          |            |
-| [#1328] Maintenance / Dev Issues                    | [MB], [MD],                                        | **Ongoing**     |          |            |
+| [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC]                                   | **Ongoing**     |  PC:2'        |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
 | [#1395] App-team admin panel                        |                                                    |                 |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
