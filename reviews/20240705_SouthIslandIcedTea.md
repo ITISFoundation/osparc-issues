@@ -14,7 +14,7 @@
 
 | Title                                               | Presenter                                          | Status          | Duration | Start-Time |
 |-----------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
-| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],  [WVG]                                       | **In progress** |    5'    |            |
+| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],[WVG]                                         | **In progress** |    5'    |            |
 | [#1332] NIH Year 7                                  | [EI]                                               | **In progress** | 1'       |            |
 | [#1404] Sim4Life service versioning                 | [PC]                                               | **In progress** |  3'      |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD],                                       | **In progress** |          |            |
@@ -27,7 +27,7 @@
 | [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |          |            |
 | [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC],                                  | **Ongoing**     |          |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
-| [#1395] App-team admin panel                        | [PC]                                               | **Planned**     |          |            |
+| [#1395] App-team admin panel                        |                                                    | **Planned**     |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
 | [#1413] S4L Localization                            | [SCA]                                              | **Planned**     |          |            |
 | [#1326] Real time collaboration                     |                                                    | Paused          |          |            |
