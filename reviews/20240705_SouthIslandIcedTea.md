@@ -27,7 +27,7 @@
 | [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |          |            |
 | [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC],                                  | **Ongoing**     |          |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
-| [#1395] App-team admin panel                        |                                                    | **Planned**     |          |            |
+| [#1395] App-team admin panel                        |                                                    |                 |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
 | [#1413] S4L Localization                            | [SCA]                                              | **Planned**     |          |            |
 | [#1326] Real time collaboration                     |                                                    | Paused          |          |            |
