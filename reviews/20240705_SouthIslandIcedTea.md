@@ -14,18 +14,18 @@
 
 | Title                                               | Presenter                                          | Status          | Duration | Start-Time |
 |-----------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
-| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],[WVG]                                         | **In progress** |    5'    |            |
-| [#1332] NIH Year 7                                  | [EI]                                               | **In progress** | 1'       |            |
-| [#1404] Sim4Life service versioning                 | [PC]                                               | **In progress** |  3'      |            |
+| [#1407] Meta-modeling: Refinements & FollowUps      | [MB],[WVG]                                         | **In progress** |  5'    |            |
+| [#1332] NIH Year 7                                  | [EI]                                               | **In progress** |  1'       |            |
+| [#1404] Sim4Life service versioning                 | [PC]                                               | **In progress** |  4'      |            |
 | [#716] Project Folders in User Workspace            | [ANE], [MD],                                       | **In progress** |          |            |
 | [#1408] Release Notes Improvements                  | [EI] for [ANE]                                     | **In progress** | 3'       |            |
-| [#1309] TIP v3 on AWS                               | [MEST], [OM], [MD], [DK], [PC], [YH]               | **In progress** | OM:3'    |            |
+| [#1309] TIP v3 on AWS                               | [MEST], [OM], [MD], [DK], [YH]                     | **In progress** | OM:3'    |            |
 | [#1313] Filesystem concept                          | [IP], [MD]                                         | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                        | [IP], [MaG], [SCA]                                 | **In progress** |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **Planned**     |          |            |
 | [#1327] Performance Improvements for Large Projects | [MB], [MD], [SAN]                                  | **Ongoing**     | SAN:2'   |            |
-| [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |          |            |
-| [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC],                                  | **Ongoing**     |          |            |
+| [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [SCA]                     | **Ongoing**     |          |            |
+| [#1328] Maintenance / Dev Issues                    | [MB], [MD],                                        | **Ongoing**     |          |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
 | [#1395] App-team admin panel                        |                                                    |                 |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
