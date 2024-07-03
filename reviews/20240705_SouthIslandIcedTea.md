@@ -21,13 +21,13 @@
 | [#1408] Release Notes Improvements                  | [EI] for [ANE]                                     | **In progress** | 3'       |            |
 | [#1309] TIP v3 on AWS                               | [MEST], [OM],                                      | **In progress** | 7'       |            |
 | [#1313] Filesystem concept                          |                                                    | **Paused**      | 0'       |            |
-| [#1317] S4L: UI Form Layouts                        | [IP]                                               | **In progress** | 3'       |            |
+| [#1317] S4L: UI Form Layouts                        | [IP]                                               | **In progress** | 2'       |            |
 | [#1327] Performance Improvements for Large Projects | [SAN]                                              | **Ongoing**     | 3'       |            |
-| [#1305] sim4life.io User Feedback                   | [IP], [MaG], [SCA]                                 | **Ongoing**     | ?'       |            |
+| [#1305] sim4life.io User Feedback                   | [IP], [JQ]                                 | **Ongoing**     | 4'       |          |
 | [#1328] Maintenance / Dev Issues                    | [PC]                                               | **Ongoing**     | 3'       |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 3'       |            |
 | [#1395] App-team admin panel                        |                                                    | **Paused**      | 0'       |            |
-| [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Paused**      | 0'       |            |
+| [#1331] S4L Application Features                    | [JQ], [IP], [MaG]                                        | **In progress**      | 3'       |            |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **In progress** | 3'       |            |
 | [#1413] S4L Localization                            | [SCA]                                              | **Paused**      | 3'       |            |
 | [#1326] Real time collaboration                     |                                                    | **Paused**      | 0'       |            |
@@ -74,6 +74,7 @@
 [TN]:https://github.com/newton1985
 [WVG]:https://github.com/wvangeit
 [YH]:https://github.com/YuryHrytsuk
+[JQ]:https://github.com/jsaq007
 
 
 
