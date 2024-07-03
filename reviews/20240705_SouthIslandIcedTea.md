@@ -23,11 +23,11 @@
 | [#1313] Filesystem concept                          |                                                    | **Paused**      | 0'       |            |
 | [#1317] S4L: UI Form Layouts                        | [IP]                                               | **In progress** | 2'       |            |
 | [#1327] Performance Improvements for Large Projects | [SAN]                                              | **Ongoing**     | 3'       |            |
-| [#1305] sim4life.io User Feedback                   | [IP], [JQ]                                 | **Ongoing**     | 4'       |          |
+| [#1305] sim4life.io User Feedback                   | [IP], [JQ]                                         | **Ongoing**     | 4'       |            |
 | [#1328] Maintenance / Dev Issues                    | [PC]                                               | **Ongoing**     | 3'       |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 3'       |            |
 | [#1395] App-team admin panel                        |                                                    | **Paused**      | 0'       |            |
-| [#1331] S4L Application Features                    | [JQ], [IP], [MaG]                                        | **In progress**      | 3'       |            |
+| [#1331] S4L Application Features                    | [JQ], [IP]                                         | **In progress** | 3'       |            |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **In progress** | 3'       |            |
 | [#1413] S4L Localization                            | [SCA]                                              | **Paused**      | 3'       |            |
 | [#1326] Real time collaboration                     |                                                    | **Paused**      | 0'       |            |
