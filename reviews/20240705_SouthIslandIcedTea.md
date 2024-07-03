@@ -17,7 +17,7 @@
 | [#1407] Meta-modeling: Refinements & FollowUps      | [MB],[WVG]                                         | **In progress** |  5'    |            |
 | [#1332] NIH Year 7                                  | [EI]                                               | **In progress** |  1'       |            |
 | [#1404] Sim4Life service versioning                 | [PC]                                               | **In progress** |  4'      |            |
-| [#716] Project Folders in User Workspace            | [ANE], [MD],                                       | **In progress** |          |            |
+| [#716] Project Folders in User Workspace            | [MD] for [ANE]                                     | **In progress** |  1'        |            |
 | [#1408] Release Notes Improvements                  | [EI] for [ANE]                                     | **In progress** | 3'       |            |
 | [#1309] TIP v3 on AWS                               | [MEST], [OM], [MD], [DK]                           | **In progress** | OM:4' MEST:3'   |            |
 | [#1313] Filesystem concept                          | [IP], [MD]                                         | **In progress** |          |            |
