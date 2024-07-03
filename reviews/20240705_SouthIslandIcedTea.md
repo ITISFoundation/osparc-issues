@@ -22,9 +22,9 @@
 | [#1309] TIP v3 on AWS                               | [MEST], [OM], [MD], [DK]                           | **In progress** | OM:4'    |            |
 | [#1313] Filesystem concept                          | [IP], [MD]                                         | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                        | [IP], [MaG], [SCA]                                 | **In progress** |          |            |
-| [#1327] Performance Improvements for Large Projects | [MB], [MD], [SAN]                                  | **Ongoing**     | SAN:2'   |            |
-| [#1305] sim4life.io User Feedback                   | [MB], [IP], [MaG], [SCA]                           | **Ongoing**     |          |            |
-| [#1328] Maintenance / Dev Issues                    | [MB], [MD], [PC]                                   | **Ongoing**     | PC:2'    |            |
+| [#1327] Performance Improvements for Large Projects | [MD], [SAN]                                        | **Ongoing**     | SAN:2'   |            |
+| [#1305] sim4life.io User Feedback                   | [IP], [MaG], [SCA]                                 | **Ongoing**     |          |            |
+| [#1328] Maintenance / Dev Issues                    | [MD], [PC]                                         | **Ongoing**     | PC:2'    |            |
 | [#1409] UX of credits burning                       | [OM]                                               | **Ongoing**     | 2'       |            |
 | [#1395] App-team admin panel                        |                                                    |                 |          |            |
 | [#1331] S4L Application Features                    | [IP], [MaG]                                        | **Planned**     |          |            |
