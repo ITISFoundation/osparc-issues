@@ -30,7 +30,7 @@
 | [#1331] S4L Application Features                    | [JQ], [IP]                                         | **In progress** | 5'       |  11:40          |
 | [#1406] Sim4Life Desktop+Web UI Unification         | [SCA]                                              | **In progress** | 3'       |   11:45         |
 | [#1413] S4L Localization                            | [SCA]                                              | **Paused**      | 2'       |   11:48         |
-| [#1326] Real time collaboration                     |                                                    | **Paused**      | 0'       |            |
+| [#1326] Real time collaboration                     |                                                    | **Info**      | 0'       |            |
 | [#1410] Circuit Simulator                           |                                                    | **Paused**      | 0'       |            |
 | [#1411] Meta-modeling user story and UI             |                                                    | **Paused**      | 0'       |            |
 | [#1412] o2S+S4L Integration: User Stories           |                                                    | **Paused**      | 0'       |            |
