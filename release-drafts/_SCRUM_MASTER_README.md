@@ -3,7 +3,7 @@
 ### Step 1 (Initial draft layout)
 - generate new draft for new upcoming release `python scripts/new_draft.py <RELEASE_VERSION>`
 
-### Step 2 (Team add highlights)
+### Step 2 (Team adds highlights)
 - ask all team members to review and pick items that are worthy of a highlight
 
 ### Step 3 (cleanup before submission to App Team)
