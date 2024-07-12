@@ -23,7 +23,7 @@ logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
-COLUMNS = "Title Presenter Status Duration Start-Time".split()
+COLUMNS = "Title Presenter Status Completition Duration Start-Time".split()
 
 INITIALS_TO_USERNAMES = {
     "ANE": "GitHK",
