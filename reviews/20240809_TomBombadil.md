@@ -15,10 +15,10 @@
 | Title                                                       | Presenter                                          | Status          | Completition | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|--------------|----------|------------|
 | [#1309] TIP v3 on AWS                                       | [MEST], [MD], [DK], [OM], [PC], [SAN], [YH]        | **In progress** |              |          |            |
-| [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** | 4'           |          |            |
-| [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'           |          |            |
+| [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** |              | 4'       |            |
+| [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** |              | 3'       |            |
 | [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **In progress** |              |          |            |
-| [#1407] Meta-modeling: Refinements & FollowUps              | [MB], [PC], [SAN], [WVG]                           | **In progress** |              |  3       |            |
+| [#1407] Meta-modeling: Refinements & FollowUps              | [MB], [PC], [SAN], [WVG]                           | **In progress** |              | 3'       |            |
 | [#1543] Support for PHRT                                    | [SCA], [MaG]                                       | **In progress** |              |          |            |
 | [#1409] UX of credits burning                               | [OM]                                               | **Planned**     |              |          |            |
 | [#1332] NIH Year 7                                          | [EI], [IP], [MaG]                                  | **In progress** |              |          |            |
