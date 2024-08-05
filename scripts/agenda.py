@@ -2,7 +2,6 @@
 This script generates the .md file for the review agenda (original version by ANE, extended instructions by EI)
 Pre-requisite: up-to-date PM2 board
 - Go to PM2 Board https://github.com/orgs/ITISFoundation/projects/15/views/14
-- Make sure "Topic" is correctly set -> It will be used to group items in the agenda
 - Select one row in table
 - On your keyboard: press "CTRL+a"
 - On your keyboard: press "CTRL+c" (copies table in CSV)
