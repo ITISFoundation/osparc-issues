@@ -15,7 +15,7 @@
 | Title                                                       | Presenter                                          | Status          | Completition | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|--------------|----------|------------|
 | [#1309] TIP v3 on AWS                                       | [MEST], [MD], [DK], [OM], [PC], [SAN], [YH]        | **In progress** |              |          |            |
-| [#716] Project Folders in User Workspace                    | [ANE], [MD], [OM]                                  | **In progress** |              |          |            |
+| [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** | 4'           |          |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'           |          |            |
 | [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **In progress** |              |          |            |
 | [#1407] Meta-modeling: Refinements & FollowUps              | [MB], [PC], [SAN], [WVG]                           | **In progress** |              |          |            |
