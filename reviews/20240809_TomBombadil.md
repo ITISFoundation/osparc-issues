@@ -14,7 +14,7 @@
 
 | Title                                                       | Presenter                                          | Status          | Completition | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|--------------|----------|------------|
-| [#1309] TIP v3 on AWS                                       | [MEST], [MD], [DK], [OM], [PC], [SAN], [YH]        | **In progress** |              |          |            |
+| [#1309] TIP v3 on AWS                                       | [MEST], [DK], [OM], [PC], [SAN], [YH]        | **In progress** |              |          |            |
 | [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** |              | 4'       |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** |              | 3'       |            |
 | [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **In progress** |              |          |            |
@@ -22,19 +22,19 @@
 | [#1543] Support for PHRT                                    | [SCA], [MaG]                                       | **In progress** |              |          |            |
 | [#1409] UX of credits burning                               | [OM]                                               | **Planned**     |              |          |            |
 | [#1332] NIH Year 7                                          | [EI]                                               | **Ongoing**     |              | 3'       |            |
-| [#1313] Filesystem concept                                  | [IP], [MD], [SAN]                                  | **In progress** |              |          |            |
+| [#1313] Filesystem concept                                  | [IP], [SAN]                                  | **In progress** |              |          |            |
 | [#1317] S4L: UI Form Layouts                                | [IP], [MaG], [SCA]                                 | **In progress** |              |          |            |
-| [#1327] Performance Improvements for Large Projects         | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |              |          |            |
+| [#1327] Performance Improvements for Large Projects         | [MB], [PC], [SAN]                            | **Ongoing**     |              |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                 | [SCA]                                              | **In progress** |              |          |            |
 | [#1314] Touchscreen + Tablet support                        | [IP],                                              | **Planned**     |              |          |            |
 | [#1395] App-team panel                                      | [PC]                                               | **Planned**     |              |          |            |
 | [#1305] sim4life.io User Feedback                           | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |              |          |            |
-| [#1544] Improve release workflow                            | [MD], [YH]                                         | **Planned**     |              |          |            |
-| [#1328] Maintenance / Dev Issues                            | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |              |          |            |
+| [#1544] Improve release workflow                            | [YH]                                         | **Planned**     |              |          |            |
+| [#1328] Maintenance / Dev Issues                            | [MB], [PC], [SAN]                            | **Ongoing**     |              |          |            |
 | [#1541] Placing users' services on servers around the globe | [DK]                                               | **Planned**     |              |          |            |
 | [#1413] S4L Localization                                    | [SCA]                                              | **Planned**     |              |          |            |
 | [#1331] S4L Application Features                            | [IP], [MaG]                                        | **Planned**     |              |          |            |
-| [#1326] Real time collaboration                             | [MD], [OM], [SAN]                                  | **Paused**      |              |          |            |
+| [#1326] Real time collaboration                             | [OM], [SAN]                                  | **Paused**      |              |          |            |
 | [#1410] Circuit Simulator                                   | [PC]                                               | Paused          |              |          |            |
 | [#1411] Meta-modeling user story and UI                     | [WVG]                                              | Paused          |              |          |            |
 | [#1412] o2S+S4L Integration: User Stories                   |                                                    | Paused          |              |          |            |
