@@ -26,7 +26,7 @@
 | [#1317] S4L: UI Form Layouts                                | [IP], [MaG], [SCA]                                 | **In progress** |              |          |            |
 | [#1327] Performance Improvements for Large Projects         | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |              |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                 | [SCA]                                              | **In progress** |              |          |            |
-| [#1314] Touchscreen + Tablet support                        | [IP], [OM]                                         | **Planned**     |              |          |            |
+| [#1314] Touchscreen + Tablet support                        | [IP],                                              | **Planned**     |              |          |            |
 | [#1395] App-team panel                                      | [PC]                                               | **Planned**     |              |          |            |
 | [#1305] sim4life.io User Feedback                           | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |              |          |            |
 | [#1544] Improve release workflow                            | [MD], [YH]                                         | **Planned**     |              |          |            |
@@ -34,7 +34,7 @@
 | [#1541] Placing users' services on servers around the globe | [DK]                                               | **Planned**     |              |          |            |
 | [#1413] S4L Localization                                    | [SCA]                                              | **Planned**     |              |          |            |
 | [#1331] S4L Application Features                            | [IP], [MaG]                                        | **Planned**     |              |          |            |
-| [#1326] Real time collaboration                             | [MD], [OM], [SAN]                                  | **Done**        |              |          |            |
+| [#1326] Real time collaboration                             | [MD], [OM], [SAN]                                  | **Paused**      |              |          |            |
 | [#1410] Circuit Simulator                                   | [PC]                                               | Paused          |              |          |            |
 | [#1411] Meta-modeling user story and UI                     | [WVG]                                              | Paused          |              |          |            |
 | [#1412] o2S+S4L Integration: User Stories                   |                                                    | Paused          |              |          |            |
