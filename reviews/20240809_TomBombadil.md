@@ -1,4 +1,4 @@
-# Review Meeting - July 07, 2024
+# Review Meeting - August 09, 2024
 
 
 ## Sprint 🏃
@@ -14,7 +14,7 @@
 
 | Title                                                       | Presenter                                          | Status          | Completition | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|--------------|----------|------------|
-| [#1309] TIP v3 on AWS                                       | [MEST], [DK], [OM], [PC], [SAN], [YH]        | **In progress** |              |          |            |
+| [#1309] TIP v3 on AWS                                       | [MEST], [DK], [OM], [PC], [SAN], [YH]              | **Paused**      |              |          |            |
 | [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** |              | 4'       |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** |              | 3'       |            |
 | [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **In progress** |              |          |            |
@@ -31,7 +31,7 @@
 | [#1305] sim4life.io User Feedback                           | [MB], [IP], [MaG], [PC], [SCA]                     | **Ongoing**     |              |          |            |
 | [#1544] Improve release workflow                            | [YH]                                         | **Planned**     |              |          |            |
 | [#1328] Maintenance / Dev Issues                            | [MB], [PC], [SAN]                            | **Ongoing**     |              |          |            |
-| [#1541] Placing users' services on servers around the globe | [DK]                                               | **Planned**     |              |          |            |
+| [#1541] WG: Users' services on servers around the globe     | [DK]                                               | **Done**     |              |    3'    |            |
 | [#1413] S4L Localization                                    | [SCA]                                              | **Planned**     |              |          |            |
 | [#1331] S4L Application Features                            | [IP], [MaG]                                        | **Planned**     |              |          |            |
 | [#1326] Real time collaboration                             | [OM], [SAN]                                  | **Paused**      |              |          |            |
