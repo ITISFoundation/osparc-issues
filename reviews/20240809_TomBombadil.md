@@ -34,7 +34,7 @@
 | [#1541] WG: Users' services on servers around the globe     | [DK]                                               | **Done**     |              |    3'    |            |
 | [#1413] S4L Localization                                    | [SCA]                                              | **Planned**     |              |          |            |
 | [#1331] S4L Application Features                            | [IP], [MaG]                                        | **Planned**     |              |          |            |
-| [#1326] Real time collaboration                             | [OM], [SAN]                                  | **Paused**      |              |          |            |
+| [#1326] Real time collaboration                             | [OM]                                  | **Paused**      |              |          |            |
 | [#1410] Circuit Simulator                                   | [PC]                                               | Paused          |              |          |            |
 | [#1411] Meta-modeling user story and UI                     | [WVG]                                              | Paused          |              |          |            |
 | [#1412] o2S+S4L Integration: User Stories                   |                                                    | Paused          |              |          |            |
