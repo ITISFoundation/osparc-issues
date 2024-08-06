@@ -21,7 +21,7 @@
 | [#1407] Meta-modeling: Refinements & FollowUps              | [MB], [PC], [SAN], [WVG]                           | **In progress** |              | 3'       |            |
 | [#1543] Support for PHRT                                    | [SCA], [MaG]                                       | **In progress** |              |          |            |
 | [#1409] UX of credits burning                               | [OM]                                               | **Planned**     |              |          |            |
-| [#1332] NIH Year 7                                          | [EI], [IP], [MaG]                                  | **In progress** |              |          |            |
+| [#1332] NIH Year 7                                          | [EI]                                               | **Ongoing**     |              | 3'       |            |
 | [#1313] Filesystem concept                                  | [IP], [MD], [SAN]                                  | **In progress** |              |          |            |
 | [#1317] S4L: UI Form Layouts                                | [IP], [MaG], [SCA]                                 | **In progress** |              |          |            |
 | [#1327] Performance Improvements for Large Projects         | [MB], [MD], [PC], [SAN]                            | **Ongoing**     |              |          |            |
