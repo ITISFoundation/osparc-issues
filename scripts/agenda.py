@@ -22,9 +22,9 @@ logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
-COLUMNS = "Title Presenter Status Completition Duration Start-Time".split()
+COLUMNS: list[str] = ["Title", "Presenter", "Status", "Duration", "Start-Time"]
 
-INITIALS_TO_USERNAMES = {
+INITIALS_TO_USERNAMES: dict[str, str] = {
     "ANE": "GitHK",
     "BL": "dyollb",
     "DK": "mrnicegyu11",
