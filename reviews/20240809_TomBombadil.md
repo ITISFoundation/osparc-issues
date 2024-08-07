@@ -28,12 +28,12 @@
 | [#1406] Sim4Life Desktop+Web UI Unification                 | [SCA]                                              | **In progress** |              |          |            |
 | [#1314] Touchscreen + Tablet support                        | [IP],                                              | **Planned**     |              |          |            |
 | [#1395] App-team panel                                      | [PC]                                               | **Planned**     |              |          |            |
-| [#1305] sim4life.io User Feedback                           | [MaG]                                              | **Ongoing**     |              |          |            |
+| [#1305] sim4life.io User Feedback                           | [MaG]                                              | **Ongoing**     |              | 5'       |            |
 | [#1544] Improve release workflow                            | [YH]                                               | **Planned**     |              |          |            |
 | [#1328] Maintenance / Dev Issues                            | [SAN]                                              | **Ongoing**     |              |     1'   |            |
 | [#1541] WG: Users' services on servers around the globe     | [DK]                                               | **Done**        |              |    3'    |            |
 | [#1413] S4L Localization                                    | [SCA]                                              | **Planned**     |              |          |            |
-| [#1331] S4L Application Features                            | [IP], [MaG]                                        | **Planned**     |              |          |            |
+| [#1331] S4L Application Features                            | [MaG]                                              | **Ongoing**     |              |  5       |            |
 | [#1326] Real time collaboration                             | [OM]                                               | **Paused**      |              |          |            |
 | [#1410] Circuit Simulator                                   | [PC]                                               | Paused          |              |          |            |
 | [#1411] Meta-modeling user story and UI                     | [WVG]                                              | Paused          |              |          |            |
