@@ -17,7 +17,7 @@
 | [#1309] TIP v3 on AWS                                       | [MEST], [DK], [OM], [PC], [YH]              | **Paused**      |              |          |            |
 | [#716] Project Folders in User Workspace                    | [ANE], [OM]                                        | **In progress** |              | 4'       |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** |              | 3'       |            |
-| [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **In progress** |              |          |            |
+| [#1404] Sim4Life service versioning                         | [MaG], [OM], [PC]                                  | **Done** |              | 5'        |            |
 | [#1407] Meta-modeling: Refinements & FollowUps              | [MB], [PC], [WVG]                           | **In progress** |              | 3'       |            |
 | [#1543] Support for PHRT                                    | [SCA], [MaG]                                       | **In progress** |              |          |            |
 | [#1409] UX of credits burning                               | [OM]                                               | **Planned**     |              |          |            |
