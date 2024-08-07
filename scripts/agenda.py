@@ -31,6 +31,7 @@ INITIALS_TO_USERNAMES = {
     "EI": "elisabettai",
     "IP": "ignapas",
     "MaG": "mguidon",
+    "JQU": "jsaq007",
     "MB": "bisgaard-itis",
     "MD": "matusdrobuliak66",
     "MEST": "Konohana0608",

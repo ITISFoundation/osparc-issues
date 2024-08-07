@@ -19,8 +19,32 @@ from pathlib import Path
 
 CURRENT_DIR: Path = Path(__file__).resolve().parent
 
+INITIALS: list[str] = [
+    "ANE",
+    "BL",
+    "DK",
+    "EI",
+    "IP",
+    "JQU",
+    "MaG",
+    "MB",
+    "MD",
+    "MEST",
+    "OM",
+    "PC",
+    "SAN",
+    "SB",
+    "SCA",
+    "TN",
+    "WVG",
+    "YH",
+]
+
 _TEMPLATE: str = """Click on the link for a list of all the PRs released since `{version_tag}` 
 https://github.com/ITISFoundation/osparc-simcore/compare/{version_tag}...master
+
+Please check your name if finished:
+{names_to_check}
 
 **Draft release notes go below the line**
 ---
@@ -48,6 +72,10 @@ def _get_previous_version(vtag: str) -> int:
     return "v" + ".".join(version_parts)
 
 
+def _get_names_to_check() -> str:
+    return "\n".join([f"- [ ] {name}" for name in INITIALS])
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Process a version number in the format X.X.X"
@@ -61,7 +89,9 @@ def main():
 
     print(f"Will generate form tag: {tag}")
 
-    new_draft_content = _TEMPLATE.format(version_tag=_get_previous_version(tag))
+    new_draft_content = _TEMPLATE.format(
+        version_tag=_get_previous_version(tag), names_to_check=_get_names_to_check()
+    )
     for product_folder in _list_folders_in_path(CURRENT_DIR / ".." / "release-notes"):
         draft_file = product_folder / f"{tag}.md"
         if draft_file.exists():
