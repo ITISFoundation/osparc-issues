@@ -26,7 +26,7 @@
 | [#1317] S4L: UI Form Layouts                                | [MaG]                                              | **In progress** |          |            |
 | [#1327] Performance Improvements for Large Projects         | [SAN]                                              | **Ongoing**     |     1'   |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                 |                                                    | **In progress** |          |            |
-| [#1314] Touchscreen + Tablet support                        | [IP],                                              | **Planned**     |          |            |
+| [#1314] Touchscreen + Tablet support                        | [IP]                                               | **Planned**     |          |            |
 | [#1395] App-team panel                                      |                                                    | **Planned**     |          |            |
 | [#1305] sim4life.io User Feedback                           | [MaG]                                              | **In progress** | 5'       |            |
 | [#1544] Improve release workflow                            | [YH]                                               | **Planned**     |          |            |
