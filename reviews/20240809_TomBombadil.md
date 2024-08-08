@@ -14,13 +14,13 @@
 
 | Title                                                       | Presenter                                          | Status          | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
-| [#1309] TIP v3 on AWS                                       | [MEST], [DK], [OM], [YH]                           | **Paused**      |          | 10:05      |
+| [#1309] TIP v3 on AWS                                       | [OM], [MEST], [DK], [YH]                           | **In progress** | 2'       | 10:05      |
 | [#716] Project Folders in User Workspace                    | [OM]                                               | **In progress** | 4'       |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'       |            |
-| [#1404] Sim4Life service versioning                         | [MaG], [OM]                                        | **In progress** | 5'       |            |
+| [#1404] Sim4Life service versioning                         | [MaG]                                              | **In progress** | 5'       |            |
 | [#1407] Meta-modeling: Refinements & FollowUps              | [WVG]                                              | **In progress** | 3'       |            |
 | [#1543] Support for PHRT                                    | [MaG]                                              | **In progress** |          |            |
-| [#1409] UX of credits burning                               | [OM]                                               | **Planned**     |          |            |
+| [#1409] UX of credits burning                               | [OM]                                               | **In progress** | 2'       |            |
 | [#1332] NIH Year 7                                          | [EI]                                               | **Ongoing**     | 3'       |            |
 | [#1313] Filesystem concept                                  | [IP]                                               | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                                | [MaG]                                              | **In progress** |          |            |
