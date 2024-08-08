@@ -18,7 +18,7 @@
 | [#716] Project Folders in User Workspace                    | [OM]                                               | **In progress** | 4'       |            |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'       |            |
 | [#1404] Sim4Life service versioning                         | [MaG]                                              | **In progress** | 5'       |            |
-| [#1407] Meta-modeling: Refinements & FollowUps              | [WVG]                                              | **In progress** | 3'       |            |
+| [#1407] Meta-modeling: Refinements & FollowUps              | [WVG]                                              | **In progress** | 5'       |            |
 | [#1543] Support for PHRT                                    | [MaG]                                              | **In progress** |          |            |
 | [#1409] UX of credits burning                               | [OM]                                               | **In progress** | 2'       |            |
 | [#1332] NIH Year 7                                          | [EI]                                               | **Ongoing**     | 3'       |            |
