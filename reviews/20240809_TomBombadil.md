@@ -25,15 +25,15 @@
 | [#1313] Filesystem concept                                  |                                                    | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                                | [MaG]                                              | **In progress** | 3'       | 10:31      |
 | [#1327] Performance Improvements for Large Projects         | [SAN]                                              | **Ongoing**     | 3'       | 10:34      |
-| [#1406] Sim4Life Desktop+Web UI Unification                 |                                                    | **In progress** |          |            |
+| [#1406] Sim4Life Desktop+Web UI Unification                 | [LMO]                                              | **In progress** | 5'       | 10:37      |
 | [#1314] Touchscreen + Tablet support                        |                                                    | **In progress** |          |            |
 | [#1395] App-team panel                                      |                                                    | **Paused**      |          |            |
-| [#1305] sim4life.io User Feedback                           | [MaG]                                              | **In progress** | 5'       | 10:37      |
+| [#1305] sim4life.io User Feedback                           | [MaG]                                              | **In progress** | 5'       | 10:42      |
 | [#1544] Improve release workflow                            |                                                    | **Planned**     |          |            |
-| [#1328] Maintenance / Dev Issues                            | [SAN]                                              | **Ongoing**     | 3'       | 10:42      |
-| [#1541] WG: Users' services on servers around the globe     | [DK]                                               | **Done**        | 3'       | 10:45      |
+| [#1328] Maintenance / Dev Issues                            | [SAN]                                              | **Ongoing**     | 3'       | 10:48      |
+| [#1541] WG: Users' services on servers around the globe     | [DK]                                               | **Done**        | 3'       | 10:51      |
 | [#1413] S4L Localization                                    |                                                    | **Paused**      |          |            |
-| [#1331] S4L Application Features                            | [MaG]                                              | **In progress** | 5'       | 10:48      |
+| [#1331] S4L Application Features                            | [MaG]                                              | **In progress** | 5'       | 10:54      |
 | [#1326] Real time collaboration                             |                                                    | **Paused**      |          |            |
 | [#1410] Circuit Simulator                                   |                                                    | Paused          |          |            |
 | [#1411] Meta-modeling user story and UI                     |                                                    | Paused          |          |            |
