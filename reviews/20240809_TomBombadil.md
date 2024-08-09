@@ -14,7 +14,7 @@
 
 | Title                                                       | Presenter                                          | Status          | Duration | Start-Time |
 |-------------------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
-| [#1309] TIP v3 on AWS                                       | [OM],                                              | **In progress** | 3'       | 10:05      |
+| [#1309] TIP v3 on AWS                                       | [OM]                                               | **In progress** | 3'       | 10:05      |
 | [#716] Project Folders in User Workspace                    | [OM]                                               | **In progress** | 4'       | 10:08      |
 | [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'       | 10:12      |
 | [#1404] Sim4Life service versioning                         | [MaG]                                              | **In progress** | 5'       | 10:15      |
@@ -25,7 +25,7 @@
 | [#1313] Filesystem concept                                  |                                                    | **In progress** |          |            |
 | [#1317] S4L: UI Form Layouts                                | [MaG]                                              | **In progress** | 3'       | 10:31      |
 | [#1327] Performance Improvements for Large Projects         | [SAN]                                              | **Ongoing**     | 3'       | 10:34      |
-| [#1406] Sim4Life Desktop+Web UI Unification                 | [LMO]                                              | **In progress** | 5'       | 10:37      |
+| [#1406] Sim4Life Desktop+Web UI Unification                 | LMO                                                | **In progress** | 5'       | 10:37      |
 | [#1314] Touchscreen + Tablet support                        |                                                    | **In progress** |          |            |
 | [#1395] App-team panel                                      |                                                    | **Paused**      |          |            |
 | [#1305] sim4life.io User Feedback                           | [MaG]                                              | **In progress** | 5'       | 10:42      |
