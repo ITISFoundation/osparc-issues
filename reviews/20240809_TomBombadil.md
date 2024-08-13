@@ -1,5 +1,7 @@
 # Review Meeting - August 09, 2024
 
+<img src="https://www.mtg-proxies-cards.com/wp-content/uploads/2023/04/J199-Tom-Bombadil-234.jpg" alt="Image" style="width:50%;">
+
 
 ## Sprint 🏃
 - [**Tom Bombadil**](https://en.wikipedia.org/wiki/Tom_Bombadil)
