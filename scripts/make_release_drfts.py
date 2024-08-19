@@ -24,6 +24,7 @@ INITIALS: list[str] = [
     "BL",
     "DK",
     "EI",
+    "GCR",
     "IP",
     "JQU",
     "MaG",
