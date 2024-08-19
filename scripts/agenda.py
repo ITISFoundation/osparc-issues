@@ -30,6 +30,7 @@ INITIALS_TO_USERNAMES: dict[str, str] = {
     "DK": "mrnicegyu11",
     "EI": "elisabettai",
     "IP": "ignapas",
+    "GCR": "giancarloromeo",
     "MaG": "mguidon",
     "JQU": "jsaq007",
     "MB": "bisgaard-itis",
