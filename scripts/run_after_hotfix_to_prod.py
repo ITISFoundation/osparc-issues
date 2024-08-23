@@ -1,7 +1,7 @@
-from typing import Final
 from pathlib import Path
-import requests
+from typing import Final
 
+import requests
 from utils import list_folders_in_path, require_tag_from_cli
 
 CURRENT_DIR: Path = Path(__file__).resolve().parent
@@ -46,13 +46,13 @@ def _insert_after_line(text: str, target_line: str, to_insert: str) -> str:
     return "\n".join(output_lines)
 
 
-MANUAL_LINKS: Final[str] = (
-    "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
-)
+MANUAL_LINKS: Final[
+    str
+] = "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
 
 MANUAL_ENTRY_TEMPLATE = """
 <h3 id="v{tag}"><a href="https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md">Version: {tag}</a></h3>
- 
+
  - Release Date: 22.08.2024
  - [Changelog](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md)
 """
@@ -61,7 +61,7 @@ INSTRUCTIONS_TEMPLATE = """
 Instructions:
 - Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md#v1.76.1
 - click the edit button
-- repalce the content with the one form {file}
+- replace the content with the one from {file}
 - create a PR and merge it or ask for MaG to merge it
 """
 
