@@ -2,12 +2,16 @@
 name: Milestone template
 about: Create a new NIH milestone
 title: ''
-labels: PO issue, y7
-projects: ["ITISFoundation/13"]
+labels: PO issue, y8
+projects: ["ITISFoundation/15"]
 assignees: ''
 
 ---
+### Description
 
-- [ ] text
-- [ ] text
-- [ ] text
+### Deliverable
+
+### Deadline
+
+
+Wrike link (account/access required)
