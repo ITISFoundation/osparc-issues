@@ -86,12 +86,15 @@ def get_instructuinf_for_pull_request(tag: str) -> None:
 
 def main() -> None:
     tag = require_tag_from_cli()
-    # 1. copy existing release notes in this repo
+    print("This is a [2 STEP] operation\n")
+
+    # copy existing release notes in this repo
     copy_from_exiting_release(tag)
-    # 2. generate a file who's contents need to be pull requested
+
+    print("\n[STEP 1/2] generate a file who's contents need to be pull requested")
     get_instructuinf_for_pull_request(tag)
-    # 3. final isntructuons
-    print("Make sure to commit and push changes in this repository!!\n")
+
+    print("\n[STEP 2/2] make sure to commit and push changes in this repository!!\n")
 
 
 if __name__ == "__main__":
