@@ -70,8 +70,12 @@ A message to be posted to mattermost is also provided, `COMPILE THE DATE AND TIM
 :warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
 
 ```shell
-python scripts/4_make_release_drafts.py <VERSION>
+python scripts/4_make_release_drafts.py <VERSION> <DATE> <TIME>
 ```
+`<VERSION>` format: `X.X.X` where `X` is a number
+`<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
+`<TIME>` format: `HH.MM` where `HH` is a valid hour and `MM` is valid minute
+
 
 :warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
 
