@@ -26,7 +26,6 @@ INITIALS_TO_USERNAMES: dict[str, str] = {
 
 
 def validate_date(date_str: str) -> str:
-    # Regular expression to match dd.mm where X are numbers
     pattern = re.compile(r"^(0[1-9]|[12][0-9]|3[01])\.(0[1-9]|1[0-2])$")
     if not pattern.match(date_str):
         raise argparse.ArgumentTypeError(
@@ -35,8 +34,16 @@ def validate_date(date_str: str) -> str:
     return date_str
 
 
+def validate_time(date_str: str) -> str:
+    pattern = re.compile(r"^(?:[01][0-9]|2[0-3]):[0-5][0-9]$")
+    if not pattern.match(date_str):
+        raise argparse.ArgumentTypeError(
+            f"Invalid date format: '{date_str}'. Expected format: 'HH:MM' where HH is a valid hour and MM is a valid minute"
+        )
+    return date_str
+
+
 def validate_version(version):
-    # Regular expression to match X.X.X where X are numbers
     pattern = re.compile(r"^\d+\.\d+\.\d+$")
     if not pattern.match(version):
         raise argparse.ArgumentTypeError(

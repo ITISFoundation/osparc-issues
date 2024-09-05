@@ -38,7 +38,7 @@ def main() -> None:
         parser.add_argument(
             date,
             type=validate_date,
-            help="The version number in the format dd.mm",
+            help="The date is in the format dd.mm",
         )
     parser.add_argument(
         "version", type=validate_version, help="The version number in the format X.X.X"

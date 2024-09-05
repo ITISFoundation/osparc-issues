@@ -8,12 +8,12 @@ TEMPLATE: Final[
 ] = """
 
 ## Deadlines & upcoming schedule
-{prs_merge}: @all have all your PRs intended to be tested merged by the end of the day
-{staging_release}: STAGING release
-{review_meeting}: REVIEW MEETING
-{review_meeting}: by the end of the day created draft of the release notes
-{start_app_team} -> {end_app_team}: App Team has exclusive access to the AWS Staging environment
-{prod_release}: PROD release
+`{prs_merge}`: @all have all your PRs intended to be tested merged by the end of the day
+`{staging_release}`: STAGING release
+`{review_meeting}`: REVIEW MEETING
+`{review_meeting}`: by the end of the day created draft of the release notes
+`{start_app_team}`: -> {end_app_team}: App Team has exclusive access to the AWS Staging environment
+`{prod_release}`: PROD release
 """
 
 
@@ -30,7 +30,7 @@ def main() -> None:
         parser.add_argument(
             date,
             type=validate_date,
-            help="The version number in the format dd.mm",
+            help="The date is in the format dd.mm",
         )
     args = parser.parse_args()
     print(f"\nDeadlines: {args}")
