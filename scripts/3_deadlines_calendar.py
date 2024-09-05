@@ -1,6 +1,7 @@
 import argparse
-import re
 from typing import Final
+
+from utils import validate_date
 
 TEMPLATE: Final[
     str
@@ -14,16 +15,6 @@ TEMPLATE: Final[
 {start_app_team} -> {end_app_team}: App Team has exclusive access to the AWS Staging environment
 {prod_release}: PROD release
 """
-
-
-def validate_date(date_str: str) -> str:
-    # Regular expression to match dd.mm where X are numbers
-    pattern = re.compile(r"^(0[1-9]|[12][0-9]|3[01])\.(0[1-9]|1[0-2])$")
-    if not pattern.match(date_str):
-        raise argparse.ArgumentTypeError(
-            f"Invalid date format: '{date_str}'. Expected format: 'dd.mm' where dd is a valid day and mm is a valid month"
-        )
-    return date_str
 
 
 def main() -> None:
