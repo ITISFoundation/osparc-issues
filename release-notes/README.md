@@ -86,6 +86,12 @@ Ensure with the team that staging is properly deployed. Check the following:
 
 Compose and send out email to inform the App Team when they can start testign the deployment.
 
+```shell
+python scripts/6_app_team_email.py <DATE> <DATE> <VERSION>
+```
+
+`<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
+`<VERSION>` format: `X.X.X` where `X` is a number
 
 # After Hotfixing
 
