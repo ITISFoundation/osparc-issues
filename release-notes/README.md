@@ -3,7 +3,7 @@
 ### TL;DR
 - This folder contains **releaase notes** divided by **product**.
 - They must be **comprehanded by any user** of the platform/product.
-- They rarely contain links to pull requests or other developer focused tools.
+- Scrum master orchestrates their process of creation.
 
 ## How is this content created?
 
@@ -16,9 +16,9 @@ The process is coordinated by the current scrum master. They are reponsible for 
 
 The scrum master takes care of enforcing deadlines. His final goal is to produce an email sent to the App Team containing information about:
 - where, when and waht to test
-- pretify release drafts
+- ask App Team to rewrite the `draft release notes` into user readable `release notes`
 
-The following actions should be taken (details below):
+The following procedure is suggested (more details below):
 
 1. ask PO(s) (Nik) for the next review date. Be insistent. I mean it: **BE INSISTENT!**
 1. coordinate with team when to deploy to `staging` and `production`
@@ -26,33 +26,34 @@ The following actions should be taken (details below):
 1. ask developers to fill out the release drafts per product
 1. ensure NIH Staging is properly deployed
 1. inform App Team after the review when the deployment is ready for testing
+1. ensure all drafts have been converted before release
 
 ### 1. `review date`
 
-Ask Nik insisitntly for a review date as soon as possible. It will be much harder to organise the rest without it.
+Ask Nik (be insistent) for the review date as soon as possible.
+It is impossible to organise without a release date.
 
-### 2. `releases to staging and production`
+### 2. `pick staging and production release dates`
 
-Ask team members if it si possible to release to:
-- `staging` 1 day before the reivew and
+Ask team members if it is possible to release to:
+- `staging` 1 day before the reivew
 - `production` after the App Team finishes testing staging (usually one or two days alfter)
 
 ### 3. `deadlines calendar`
 
-The following deadelines must be established:
+The following deadelines must be established (pass them in this order to the below cli):
 
-- `prs_merge` (pull requests merge date):  users have to get PRs (which must be testes by the App Team) merged in master by the end of this day
-- `staging_release` (staging release date): PRs are moved to staging enviornemtn to which App Team will have access
-- `review_meeting` (review date): the day of the review provided by Nik
-- `start_app_team` (first day of testing): this day (included) App Team will have exclusive access to the NIH Staging deployment
-- `end_app_team` (last day of testing): this day (included) by the end of the day App Team will be done testing
-- `prod_release` (production release): staging changes are moved to production on this day
+- `prs_merge` (pull requests merge date) `usually one day before release to staging`: users have to get PRs (which must be testes by the App Team) merged in master by the end of this day
+- `staging_release` (staging release date) `decided with team`: PRs are moved to staging enviornemtn to which App Team will have access
+- `review_meeting` (review date) `decide by PO(s)`: the day of the review provided by Nik
+- `start_app_team` (first day of testing) `first day after review`: this day (included) App Team will have exclusive access to the NIH Staging deployment
+- `end_app_team` (last day of testing) `second day after review`: this day (included) by the end of the day App Team will be done testing
+- `prod_release` (production release) `decided with team`: staging changes are moved to production on this day
 
 ```shell
 python scripts/3_deadlines_calendar.py <DATE> <DATE> <DATE> <DATE> <DATE> <DATE>
 ```
-
-`<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
+- `<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
 
 **NOTE:** make sure to enforce important deadlines (1/2 days before they expire) like:
 - date and time when `all PRs` need to be `merged` before release to staging
@@ -61,20 +62,20 @@ python scripts/3_deadlines_calendar.py <DATE> <DATE> <DATE> <DATE> <DATE> <DATE>
 
 ### 4. `release drafts compliation`
 
-Ideally these are done before the reiview. The App Team will most likeley see them only during the testing days
+Ideally these are done before the reiview. The App Team will most likeley see them only during testing.
 The email to the App Team shoudl be sent briefly after the review is over.
 
 Use the following script to generate the new release drafts for all the products.
-A message to be posted to mattermost is also provided, `COMPILE THE DATE AND TIME` for the deadline, before posting it.
+A mattermost message is also provided.
 
 :warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
 
 ```shell
 python scripts/4_make_release_drafts.py <VERSION> <DATE> <TIME>
 ```
-`<VERSION>` format: `X.X.X` where `X` is a number
-`<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
-`<TIME>` format: `HH.MM` where `HH` is a valid hour and `MM` is valid minute
+- `<VERSION>` format: `X.X.X` where `X` is a number
+- `<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
+- `<TIME>` format: `HH.MM` where `HH` is a valid hour and `MM` is valid minute
 
 
 :warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
@@ -93,9 +94,15 @@ Compose and send out email to inform the App Team when they can start testign th
 ```shell
 python scripts/6_app_team_email.py <DATE> <DATE> <VERSION>
 ```
+- `<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
+- `<VERSION>` format: `X.X.X` where `X` is a number
 
-`<DATE>` format: `dd.mm` where `dd` is a valid caldendar day and `mm` is valid calendar month
-`<VERSION>` format: `X.X.X` where `X` is a number
+### 7. `no drafts left before release`
+
+Check all products and make sure all the release drafts have been converted. Talk with the responsible people:
+- `s4l`: App Team
+- `tip`: (not decided yet), so it's the current scrum master
+- `ospar`: (not decided yet), so it's the current scrum master
 
 # After Hotfixing
 
@@ -106,7 +113,6 @@ Please note, that if you hotfix a change to a production deployment, you have to
 ```shell
 python scripts/run_after_hotfix_to_prod.py <VERSION>
 ```
-
-`<VERSION>` format: `X.X.X` where `X` is a number
+- `<VERSION>` format: `X.X.X` where `X` is a number
 
 :warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
