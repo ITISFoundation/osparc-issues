@@ -15,33 +15,13 @@ Release draft generation
 
 from pathlib import Path
 
-from utils import require_tag_from_cli, list_folders_in_path
+from utils import INITIALS_TO_USERNAMES, list_folders_in_path, require_tag_from_cli
 
 CURRENT_DIR: Path = Path(__file__).resolve().parent
 
-INITIALS: list[str] = [
-    "ANE",
-    "BL",
-    "DK",
-    "EI",
-    "GCR",
-    "IP",
-    "JQU",
-    "MaG",
-    "MB",
-    "MD",
-    "MEST",
-    "OM",
-    "PC",
-    "SAN",
-    "SB",
-    "SCA",
-    "TN",
-    "WVG",
-    "YH",
-]
+INITIALS: list[str] = list(INITIALS_TO_USERNAMES.keys())
 
-_TEMPLATE: str = """Click on the link for a list of all the PRs released since `{version_tag}` 
+_TEMPLATE: str = """Click on the link for a list of all the PRs released since `{version_tag}`
 https://github.com/ITISFoundation/osparc-simcore/compare/{version_tag}...master
 
 Please check your name if finished:
