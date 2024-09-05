@@ -1,7 +1,7 @@
-from typing import Final
 from pathlib import Path
-import requests
+from typing import Final
 
+import requests
 from utils import list_folders_in_path, require_tag_from_cli
 
 CURRENT_DIR: Path = Path(__file__).resolve().parent
@@ -23,10 +23,10 @@ def copy_from_exiting_release(tag: str) -> None:
         soruce_draft_file = product_folder / f"{vtag}.md"
         target_draft_file = product_folder / f"{next_vtag}.md"
         if not soruce_draft_file.exists():
-            msg = f"target {soruce_draft_file} dpes mot exist"
+            msg = f"'source target' {soruce_draft_file} does not exist"
             raise ValueError(msg)
         if target_draft_file.exists():
-            msg = f"targe {target_draft_file} already exists, please check!"
+            msg = f"'destination target' {target_draft_file} already exists"
             raise ValueError(msg)
 
         print(f"copy from {soruce_draft_file} -> {target_draft_file}")
@@ -52,7 +52,7 @@ MANUAL_LINKS: Final[str] = (
 
 MANUAL_ENTRY_TEMPLATE = """
 <h3 id="v{tag}"><a href="https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md">Version: {tag}</a></h3>
- 
+
  - Release Date: 22.08.2024
  - [Changelog](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md)
 """
@@ -85,8 +85,11 @@ def get_instructuinf_for_pull_request(tag: str) -> None:
 
 
 def main() -> None:
-    tag = require_tag_from_cli()
     print("This is a [2 STEP] operation\n")
+    print(
+        "[NOTE]: make sure the provided version already exists in the product folders!\n"
+    )
+    tag = require_tag_from_cli()
 
     # copy existing release notes in this repo
     copy_from_exiting_release(tag)
