@@ -22,10 +22,10 @@ The following actions should be taken (details below):
 
 1. ask PO(s) (Nik) for the next review date. Be insistent. I mean it: **BE INSISTENT!**
 1. coordinate with team when to deploy to `staging` and `production`
-1. :scroll: once dates are available create the **deadlines calendar** and post it to the team on mattermost (reminders about important deadlines)
-1. :scroll: ask developers to fill out the release drafts per product
+1. :page_with_curl: :rocket: once dates are available create the **deadlines calendar** and post it to the team on mattermost (reminders about important deadlines)
+1. :page_with_curl: :rocket: ask developers to fill out the release drafts per product
 1. ensure NIH Staging is properly deployed
-1. :scroll: :email: inform App Team after the review when the deployment is ready for testing
+1. :page_with_curl: :rocket: :email: inform App Team after the review when the deployment is ready for testing
 
 ### 1. `review date`
 
@@ -37,7 +37,7 @@ Ask team members if it si possible to release to:
 - `staging` 1 day before the reivew and
 - `production` after the App Team finishes testing staging (usually one or two days alfter)
 
-### 3. :scroll: `deadlines calendar`
+### 3. :page_with_curl: :rocket: `deadlines calendar`
 
 The following deadelines must be established:
 
@@ -59,7 +59,7 @@ python scripts/3_deadlines_calendar.py <DATE> <DATE> <DATE> <DATE> <DATE> <DATE>
 - date and time when `release drafts` need to be `completed`
 
 
-### 4. :scroll: `release drafts compliation`
+### 4. :page_with_curl: :rocket: `release drafts compliation`
 
 Ideally these are done before the reiview. The App Team will most likeley see them only during the testing days
 The email to the App Team shoudl be sent briefly after the review is over.
@@ -82,7 +82,7 @@ Ensure with the team that staging is properly deployed. Check the following:
 - staging release to NIH Staging deployment occurred
 - sim4life services released
 
-### 6. :scroll: :email: `email App Team`
+### 6. :page_with_curl: :rocket: :email: `email App Team`
 
 Compose and send out email to inform the App Team when they can start testign the deployment.
 
