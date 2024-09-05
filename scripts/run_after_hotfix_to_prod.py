@@ -57,7 +57,9 @@ MANUAL_ENTRY_TEMPLATE = """
  - [Changelog](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md)
 """
 
-INSTRUCTIONS_TEMPLATE = """
+INSTRUCTIONS_TEMPLATE: Final[
+    str
+] = """
 Instructions:
 - Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md#v1.76.1
 - click the edit button
