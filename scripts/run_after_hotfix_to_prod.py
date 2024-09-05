@@ -61,7 +61,7 @@ INSTRUCTIONS_TEMPLATE: Final[
     str
 ] = """
 Instructions:
-- Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md#v1.76.1
+- Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md
 - click the edit button
 - repalce the content with the one form {file}
 - create a PR and merge it or ask for MaG to merge it
