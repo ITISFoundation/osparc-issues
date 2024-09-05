@@ -32,6 +32,20 @@ Please check your name if finished:
 """
 
 
+_MATTERMOST_TEMPLATE: str = """
+@all please contribute in compiling the `Release Drafts`.
+There are 3 release drafts to fill out: `s4l` (which also includes s4li-lite), `osparc`, `tip`.
+Instructions:
+- Please go through all your last changes in master since the last release for each product: [osparc](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/osparc/{version_tag}.md), [s4l](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/{version_tag}.md) and [tip](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/tip/{version_tag}.md) (each product contains a link to these changes)
+- For each product please chose those features which it makes sense to highlight.
+- When highlighting a feature please provide a meaningful `USER` readable description and the link to the PR
+- deadline `MM.DD by HH:MM`
+- please :white_check_mark: your name when done in all products so I can keep track of who is missing.
+
+:pray: Thanks everybody for your kind cooperation and help.
+"""
+
+
 def _get_previous_version(vtag: str) -> int:
     version_parts = vtag.strip("v").split(".")
     version_parts[1] = f"{int(version_parts[1])-1}"
@@ -47,6 +61,8 @@ def main():
     tag = require_tag_from_cli()
     vtag = f"v{tag}"
 
+    print("\nTotal [STEPS] 2\n")
+
     print(f"Will generate form tag: {vtag}")
 
     new_draft_content = _TEMPLATE.format(
@@ -58,6 +74,13 @@ def main():
             msg = f"{draft_file} already exists, make sure you are creating the draft for the correct release"
             raise ValueError(msg)
         draft_file.write_text(new_draft_content)
+
+    print(
+        "\n[STEP] 1/2 post this message on mattermost, please edit the DEADLINE accordingly\n"
+    )
+    print(_MATTERMOST_TEMPLATE.format(version_tag=vtag))
+
+    print("\n[STEP] 2/2 commit and push changes generated in this repo!!!!\n")
 
 
 if __name__ == "__main__":
