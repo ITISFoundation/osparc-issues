@@ -19,8 +19,8 @@ This is the draft of the release notes: https://github.com/ITISFoundation/osparc
 We have added some highlights for you.
 
 We would like your input on the following:
-- Rewrite of the draft release notes, in a more user-friendly fashion
-- Test the deployments, including the highlights it they make sense to you
+- Rewrite of the draft release notes, in a more user-friendly fashion (please make a PR back with your edits)
+- Test the deployments, including the highlights if they make sense to you
 - Let us know if something is not working/showing as expected
 - Please let us know if you don't have accounts yet on some of those deployments
 

@@ -21,6 +21,8 @@ Please check your name if finished:
 
 **Draft release notes go below the line**
 ---
+# Release Notes
+### Highlights
 """
 
 
