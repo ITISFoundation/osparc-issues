@@ -1,6 +1,8 @@
 import argparse
+import json
 from pathlib import Path
 
+import requests
 from utils import (
     INITIALS_TO_USERNAMES,
     list_folders_in_path,
@@ -23,6 +25,13 @@ Please check your name if finished:
 ---
 # Release Notes
 ### Highlights
+
+
+<details>
+<summary>Show detailed release notes</summary>
+
+{collapasble_content}
+</details>
 """
 
 
@@ -49,6 +58,15 @@ def _get_previous_version(vtag: str) -> int:
 
 def _get_names_to_check() -> str:
     return "\n".join([f"- [ ] {name}" for name in INITIALS])
+
+
+def _get_collpasable_notes(vtag: str) -> str:
+    response = requests.get(
+        f"https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag}",
+        timeout=10,
+    )
+    json_response = json.loads(response.text)
+    return json_response["body"]
 
 
 def main():
@@ -79,13 +97,15 @@ def main():
     print(f"Will generate form tag: {vtag}")
 
     new_draft_content = _TEMPLATE.format(
-        version_tag=_get_previous_version(vtag), names_to_check=_get_names_to_check()
+        version_tag=_get_previous_version(vtag),
+        names_to_check=_get_names_to_check(),
+        collapasble_content=_get_collpasable_notes(vtag),
     )
     for product_folder in list_folders_in_path(CURRENT_DIR / ".." / "release-notes"):
         draft_file = product_folder / f"{vtag}.md"
         if draft_file.exists():
             msg = f"{draft_file} already exists, make sure you are creating the draft for the correct release"
-            raise ValueError(msg)
+            # raise ValueError(msg)
         draft_file.write_text(new_draft_content)
 
     print(
