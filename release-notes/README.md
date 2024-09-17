@@ -14,7 +14,7 @@ The process is coordinated by the current scrum master. They are reponsible for 
 
 ## Scrum master procedures
 
-The scrum master takes care of enforcing deadlines. His final goal is to produce an email sent to the App Team containing information about:
+The scrum master takes care of enforcing deadlines. Their goal is to produce an email sent to the App Team containing information about:
 - where, when and waht to test
 - ask App Team to rewrite the `draft release notes` into user readable `release notes`
 
@@ -26,7 +26,7 @@ The following procedure is suggested (more details below):
 1. ask developers to fill out the release drafts per product
 1. ensure NIH Staging is properly deployed
 1. inform App Team after the review when the deployment is ready for testing
-1. ensure all drafts have been converted before release
+1. ensure all drafts have been converted to a non draft form (including the rewording) before release
 
 ### 1. `review date`
 
