@@ -1,3 +1,5 @@
+import json
+from datetime import datetime
 from pathlib import Path
 from typing import Final
 
@@ -46,14 +48,14 @@ def _insert_after_line(text: str, target_line: str, to_insert: str) -> str:
     return "\n".join(output_lines)
 
 
-MANUAL_LINKS: Final[
-    str
-] = "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
+MANUAL_LINKS: Final[str] = (
+    "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
+)
 
 MANUAL_ENTRY_TEMPLATE = """
 <h3 id="v{tag}"><a href="https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md">Version: {tag}</a></h3>
 
- - Release Date: 22.08.2024
+ - Release Date: {release_date}
  - [Changelog](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md)
 """
 
@@ -68,6 +70,17 @@ Instructions:
 """
 
 
+def _get_created_from_release(vtag: str) -> str:
+    response = requests.get(
+        f"https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag}",
+        timeout=10,
+    )
+    json_response = json.loads(response.text)
+
+    parsed_date = datetime.strptime(json_response["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+    return parsed_date.strftime("%d.%m.%Y")
+
+
 def get_instructuinf_for_pull_request(tag: str) -> None:
     print("\nEnsure you ran 'make devenv' and 'source .venv/bin/activate'")
     next_tag = _get_next_tag_patch(tag)
@@ -78,7 +91,9 @@ def get_instructuinf_for_pull_request(tag: str) -> None:
     result = _insert_after_line(
         manual_content,
         "## sim4life.io/sim4life.science Platform",
-        MANUAL_ENTRY_TEMPLATE.format(tag=next_tag),
+        MANUAL_ENTRY_TEMPLATE.format(
+            tag=next_tag, release_date=_get_created_from_release(f"v{next_tag}")
+        ),
     )
 
     updated_content_file = CURRENT_DIR / f"to_pr_added_tag_{next_tag}.ignore.md"
