@@ -1,15 +1,15 @@
 # README
 
 ### TL;DR
-- This folder contains **releaase notes** divided by **product**.
-- They must be **comprehanded by any user** of the platform/product.
+- This folder contains **release notes** divided by **product**.
+- They must be **comprehended by any user** of the platform/product.
 - Scrum master orchestrates their process of creation.
 
 ## How is this content created?
 
-All **release notes** are created using an iterative approch involving members of multuple teams: developers, App Team, product owners.
+All **release notes** are created using an iterative approach involving members of multiple teams: developers, App Team, product owners.
 
-The process is coordinated by the current scrum master. They are reponsible for coordinating the team effort and making sure eveything is in place before the release.
+The process is coordinated by the current scrum master. They are responsible for coordinating the team effort and making sure everything is in place before the release.
 
 
 ## Scrum master procedures
@@ -68,7 +68,7 @@ The email to the App Team should be sent briefly after the review is over.
 Use the following script to generate the new release drafts for all the products.
 A Mattermost message is also provided.
 
-:warning: Do not forget to commit and push the changes in the reposity! :rotating_light:
+:warning: Do not forget to commit and push the changes in the repository! :rotating_light:
 
 ```shell
 python scripts/4_make_release_drafts.py <VERSION> <DATE> <TIME>
@@ -89,7 +89,7 @@ Ensure with the team that staging is properly deployed. Check the following:
 
 ### 6. `email App Team`
 
-Compose and send out email to inform the App Team when they can start testign the deployment.
+Compose and send out email to inform the App Team when they can start testing the deployment.
 
 ```shell
 python scripts/6_app_team_email.py <DATE> <DATE> <VERSION>
