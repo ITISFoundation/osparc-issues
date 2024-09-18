@@ -10,7 +10,7 @@ Dear App Team,
 
 please find below some more details about testing of the staging deployments and release notes improvements.
 
-Starting evniroment is available from `{start_app_team}` to `{end_app_team}`. Please use the following these deployments (not for production work):
+Starting environment is available from `{start_app_team}` to `{end_app_team}`. Please use the following these deployments (not for production work):
 - osparc https://osparc-staging.io/
 - s4l lite https://staging.s4l-lite.io/
 - s4l https://sim4life-staging.cloud/

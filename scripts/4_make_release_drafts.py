@@ -30,7 +30,7 @@ Please check your name if finished:
 <details>
 <summary>Show detailed release notes</summary>
 
-{collapasble_content}
+{collapsable_content}
 </details>
 """
 
@@ -99,7 +99,7 @@ def main():
     new_draft_content = _TEMPLATE.format(
         version_tag=_get_previous_version(vtag),
         names_to_check=_get_names_to_check(),
-        collapasble_content=_get_collpasable_notes(vtag),
+        collapsable_content=_get_collpasable_notes(vtag),
     )
     for product_folder in list_folders_in_path(CURRENT_DIR / ".." / "release-notes"):
         draft_file = product_folder / f"{vtag}.md"
