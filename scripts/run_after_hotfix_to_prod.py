@@ -1,3 +1,5 @@
+import json
+from datetime import datetime
 from pathlib import Path
 from typing import Final
 
@@ -23,10 +25,10 @@ def copy_from_exiting_release(tag: str) -> None:
         soruce_draft_file = product_folder / f"{vtag}.md"
         target_draft_file = product_folder / f"{next_vtag}.md"
         if not soruce_draft_file.exists():
-            msg = f"target {soruce_draft_file} dpes mot exist"
+            msg = f"'source target' {soruce_draft_file} does not exist"
             raise ValueError(msg)
         if target_draft_file.exists():
-            msg = f"targe {target_draft_file} already exists, please check!"
+            msg = f"'destination target' {target_draft_file} already exists"
             raise ValueError(msg)
 
         print(f"copy from {soruce_draft_file} -> {target_draft_file}")
@@ -46,24 +48,37 @@ def _insert_after_line(text: str, target_line: str, to_insert: str) -> str:
     return "\n".join(output_lines)
 
 
-MANUAL_LINKS: Final[
-    str
-] = "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
+MANUAL_LINKS: Final[str] = (
+    "https://raw.githubusercontent.com/ZurichMedTech/s4l-manual/main/docs/release/releases.md"
+)
 
 MANUAL_ENTRY_TEMPLATE = """
 <h3 id="v{tag}"><a href="https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md">Version: {tag}</a></h3>
 
- - Release Date: 22.08.2024
+ - Release Date: {release_date}
  - [Changelog](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/v{tag}.md)
 """
 
-INSTRUCTIONS_TEMPLATE = """
+INSTRUCTIONS_TEMPLATE: Final[
+    str
+] = """
 Instructions:
-- Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md#v1.76.1
+- Open https://github.com/ZurichMedTech/s4l-manual/blob/main/docs/release/releases.md
 - click the edit button
 - replace the content with the one from {file}
 - create a PR and merge it or ask for MaG to merge it
 """
+
+
+def _get_created_from_release(vtag: str) -> str:
+    response = requests.get(
+        f"https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag}",
+        timeout=10,
+    )
+    json_response = json.loads(response.text)
+
+    parsed_date = datetime.strptime(json_response["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+    return parsed_date.strftime("%d.%m.%Y")
 
 
 def get_instructuinf_for_pull_request(tag: str) -> None:
@@ -76,7 +91,9 @@ def get_instructuinf_for_pull_request(tag: str) -> None:
     result = _insert_after_line(
         manual_content,
         "## sim4life.io/sim4life.science Platform",
-        MANUAL_ENTRY_TEMPLATE.format(tag=next_tag),
+        MANUAL_ENTRY_TEMPLATE.format(
+            tag=next_tag, release_date=_get_created_from_release(f"v{next_tag}")
+        ),
     )
 
     updated_content_file = CURRENT_DIR / f"to_pr_added_tag_{next_tag}.ignore.md"
@@ -85,13 +102,19 @@ def get_instructuinf_for_pull_request(tag: str) -> None:
 
 
 def main() -> None:
+    print("This is a [2 STEP] operation\n")
+    print(
+        "[NOTE]: make sure the provided version already exists in the product folders!\n"
+    )
     tag = require_tag_from_cli()
-    # 1. copy existing release notes in this repo
+
+    # copy existing release notes in this repo
     copy_from_exiting_release(tag)
-    # 2. generate a file who's contents need to be pull requested
+
+    print("\n[STEP 1/2] generate a file who's contents need to be pull requested")
     get_instructuinf_for_pull_request(tag)
-    # 3. final isntructuons
-    print("Make sure to commit and push changes in this repository!!\n")
+
+    print("\n[STEP 2/2] make sure to commit and push changes in this repository!!\n")
 
 
 if __name__ == "__main__":

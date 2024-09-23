@@ -18,33 +18,14 @@ import logging
 import re
 from pathlib import Path
 
+from utils import INITIALS_TO_USERNAMES
+
 logger = logging.getLogger("agenda")
 logging.basicConfig(level=logging.INFO)
 
 
 COLUMNS: list[str] = ["Title", "Presenter", "Status", "Duration", "Start-Time"]
 
-INITIALS_TO_USERNAMES: dict[str, str] = {
-    "ANE": "GitHK",
-    "BL": "dyollb",
-    "DK": "mrnicegyu11",
-    "EI": "elisabettai",
-    "IP": "ignapas",
-    "GCR": "giancarloromeo",
-    "MaG": "mguidon",
-    "JQU": "jsaq007",
-    "MB": "bisgaard-itis",
-    "MD": "matusdrobuliak66",
-    "MEST": "Konohana0608",
-    "OM": "odeimaiz",
-    "PC": "pcrespov",
-    "SAN": "sanderegg",
-    "SB": "sbenkler",
-    "SCA": "SCA-ZMT",
-    "TN": "newton1985",
-    "WVG": "wvangeit",
-    "YH": "YuryHrytsuk",
-}
 
 USERNAMES_TO_INITIALS = {value: key for key, value in INITIALS_TO_USERNAMES.items()}
 
