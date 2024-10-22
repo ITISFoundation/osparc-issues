@@ -2,11 +2,13 @@
 
 <img src="https://schema.gr/data/work/martin_kippenberger/schema_design_neon_museum_cycladic_art_martin_kippenberger_a_cry_for_freedom_exhibition_1.jpg" alt="Image" style="width:50%;">
 
-
 ## Sprint 🏃
+
 - [**MartinKippenberger**](https://de.wikipedia.org/wiki/Martin_Kippenberger)
 - Scrum Master: [DK]
-- Happenings: sim4life-lite.io 8.2beta release on october 10 2024
+- Happenings:
+  - 🚀 sim4life-lite.io 8.2beta release on October 10 2024
+
 ### Dashboards 📊
 
 - [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14?filterQuery=has%3Arequirement+) (PM1)
@@ -16,30 +18,30 @@
 
 |Title                                                                      |Presenter                |Status   |Duration   |Start-Time   |
 |---------------------------------------------------------------------------|-------------------------|---------|-----------|-------------|
-|[#1736] s4l-lite.io: Release 8.2beta                                       |[MD], [MaG], [PC]        |**Done**||10:00am|
+|[#1736] s4l-lite.io: Release 8.2beta                                       |[PC]                     |**Done** |5' | 10:00am|
 |[#1534] Advanced Search Tool/Help Center                                   |[IP], [JQU], [MaG]       |**In progress**|||
-|[#1601] TIP: Thumbnails in Dashboard                                       |[MEST], [DK]              |**Done**|30''||
+|[#1601] TIP: Thumbnails in Dashboard                                       |[MEST], [DK]             |**Done**|30''||
 |[#716] Project Folders in User Workspace (Nov.)                            |[MD], [OM]               |**In progress**|||
 |[#1408] Release Notes Improvements                                         |[ANE]                    |**In progress**|||
-|[#1327] Performance Improvements for Large Projects                        |[ANE], [MD], [PC], [SAN] |**Ongoing**|||
+|[#1327] Performance Improvements for Large Projects                        |[ANE], [MD], [SAN]       |**Ongoing**|||
 |[#6411] Filesystem - Large File Handling (Caching)                         |[MD]                     |**In progress**|||
 |[#1727] Filesystem - Shared Folders                                        |[MD]                     |**Planned**|||
 |[#1728] Persistant Look And Feel - oSparc                                  |[OM]                     |**Planned**|||
 |[#1305] sim4life.io User Feedback                                          |[IP], [JQU], [MaG], [SCA]|**Ongoing**|||
 |[#1732] VIP Models                                                         |[MaG]                    |**Planned**|||
-|[#1404] Sim4Life-Web dy-service versioning                                 |[MaG], [OM], [PC]        |**In progress**|||
+|[#1404] Sim4Life-Web dy-service versioning                                 |[PC]                     |**In progress**|3'||
 |[#1543] Support for PHRT - Priorized Bugfixing / Enhancements              |[ANE], [SCA]             |**In progress**|||
-|[#468] Feature to undo a delete - "recycle bin" style                      |[OM], [PC]               |**Planned**|||
+|[#468] Feature to undo a delete - "recycle bin" style                      |[OM], [PC]               |**In progress**|5'||
 |[#1504] make s4l manual available to logged in users                       |[ANE], [MaG]             |**In progress**|||
 |[#1406] Sim4Life Desktop+Web UI Unification                                |[SCA]                    |**Paused**  |||
 |[#1314] Touchscreen + Tablet support                                       |[JQU], [OM]              |**In progress**|||
-|[#1328] Maintenance / Dev Issues                                           |[GCR],[ANE],[MD],[PC],[SAN]|**Ongoing**|||
+|[#1328] Maintenance / Dev Issues                                           |[GCR],[ANE],[MD],[PC],[SAN]|**Ongoing**|5'[PC]+ ||
 |[#1695] sim4life web: Maintenance and Bug Fixing                           |[MaG]                    |**Planned**|||
 |[#1639] Portal Development                                                 |[IP], [MaG]              |**Planned**|||
 |[#6410] Desktop Job-Submission to the web                                  |[MaG]                    |**Planned**|||
-|[#1730] Hardening the computational backend                                |[MaG], [PC]              |**In progress**|||
+|[#1730] Hardening the computational backend                                |[PC]                     |**In progress**|||
 |[#1331] S4L Application Features                                           |[IP], [JQU], [MaG]       |**Planned**|||
-|[#1309] TIP v3 - osparc-devteam-tasks                                      |[MEST], [MD], [DK], [OM], [PC], [SAN], [YH]|**In progress**|||
+|[#1309] TIP v3 - osparc-devteam-tasks                                      |[MEST], [MD], [DK], [OM], [PC], [SAN], [YH]|**In progress**|5'[PC]+ ||
 |[#1407] Meta-modeling: Refinements & FollowUps                             |[JGO], [WVG]             |**In progress**|||
 |[#1729] Persistant Look and Feel - s4l                                     |[IP], [JQU], [MaG]       |**Planned**|||
 |[#1332] NIH Year 7                                                         |[IP], [JQU], [MaG]       |**Ongoing**|||
@@ -48,15 +50,14 @@
 |[#1317] S4L: UI Form Layouts                                               |[IP], [JQU], [MaG], [SCA]|**In progress**|||
 |[#1310] S4L: Workbench and MATCH working group                             |[IP], [MaG], [SCA]       |**Planned**|||
 |[#1409] UX of credits burning                                              |[OM]                     |**Planned**|||
-|[#1395] App-team panel                                                     |[PC]                     |**Planned**|||
+|[#1395] App-team panel                                                     |[PC]                     |**Paused**|||
 |[#1326] WG: Real time collaboration                                        |[ANE], [MD], [OM], [SAN] |**Done**|||
-|[#1411] create a synergy between the s4l optimizer and osparc metamodelling|[WVG]                    |Paused      |||
+|[#1411] create a synergy between the s4l optimizer and osparc metamodelling|[WVG]                    |**Paused**|||
 
 
 [#1305]: https://github.com/ITISFoundation/osparc-issues/issues/1305
 [#1309]: https://github.com/ITISFoundation/osparc-issues/issues/1309
 [#1310]: https://github.com/ITISFoundation/osparc-issues/issues/1310
-[#1313]: https://github.com/ITISFoundation/osparc-issues/issues/1313
 [#1314]: https://github.com/ITISFoundation/osparc-issues/issues/1314
 [#1317]: https://github.com/ITISFoundation/osparc-issues/issues/1317
 [#1326]: https://github.com/ITISFoundation/osparc-issues/issues/1326
@@ -70,21 +71,13 @@
 [#1407]: https://github.com/ITISFoundation/osparc-issues/issues/1407
 [#1408]: https://github.com/ITISFoundation/osparc-issues/issues/1408
 [#1409]: https://github.com/ITISFoundation/osparc-issues/issues/1409
-[#1410]: https://github.com/ITISFoundation/osparc-issues/issues/1410
 [#1411]: https://github.com/ITISFoundation/osparc-issues/issues/1411
-[#1412]: https://github.com/ITISFoundation/osparc-issues/issues/1412
-[#1413]: https://github.com/ITISFoundation/osparc-issues/issues/1413
 [#1504]: https://github.com/ITISFoundation/osparc-issues/issues/1504
 [#1534]: https://github.com/ITISFoundation/osparc-issues/issues/1534
-[#1541]: https://github.com/ITISFoundation/osparc-issues/issues/1541
 [#1543]: https://github.com/ITISFoundation/osparc-issues/issues/1543
-[#1544]: https://github.com/ITISFoundation/osparc-issues/issues/1544
 [#1596]: https://github.com/ITISFoundation/osparc-issues/issues/1596
 [#1597]: https://github.com/ITISFoundation/osparc-issues/issues/1597
 [#1601]: https://github.com/ITISFoundation/osparc-issues/issues/1601
-[#1602]: https://github.com/ITISFoundation/osparc-issues/issues/1602
-[#1609]: https://github.com/ITISFoundation/osparc-issues/issues/1609
-[#1635]: https://github.com/ITISFoundation/osparc-issues/issues/1635
 [#1639]: https://github.com/ITISFoundation/osparc-issues/issues/1639
 [#1695]: https://github.com/ITISFoundation/osparc-issues/issues/1695
 [#1727]: https://github.com/ITISFoundation/osparc-issues/issues/1727
@@ -96,13 +89,13 @@
 [#468]: https://github.com/ITISFoundation/osparc-issues/issues/468
 [#6410]: https://github.com/ITISFoundation/osparc-issues/issues/6410
 [#6411]: https://github.com/ITISFoundation/osparc-issues/issues/6411
-[#6412]: https://github.com/ITISFoundation/osparc-issues/issues/6412
 [#716]: https://github.com/ITISFoundation/osparc-issues/issues/716
 
 [ANE]:https://github.com/GitHK
 [BL]:https://github.com/dyollb
 [DK]:https://github.com/mrnicegyu11
 [EI]:https://github.com/elisabettai
+[EN]:https://github.com/esraneufeld
 [GCR]:https://github.com/giancarloromeo
 [IP]:https://github.com/ignapas
 [JGO]:https://github.com/JavierGOrdonnez
@@ -111,7 +104,6 @@
 [MB]:https://github.com/bisgaard-itis
 [MD]:https://github.com/matusdrobuliak66
 [MEST]:https://github.com/Konohana0608
-[MaG]:https://github.com/mguidon
 [OM]:https://github.com/odeimaiz
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
@@ -121,7 +113,7 @@
 [WVG]:https://github.com/wvangeit
 [YH]:https://github.com/YuryHrytsuk
 
-##### Status Legend
+#### Status Legend
 
 - _Planned_: no work done on this issue. This is the first time it apprears in a sprint.
 - _Paused_: this issue was not scheduled/skipped for this sprint
