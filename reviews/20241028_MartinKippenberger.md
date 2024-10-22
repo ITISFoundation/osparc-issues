@@ -6,7 +6,7 @@
 ## Sprint 🏃
 - [**MartinKippenberger**](https://de.wikipedia.org/wiki/Martin_Kippenberger)
 - Scrum Master: [DK]
-
+- Happenings: sim4life-lite.io 8.2beta release on october 10 2024
 ### Dashboards 📊
 
 - [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14?filterQuery=has%3Arequirement+) (PM1)
@@ -16,9 +16,9 @@
 
 |Title                                                                      |Presenter                |Status   |Duration   |Start-Time   |
 |---------------------------------------------------------------------------|-------------------------|---------|-----------|-------------|
-|[#1736] s4l-lite.io: Release 8.0.2                                         |[MD], [MaG], [PC]        |**Done**|||
+|[#1736] s4l-lite.io: Release 8.2beta                                       |[MD], [MaG], [PC]        |**Done**|||
 |[#1534] Advanced Search Tool/Help Center                                   |[IP], [JQU], [MaG]       |**In progress**|||
-|[#1601] TIP: Thumbnails in Dashboard                                       |[JQU]                    |**Done**|||
+|[#1601] TIP: Thumbnails in Dashboard                                       |[JQU], [DK]              |**Done**|||
 |[#716] Project Folders in User Workspace (Nov.)                            |[MD], [OM]               |**In progress**|||
 |[#1408] Release Notes Improvements                                         |[ANE]                    |**In progress**|||
 |[#1327] Performance Improvements for Large Projects                        |[ANE], [MD], [PC], [SAN] |**Ongoing**|||
@@ -36,23 +36,20 @@
 |[#1328] Maintenance / Dev Issues                                           |[GCR],[ANE],[MD],[PC],[SAN]|**Ongoing**|||
 |[#1695] sim4life web: Maintenance and Bug Fixing                           |[MaG]                    |**Planned**|||
 |[#1639] Portal Development                                                 |[IP], [MaG]              |**Planned**|||
-|[#1602] Working Group: Integration S4L Desktop & S4L-Web                   |[MaG], [OM]              |**Done**|||
-|[#1541] Placing users' services on servers around the globe                |[DK]                     |**Done**|||
 |[#6410] Desktop Job-Submission to the web                                  |[MaG]                    |**Planned**|||
 |[#1730] Hardening the computational backend                                |[MaG], [PC]              |**In progress**|||
 |[#1331] S4L Application Features                                           |[IP], [JQU], [MaG]       |**Planned**|||
 |[#1309] TIP v3 - osparc-devteam-tasks                                      |[MEST], [MD], [DK], [OM], [PC], [SAN], [YH]|**In progress**|||
 |[#1407] Meta-modeling: Refinements & FollowUps                             |[JGO], [WVG]             |**In progress**|||
 |[#1729] Persistant Look and Feel - s4l                                     |[IP], [JQU], [MaG]       |**Planned**|||
-|[#1332] NIH Year 7                                                         |[IP], [JQU], [MaG] |**Ongoing**|||
+|[#1332] NIH Year 7                                                         |[IP], [JQU], [MaG]       |**Ongoing**|||
 |[#1597] NIH Year 8                                                         |[JQU], [EN]              |**Planned**|||
-|[#1596] Enable better videostreaming with TURN server                      |[MaG], [YH]              |**Planned**|||
+|[#1596] Enable better videostreaming with TURN server                      |[MaG], [YH], [DK]        |**Planned**|||
 |[#1317] S4L: UI Form Layouts                                               |[IP], [JQU], [MaG], [SCA]|**In progress**|||
 |[#1310] S4L: Workbench and MATCH working group                             |[IP], [MaG], [SCA]       |**Planned**|||
 |[#1409] UX of credits burning                                              |[OM]                     |**Planned**|||
-|[#1544] Improve release workflow                                           |[MD], [YH]               |**Planned**|||
 |[#1395] App-team panel                                                     |[PC]                     |**Planned**|||
-|[#1326] Real time collaboration                                            |[ANE], [MD], [OM], [SAN] |**Done**|||
+|[#1326] WG: Real time collaboration                                        |[ANE], [MD], [OM], [SAN] |**Done**|||
 |[#1411] create a synergy between the s4l optimizer and osparc metamodelling|[WVG]                    |Paused      |||
 
 
