@@ -18,7 +18,7 @@
 |---------------------------------------------------------------------------|-------------------------|---------|-----------|-------------|
 |[#1736] s4l-lite.io: Release 8.2beta                                       |[MD], [MaG], [PC]        |**Done**||10:00am|
 |[#1534] Advanced Search Tool/Help Center                                   |[IP], [JQU], [MaG]       |**In progress**|||
-|[#1601] TIP: Thumbnails in Dashboard                                       |[JQU], [DK]              |**Done**|||
+|[#1601] TIP: Thumbnails in Dashboard                                       |[MEST], [DK]              |**Done**|30''||
 |[#716] Project Folders in User Workspace (Nov.)                            |[MD], [OM]               |**In progress**|||
 |[#1408] Release Notes Improvements                                         |[ANE]                    |**In progress**|||
 |[#1327] Performance Improvements for Large Projects                        |[ANE], [MD], [PC], [SAN] |**Ongoing**|||
