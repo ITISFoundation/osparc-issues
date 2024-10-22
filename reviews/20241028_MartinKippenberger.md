@@ -1,0 +1,107 @@
+# Review Meeting - October 28, 2024
+
+<img src="https://schema.gr/data/work/martin_kippenberger/schema_design_neon_museum_cycladic_art_martin_kippenberger_a_cry_for_freedom_exhibition_1.jpg" alt="Image" style="width:50%;">
+
+
+## Sprint 🏃
+- [**MartinKippenberger**](https://de.wikipedia.org/wiki/Martin_Kippenberger)
+- Scrum Master: [DK]
+
+### Dashboards 📊
+
+- [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14?filterQuery=has%3Arequirement+) (PM1)
+- [Sprint Scrum Wall](https://github.com/orgs/ITISFoundation/projects/15/views/11) (developers' view)
+
+### Agenda 📝
+
+| Title                                                       | Presenter                                          | Status          | Duration | Start-Time |
+|-------------------------------------------------------------|----------------------------------------------------|-----------------|----------|------------|
+| [#1309] TIP v3 and TIP lite on AWS                          | [OM]                                               | **In progress** | 5'       | 10:05      |
+| [#1601] TIP: Thumbnails in Dashboard #1601                  | [JQ]                                               | **In progress** | 3'         |   10:10         |
+| [#1327] Performance Improvements for Large Projects         | [OM],[ANE],[SAN]                                   | **Ongoing**     | 2' + 2' + 10' | 10:13      |
+| [#716] Project Folders in User Workspace                    | [OM],[MD]                                          | **Done**        | 10'      |  10:27          |
+| [#1313] Filesystem concept                                  | [MD]                                               | **In progress** | 1'       |   10:37         |
+| [#1408] Release Notes Improvements                          | [ANE]                                              | **In progress** | 3'       |    10:38        |
+| [#1404] Sim4Life service versioning                         | [MaG]                                              | **In progress** | 2'       |    10:41        |
+| [#1534] Advanced Search Tool/Help Center                    | [MaG],[IP],[JQ]                                    | **Done**        |  5'      |    10:43        |
+| [#1543] Support for PHRT                                    | [ANE],[MaG],[MD],[SCA]                             | **In progress** | 4'       |    10:48        |
+| [#1695] sim4life web: Maintenance and Bug Fixing            | [MaG]                                              | **In progress** |       1' |   10:52         |
+| [#1331] S4L Application Features                            | [MaG]                                              | **In progress** |      1'  |   10:53         |
+| [#1409] UX of credits burning                               | [OM]                                               | **Done**        | 1'       |     10:54       |
+| [#1609] NIH Year 7 - Codeathon & Service integration        | [JGO]                                              | **Done**        | 1'       |   10:55         |
+| [#1596] Enable better videostreaming with TURN              | [MaG]                                              | **Paused**      |          |            |
+| [#1406] Sim4Life Desktop+Web UI Unification                 | [SCA],[LMO]                                        | **In progress** |    6'    |   10:56         |
+| [#1305] sim4life.io User Feedback                           | [MaG],[SCA]                                        | **Ongoing**     |    1'    |   11:02         |
+| [#1317] S4L: UI Form Layouts                                | [MaG]                                              | **In Paused**   |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps              | [WVG]                                              | **In progress** |    -     |     -      |
+| [#1314] Touchscreen + Tablet support                        | [JQ]                                               | **In progress** | 5'         |   11:03         |
+| [#1328] Maintenance / Dev Issues                            | [YH], [SAN]                                        | **Ongoing**     | 5' + 2'  |    11:08        |
+| UI/UX: Logger, blocked cards, annotation                    | [OM]                                               | **Ongoing**     | 3'       |   11:15         |
+| ChatGPT for Sim4Life Support                                | Fasse                                              | **In progress** | 5'       |   11:18         |
+
+
+[#716]: https://github.com/ITISFoundation/osparc-issues/issues/716
+[#1305]: https://github.com/ITISFoundation/osparc-issues/issues/1305
+[#1309]: https://github.com/ITISFoundation/osparc-issues/issues/1309
+[#1313]: https://github.com/ITISFoundation/osparc-issues/issues/1313
+[#1314]: https://github.com/ITISFoundation/osparc-issues/issues/1314
+[#1317]: https://github.com/ITISFoundation/osparc-issues/issues/1317
+[#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
+[#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
+[#1331]: https://github.com/ITISFoundation/osparc-issues/issues/1331
+[#1404]: https://github.com/ITISFoundation/osparc-issues/issues/1404
+[#1406]: https://github.com/ITISFoundation/osparc-issues/issues/1406
+[#1407]: https://github.com/ITISFoundation/osparc-issues/issues/1407
+[#1408]: https://github.com/ITISFoundation/osparc-issues/issues/1408
+[#1409]: https://github.com/ITISFoundation/osparc-issues/issues/1409
+[#1534]: https://github.com/ITISFoundation/osparc-issues/issues/1534
+[#1543]: https://github.com/ITISFoundation/osparc-issues/issues/1543
+[#1596]: https://github.com/ITISFoundation/osparc-issues/issues/1596
+[#1601]: https://github.com/ITISFoundation/osparc-issues/issues/1601
+[#1609]: https://github.com/ITISFoundation/osparc-issues/issues/1609
+[#1695]: https://github.com/ITISFoundation/osparc-issues/issues/1695
+
+
+[ANE]:https://github.com/GitHK
+[BL]:https://github.com/dyollb
+[DK]:https://github.com/mrnicegyu11
+[EI]:https://github.com/elisabettai
+[IP]:https://github.com/ignapas
+[JGO]: https://github.com/JavierGOrdonnez
+[JQ]: https://github.com/jsaq007
+[MaG]:https://github.com/mguidon
+[MB]:https://github.com/bisgaard-itis
+[MD]:https://github.com/matusdrobuliak66
+[MEST]:https://github.com/Konohana0608
+[OM]:https://github.com/odeimaiz
+[PC]:https://github.com/pcrespov
+[SAN]:https://github.com/sanderegg
+[SB]:https://github.com/sbenkler
+[SCA]:https://github.com/SCA-ZMT
+[TN]:https://github.com/newton1985
+[WVG]:https://github.com/wvangeit
+[YH]:https://github.com/YuryHrytsuk
+
+##### Status Legend
+
+- _Planned_: no work done on this issue. This is the first time it apprears in a sprint.
+- _Paused_: this issue was not scheduled/skipped for this sprint
+- _In Progress_: this issue is still under development
+- _Done_: no more work left to do on this issue. PO can review an decide to close or reopen.
+- _Ongoing_: a recurrent task
+- _Blocking_: prerequisits are missing
+
+### Deployed environments 🚀
+
+- AWS cluster (us-east-1, ZMT)
+  - [master_zmt](https://sim4life.io) (Testers only)
+- AWS cluster (us-east-1, STRIDES)
+  - [staging_aws](https://staging.osparc.io) (Testers only)
+  - [production_aws](https://osparc.io)
+- Z43 cluster (ch-zh)
+  - [staging_z43](http://osparc-staging.speag.com) (Testers only)
+  - [production_z43](http://osparc.speag.com)
+  - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
+  - [master](https://osparc-master.speag.com) (developers only)
+
+- [Platform releases](https://github.com/ITISFoundation/osparc-simcore/releases)
