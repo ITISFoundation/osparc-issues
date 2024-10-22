@@ -39,7 +39,7 @@
 |[#1695] sim4life web: Maintenance and Bug Fixing                           |[MaG]                    |**Planned**|||
 |[#1639] Portal Development                                                 |[IP], [MaG]              |**Planned**|||
 |[#6410] Desktop Job-Submission to the web                                  |[MaG]                    |**Planned**|||
-|[#1730] Hardening the computational backend                                |[PC]                     |**In progress**|||
+|[#1730] Hardening the computational backend                                |[PC]                     |**In progress**|3'||
 |[#1331] S4L Application Features                                           |[IP], [JQU], [MaG]       |**Planned**|||
 |[#1309] TIP v3 - osparc-devteam-tasks                                      |[MEST], [MD], [DK], [OM], [PC], [SAN], [YH]|**In progress**|5'[PC]+ ||
 |[#1407] Meta-modeling: Refinements & FollowUps                             |[JGO], [WVG]             |**In progress**|||
