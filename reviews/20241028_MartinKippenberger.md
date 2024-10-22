@@ -29,7 +29,7 @@
 |[#1728] Persistant Look And Feel - oSparc                                  |[OM]                     |**Planned**|||
 |[#1305] sim4life.io User Feedback                                          |[IP], [JQU], [MaG], [SCA]|**Ongoing**|||
 |[#1732] VIP Models                                                         |[MaG]                    |**Planned**|||
-|[#1404] Sim4Life-Web dy-service versioning                                 |[PC]                     |**In progress**|3'||
+|[#1404] Sim4Life-Web dy-service versioning                                 |[PC]                     |**In progress**|5'||
 |[#1543] Support for PHRT - Priorized Bugfixing / Enhancements              |[ANE], [SCA]             |**In progress**|||
 |[#468] Feature to undo a delete - "recycle bin" style                      |[OM], [PC]               |**In progress**|5'||
 |[#1504] make s4l manual available to logged in users                       |[ANE], [MaG]             |**In progress**|||
@@ -50,7 +50,7 @@
 |[#1317] S4L: UI Form Layouts                                               |[IP], [JQU], [MaG], [SCA]|**In progress**|||
 |[#1310] S4L: Workbench and MATCH working group                             |[IP], [MaG], [SCA]       |**Planned**|||
 |[#1409] UX of credits burning                                              |[OM]                     |**Planned**|||
-|[#1395] App-team panel                                                     |[PC]                     |**Paused**|||
+|[#1395] App-team panel                                                     |[PC]                     |**In progress**|5'||
 |[#1326] WG: Real time collaboration                                        |[ANE], [MD], [OM], [SAN] |**Done**|||
 |[#1411] create a synergy between the s4l optimizer and osparc metamodelling|[WVG]                    |**Paused**|||
 
