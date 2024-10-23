@@ -31,7 +31,7 @@
 | [#1732] VIP Models                                                          | [MaG]                                       | **Planned**     |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)], [SCA]                          | **In progress** |   1' [SAN]       |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC], [OM]                                  | **In progress** | 5'       |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      |          |            |
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
