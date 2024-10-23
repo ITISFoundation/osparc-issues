@@ -19,7 +19,7 @@
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:00am    |
-| [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** |          |            |
+| [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'         |            |
 | [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 30''     |            |
 | [#716] Project Folders in User Workspace (Nov.)                             | [MD], [OM]                                  | **In progress** |          |            |
 | [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |          |            |
@@ -34,7 +34,7 @@
 | [#468] Feature to undo a delete - "recycle bin" style                       | [OM], [PC]                                  | **In progress** | 5'       |            |
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |          |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      |          |            |
-| [#1314] Touchscreen + Tablet support                                        | [JQU], [OM]                                 | **In progress** |          |            |
+| [#1314] Touchscreen + Tablet support                                        | [JQU], [OM]                                 | **In progress** | 5'         |            |
 | [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[MD],[PC],[SAN]                 | **Ongoing**     | 5'[PC]+ (1' [SAN] if needed) |            |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Planned**     |          |            |
 | [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
