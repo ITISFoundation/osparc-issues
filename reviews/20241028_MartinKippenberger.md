@@ -42,7 +42,7 @@
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
 | [#1331] S4L Application Features                                            | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [MD], [DK], [OM], [PC], [YH] | **In progress** | 5'[PC]+  |            |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
 | [#1729] Persistant Look and Feel - s4l                                      | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
@@ -52,7 +52,7 @@
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |          |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
 | [#1326] WG: Real time collaboration                                         | [ANE], [MD], [OM]                    | **Done**        |          |            |
-| [#1411] create a synergy between the s4l optimizer and osparc metamodelling | [WVG]                                       | **Paused**      |          |            |
+| [#1411] create a synergy between the s4l optimizer and osparc metamodelling | [WVG]                                       | **Paused**      |     0'   |            |
 
 
 [#1305]: https://github.com/ITISFoundation/osparc-issues/issues/1305
