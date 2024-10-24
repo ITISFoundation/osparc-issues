@@ -21,10 +21,10 @@
 | [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:00am    |
 | [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       |            |
 | [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 30''     |            |
-| [#716] Project Folders in User Workspace (Nov.)                             | [MD], [OM]                                  | **Done**        | 10'      |            |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                  | **Done**        | 10'      |            |
 | [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |          |            |
-| [#1327] Performance Improvements for Large Projects                         | [ANE/(SAN)], [MD]                           | **Ongoing**     |  1' [SAN]    |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
+| [#1327] Performance Improvements for Large Projects                         | [ANE/(SAN)]                           | **Ongoing**     |  1' [SAN]    |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    3'    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
 | [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  2'        |            |
@@ -35,13 +35,13 @@
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |    3'      |           |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
-| [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[MD],[PC],[SAN], [YH]                 | **Ongoing**     | 5'[PC]+ (1' [SAN] if needed), 2' [YH] |            |
+| [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[PC],[SAN], [YH]                 | **Ongoing**     | 5'[PC]+ (1' [SAN] if needed), 2' [YH] |            |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     |  2'         |            |
 | [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
 | [#1331] S4L Application Features                                            | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
-| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [MD], [DK], [PC]              | **In progress** | 5'[PC]+  |            |
+| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 5'[PC]+  |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
 | [#1729] Persistant Look and Feel - s4l                                      | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
@@ -51,7 +51,7 @@
 | [#1310] S4L: Workbench and MATCH working group                              | [IP], [MaG]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
-| [#1326] WG: Real time collaboration                                         | [ANE], [MD], [OM]                           | **Done**        |     0'   |            |
+| [#1326] WG: Real time collaboration                                         | [ANE], [OM]                           | **Done**        |     0'   |            |
 | [#1411] create a synergy between the s4l optimizer and osparc metamodelling | [WVG]                                       | **Paused**      |     0'   |            |
 
 
