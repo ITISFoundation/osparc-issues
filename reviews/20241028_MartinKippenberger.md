@@ -20,32 +20,32 @@
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:00am    |
 | [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       |            |
-| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'     |            |
-| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                  | **Done**        | 10'      |            |
-| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |   1'       |            |
-| [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                           | **Ongoing**     |  1' [SAN], 1' [DK]    |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done** |    4'    |            |
-| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'        |            |
+| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'       |            |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        | 10'      |            |
+| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** | 1'       |            |
+| [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                                 | **Ongoing**     | 3'       |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done**        | 4'       |            |
+| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'       |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
-| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  6'        |            |
-| [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |  0'        |            |
+| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       |            |
+| [#1732] VIP Models                                                          | [MaG]                                       | **Paused**      | 0'       |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                           | **In progress** | 3' [OM] |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                                        | **In progress** | 3'       |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
-| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |    3'      |           |
+| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** | 3'       |            |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
-| [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
-| [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                 | **Ongoing**     | 1' [SAN], 5'[PC], 2' [YH] |            |
-| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     |  2'         |            |
-| [#1639] Portal Development                                                  | [IP]                              | **Planned**     |      1'    |            |
+| [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'       |            |
+| [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                             | **Ongoing**     | 8'       |            |
+| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     | 2'       |            |
+| [#1639] Portal Development                                                  | [IP]                                        | **Planned**     | 1'       |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
-| [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |   0'       |            |
-| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 7' |            |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
-| [#1332] NIH Year 7                                                          | [JQU]                          | **Ongoing**     |    0'         |            |
-| [#1597] NIH Year 8                                                          | [JQU]                               | **Ongoing**     |  0'           |            |
-| [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     | 0'        |            |
-| [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
+| [#1331] S4L Application Features                                            | [JQU], [MaG]                                | **Planned**     | 0'       |            |
+| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]                          | **In progress** | 7'       |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 0'       |            |
+| [#1332] NIH Year 7                                                          | [JQU]                                       | **Ongoing**     | 0'       |            |
+| [#1597] NIH Year 8                                                          | [JQU]                                       | **Ongoing**     | 0'       |            |
+| [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                                 | **Planned**     | 0'       |            |
+| [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     | 0'       |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
 
 
