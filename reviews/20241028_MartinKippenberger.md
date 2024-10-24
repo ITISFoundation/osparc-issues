@@ -39,9 +39,9 @@
 | [#1639] Portal Development                                                  | [IP]                                        | **Planned**     | 1'       | 11:01am    |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       | 11:02am    |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [PC]                                | **In progress** | 7'       | 11:07am    |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 0'       | 11:14am    |
-| [#1332] NIH Year 7                                                          | [JQU]                                       | **Ongoing**     | 0'       | 11:14am    |
-| [#1597] NIH Year 8                                                          | [JQU]                                       | **Ongoing**     | 0'       | 11:14am    |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 1/3'       | 11:14am    |
+| [#1332] NIH Year 7                                                          | [JGO]                                       | **Ongoing**     | 1/3'       | 11:14am    |
+| [#1597] NIH Year 8                                                          | [JGO]                                       | **Ongoing**     | 1/3'       | 11:14am    |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       | 11:15am    |
 
 
