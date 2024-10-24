@@ -46,7 +46,7 @@
 | [#1729] Persistant Look and Feel - s4l                                      | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
-| [#1596] Enable better videostreaming with TURN server                       | [MaG], [YH], [DK]                           | **Planned**     |          |            |
+| [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     |          |            |
 | [#1317] S4L: UI Form Layouts                                                | [IP], [JQU], [MaG], [SCA]                   | **In progress** |          |            |
 | [#1310] S4L: Workbench and MATCH working group                              | [IP], [MaG], [SCA]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
