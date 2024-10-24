@@ -22,13 +22,13 @@
 | [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       |            |
 | [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'     |            |
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                  | **Done**        | 10'      |            |
-| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |          |            |
+| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |   1'       |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                           | **Ongoing**     |  1' [SAN], 1' [DK]    |            |
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done** |    4'    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'        |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
 | [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  6'        |            |
-| [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |          |            |
+| [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |  0'        |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                           | **In progress** | 3' [OM] |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
