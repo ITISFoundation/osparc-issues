@@ -20,12 +20,12 @@
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:00am    |
 | [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       |            |
-| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 30''     |            |
+| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'     |            |
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                  | **Done**        | 10'      |            |
 | [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |          |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                           | **Ongoing**     |  1' [SAN], 1' [DK]    |            |
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done** |    4'    |            |
-| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
+| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'        |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
 | [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  6'        |            |
 | [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |          |            |
@@ -41,12 +41,12 @@
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
 | [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |          |            |
-| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 5'[PC]+  |            |
+| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 7' |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
 | [#1729] Persistant Look and Feel - s4l                                      | [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
-| [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     |          |            |
+| [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     | 0'        |            |
 | [#1317] S4L: UI Form Layouts                                                | [JQU], [MaG]                   | **In progress** |          |            |
 | [#1310] S4L: Workbench and MATCH working group                              | [MaG]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
