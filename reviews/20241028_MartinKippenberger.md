@@ -42,8 +42,8 @@
 | [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |   0'       |            |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 7' |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
-| [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |    0'         |            |
-| [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |  0'           |            |
+| [#1332] NIH Year 7                                                          | [JQU]                          | **Ongoing**     |    0'         |            |
+| [#1597] NIH Year 8                                                          | [JQU]                               | **Ongoing**     |  0'           |            |
 | [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     | 0'        |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
