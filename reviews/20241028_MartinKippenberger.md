@@ -24,7 +24,7 @@
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                  | **Done**        | 10'      |            |
 | [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** |          |            |
 | [#1327] Performance Improvements for Large Projects                         | [ANE/(SAN)]                           | **Ongoing**     |  1' [SAN]    |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    3'    |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    4'    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
 | [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  2'        |            |
