@@ -44,8 +44,8 @@
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 7' |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
 | [#1729] Persistant Look and Feel - s4l                                      | [JQU], [MaG]                          | **Planned**     |          |            |
-| [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |          |            |
-| [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
+| [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |    0'         |            |
+| [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |  0'           |            |
 | [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     | 0'        |            |
 | [#1317] S4L: UI Form Layouts                                                | [JQU], [MaG]                   | **In progress** |          |            |
 | [#1310] S4L: Workbench and MATCH working group                              | [MaG]                          | **Planned**     |          |            |
