@@ -18,31 +18,31 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:00am    |
-| [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       | 10:03am    |
-| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'       | 10:06am    |
-| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        | 10'      | 10:07am    |
-| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** | 1'       | 10:17am    |
-| [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                                 | **Ongoing**     | 3'       | 10:18am    |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done**        | 4'       | 10:21am    |
-| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'       | 10:25am    |
-| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       | 10:25am    |
-| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       | 10:26am    |
-| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       | 10:32am    |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                                        | **In progress** | 3'       | 10:35am    |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       | 10:38am    |
-| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** | 3'       | 10:43am    |
-| [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       | 10:46am    |
-| [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'       | 10:46am    |
-| [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                             | **Ongoing**     | 8'       | 10:51am    |
-| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     | 2'       | 10:59am    |
-| [#1639] Portal Development                                                  | [IP]                                        | **Ongoing**     | 1'       | 11:01am    |
-| [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       | 11:02am    |
-| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [PC]                                | **In progress** | 7'       | 11:07am    |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 1/3'       | 11:14am    |
-| [#1332] NIH Year 7                                                          | [JGO]                                       | **Ongoing**     | 1/3'       | 11:14am    |
-| [#1597] NIH Year 8                                                          | [JGO]                                       | **Ongoing**     | 1/3'       | 11:14am    |
-| [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       | 11:15am    |
+| [#1736] s4l-lite.io: Release 8.2beta                                        | [PC]                                        | **Done**        | 3'       | 10:05am    |
+| [#1534] Advanced Search Tool/Help Center                                    | [IP], [JQU], [MaG]                          | **In progress** | 3'       | 10:08am    |
+| [#1601] TIP: Thumbnails in Dashboard                                        | [MEST], [DK]                                | **Done**        | 1'       | 10:11am    |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        | 10'      | 10:12am    |
+| [#1408] Release Notes Improvements                                          | [ANE]                                       | **In progress** | 1'       | 10:22am    |
+| [#1327] Performance Improvements for Large Projects                         | [SAN], [DK]                                 | **Ongoing**     | 3'       | 10:23am    |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done**        | 4'       | 10:26am    |
+| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'       | 10:30am    |
+| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       | 10:30am    |
+| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       | 10:31am    |
+| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       | 10:37am    |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                                        | **In progress** | 3'       | 10:40am    |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       | 10:43am    |
+| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** | 3'       | 10:48am    |
+| [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       | 10:51am    |
+| [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'       | 10:51am    |
+| [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                             | **Ongoing**     | 8'       | 10:56am    |
+| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     | 2'       | 12:04am    |
+| [#1639] Portal Development                                                  | [IP]                                        | **Ongoing**     | 1'       | 11:06am    |
+| [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       | 11:07am    |
+| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [PC]                                | **In progress** | 7'       | 11:12am    |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 1/3'     | 11:19am    |
+| [#1332] NIH Year 7                                                          | [JGO]                                       | **Ongoing**     | 1/3'     | 11:19am    |
+| [#1597] NIH Year 8                                                          | [JGO]                                       | **Ongoing**     | 1/3      | 11:19am    |
+| [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       | 11:20am    |
 
 
 [#1305]: https://github.com/ITISFoundation/osparc-issues/issues/1305
