@@ -37,22 +37,16 @@
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
 | [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                 | **Ongoing**     | 1' [SAN], 5'[PC], 2' [YH] |            |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     |  2'         |            |
-| [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
-| [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
+| [#1639] Portal Development                                                  | [IP]                              | **Planned**     |      1'    |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
-| [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |          |            |
+| [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |   0'       |            |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 7' |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
-| [#1729] Persistant Look and Feel - s4l                                      | [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |    0'         |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |  0'           |            |
 | [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     | 0'        |            |
-| [#1317] S4L: UI Form Layouts                                                | [JQU], [MaG]                   | **In progress** |          |            |
-| [#1310] S4L: Workbench and MATCH working group                              | [MaG]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
-| [#1326] WG: Real time collaboration                                         | [ANE], [OM]                           | **Done**        |     0'   |            |
-| [#1411] create a synergy between the s4l optimizer and osparc metamodelling | [WVG]                                       | **Paused**      |     0'   |            |
 
 
 [#1305]: https://github.com/ITISFoundation/osparc-issues/issues/1305
