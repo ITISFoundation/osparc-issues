@@ -30,7 +30,7 @@
 | [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  2'        |            |
 | [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)]                                 | **In progress** |   1' [SAN]       |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)], [OM]                           | **In progress** | 1' [SAN] + 3' [OM] |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |    3'      |           |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
