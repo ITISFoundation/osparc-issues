@@ -27,13 +27,13 @@
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
-| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG], [SCA]                   | **Ongoing**     |          |            |
+| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1732] VIP Models                                                          | [MaG]                                       | **Planned**     |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)], [SCA]                          | **In progress** |   1' [SAN]       |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)]                                 | **In progress** |   1' [SAN]       |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |          |            |
-| [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      |          |            |
+| [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
 | [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[MD],[PC],[SAN], [YH]                 | **Ongoing**     | 5'[PC]+ (1' [SAN] if needed), 2' [YH] |            |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Planned**     |          |            |
@@ -47,8 +47,8 @@
 | [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
 | [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     |          |            |
-| [#1317] S4L: UI Form Layouts                                                | [IP], [JQU], [MaG], [SCA]                   | **In progress** |          |            |
-| [#1310] S4L: Workbench and MATCH working group                              | [IP], [MaG], [SCA]                          | **Planned**     |          |            |
+| [#1317] S4L: UI Form Layouts                                                | [IP], [JQU], [MaG]                   | **In progress** |          |            |
+| [#1310] S4L: Workbench and MATCH working group                              | [IP], [MaG]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
 | [#1326] WG: Real time collaboration                                         | [ANE], [MD], [OM]                           | **Done**        |     0'   |            |
