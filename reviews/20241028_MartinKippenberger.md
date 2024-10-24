@@ -41,7 +41,7 @@
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
 | [#1331] S4L Application Features                                            | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
-| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [MD], [DK], [PC], [YH]              | **In progress** | 5'[PC]+  |            |
+| [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [MD], [DK], [PC]              | **In progress** | 5'[PC]+  |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
 | [#1729] Persistant Look and Feel - s4l                                      | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
