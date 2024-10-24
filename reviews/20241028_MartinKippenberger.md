@@ -27,16 +27,16 @@
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
-| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
-| [#1732] VIP Models                                                          | [MaG]                                       | **Planned**     |          |            |
+| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  2'        |            |
+| [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)]                                 | **In progress** |   1' [SAN]       |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       |            |
-| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |          |            |
+| [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |    3'      |           |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
 | [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[MD],[PC],[SAN], [YH]                 | **Ongoing**     | 5'[PC]+ (1' [SAN] if needed), 2' [YH] |            |
-| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Planned**     |          |            |
+| [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     |  2'         |            |
 | [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
