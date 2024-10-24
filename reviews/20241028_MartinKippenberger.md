@@ -27,7 +27,7 @@
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done** |    4'    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        | 1'       |            |
-| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  2'        |            |
+| [#1305] sim4life.io User Feedback                                           | [IP], [JQU], [MaG]                          | **Ongoing**     |  6'        |            |
 | [#1732] VIP Models                                                          | [MaG]                                       | **Paused**     |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [ANE/(SAN)], [OM]                           | **In progress** | 1' [ANE/SAN] + 3' [OM] |            |
@@ -40,15 +40,15 @@
 | [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       |            |
-| [#1331] S4L Application Features                                            | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
+| [#1331] S4L Application Features                                            | [JQU], [MaG]                          | **Planned**     |          |            |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [DK], [PC]              | **In progress** | 5'[PC]+  |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** |     0'   |            |
-| [#1729] Persistant Look and Feel - s4l                                      | [IP], [JQU], [MaG]                          | **Planned**     |          |            |
-| [#1332] NIH Year 7                                                          | [IP], [JQU], [MaG]                          | **Ongoing**     |          |            |
+| [#1729] Persistant Look and Feel - s4l                                      | [JQU], [MaG]                          | **Planned**     |          |            |
+| [#1332] NIH Year 7                                                          | [JQU], [MaG]                          | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [JQU], [EN]                                 | **Planned**     |          |            |
 | [#1596] Enable better videostreaming with TURN server                       | [MaG], [DK]                           | **Planned**     |          |            |
-| [#1317] S4L: UI Form Layouts                                                | [IP], [JQU], [MaG]                   | **In progress** |          |            |
-| [#1310] S4L: Workbench and MATCH working group                              | [IP], [MaG]                          | **Planned**     |          |            |
+| [#1317] S4L: UI Form Layouts                                                | [JQU], [MaG]                   | **In progress** |          |            |
+| [#1310] S4L: Workbench and MATCH working group                              | [MaG]                          | **Planned**     |          |            |
 | [#1409] UX of credits burning                                               | [OM]                                        | **Planned**     |    0'    |            |
 | [#1395] App-team panel                                                      | [PC]                                        | **In progress** | 3'       |            |
 | [#1326] WG: Real time collaboration                                         | [ANE], [OM]                           | **Done**        |     0'   |            |
