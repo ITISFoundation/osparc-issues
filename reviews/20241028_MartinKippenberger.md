@@ -36,7 +36,7 @@
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'       | 10:46am    |
 | [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                             | **Ongoing**     | 8'       | 10:51am    |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     | 2'       | 10:59am    |
-| [#1639] Portal Development                                                  | [IP]                                        | **Planned**     | 1'       | 11:01am    |
+| [#1639] Portal Development                                                  | [IP]                                        | **Ongoing**     | 1'       | 11:01am    |
 | [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       | 11:02am    |
 | [#1309] TIP v3 - osparc-devteam-tasks                                       | [MEST], [PC]                                | **In progress** | 7'       | 11:07am    |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 1/3'       | 11:14am    |
