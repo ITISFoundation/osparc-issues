@@ -35,7 +35,7 @@
 | [#1504] make s4l manual available to logged in users                        | [ANE], [MaG]                                | **In progress** |    3'      |           |
 | [#1406] Sim4Life Desktop+Web UI Unification                                 | [SCA]                                       | **Paused**      | 0'       |            |
 | [#1314] Touchscreen + Tablet support                                        | [JQU],                                      | **In progress** | 5'         |            |
-| [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[PC],[YH]                 | **Ongoing**     | 5'[PC], 2' [YH] |            |
+| [#1328] Maintenance / Dev Issues                                            | [GCR],[ANE],[PC],[YH]                 | **Ongoing**     | 1' [SAN], 5'[PC], 2' [YH] |            |
 | [#1695] sim4life web: Maintenance and Bug Fixing                            | [MaG]                                       | **Ongoing**     |  2'         |            |
 | [#1639] Portal Development                                                  | [IP], [MaG]                                 | **Planned**     |          |            |
 | [#6410] Desktop Job-Submission to the web                                   | [MaG]                                       | **Planned**     |          |            |
