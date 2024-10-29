@@ -37,7 +37,7 @@ Please check your name if finished:
 
 _MATTERMOST_TEMPLATE: str = """
 @all please contribute in compiling the `Release Drafts`.
-There are 3 release drafts to fill out: `s4l` (which also includes s4li-lite), `osparc`, `tip`.
+There are 3 release drafts to fill out: `s4l` (which also includes s4l-lite), `osparc`, `tip`.
 Instructions:
 - Please go through all your last changes in master since the last release for each product: [osparc](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/osparc/{version_tag}.md), [s4l](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/{version_tag}.md) and [tip](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/tip/{version_tag}.md) (each product contains a link to these changes)
 - For each product please chose those features which it makes sense to highlight.
