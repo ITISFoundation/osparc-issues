@@ -15,8 +15,11 @@ Starting environment is available from `{start_app_team}` to `{end_app_team}`. P
 - s4l lite https://staging.s4l-lite.io/
 - s4l https://sim4life-staging.cloud/
 
-This is the draft of the release notes: https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/{vtag}.md
+This is the draft of the release notes:
+- s4l https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/{vtag}.md
+- tip https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/tip/{vtag}.md
 We have added some highlights for you.
+
 
 We would like your input on the following:
 - Rewrite of the draft release notes, in a more user-friendly fashion (please make a PR back with your edits)
@@ -54,7 +57,6 @@ def main() -> None:
     )
 
     print(email_content)
-    print("\n!!Please review and feel free to edit above text!!\n")
 
 
 if __name__ == "__main__":

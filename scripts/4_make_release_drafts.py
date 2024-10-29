@@ -65,6 +65,11 @@ def _get_collpasable_notes(vtag: str) -> str:
         f"https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag}",
         timeout=10,
     )
+    if response.status_code >= 400:
+        print(
+            f"ERROR: The GET request to the github API to https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag} failed. Does the github release {vtag} exist yet?"
+        )
+        exit(1)
     json_response = json.loads(response.text)
     return json_response["body"]
 
@@ -94,7 +99,7 @@ def main():
 
     print("\nTotal [STEPS] 2\n")
 
-    print(f"Will generate form tag: {vtag}")
+    print(f"Will generate drafts for tag: {vtag}")
 
     new_draft_content = _TEMPLATE.format(
         version_tag=_get_previous_version(vtag),
