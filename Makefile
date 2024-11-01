@@ -12,23 +12,14 @@ help: ## help on rule's targets
 
 .venv:
 	@python3 --version
-	python3 -m venv $@
+	uv venv $@
 	## upgrading tools to latest version in $(shell python3 --version)
-	$@/bin/pip3 --quiet install --upgrade \
-		pip~=23.0 \
-		wheel \
-		setuptools
-	@$@/bin/pip3 list --verbose
+	@uv pip list --verbose
 
 .PHONY: devenv
 devenv: .venv ## setup dev environment
-	# upgrades install tools
-	$</bin/pip3 --quiet install -U \
-		pip \
-		setuptools \
-		wheel
 	# install scripts tools
-	$</bin/pip3 --quiet install --requirement \
+	uv pip --quiet install --requirement \
 		scripts/requirements.txt
 	# Installing pre-commit hooks in current .git repo
 	@$</bin/pre-commit install
@@ -52,8 +43,8 @@ clean: .check-clean ## cleans all unversioned files in project and temp files cr
 
 clean-venv: devenv ## Purges .venv into original configuration
 	# Cleaning your venv
-	.venv/bin/pip-sync --quiet $(CURDIR)/requirements/devenv.txt
-	@pip list
+	uv pip sync --quiet $(CURDIR)/requirements/devenv.txt
+	@uv pip list
 
 clean-hooks: ## Uninstalls git pre-commit hooks
 	@-pre-commit uninstall 2> /dev/null || rm .git/hooks/pre-commit
@@ -108,4 +99,3 @@ check_defined = \
 __check_defined = \
     $(if $(value $1),, \
       $(error Undefined $1$(if $2, ($2))))
-
