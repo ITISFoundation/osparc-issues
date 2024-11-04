@@ -1,36 +1,42 @@
 # The SMs Ranking (by latest)
 
-This list is up to date as of 2023-09-08
+This list is up to date as of 2024-10-28
+
+- 🥈 [DK] (2024-10-28)
+- 🥉 [ANE] (2024-08-13)
+- 🍫 [SCA] (2024-07-07)
+- 🍫 [MB] (2024-02-07)
+- 🍫 [OM] (2023-11-01)
 - 🍫 [MD] (2023-09-08)
 - 🍫 [PC] (2023-07-07) 
 - 🍫 [SAN] (2023-04-28)
 - 🍫 [MaG] (2023-02-20)
 - 🏆 [EI] (2022-12-02)
-- 🥈 [DK] (2022-10-07)
-- 🥉 [ANE] (2022-07-27)
 - 🍺 [ALL] (2022-06-03)
 - 🧋 [IP] (2022-04-04)
 - 🍫 [CR] (2021-11-05)
-- 🍫 [OM] (2021-09-13)
 
 ----
 
 
 # The SMs Ranking (by counts)
 
-This list is up to date as of 2023-09-08
+This list is up to date as of 2024-10-28
 
+
+1. 🥈 [OM]  (12 times)
 1. 🏆 [PC] (10.5 times)
-2. 🥈 [OM]  (10 times)
 3. 🥉 [SAN] (8 times)
-4. 🍺 [MaG] (7.2 times)
-5. 🧋 [ANE] (4 times)
-6. 🍫 [IP] (3.8 times)
-7. 🍫 [ALL] (3.2 times)
-8. 🍫 [CR] (2.3 times)
-9. 🍫 [DK] (2 times)
+4. 🍺 [MaG] (7.4 times)
+5. 🧋 [ANE] (6 times)
+6. 🍫 [DK] (4 times)
+7. 🍫 [IP] (3.8 times)
+8. 🍫 [ALL] (3.2 times)
+9. 🍫 [CR] (2.3 times)
 10. 🍫 [EI] (2 times)
 11. 🍫 [MD] (2 times)
+12. 🍫 [MB] (1.8 times)
+13. 🍫 [SCA] (2 times)
 
 
 
@@ -55,3 +61,5 @@ Original source: Feb 04 2022, After running for multiple hours a sophisticated a
 [PC]:https://github.com/pcrespov
 [SAN]:https://github.com/sanderegg
 [MD]:https://github.com/matusdrobuliak66
+[MB]:https://github.com/bisgaard-itis
+[SCA]:https://github.com/SCA-ZMT
