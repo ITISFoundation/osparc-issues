@@ -41,7 +41,7 @@
 | [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |          |            |
 | [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |          |            |
 | [#1779] Share resources typing the email address                            | [PC]                                        | **In progress** |          |            |
-| [#1788] Cannot delete a file                                                | [GCR]                                       | **In progress** |          |            |
+| [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |          |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |          |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |          |            |
