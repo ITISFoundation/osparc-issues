@@ -4,43 +4,44 @@
 
 ## Sprint 🏃
 
-- [**MartinKippenberger**](https://de.wikipedia.org/wiki/Martin_Kippenberger)
-- Scrum Master: [DK]
-- Happenings:
-  - 🚀 sim4life-lite.io 8.2beta release on October 10 2024
+- **Event Horizon**
+- Scrum Master: [MaG]
+
 
 ### Dashboards 📊
 
-- [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14?filterQuery=has%3Arequirement+) (PM1)
-- [Sprint Scrum Wall](https://github.com/orgs/ITISFoundation/projects/15/views/11) (developers' view)
+- [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14)
+- [Sprint Backlog osparc](https://github.com/orgs/ITISFoundation/projects/15/views/11)
+- [Fogbugz Backlog](https://z43.manuscript.com/login?dest=%2ff%2ffilters%2f1502%2f00-Sim4Life-WEB-FB-Backlog)
+- [Sprint Backlog Rocketeers](https://git.speag.com/oSparc/osparc-s4l/-/boards?milestone_title=Started)
 
 ### Agenda 📝
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     | [PC]                                        | **Done**        | 3'       | 10:05am    |
-| [#716] Project Folders in User Workspace (Nov.)                             | [IP], [JQU], [MaG]                          | **In progress** | 3'       | 10:08am    |
-| [#1728] Persistant Look And Feel - oSparc                                   | [MEST], [DK]                                | **Done**        | 1'       | 10:11am    |
-| [#1327] Performance Improvements for Large Projects                         | [OM]                                        | **Done**        | 10'      | 10:12am    |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** | 5'       | 10:43am    |
-| [#1771] Add tags to Resource Tracker (Reporting)                            | [ANE]                                       | **In progress** | 1'       | 10:22am    |
-| [#1789] Typo: Studies instead of Projects                                   | [SAN], [DK]                                 | **Ongoing**     | 3'       | 10:23am    |
-| [#1791] Issues when changing wallet after running out of credits            | [OM]                                        | **Done**        | 1'       | 10:30am    |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **Done**        | 4'       | 10:26am    |
-| [#1730] Hardening the computational backend                                 | [PC]                                        | **In progress** | 5'       | 11:07am    |
-| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Planned**     | 0'       | 10:30am    |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [OM]                                        | **In progress** | 3'       | 10:40am    |
-| [#1328] Maintenance / Dev Issues                                            | [SAN],[PC],[YH]                             | **Ongoing**     | 8'       | 10:56am    |
-| [#1639] Portal Development                                                  | [IP]                                        | **Ongoing**     | 1'       | 11:06am    |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    | [IP]                                        | **Ongoing**     | 1'       | 11:06am    |
-| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** | 3'       | 10:37am    |
-| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** | 3'       | 10:37am    |
-| [#1790] Multi-selection not possible in data browser of study               | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       | 10:31am    |
-| [#1779] Share resources typing the email address                            | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       | 10:31am    |
-| [#1788] Cannot delete a file                                                | [IP], [JQU], [MaG]                          | **Ongoing**     | 6'       | 10:31am    |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO], [WVG]                                | **In progress** | 1/3'     | 11:19am    |
-| [#1332] NIH Year 7                                                          | [JGO]                                       | **Ongoing**     | 1/3'     | 11:19am    |
-| [#1597] NIH Year 8                                                          | [JGO]                                       | **Ongoing**     | 1/3      | 11:19am    |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     |                                             | **In progress** |          |            |
+| [#716] Project Folders in User Workspace (Nov.)                             |                                             | **In progress** |          |            |
+| [#1728] Persistant Look And Feel - oSparc                                   |                                             | **Done**        |          |            |
+| [#1327] Performance Improvements for Large Projects                         |                                             | **In progress** |          |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       |                                             | **In progress** |          |            |
+| [#1771] Add tags to Resource Tracker (Reporting)                            |                                             | **In progress** |          |            |
+| [#1789] Typo: Studies instead of Projects                                   |                                             | **Done**        |          |            |
+| [#1791] Issues when changing wallet after running out of credits            |                                             | **Done**        |          |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          |                                             | **In prpgress** |          |            |
+| [#1730] Hardening the computational backend                                 |                                             | **In progress** |          |            |
+| [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |          |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
+| [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |          |            |
+| [#1639] Portal Development                                                  |                                             | **Ongoing**     |          |            |
+| [#1644] API: Create Projects with Associated Data (Feb.)                    |                                             | **In progress** |          |            |
+| [#1404] Sim4Life-Web dy-service versioning                                  |                                             | **In progress** |          |            |
+| [#1792] Invitation links/preregistration: deal with non-occidental chars    |                                             | **In progress** |          |            |
+| [#1790] Multi-selection not possible in data browser of study               |                                             | **In progress** |          |            |
+| [#1779] Share resources typing the email address                            |                                             | **In progress** |          |            |
+| [#1788] Cannot delete a file                                                |                                             | **In progress** |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                              |                                             | **Ongoing**     |          |            |
+| [#1332] NIH Year 7                                                          |                                             | **Ongoing**     |          |            |
+| [#1597] NIH Year 8                                                          |                                             | **Ongoing**     |          |            |
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
