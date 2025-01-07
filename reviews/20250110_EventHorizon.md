@@ -1,6 +1,7 @@
 # Review Meeting - January 10, 2025
 
-<img src="https://schema.gr/data/work/martin_kippenberger/schema_design_neon_museum_cycladic_art_martin_kippenberger_a_cry_for_freedom_exhibition_1.jpg" alt="Image" style="width:50%;">
+![screenshot](images/event_horizon_sprint_visuals.png)
+
 
 ## Sprint 🏃
 
