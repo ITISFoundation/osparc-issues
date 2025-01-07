@@ -46,7 +46,7 @@
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |          |            |
 
-## Part 2: Rocket and derivatives
+## Part 2: Rocket and Friends
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
