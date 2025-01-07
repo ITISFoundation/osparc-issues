@@ -21,43 +21,43 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     |                                             | **In progress** |          |            |
-| [#716] Project Folders in User Workspace (Nov.)                             |                                             | **In progress** |          |            |
-| [#1728] Persistant Look And Feel - oSparc                                   |                                             | **Done**        |          |            |
-| [#1327] Performance Improvements for Large Projects                         |                                             | **In progress** |          |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       |                                             | **In progress** |          |            |
-| [#1771] Add tags to Resource Tracker (Reporting)                            |                                             | **In progress** |          |            |
-| [#1789] Typo: Studies instead of Projects                                   |                                             | **Done**        |          |            |
-| [#1791] Issues when changing wallet after running out of credits            |                                             | **Done**        |          |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          |                                             | **In prpgress** |          |            |
-| [#1730] Hardening the computational backend                                 |                                             | **In progress** |          |            |
-| [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |          |            |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |          |            |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **In progress** |          |            |
+| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |          |            |
+| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |          |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
+| [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **In progress** |          |            |
+| [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |          |            |
+| [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **Done**        |          |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In prpgress** |          |            |
+| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |          |            |
+| [#1727] Filesystem - Shared Folders                                         | -                                           | **Paused**      |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |          |            |
-| [#1639] Portal Development                                                  |                                             | **Ongoing**     |          |            |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    |                                             | **In progress** |          |            |
-| [#1404] Sim4Life-Web dy-service versioning                                  |                                             | **In progress** |          |            |
-| [#1792] Invitation links/preregistration: deal with non-occidental chars    |                                             | **In progress** |          |            |
-| [#1790] Multi-selection not possible in data browser of study               |                                             | **In progress** |          |            |
-| [#1779] Share resources typing the email address                            |                                             | **In progress** |          |            |
-| [#1788] Cannot delete a file                                                |                                             | **In progress** |          |            |
-| [#1407] Meta-modeling: Refinements & FollowUps                              |                                             | **Ongoing**     |          |            |
-| [#1332] NIH Year 7                                                          |                                             | **Ongoing**     |          |            |
-| [#1597] NIH Year 8                                                          |                                             | **Ongoing**     |          |            |
+| [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |          |            |
+| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |          |            |
+| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |          |            |
+| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |          |            |
+| [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |          |            |
+| [#1779] Share resources typing the email address                            | [PC]                                        | **In progress** |          |            |
+| [#1788] Cannot delete a file                                                | [GCR]                                       | **In progress** |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |          |            |
+| [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |          |            |
+| [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |          |            |
 
 ## Part 2: Rocket and derivatives
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#209003] VIP Models                                                        |                                             | **In progress** |          |            |
-| [#205429] Poser Predefined Postures                                         |                                             | **In progress** |          |            |
-| [#190155] Too many log windows                                              |                                             | **In progress** |          |            |
-| [#209025] Missing Feature: Workbench                                        |                                             | **In progress** |          |            |
-| [#209014] Missing Feature: MATCH                                            |                                             | **In progress** |          |            |
-| [#209150] Missing Feature: Sensor Progress Report                           |                                             | **In progress** |          |            |
-| [#208595] Errors when switching back to Simulation from Analysis            |                                             | **In progress** |          |            |
-| [#190814] Missing Tool Icons                                                |                                             | **In progress** |          |            |
-| [#209198] Sim4Life Simulator Plugin Framwork                                |                                             | **In progress** |          |            |
+| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |          |            |
+| [#205429] Poser Predefined Postures                                         | [MaG]                                       | **In progress** |          |            |
+| [#190155] Too many log windows                                              | [MaG]                                       | **In progress** |          |            |
+| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |          |            |
+| [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |          |            |
+| [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |          |            |
+| [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |          |            |
+| [#190814] Missing Tool Icons                                                | [MaG]                                       | **In progress** |          |            |
+| [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |          |            |
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
