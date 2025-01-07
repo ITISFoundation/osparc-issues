@@ -30,7 +30,7 @@
 | [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **In progress** |          |            |
 | [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |          |            |
 | [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **Done**        |          |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In prpgress** |          |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |          |            |
 | [#1727] Filesystem - Shared Folders                                         | -                                           | **Paused**      |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
