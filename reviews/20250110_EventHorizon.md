@@ -52,13 +52,16 @@
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |          |            |
 | [#205429] Poser Predefined Postures                                         | [MaG]                                       | **In progress** |          |            |
-| [#190155] Too many log windows                                              | [MaG]                                       | **In progress** |          |            |
+| [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |          |            |
 | [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |          |            |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |          |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |          |            |
 | [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |          |            |
 | [#190814] Missing Tool Icons                                                | [MaG]                                       | **In progress** |          |            |
 | [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |          |            |
+| [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |          |            |
+
+
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
@@ -93,6 +96,7 @@
 [#208595]: https://z43.manuscript.com/f/cases/208595/Errors-when-switching-back-to-Simulation-from-Analysis
 [#190814]: https://z43.manuscript.com/f/cases/190814/Missing-Tool-Icons
 [#209198]: https://z43.manuscript.com/f/cases/209198/Sim4Life-Simulator-Plugin-Framework
+[#190706]: https://z43.manuscript.com/f/cases/190706/Task-Manager-Long-simulation-names-are-not-nicely-displayed
 
 
 [ANE]:https://github.com/GitHK
