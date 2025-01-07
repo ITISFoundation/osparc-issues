@@ -1,6 +1,6 @@
 # Review Meeting - January 10, 2025
 
-![screenshot](./images/event_horizon_sprint_visuals.png)
+![screenshot](./images/event_horizon_sprint_visual.png)
 
 
 ## Sprint 🏃
