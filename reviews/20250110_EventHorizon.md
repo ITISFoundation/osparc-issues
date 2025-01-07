@@ -1,4 +1,4 @@
-# Review Meeting - October 28, 2024
+# Review Meeting - January 10, 2025
 
 <img src="https://schema.gr/data/work/martin_kippenberger/schema_design_neon_museum_cycladic_art_martin_kippenberger_a_cry_for_freedom_exhibition_1.jpg" alt="Image" style="width:50%;">
 
@@ -8,14 +8,16 @@
 - Scrum Master: [MaG]
 
 
-### Dashboards 📊
+## Dashboards 📊
 
 - [POs' Backlog](https://github.com/orgs/ITISFoundation/projects/15/views/14)
 - [Sprint Backlog osparc](https://github.com/orgs/ITISFoundation/projects/15/views/11)
 - [Fogbugz Backlog](https://z43.manuscript.com/login?dest=%2ff%2ffilters%2f1502%2f00-Sim4Life-WEB-FB-Backlog)
 - [Sprint Backlog Rocketeers](https://git.speag.com/oSparc/osparc-s4l/-/boards?milestone_title=Started)
 
-### Agenda 📝
+## Agenda 📝
+
+## Part 1: Platform
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
@@ -43,6 +45,20 @@
 | [#1332] NIH Year 7                                                          |                                             | **Ongoing**     |          |            |
 | [#1597] NIH Year 8                                                          |                                             | **Ongoing**     |          |            |
 
+## Part 2: Rocket and derivatives
+
+| Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
+| --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
+| [#209003] VIP Models                                                        |                                             | **In progress** |          |            |
+| [#205429] Poser Predefined Postures                                         |                                             | **In progress** |          |            |
+| [#190155] Too many log windows                                              |                                             | **In progress** |          |            |
+| [#209025] Missing Feature: Workbench                                        |                                             | **In progress** |          |            |
+| [#209014] Missing Feature: MATCH                                            |                                             | **In progress** |          |            |
+| [#209150] Missing Feature: Sensor Progress Report                           |                                             | **In progress** |          |            |
+| [#208595] Errors when switching back to Simulation from Analysis            |                                             | **In progress** |          |            |
+| [#190814] Missing Tool Icons                                                |                                             | **In progress** |          |            |
+| [#209198] Sim4Life Simulator Plugin Framwork                                |                                             | **In progress** |          |            |
+
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
@@ -66,6 +82,17 @@
 [#468]: https://github.com/ITISFoundation/osparc-issues/issues/468
 [#6411]: https://github.com/ITISFoundation/osparc-issues/issues/6411
 [#716]: https://github.com/ITISFoundation/osparc-issues/issues/716
+
+[#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
+[#205429]: https://z43.manuscript.com/f/cases/205429/POSER-Predefined-Postures
+[#190155]: https://z43.manuscript.com/f/cases/190155/Too-many-log-windows
+[#209025]: https://z43.manuscript.com/f/cases/209025/Missing-Feature-Workbench
+[#209014]: https://z43.manuscript.com/f/cases/209014/Missing-Feature-MATCH
+[#209150]: https://z43.manuscript.com/f/cases/209150/Missing-Feature-Sensor-Progress-Report
+[#208595]: https://z43.manuscript.com/f/cases/208595/Errors-when-switching-back-to-Simulation-from-Analysis
+[#190814]: https://z43.manuscript.com/f/cases/190814/Missing-Tool-Icons
+[#209198]: https://z43.manuscript.com/f/cases/209198/Sim4Life-Simulator-Plugin-Framework
+
 
 [ANE]:https://github.com/GitHK
 [BL]:https://github.com/dyollb
