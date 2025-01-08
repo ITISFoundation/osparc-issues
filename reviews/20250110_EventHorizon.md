@@ -25,13 +25,13 @@
 | [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |          |            |
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **In progress** |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |          |            |
-| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |          |            |
+| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |   2'      |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
 | [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **In progress** |          |            |
 | [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |          |            |
 | [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **Done**        |          |            |
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
-| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |          |            |
+| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |   2'       |            |
 | [#1727] Filesystem - Shared Folders                                         | -                                           | **Paused**      |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |          |            |
