@@ -50,16 +50,16 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |          |            |
+| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       2' |            |
 | [#205429] Poser Predefined Postures                                         | [MaG]                                       | **In progress** |          |            |
-| [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |          |            |
-| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |          |            |
+| [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |       2' |            |
+| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       1' |            |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |          |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |          |            |
 | [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |          |            |
-| [#190814] Missing Tool Icons                                                | [MaG]                                       | **In progress** |          |            |
+| [#190814] Missing Tool Icons                                                | [MaG]                                       | **Done** |        1' |            |
 | [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |          |            |
-| [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |          |            |
+| [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |       2' |            |
 
 
 
