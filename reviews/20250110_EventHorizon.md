@@ -36,9 +36,9 @@
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |    0'    |            |
 | [#1328] Maintenance / Dev Issues                                            | [DK] [YH]                                   | **Ongoing**     | 2' DK, 2' YH |        |
 | [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |            |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |    0'    |            |
-| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    0'    |            |
-| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |    0'    |            |
+| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **Planned**     |    0'    |            |
+| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    1'    |            |
+| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **Done**        |    1'    |            |
 | [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |    2'    |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |    6'    |            |
 | [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |            |
