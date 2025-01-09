@@ -22,29 +22,29 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    10'   |            |
-| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |    5'    |            |
-| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    1'    |            |
-| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [OM] [PC]                                   | **In progress** |    4'    |            |
-| [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **Done**        |    3'    |            |
-| [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |    1'    |            |
-| [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **In progress** |    1'    |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    1'    |            |
-| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    2'    |            |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    10'   |   10:05    |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |    5'    |   10:15    |
+| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    1'    |   10:20    |
+| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |   10:21    |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [OM] [PC]                                   | **In progress** |    4'    |   10:23    |
+| [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **Done**        |    3'    |   10:27    |
+| [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |    1'    |   10:30    |
+| [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **In progress** |    1'    |   10:31    |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    1'    |   10:32    |
+| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    2'    |   10:33    |
 | [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |    0'    |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |    0'    |            |
-| [#1328] Maintenance / Dev Issues                                            | [DK] [YH] [GCR]                             | **Ongoing**     | 2' DK, 2' YH, 2' GCR |        |
-| [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |            |
+| [#1328] Maintenance / Dev Issues                                            | [DK] [YH] [GCR]                             | **Ongoing**     | 2' DK, 2' YH, 2' GCR | 10:35  |
+| [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |   10:41    |
 | [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **Planned**     |    0'    |            |
-| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    1'    |            |
-| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **Done**        |    1'    |            |
-| [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |    2'    |            |
-| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |    6'    |            |
-| [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |            |
+| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    1'    |   10:43    |
+| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **Done**        |    1'    |   10:44    |
+| [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |    2'    |   10:45    |
+| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |    6'    |   10:47    |
+| [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |   10:53    |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |    0'    |            |
-| [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
-| [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
+| [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |   10:54    |
+| [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |    1'    |   10:55    |
 
 ## Part 2: Sim4Life web service
 
@@ -52,14 +52,14 @@
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       0' |            |
 | [#205429] Poser Predefined Postures                                         | [MaG]                                       | **Done**        |       0' |            |
-| [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |       2' |            |
-| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       2' |            |
+| [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |       2' |   10:56    |
+| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       2' |   10:58    |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |       0' |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |       0' |            |
 | [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |       0' |            |
-| [#190814] Missing Tool Icons                                                | [MaG]                                       | **In progress** |       1' |            |
-| [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |       1' |            |
-| [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |       2' |            |
+| [#190814] Missing Tool Icons                                                | [MaG]                                       | **In progress** |       1' |   11:00    |
+| [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |       1' |   11:01    |
+| [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |       2' |   11:03    |
 
 
 
