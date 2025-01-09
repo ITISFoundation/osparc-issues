@@ -23,24 +23,24 @@
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    8'    |            |
-| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |          |            |
-| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |          |            |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |    0'    |            |
+| [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    0'    |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    0'    |            |
 | [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **In progress** |    1'    |            |
-| [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |          |            |
+| [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |    0'    |            |
 | [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **In progress** |    1'    |            |
 | [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    0'    |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    2'    |            |
-| [#1727] Filesystem - Shared Folders                                         | -                                           | **Paused**      |          |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
-| [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |          |            |
+| [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |    0'    |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |    0'    |            |
+| [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |    0'    |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |            |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |          |            |
-| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |          |            |
-| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |          |            |
-| [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |          |            |
-| [#1779] Share resources typing the email address                            | [PC]                                        | **In progress** |          |            |
+| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |    0'    |            |
+| [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    0'    |            |
+| [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |    0'    |            |
+| [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |    0'    |            |
+| [#1779] Share resources typing the email address                            | [PC]                                        | **In progress** |    0'    |            |
 | [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |    0'    |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
