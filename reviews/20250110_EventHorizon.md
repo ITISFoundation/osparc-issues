@@ -40,7 +40,7 @@
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    0'    |            |
 | [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |    0'    |            |
 | [#1790] Multi-selection not possible in data browser of study               | [OM]                                        | **In progress** |    2'    |            |
-| [#1779] Share resources typing the email address                            | [PC] [OM]                                   | **In progress** |    5'    |            |
+| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |    5'    |            |
 | [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |    0'    |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
