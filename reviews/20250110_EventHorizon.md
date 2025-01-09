@@ -26,7 +26,7 @@
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |    5'    |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    1'    |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    0'    |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    3'    |            |
 | [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **Done**        |    3'    |            |
 | [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |    1'    |            |
 | [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **In progress** |    1'    |            |
