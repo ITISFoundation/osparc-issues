@@ -22,7 +22,7 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    8'    |            |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    10'   |            |
 | [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |    0'    |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    0'    |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
@@ -53,7 +53,7 @@
 | [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       0' |            |
 | [#205429] Poser Predefined Postures                                         | [MaG]                                       | **Done**        |       0' |            |
 | [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |       2' |            |
-| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       1' |            |
+| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       2' |            |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |       0' |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |       0' |            |
 | [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |       0' |            |
