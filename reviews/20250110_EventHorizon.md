@@ -22,8 +22,8 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |          |            |
-| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done** |          |            |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |    8'    |            |
+| [#716] Project Folders in User Workspace (Nov.)                             | [OM]                                        | **Done**        |          |            |
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |          |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
@@ -35,7 +35,7 @@
 | [#1727] Filesystem - Shared Folders                                         | -                                           | **Paused**      |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     |          |            |
-| [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |          |            |
+| [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |            |
 | [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |          |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |          |            |
 | [#1792] Invitation links/preregistration: deal with non-occidental chars    | [PC]                                        | **In progress** |          |            |
@@ -43,22 +43,22 @@
 | [#1779] Share resources typing the email address                            | [PC]                                        | **In progress** |          |            |
 | [#1788] Cannot delete a file                                                | [GCR]                                       | **Done**        |    1'    |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **Ongoing**     |    0'    |            |
-| [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |          |            |
-| [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |          |            |
+| [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
+| [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
 
 ## Part 2: Rocket and Friends
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       2' |            |
-| [#205429] Poser Predefined Postures                                         | [MaG]                                       | **In progress** |          |            |
+| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       0' |            |
+| [#205429] Poser Predefined Postures                                         | [MaG]                                       | **Done**        |       0' |            |
 | [#190155] Too many log windows                                              | [MaG]                                       | **Done**        |       2' |            |
 | [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       1' |            |
-| [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |          |            |
+| [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |       1' |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |          |            |
 | [#208595] Errors when switching back to Simulation from Analysis            | [MaG]                                       | **In progress** |          |            |
-| [#190814] Missing Tool Icons                                                | [MaG]                                       | **Done** |        1' |            |
-| [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |          |            |
+| [#190814] Missing Tool Icons                                                | [MaG]                                       | **Done**        |       1' |            |
+| [#209198] Sim4Life Simulator Plugin Framwork                                | [MaG]                                       | **In progress** |       1' |            |
 | [#190706] Task Manager: Long simulation names are not nicely displayed      | [MaG]                                       | **Done**        |       2' |            |
 
 
