@@ -46,7 +46,7 @@
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
 | [#1597] NIH Year 8                                                          | [MaG]                                       | **Ongoing**     |    1'    |            |
 
-## Part 2: Rocket and Friends
+## Part 2: Sim4Life web service
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
