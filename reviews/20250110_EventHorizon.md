@@ -27,10 +27,10 @@
 | [#1728] Persistant Look And Feel - oSparc                                   | [OM]                                        | **Done**        |    1'    |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    2'    |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    0'    |            |
-| [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **In progress** |    1'    |            |
+| [#1771] Add tags to Resource Tracker (Reporting)                            | [MD]                                        | **Done**        |    3'    |            |
 | [#1789] Typo: Studies instead of Projects                                   | [OM]                                        | **Done**        |    1'    |            |
 | [#1791] Issues when changing wallet after running out of credits            | [MD]                                        | **In progress** |    1'    |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    0'    |            |
+| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |    1'    |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    2'    |            |
 | [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |    0'    |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |    0'    |            |
