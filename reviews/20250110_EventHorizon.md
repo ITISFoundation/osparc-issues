@@ -34,7 +34,7 @@
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    2'    |            |
 | [#1727] Filesystem - Shared Folders                                         |                                             | **Paused**      |    0'    |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               |                                             | **In progress** |    0'    |            |
-| [#1328] Maintenance / Dev Issues                                            |                                             | **Ongoing**     | 2' DK, 2' YH |        |
+| [#1328] Maintenance / Dev Issues                                            | [DK] [YH]                                   | **Ongoing**     | 2' DK, 2' YH |        |
 | [#1639] Portal Development                                                  | [MaG]                                       | **Ongoing**     |    2'    |            |
 | [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |    0'    |            |
 | [#1404] Sim4Life-Web dy-service versioning                                  | [PC]                                        | **In progress** |    0'    |            |
