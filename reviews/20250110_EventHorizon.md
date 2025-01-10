@@ -84,7 +84,7 @@
 [#1791]: https://github.com/ITISFoundation/osparc-issues/issues/1791
 [#1792]: https://github.com/ITISFoundation/osparc-issues/issues/1792
 [#468]: https://github.com/ITISFoundation/osparc-issues/issues/468
-[#6411]: https://github.com/ITISFoundation/osparc-issues/issues/6411
+[#6411]: https://github.com/ITISFoundation/osparc-simcore/issues/6411
 [#716]: https://github.com/ITISFoundation/osparc-issues/issues/716
 
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
