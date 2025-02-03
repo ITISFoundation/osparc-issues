@@ -20,14 +20,15 @@ import typer
 app = typer.Typer()
 
 _DEFAULT_REPOS = [
-    "osparc-simcore",
-    "osparc-simcore-clients",
-    "osparc-ops-environments",
-    "dockerfiles",
     "cookiecutter-osparc-service",
-    "osparc-services",
+    "dockerfiles",
     "osparc-issues",
+    "osparc-ops-environments",
     "osparc-python-runner",
+    "osparc-services",
+    "osparc-simcore-clients",
+    "osparc-simcore",
+    "private-issues",
 ]
 
 _FAILED_EXIT_CODE: Final[int] = 127
