@@ -22,32 +22,32 @@
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]                                       | **In progress** |          |            |
-| [#1822] oSPARC Sim4Life.Web Integration                                     | [OM]                                        | **In progress** |          |            |
+| [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]/[OM]                                  | **In progress** | 15' ++   |            |
+| [#1822] oSPARC Sim4Life.Web Integration                                     | [OM]                                        | **In progress** | 10' ++   |            |
 | [#1635] UI/UX for Data Handling (Feb.)                                      | [OM]                                        | **In progress** |          |            |
-| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    0'      |            |
+| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    0'    |            |
 | [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |          |            |
 | [#1819] Create needed tags with Nik and Jacqueline                          | [MD]                                        | **In progress** |          |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
-| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'      |            |
+| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'    |            |
 | [#1820] AWS Cost Optimization                                               | [SAN]                                       | **In progress** |    2' (SAN)    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **In progress** |          |            |
 | [#1827] Placeholder: AI tasks - Retreat Followup                            | [PC]                                        | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |          |            |
-| [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |          |            |
+| [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |          |            |
 | [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |          |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **In progress** |          |            |
-| [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |          |            |
-| [#1597] NIH Year 8                                                          | [MaG]                                       | **In progress** |          |            |
+| [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |   1 '    |            |
+| [#1597] NIH Year 8                                                          | [MaG]                                       | **In progress** |   1 '    |            |
 
 ## Part 2: Sim4Life web service
 
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |       0' |            |
-| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       0' |            |
+| [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       1' |            |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |       0' |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |       0' |            |
 
