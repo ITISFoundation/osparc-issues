@@ -35,7 +35,6 @@
 | [#1827] Placeholder: AI tasks - Retreat Followup                            | [PC]                                        | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |          |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |          |            |
-| [#6411] Filesystem - Large File Handling (Caching)                          | [MD]                                        | **In progress** |          |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |          |            |
 | [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |          |            |
@@ -71,7 +70,6 @@
 [#1732]: https://github.com/ITISFoundation/osparc-issues/issues/1732
 [#1779]: https://github.com/ITISFoundation/osparc-issues/issues/1779
 [#468]: https://github.com/ITISFoundation/osparc-issues/issues/468
-[#6411]: https://github.com/ITISFoundation/osparc-simcore/issues/6411
 
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
 [#209025]: https://z43.manuscript.com/f/cases/209025/Missing-Feature-Workbench
