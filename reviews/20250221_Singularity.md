@@ -36,11 +36,12 @@
 | [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'       |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |          |            |
-| [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |          |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |   2'      |            |
+| [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |   2'     |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **In progress** |          |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |   1 '    |            |
 | [#1597] NIH Year 8                                                          | [MaG]                                       | **In progress** |   1 '    |            |
+| [#1636] DevOps                                                              | [DK]/[YH]                                   | **In progress** |   2 '    |            |
 
 ## Part 2: Sim4Life web service
 
@@ -50,6 +51,11 @@
 | [#209025] Missing Feature: Workbench                                        | [MaG]                                       | **In progress** |       1' |            |
 | [#209014] Missing Feature: MATCH                                            | [MaG]                                       | **In progress** |       0' |            |
 | [#209150] Missing Feature: Sensor Progress Report                           | [MaG]                                       | **In progress** |       0' |            |
+
+## Part 3: Varia
+| Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
+| --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
+| [#1827] AI Retreat Follow-Up                                                | [DK]                                       | **In progress**  |       3' |            |
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1822]: https://github.com/ITISFoundation/osparc-issues/issues/1822
@@ -70,12 +76,14 @@
 [#1732]: https://github.com/ITISFoundation/osparc-issues/issues/1732
 [#1779]: https://github.com/ITISFoundation/osparc-issues/issues/1779
 [#468]: https://github.com/ITISFoundation/osparc-issues/issues/468
+[#1636]: https://github.com/ITISFoundation/osparc-issues/issues/1636
 
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
 [#209025]: https://z43.manuscript.com/f/cases/209025/Missing-Feature-Workbench
 [#209014]: https://z43.manuscript.com/f/cases/209014/Missing-Feature-MATCH
 [#209150]: https://z43.manuscript.com/f/cases/209150/Missing-Feature-Sensor-Progress-Report
 
+[#1827]: https://github.com/ITISFoundation/osparc-issues/issues/1827
 
 [ANE]:https://github.com/GitHK
 [BL]:https://github.com/dyollb
