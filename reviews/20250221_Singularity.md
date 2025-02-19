@@ -26,9 +26,9 @@
 | [#1822] oSPARC Sim4Life.Web Integration                                     | [OM]                                        | **In progress** | 10' ++   |            |
 | [#1635] UI/UX for Data Handling (Feb.)                                      | [OM]                                        | **In progress** |          |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    0'    |            |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |          |            |
+| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |    1     |            |
 | [#1819] Create needed tags with Nik and Jacqueline                          | [MD]                                        | **In progress** |          |            |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |          |            |
+| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    5'    |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'    |            |
 | [#1820] AWS Cost Optimization                                               | [SAN]                                       | **In progress** |    2' (SAN)    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **In progress** |          |            |
@@ -63,7 +63,7 @@
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1819]: https://github.com/ITISFoundation/osparc-issues/issues/1819
 [#1820]: https://github.com/ITISFoundation/osparc-issues/issues/1820
-[#1827]: https://github.com/ITISFoundation/osparc-issues/issues/1827
+[#1827]: https://github.com/ITISFoundation/private-issues/issues/3
 [#1828]: https://github.com/ITISFoundation/osparc-issues/issues/1828
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
 [#1407]: https://github.com/ITISFoundation/osparc-issues/issues/1407
