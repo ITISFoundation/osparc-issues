@@ -33,7 +33,7 @@
 | [#1820] AWS Cost Optimization                                               | [SAN]                                       | **In progress** |    2' (SAN)    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **In progress** |          |            |
 | [#1827] Placeholder: AI tasks - Retreat Followup                            | [PC]                                        | **In progress** |          |            |
-| [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |          |            |
+| [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'       |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |          |            |
