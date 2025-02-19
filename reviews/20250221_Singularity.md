@@ -32,7 +32,6 @@
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'    |            |
 | [#1820] AWS Cost Optimization                                               | [SAN]                                       | **In progress** |    2' (SAN)    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **In progress** |          |            |
-| [#1827] Placeholder: AI tasks - Retreat Followup                            | [PC]                                        | **In progress** |          |            |
 | [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'       |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
@@ -55,7 +54,7 @@
 ## Part 3: Varia
 | Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1827] AI Retreat Follow-Up                                                | [DK]                                       | **In progress**  |       3' |            |
+| [#1827] AI Retreat Follow-Up - Chatbot                                      | [DK]                                       | **In progress**  |       3' |            |
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1822]: https://github.com/ITISFoundation/osparc-issues/issues/1822
