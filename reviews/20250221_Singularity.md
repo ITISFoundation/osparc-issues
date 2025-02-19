@@ -37,7 +37,7 @@
 | [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
 | [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |   2'      |            |
 | [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |   2'     |            |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [WVG]                                       | **In progress** |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO]                                       | **In progress** |   2'     |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |   1 '    |            |
 | [#1597] NIH Year 8                                                          | [MaG]                                       | **In progress** |   1 '    |            |
 | [#1636] DevOps                                                              | [DK]/[YH]                                   | **In progress** |   2 '    |            |
