@@ -24,18 +24,18 @@
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
 | [#1732] Vendor Specific Resource tracking (VIP service)                     | [MaG]/[OM]                                  | **In progress** | 15' ++   |            |
 | [#1822] oSPARC Sim4Life.Web Integration                                     | [OM]                                        | **In progress** | 10' ++   |            |
-| [#1635] UI/UX for Data Handling (Feb.)                                      | [OM]                                        | **In progress** |          |            |
+| [#1635] UI/UX for Data Handling (Feb.)                                      | [OM]                                        | **In progress** |  2'      |            |
 | [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |    0'    |            |
 | [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |    1     |            |
-| [#1819] Create needed tags with Nik and Jacqueline                          | [MD]                                        | **Done** |    2'      |            |
+| [#1819] Create needed tags with Nik and Jacqueline                          | [MD]                                        | **Done**        |    2'    |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    5'    |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'    |            |
 | [#1820] AWS Cost Optimization                                               | [SAN]/[DK]                                  | **In progress** |    4'    |            |
-| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Paused** |    0'      |            |
-| [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'       |            |
-| [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
-| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |          |            |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |   2'      |            |
+| [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Paused**      |    0'    |            |
+| [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'     |            |
+| [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2'     |            |
+| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |   1'     |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |   2'     |            |
 | [#1828] Planning for NIH Post-Y8 STRIDES Funding                            | [DK]                                        | **In progress** |   2'     |            |
 | [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO]                                       | **In progress** |   2'     |            |
 | [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |   1 '    |            |
