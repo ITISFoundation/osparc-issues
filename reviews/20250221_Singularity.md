@@ -30,7 +30,7 @@
 | [#1819] Create needed tags with Nik and Jacqueline                          | [MD]                                        | **Done** |    2'      |            |
 | [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |    5'    |            |
 | [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |    1'    |            |
-| [#1820] AWS Cost Optimization                                               | [SAN]                                       | **In progress** |    2' (SAN)    |            |
+| [#1820] AWS Cost Optimization                                               | [SAN]/[DK]                                  | **In progress** |    4'    |            |
 | [#1727] Filesystem - Shared Folders                                         | [MD]                                        | **Paused** |    0'      |            |
 | [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |   1'       |            |
 | [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |   2 '    |            |
