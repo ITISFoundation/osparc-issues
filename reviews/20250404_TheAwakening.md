@@ -21,34 +21,35 @@
 
 ## Part 1: Platform
 
-| Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
-| --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1822] oSPARC Sim4Life.Web Integration                                     | [OM]                                        | **In progress** |    |       |
-| [#1635] UI/UX for Data Handling (Feb.)                                      | [OM]                                        | **In progress** |      |       |
-| [#1327] Performance Improvements for Large Projects                         | [SAN]                                       | **In progress** |        |            |
-| [#1644] API: Create Projects with Associated Data (Feb.)                    | [PC]                                        | **In progress** |       |       |
-| [#468] Feature to undo a delete - "recycle bin" style                       | [PC]                                        | **In progress** |       |       |
-| [#1730] Hardening the computational backend                                 | [SAN]                                       | **In progress** |       |       |
-| [#1820] AWS Cost Optimization                                               | [SAN]/[DK]                                  | **In progress** |       |       |
-| [#1328] Maintenance / Dev Issues                                            | [SAN]                                       | **In progress** |       |       |
-| [#1639] Portal Development                                                  | [MaG]                                       | **In progress** |       |       |
-| [#1779] Share resources typing the email address                            | [OM]                                        | **In progress** |       |       |
-| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements               | [DK]                                        | **In progress** |       |       |
-| [#1407] Meta-modeling: Refinements & FollowUps                              | [JGO]                                       | **In progress** |       |       |
-| [#1332] NIH Year 7                                                          | [MaG]                                       | **In progress** |       |       |
-| [#1597] NIH Year 8                                                          | [MaG]                                       | **In progress** |       |       |
-| [#1636] DevOps                                                              | [DK]/[YH]                                   | **In progress** |       |       |
+| Title                                                         | Presenter  | Status          | Duration | Start-Time |
+|---------------------------------------------------------------|------------|-----------------|----------|------------|
+| [#1644] API: Create Projects with Associated Data (Feb.)      | [MB]       | **In progress** |          |            |
+| [#468] Feature to undo a delete - "recycle bin" style         | [PC]       | **In progress** |          |            |
+| [#7] oSPARC Sim4Life.Web Integration                          | [OM]       | **In progress** |          |            |
+| [#1635] UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** |          |            |
+| [#8] Performance Improvements for Large Projects              | [SAN]      | **In progress** |          |            |
+| [#28] Job Submission from Desktop Application                 | [MaG]      | **In progress** |          |            |
+| [#1730] Hardening the computational backend                   | [SAN]      | **In progress** |          |            |
+| [#1820] AWS Cost Optimization                                 | [SAN]/[DK] | **In progress** |          |            |
+| [#1328] Maintenance / Dev Issues                              | [SAN]      | **In progress** |          |            |
+| [#1639] Portal Development                                    | [MaG]      | **In progress** |          |            |
+| [#1779] Share resources typing the email address              | [OM]       | **In progress** |          |            |
+| [#1543] Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |          |            |
+| [#1407] Meta-modeling: Refinements & FollowUps                | [JGO]      | **In progress** |          |            |
+| [#1332] NIH Year 7                                            | [MaG]      | **In progress** |          |            |
+| [#1597] NIH Year 8                                            | [MaG]      | **In progress** |          |            |
+| [#1636] DevOps                                                | [DK]/[YH]  | **In progress** |          |            |
 
 ## Part 2: Sim4Life web service
 
-| Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
-| --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#209003] VIP Models                                                        | [MaG]                                       | **In progress** |        |            |
+| Title                | Presenter | Status          | Duration | Start-Time |
+|----------------------|-----------|-----------------|----------|------------|
+| [#209003] VIP Models | [MaG]     | **In progress** |          |            |
 
 ## Part 3: Varia
-| Title                                                                       | Presenter                                   | Status          | Duration | Start-Time |
-| --------------------------------------------------------------------------- | ------------------------------------------- | --------------- | -------- | ---------- |
-| [#1827] AI Retreat Follow-Up - Chatbot                                      | [DK]                                        | **In progress** |        |       |
+| Title                                  | Presenter | Status          | Duration | Start-Time |
+|----------------------------------------|-----------|-----------------|----------|------------|
+| [#1827] AI Retreat Follow-Up - Chatbot | [DK]      | **In progress** |          |            |
 
 [#1327]: https://github.com/ITISFoundation/osparc-issues/issues/1327
 [#1822]: https://github.com/ITISFoundation/osparc-issues/issues/1822
