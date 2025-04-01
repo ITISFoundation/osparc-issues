@@ -20,7 +20,7 @@
 
 |         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
 | ------- | ----------------------------------------------------- | ---------- | --------------- | -------- | ---------- |
-| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]       | **In progress** |          |            |
+| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]       | **In progress** | 3'       |            |
 | [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **In progress** |          |            |
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** |          |            |
 | [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** |          |            |
