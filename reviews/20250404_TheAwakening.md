@@ -49,7 +49,7 @@
 | [#212368] | Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
 | [#213265] | Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
 
-## Part 2: Sim4Life web service
+## Part 3: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 | --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
@@ -58,7 +58,7 @@
 | [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
 | [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
 
-## Part 3: Varia
+## Part 4: Varia
 
 |      | Title                          | Presenter | Status          | Duration | Start-Time |
 | ---- | ------------------------------ | --------- | --------------- | -------- | ---------- |
