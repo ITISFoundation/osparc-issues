@@ -47,7 +47,7 @@
 | [#190422] | Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
 | [#210082] | List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
 | [#212368] | Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
-| [#213265] | Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
+| [#213265] | Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** | 2'       |            |
 
 ## Part 3: Sim4Life web service
 
