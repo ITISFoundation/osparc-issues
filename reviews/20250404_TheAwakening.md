@@ -39,11 +39,24 @@
 | [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]      | **In progress** |          |            |
 | [#1636] | DevOps                                                | [DK]/[YH] | **In progress** |          |            |
 
+## Part 2: Resolved cases
+
+| Title                                                                             | Presenter | Status   | Duration | Start-Time |
+| --------------------------------------------------------------------------------- | --------- | -------- | -------- | ---------- |
+| [#190230] Failing to start study (rephrase the error message)                     | [OM]      | **Done** |          |            |
+| [#190422] Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
+| [#210082] List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
+| [#212368] Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
+| [#213265] Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
+
 ## Part 2: Sim4Life web service
 
-| Title | Presenter | Status          | Duration | Start-Time |
-| ----- | --------- | --------------- | -------- | ---------- |
-|       | [MaG]     | **In progress** |          |            |
+| Title                                                         | Presenter | Status          | Duration | Start-Time |
+| ------------------------------------------------------------- | --------- | --------------- | -------- | ---------- |
+| [#216049] Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
+| [#214794] Contract Testing sim4life API                       | [MaG]     | **In progress** |          |            |
+| [#209150] Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
+| [#209198] Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
 
 ## Part 3: Varia
 
@@ -71,6 +84,15 @@
 [#14]: https://github.com/ITISFoundation/private-issues/issues/14
 [#28]: https://github.com/ITISFoundation/private-issues/issues/28
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
+[#190230]: https://z43.manuscript.com/f/cases/190230/Failing-to-start-study-rephrase-the-erro-message
+[#190422]: https://z43.manuscript.com/f/cases/190422/Reload-bug-in-Details-Data-View
+[#210082]: https://z43.manuscript.com/f/cases/210082/List-of-projects-in-subfolders-incomplete
+[#212368]: https://z43.manuscript.com/f/cases/212368/Inconsistent-UI-element-in-Platform-and-Application
+[#213265]: https://z43.manuscript.com/f/cases/213265/Request-for-GPU-Upgrade-and-Persistent-Module-Installation-on-osparc
+[#216049]: https://z43.manuscript.com/f/cases/216049/Upgrade-Toolchain-from-Ubuntu-20-04-to-Ubuntu-24-04
+[#214794]: https://z43.manuscript.com/f/cases/214794/Contract-Testing-sim4life-API
+[#209150]: https://z43.manuscript.com/f/cases/209150/Missing-Feature-Sensor-Progress-Report
+[#209198]: https://z43.manuscript.com/f/cases/209198/Sim4Life-Simulator-Plugin-Framework
 [ANE]: https://github.com/GitHK
 [BL]: https://github.com/dyollb
 [DK]: https://github.com/mrnicegyu11
