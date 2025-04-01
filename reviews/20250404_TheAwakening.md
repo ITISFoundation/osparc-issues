@@ -18,7 +18,7 @@
 
 ## Part 1: Platform
 
-| Title   |                                                       | Presenter | Status          | Duration | Start-Time |
+| Title   | Description                                           | Presenter | Status          | Duration | Start-Time |
 | ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
 | [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]      | **In progress** |          |            |
 | [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]      | **In progress** |          |            |
