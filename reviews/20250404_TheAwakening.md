@@ -1,4 +1,3 @@
-
 # Review Meeting - April 04, 2025
 
 ![screenshot](./images/the_awakening_visual.jpg)
@@ -19,37 +18,37 @@
 
 ## Part 1: Platform
 
-| Title                                                         | Presenter | Status          | Duration | Start-Time |
-|---------------------------------------------------------------|-----------|-----------------|----------|------------|
-| [#1644] API: Create Projects with Associated Data (Feb.)      | [MB]      | **In progress** |          |            |
-| [#6] Feature to undo a delete - "recycle bin" style           | [PC]      | **In progress** |          |            |
-| [#7] oSPARC Sim4Life.Web Integration                          | [OM]      | **In progress** |          |            |
-| [#1635] UI/UX for Data Handling (Feb.)                        | [OM]      | **In progress** |          |            |
-| [#8] Performance Improvements for Large Projects              | [SAN]     | **In progress** |          |            |
-| [#28] Job Submission from Desktop Application                 | [MaG]     | **In progress** |          |            |
-| [#1652] Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]      | **In progress** |          |            |
-| [#11] Share resources typing the email address                | [OM]      | **In progress** |          |            |
-| [#1859] Caching functionality for a function in TIP (SBO)     | [MEST]      | **In progress** |          |            |
-| [#1328] Maintenance / Dev Issues                              | [SAN]     | **In progress** |          |            |
-| [#9] AWS Cost Optimization                                    | [SAN]     | **In progress** |          |            |
-| [#10] Hardening the computational backend                     | [SAN]     | **In progress** |          |            |
-| [#1639] Portal Development                                    | [MaG]     | **In progress** |          |            |
-| [#14] Meta-modeling: Refinements & FollowUps                  | [WVG]     | **In progress** |          |            |
-| [#1332] NIH Year 7                                            | [MaG]     | **In progress** |          |            |
-| [#1597] NIH Year 8                                            | [MaG]     | **In progress** |          |            |
-| [#13] Support for PHRT - Priorized Bugfixing / Enhancements   | [DK]      | **In progress** |          |            |
-| [#1636] DevOps                                                | [DK]/[YH] | **In progress** |          |            |
+| Title   |                                                       | Presenter | Status          | Duration | Start-Time |
+| ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
+| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]      | **In progress** |          |            |
+| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]      | **In progress** |          |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]      | **In progress** |          |            |
+| [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]      | **In progress** |          |            |
+| [#8]    | Performance Improvements for Large Projects           | [SAN]     | **In progress** |          |            |
+| [#28]   | Job Submission from Desktop Application               | [MaG]     | **In progress** |          |            |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]      | **In progress** |          |            |
+| [#11]   | Share resources typing the email address              | [OM]      | **In progress** |          |            |
+| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]    | **In progress** |          |            |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]     | **In progress** |          |            |
+| [#9]    | AWS Cost Optimization                                 | [SAN]     | **In progress** |          |            |
+| [#10]   | Hardening the computational backend                   | [SAN]     | **In progress** |          |            |
+| [#1639] | Portal Development                                    | [MaG]     | **In progress** |          |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]     | **In progress** |          |            |
+| [#1332] | NIH Year 7                                            | [MaG]     | **In progress** |          |            |
+| [#1597] | NIH Year 8                                            | [MaG]     | **In progress** |          |            |
+| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]      | **In progress** |          |            |
+| [#1636] | DevOps                                                | [DK]/[YH] | **In progress** |          |            |
 
 ## Part 2: Sim4Life web service
 
-| Title                | Presenter | Status          | Duration | Start-Time |
-|----------------------|-----------|-----------------|----------|------------|
-|  | [MaG]     | **In progress** |          |            |
+| Title | Presenter | Status          | Duration | Start-Time |
+| ----- | --------- | --------------- | -------- | ---------- |
+|       | [MaG]     | **In progress** |          |            |
 
 ## Part 3: Varia
 
 | Title                               | Presenter | Status          | Duration | Start-Time |
-|-------------------------------------|-----------|-----------------|----------|------------|
+| ----------------------------------- | --------- | --------------- | -------- | ---------- |
 | [#3] AI Retreat Follow-Up - Chatbot | [DK]      | **In progress** |          |            |
 
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
@@ -71,30 +70,28 @@
 [#13]: https://github.com/ITISFoundation/private-issues/issues/13
 [#14]: https://github.com/ITISFoundation/private-issues/issues/14
 [#28]: https://github.com/ITISFoundation/private-issues/issues/28
-
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
-
-[ANE]:https://github.com/GitHK
-[BL]:https://github.com/dyollb
-[DK]:https://github.com/mrnicegyu11
-[EI]:https://github.com/elisabettai
-[EN]:https://github.com/esraneufeld
-[GCR]:https://github.com/giancarloromeo
-[IP]:https://github.com/ignapas
-[JGO]:https://github.com/JavierGOrdonnez
-[JQU]:https://github.com/jsaq007
-[MaG]:https://github.com/mguidon
-[MB]:https://github.com/bisgaard-itis
-[MD]:https://github.com/matusdrobuliak66
-[MEST]:https://github.com/Konohana0608
-[OM]:https://github.com/odeimaiz
-[PC]:https://github.com/pcrespov
-[SAN]:https://github.com/sanderegg
-[SB]:https://github.com/sbenkler
-[SCA]:https://github.com/SCA-ZMT
-[TN]:https://github.com/newton1985
-[WVG]:https://github.com/wvangeit
-[YH]:https://github.com/YuryHrytsuk
+[ANE]: https://github.com/GitHK
+[BL]: https://github.com/dyollb
+[DK]: https://github.com/mrnicegyu11
+[EI]: https://github.com/elisabettai
+[EN]: https://github.com/esraneufeld
+[GCR]: https://github.com/giancarloromeo
+[IP]: https://github.com/ignapas
+[JGO]: https://github.com/JavierGOrdonnez
+[JQU]: https://github.com/jsaq007
+[MaG]: https://github.com/mguidon
+[MB]: https://github.com/bisgaard-itis
+[MD]: https://github.com/matusdrobuliak66
+[MEST]: https://github.com/Konohana0608
+[OM]: https://github.com/odeimaiz
+[PC]: https://github.com/pcrespov
+[SAN]: https://github.com/sanderegg
+[SB]: https://github.com/sbenkler
+[SCA]: https://github.com/SCA-ZMT
+[TN]: https://github.com/newton1985
+[WVG]: https://github.com/wvangeit
+[YH]: https://github.com/YuryHrytsuk
 
 ### Status Legend
 
@@ -113,6 +110,7 @@
   - [staging_aws](https://staging.osparc.io) (Testers only)
   - [production_aws](https://osparc.io)
 - Z43 cluster (ch-zh)
+
   - [staging_z43](http://osparc-staging.speag.com) (Testers only)
   - [production_z43](http://osparc.speag.com)
   - [ti-plan.itis.swiss](http://ti-plan.itis.swiss)
