@@ -44,7 +44,7 @@
 
 | Title                | Presenter | Status          | Duration | Start-Time |
 |----------------------|-----------|-----------------|----------|------------|
-| [#209003] VIP Models | [MaG]     | **In progress** |          |            |
+|  | [MaG]     | **In progress** |          |            |
 
 ## Part 3: Varia
 
