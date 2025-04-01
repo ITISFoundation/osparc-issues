@@ -18,26 +18,26 @@
 
 ## Part 1: Platform
 
-|         | Title                                                 | Presenter | Status          | Duration | Start-Time |
-| ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]      | **In progress** |          |            |
-| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]      | **In progress** |          |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]      | **In progress** |          |            |
-| [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]      | **In progress** |          |            |
-| [#8]    | Performance Improvements for Large Projects           | [SAN]     | **In progress** |          |            |
-| [#28]   | Job Submission from Desktop Application               | [MaG]     | **In progress** |          |            |
-| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]      | **In progress** |          |            |
-| [#11]   | Share resources typing the email address              | [OM]      | **In progress** |          |            |
-| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]    | **In progress** |          |            |
-| [#1328] | Maintenance / Dev Issues                              | [SAN]     | **In progress** |          |            |
-| [#9]    | AWS Cost Optimization                                 | [SAN]     | **In progress** |          |            |
-| [#10]   | Hardening the computational backend                   | [SAN]     | **In progress** |          |            |
-| [#1639] | Portal Development                                    | [MaG]     | **In progress** |          |            |
-| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]     | **In progress** | 5'       |            |
-| [#1332] | NIH Year 7                                            | [MaG]     | **In progress** |          |            |
-| [#1597] | NIH Year 8                                            | [MaG]     | **In progress** |          |            |
-| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]      | **In progress** |          |            |
-| [#1636] | DevOps                                                | [DK]/[YH] | **In progress** |          |            |
+|         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
+| ------- | ----------------------------------------------------- | ---------- | --------------- | -------- | ---------- |
+| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]       | **In progress** |          |            |
+| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **In progress** |          |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** |          |            |
+| [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** |          |            |
+| [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'       |            |
+| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
+| [#11]   | Share resources typing the email address              | [OM]       | **In progress** |          |            |
+| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |          |            |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** |          |            |
+| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
+| [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'       |            |
+| [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'       |            |
+| [#1332] | NIH Year 7                                            | [MaG]      | **In progress** |          |            |
+| [#1597] | NIH Year 8                                            | [MaG]      | **In progress** |          |            |
+| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |          |            |
+| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |          |            |
 
 ## Part 2: Resolved cases
 
