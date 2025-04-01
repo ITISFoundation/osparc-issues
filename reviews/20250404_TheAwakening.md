@@ -18,7 +18,7 @@
 
 ## Part 1: Platform
 
-| Title   | Description                                           | Presenter | Status          | Duration | Start-Time |
+|    | Title                                           | Presenter | Status          | Duration | Start-Time |
 | ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
 | [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB]      | **In progress** |          |            |
 | [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]      | **In progress** |          |            |
@@ -41,28 +41,28 @@
 
 ## Part 2: Resolved cases
 
-| Title                                                                             | Presenter | Status   | Duration | Start-Time |
+|     | Title                                                                             | Presenter | Status   | Duration | Start-Time |
 | --------------------------------------------------------------------------------- | --------- | -------- | -------- | ---------- |
-| [#190230] Failing to start study (rephrase the error message)                     | [OM]      | **Done** |          |            |
-| [#190422] Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
-| [#210082] List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
-| [#212368] Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
-| [#213265] Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
+| [#190230] | Failing to start study (rephrase the error message)                     | [OM]      | **Done** |          |            |
+| [#190422] | Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
+| [#210082] | List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
+| [#212368] | Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
+| [#213265] | Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
 
 ## Part 2: Sim4Life web service
 
-| Title                                                         | Presenter | Status          | Duration | Start-Time |
+| |    Title                                                         | Presenter | Status          | Duration | Start-Time |
 | ------------------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#216049] Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
-| [#214794] Contract Testing sim4life API                       | [MaG]     | **In progress** |          |            |
-| [#209150] Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
-| [#209198] Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
+| [#214794] | Contract Testing sim4life API                       | [MaG]     | **In progress** |          |            |
+| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
+| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
 
 ## Part 3: Varia
 
-| Title                               | Presenter | Status          | Duration | Start-Time |
+|  |Title                               | Presenter | Status          | Duration | Start-Time |
 | ----------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#3] AI Retreat Follow-Up - Chatbot | [DK]      | **In progress** |          |            |
+| [#3] | AI Retreat Follow-Up - Chatbot | [DK]      | **In progress** |          |            |
 
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
