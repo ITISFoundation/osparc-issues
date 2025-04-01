@@ -33,7 +33,7 @@
 | [#9]    | AWS Cost Optimization                                 | [SAN]     | **In progress** |          |            |
 | [#10]   | Hardening the computational backend                   | [SAN]     | **In progress** |          |            |
 | [#1639] | Portal Development                                    | [MaG]     | **In progress** |          |            |
-| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]     | **In progress** |          |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]     | **In progress** |    5'    |            |
 | [#1332] | NIH Year 7                                            | [MaG]     | **In progress** |          |            |
 | [#1597] | NIH Year 8                                            | [MaG]     | **In progress** |          |            |
 | [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]      | **In progress** |          |            |
