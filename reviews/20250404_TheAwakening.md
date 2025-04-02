@@ -29,7 +29,7 @@
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
 | [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'       |            |
 | [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |          |            |
-| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN) + 2'(OM) |            |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN) + 2'(OM) + 3'(PC) |            |
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'       |            |
 | [#1639] | Portal Development                                    | [MaG]      | **In progress** | '1       |            |
