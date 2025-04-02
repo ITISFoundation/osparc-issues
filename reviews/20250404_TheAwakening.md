@@ -27,9 +27,9 @@
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'       |            |
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
-| [#11]   | Share resources typing the email address              | [OM]       | **In progress** |          |            |
+| [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'       |            |
 | [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |          |            |
-| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN)  |            |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN) 2' (OM) |            |
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'       |            |
 | [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
