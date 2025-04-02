@@ -21,7 +21,7 @@
 |         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
 | ------- | ----------------------------------------------------- | ---------- | --------------- | -------- | ---------- |
 | [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB] (PC)  | **In progress** | 3'       |            |
-| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **In progress** |          |            |
+| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **Done**        | 1'        |            |
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** | 0'       |            |
 | [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'       |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'       |            |
@@ -62,7 +62,7 @@
 
 |      | Title                          | Presenter | Status          | Duration | Start-Time |
 | ---- | ------------------------------ | --------- | --------------- | -------- | ---------- |
-| [#3] | AI Retreat Follow-Up - Chatbot | [DK]      | **In progress** |          |            |
+| [#3] | AI Retreat Follow-Up - Chatbot |  [PC][DK]| **In progress** |   10'+    |            |
 
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
