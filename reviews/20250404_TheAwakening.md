@@ -32,10 +32,10 @@
 | [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN) + 2'(OM) |            |
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'       |            |
-| [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
+| [#1639] | Portal Development                                    | [MaG]      | **In progress** | '1       |            |
 | [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'       |            |
-| [#1332] | NIH Year 7                                            | [MaG]      | **In progress** |          |            |
-| [#1597] | NIH Year 8                                            | [MaG]      | **In progress** |          |            |
+| [#1332] | NIH Year 7                                            | [MaG]      | **In progress** | 1'       |            |
+| [#1597] | NIH Year 8                                            | [MaG]      | **In progress** | 1        |            |
 | [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |          |            |
 | [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |          |            |
 
