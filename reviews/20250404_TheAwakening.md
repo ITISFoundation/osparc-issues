@@ -43,7 +43,7 @@
 
 |           | Title                                                                   | Presenter | Status   | Duration | Start-Time |
 | --------- | ----------------------------------------------------------------------- | --------- | -------- | -------- | ---------- |
-| [#190230] | Failing to start study (rephrase the error message)                     | [OM]      | **Done** |          |            |
+| [#190230] | Failing to start study (rephrase the error message)                     | [OM]      | **Done** | 2'       |            |
 | [#190422] | Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
 | [#210082] | List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
 | [#212368] | Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
