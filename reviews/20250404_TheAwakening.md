@@ -53,10 +53,10 @@
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 | --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
-| [#214794] | Contract Testing sim4life API                       | [MaG]     | **In progress** |          |            |
-| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
-| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |      2'  |            |
+| [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |      0'  |
+| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |      2'  |            |
+| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |      5'  |            |
 
 ## Part 4: Varia
 
