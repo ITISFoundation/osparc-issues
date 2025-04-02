@@ -22,7 +22,7 @@
 | ------- | ----------------------------------------------------- | ---------- | --------------- | -------- | ---------- |
 | [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB] (PC)  | **In progress** | 3'       |            |
 | [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **In progress** |          |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** |          |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** | 0'       |            |
 | [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'       |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'       |            |
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
