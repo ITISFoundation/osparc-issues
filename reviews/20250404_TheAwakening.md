@@ -26,7 +26,7 @@
 | [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'                        |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'                        |            |
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |                           |            |
-| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |                           |            |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** | 2'                        |            |
 | [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'                        |            |
 | [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |                           |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN] [OM] | **In progress** | 2'(SAN) + 3'(OM)          |            |
@@ -36,8 +36,7 @@
 | [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'                        |            |
 | [#1332] | NIH Year 7                                            | [MaG]      | **In progress** | 1'                        |            |
 | [#1597] | NIH Year 8                                            | [MaG]      | **In progress** | 1                         |            |
-| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |                           |            |
-| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |                           |            |
+| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** | 6'                        |            |
 
 ## Part 2: Resolved cases
 
