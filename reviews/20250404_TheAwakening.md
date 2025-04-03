@@ -18,31 +18,31 @@
 
 ## Part 1: Platform
 
-|         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
-| ------- | ----------------------------------------------------- | ---------- | --------------- | -------- | ---------- |
-| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB] (PC)  | **In progress** | 3'       |            |
-| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **Done**        | 1'        |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** | 0'       |            |
-| [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'       |            |
-| [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'       |            |
-| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
-| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
-| [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'       |            |
-| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |          |            |
+|         | Title                                                 | Presenter  | Status          | Duration                  | Start-Time |
+|---------|-------------------------------------------------------|------------|-----------------|---------------------------|------------|
+| [#1644] | API: Create Projects with Associated Data (Feb.)      | [MB] (PC)  | **In progress** | 3'                        |            |
+| [#6]    | Feature to undo a delete - "recycle bin" style        | [PC]       | **Done**        | 1'                        |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** | 0'                        |            |
+| [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'                        |            |
+| [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'                        |            |
+| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |                           |            |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |                           |            |
+| [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'                        |            |
+| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |                           |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 2'(SAN) + 2'(OM) + 3'(PC) |            |
-| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
-| [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'       |            |
-| [#1639] | Portal Development                                    | [MaG]      | **In progress** | '1       |            |
-| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'       |            |
-| [#1332] | NIH Year 7                                            | [MaG]      | **In progress** | 1'       |            |
-| [#1597] | NIH Year 8                                            | [MaG]      | **In progress** | 1        |            |
-| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |          |            |
-| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |          |            |
+| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |                           |            |
+| [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'                        |            |
+| [#1639] | Portal Development                                    | [MaG]      | **In progress** | '1                        |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'                        |            |
+| [#1332] | NIH Year 7                                            | [MaG]      | **In progress** | 1'                        |            |
+| [#1597] | NIH Year 8                                            | [MaG]      | **In progress** | 1                         |            |
+| [#13]   | Support for PHRT - Priorized Bugfixing / Enhancements | [DK]       | **In progress** |                           |            |
+| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |                           |            |
 
 ## Part 2: Resolved cases
 
 |           | Title                                                                   | Presenter | Status   | Duration | Start-Time |
-| --------- | ----------------------------------------------------------------------- | --------- | -------- | -------- | ---------- |
+|-----------|-------------------------------------------------------------------------|-----------|----------|----------|------------|
 | [#190230] | Failing to start study (rephrase the error message)                     | [OM]      | **Done** | 2'       |            |
 | [#190422] | Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
 | [#210082] | List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
@@ -52,17 +52,17 @@
 ## Part 3: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
-| --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |      2'  |            |
+|-----------|-----------------------------------------------------|-----------|-----------------|----------|------------|
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** | 2'       |            |
 | [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |      0'  |
 | [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |      2'  |            |
 | [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |      5'  |            |
 
 ## Part 4: Varia
 
-|      | Title                          | Presenter | Status          | Duration | Start-Time |
-| ---- | ------------------------------ | --------- | --------------- | -------- | ---------- |
-| [#3] | AI Retreat Follow-Up - Chatbot |  [PC][DK]| **In progress** |   10' (PC)+    |            |
+|      | Title                          | Presenter | Status          | Duration  | Start-Time |
+|------|--------------------------------|-----------|-----------------|-----------|------------|
+| [#3] | AI Retreat Follow-Up - Chatbot | [PC][DK]  | **In progress** | 10' (PC)+ |            |
 
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
