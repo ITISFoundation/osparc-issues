@@ -30,9 +30,9 @@
 | [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'                        |            |
 | [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** | 1'                        |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN] [OM] | **In progress** | 2'(SAN) + 3'(OM)          |            |
-| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |                           |            |
+| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** | 2'                        |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'                        |            |
-| [#1639] | Portal Development                                    | [MaG]      | **In progress** | '1                        |            |
+| [#1639] | Portal Development                                    | [MaG]      | **In progress** | 11                        |            |
 | [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'                        |            |
 | [#1332] | NIH Year 7                                            | [MaG]      | **In progress** | 1'                        |            |
 | [#1597] | NIH Year 8                                            | [MaG]      | **In progress** | 1                         |            |
