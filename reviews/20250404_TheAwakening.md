@@ -28,7 +28,7 @@
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |                           |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** | 2'                        |            |
 | [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'                        |            |
-| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** |                           |            |
+| [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** | 1'                        |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN] [OM] | **In progress** | 2'(SAN) + 3'(OM)          |            |
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |                           |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 2'                        |            |
