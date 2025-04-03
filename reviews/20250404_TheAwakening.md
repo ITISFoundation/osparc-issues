@@ -25,7 +25,7 @@
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** | 0'                        |            |
 | [#1635] | UI/UX for Data Handling (Feb.)                        | [OM]       | **In progress** | 3'                        |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **Paused**      | 0'                        |            |
-| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |                           |            |
+| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** | 2'                        |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** | 2'                        |            |
 | [#11]   | Share resources typing the email address              | [OM]       | **In progress** | 2'                        |            |
 | [#1859] | Caching functionality for a function in TIP (SBO)     | [MEST]     | **In progress** | 1'                        |            |
