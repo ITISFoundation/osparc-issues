@@ -61,7 +61,7 @@
 
 |      | Title                          | Presenter | Status          | Duration  | Start-Time |
 |------|--------------------------------|-----------|-----------------|-----------|------------|
-| [#3] | AI Retreat Follow-Up - Chatbot | [PC][DK]  | **In progress** | 10' (PC)+ |   10:58    |
+| [#3] | AI Retreat Follow-Up           | [PC][DK]  | **In progress** | 10' (PC) |   10:58    |
 
 [#1328]: https://github.com/ITISFoundation/osparc-issues/issues/1328
 [#1332]: https://github.com/ITISFoundation/osparc-issues/issues/1332
