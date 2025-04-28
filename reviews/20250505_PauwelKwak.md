@@ -49,9 +49,14 @@
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 |-----------|-----------------------------------------------------|-----------|-----------------|----------|------------|
 | [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |          |            |
-| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
-| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
-| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
+| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        |      5'  |            |
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |      1'  |            |
+| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |     15'  |            |
+| [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        |      1'  |            |
+| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** |      1'  |            |
+| [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        |      3'  |            |
+| [#215635] | Multiselection not allowed on mac                   | [APG]     | **In progress** |          |            |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        |   2'     |            |
 
 
 
@@ -78,17 +83,19 @@
 [#47]: https://github.com/ITISFoundation/private-issues/issues/47
 [#48]: https://github.com/ITISFoundation/private-issues/issues/48
 [#51]: https://github.com/ITISFoundation/private-issues/issues/51
-[#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
-[#190230]: https://z43.manuscript.com/f/cases/190230/Failing-to-start-study-rephrase-the-erro-message
-[#190422]: https://z43.manuscript.com/f/cases/190422/Reload-bug-in-Details-Data-View
-[#210082]: https://z43.manuscript.com/f/cases/210082/List-of-projects-in-subfolders-incomplete
-[#212368]: https://z43.manuscript.com/f/cases/212368/Inconsistent-UI-element-in-Platform-and-Application
-[#213265]: https://z43.manuscript.com/f/cases/213265/Request-for-GPU-Upgrade-and-Persistent-Module-Installation-on-osparc
 [#216049]: https://z43.manuscript.com/f/cases/216049/Upgrade-Toolchain-from-Ubuntu-20-04-to-Ubuntu-24-04
 [#214794]: https://z43.manuscript.com/f/cases/214794/Contract-Testing-sim4life-API
 [#209150]: https://z43.manuscript.com/f/cases/209150/Missing-Feature-Sensor-Progress-Report
 [#209198]: https://z43.manuscript.com/f/cases/209198/Sim4Life-Simulator-Plugin-Framework
 [#190416]: https://z43.manuscript.com/f/cases/190416/Multi-selection-not-possible-in-data-browser-of-study
+[#204622]: https://z43.manuscript.com/f/cases/204622/Task-Manager-Killing-Queued-Simulations
+[#209008]: https://z43.manuscript.com/f/cases/209008/Desktop-Job-Submission-to-the-web
+[#209667]: https://z43.manuscript.com/f/cases/209667/Forms-Layout-looks-bad
+[#215635]: https://z43.manuscript.com/f/cases/215635/Multiselection-not-allowed-on-mac
+[#194317]: https://z43.manuscript.com/f/cases/194317/Filter-option-for-task-manager-queued-running-failed
+
+
+
 [ANE]: https://github.com/GitHK
 [BL]: https://github.com/dyollb
 [DK]: https://github.com/mrnicegyu11
