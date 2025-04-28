@@ -21,13 +21,13 @@
 |         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
 |---------|-------------------------------------------------------|------------|-----------------|----------|------------|
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | [OM]       | **In progress** |          |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [SR]       | **In progress** |          |            |
 | [#48]   | Data Export for multiple files                        | [GCR]      | **Done**        | 3'       |            |
-| [#51]   | Enhanced Collaboration: Conversation Feature          | [OM]       | **In progress** |          |            |
+| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** |          |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
 | [#3]    | AI tasks - Code Generation, Chat Bot                  | [PC][DK]   | **In progress** |          |            |
 | [#23]   | App-team panel                                        | [PC]       | **In progress** |          |            |
-| [#11]   | Share resources typing the email address              | [OM]       | **In progress** |          |            |
+| [#11]   | Share resources typing the email address              | [PC]       | **In progress** |          |            |
 | [#47]   | Notification System for shared resources              | [PC]       | **In progress** |          |            |
 | [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** |          |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **No progress** | 0'       |            |
