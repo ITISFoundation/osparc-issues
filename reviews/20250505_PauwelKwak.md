@@ -1,6 +1,6 @@
 # Review Meeting - May 05, 2025
 
-![screenshot](./images/the_awakening_visual.jpg)
+![screenshot](./images/pauwel_kwak.jpg)
 
 ## Sprint 🏃
 
