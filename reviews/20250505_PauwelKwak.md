@@ -81,7 +81,7 @@
 [#28]: https://github.com/ITISFoundation/private-issues/issues/28
 [#47]: https://github.com/ITISFoundation/private-issues/issues/47
 [#48]: https://github.com/ITISFoundation/private-issues/issues/48
-[$51]: https://github.com/ITISFoundation/private-issues/issues/51
+[#51]: https://github.com/ITISFoundation/private-issues/issues/51
 [#209003]: https://z43.manuscript.com/f/cases/209003/VIP-Models
 [#190230]: https://z43.manuscript.com/f/cases/190230/Failing-to-start-study-rephrase-the-erro-message
 [#190422]: https://z43.manuscript.com/f/cases/190422/Reload-bug-in-Details-Data-View
