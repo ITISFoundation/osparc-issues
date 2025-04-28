@@ -42,19 +42,15 @@
 
 |           | Title                                                                   | Presenter | Status   | Duration | Start-Time |
 |-----------|-------------------------------------------------------------------------|-----------|----------|----------|------------|
-| [#190230] | Failing to start study (rephrase the error message)                     | [OM] [PC] | **Done** |          |            |
-| [#190422] | Reload bug in Details -> Data View                                      | [OM]      | **Done** |          |            |
-| [#210082] | List of projects in subfolders incomplete                               | [OM]      | **Done** |          |            |
-| [#212368] | Inconsistent UI element in Platform and Application                     | [OM]      | **Done** |          |            |
-| [#213265] | Request for GPU Upgrade and Persistent Module Installation on osparc.io | [SAN]     | **Done** |          |            |
+| [#190416] | Multi-selection not possible in data browser of study | [OM]     | **Done** |          |            |
 
 ## Part 3: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 |-----------|-----------------------------------------------------|-----------|-----------------|----------|------------|
-| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
 | [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |          |            |
 | [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **In progress** |          |            |
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |          |            |
 | [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |          |            |
 
 
@@ -92,6 +88,7 @@
 [#214794]: https://z43.manuscript.com/f/cases/214794/Contract-Testing-sim4life-API
 [#209150]: https://z43.manuscript.com/f/cases/209150/Missing-Feature-Sensor-Progress-Report
 [#209198]: https://z43.manuscript.com/f/cases/209198/Sim4Life-Simulator-Plugin-Framework
+[#190416]: https://z43.manuscript.com/f/cases/190416/Multi-selection-not-possible-in-data-browser-of-study
 [ANE]: https://github.com/GitHK
 [BL]: https://github.com/dyollb
 [DK]: https://github.com/mrnicegyu11
