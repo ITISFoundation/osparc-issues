@@ -21,7 +21,7 @@
 |         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
 |---------|-------------------------------------------------------|------------|-----------------|----------|------------|
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | Reboux     | **In progress** |          |            |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]      | **In progress** |          |            |
 | [#48]   | Data Export for multiple files                        | [GCR]      | **Done**        | 3'       |            |
 | [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** |          |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
@@ -40,23 +40,23 @@
 
 ## Part 2: Resolved cases
 
-|           | Title                                                                   | Presenter | Status   | Duration | Start-Time |
-|-----------|-------------------------------------------------------------------------|-----------|----------|----------|------------|
-| [#190416] | Multi-selection not possible in data browser of study | [OM]     | **Done** |          |            |
+|           | Title                                                 | Presenter | Status   | Duration | Start-Time |
+|-----------|-------------------------------------------------------|-----------|----------|----------|------------|
+| [#190416] | Multi-selection not possible in data browser of study | [OM]      | **Done** |          |            |
 
 ## Part 3: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 |-----------|-----------------------------------------------------|-----------|-----------------|----------|------------|
 | [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |          |            |
-| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        |      5'  |            |
-| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** |      1'  |            |
-| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** |     15'  |            |
-| [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        |      1'  |            |
-| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** |      1'  |            |
-| [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        |      3'  |            |
+| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        | 5'       |            |
+| [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** | 1'       |            |
+| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** | 15'      |            |
+| [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        | 1'       |            |
+| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 1'       |            |
+| [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       |            |
 | [#215635] | Multiselection not allowed on mac                   | [APG]     | **In progress** |          |            |
-| [#194317] | Filter option for task manager                      | [APG]     | **Done**        |   2'     |            |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 2'       |            |
 
 
 
@@ -118,6 +118,7 @@
 [WVG]: https://github.com/wvangeit
 [YH]: https://github.com/YuryHrytsuk
 [APG]: https://github.com/alexpargon
+[SYR]: https://github.com/calys
 
 ### Status Legend
 
