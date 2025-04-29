@@ -29,7 +29,7 @@
 | [#23]   | App-team panel                                        | [PC]       | **In progress** |          |            |
 | [#11]   | Share resources typing the email address              | [PC]       | **In progress** |          |            |
 | [#47]   | Notification System for shared resources              | [PC]       | **In progress** |          |            |
-| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** |          |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'       |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **No progress** | 0'       |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** |          |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** |          |            |
