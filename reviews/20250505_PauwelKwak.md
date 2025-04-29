@@ -31,8 +31,8 @@
 | [#47]   | Notification System for shared resources              | [PC]       | **In progress** |          |            |
 | [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]      | **In progress** | 5'       |            |
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **No progress** | 0'       |            |
-| [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** |          |            |
-| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** |          |            |
+| [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 3'         |            |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 3'         |            |
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
 | [#1597] | NIH Year 8                                            | [MaG]      | **In progress** |          |            |
 | [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
@@ -42,7 +42,7 @@
 
 |           | Title                                                 | Presenter | Status   | Duration | Start-Time |
 |-----------|-------------------------------------------------------|-----------|----------|----------|------------|
-| [#190416] | Multi-selection not possible in data browser of study | [OM]      | **Done** |          |            |
+| [#190416] | Multi-selection not possible in data browser of study | [SAN]      | **Done** |          |            |
 
 ## Part 3: Sim4Life web service
 
