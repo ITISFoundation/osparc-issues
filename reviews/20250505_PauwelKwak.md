@@ -20,10 +20,10 @@
 
 |         | Title                                                 | Presenter  | Status          | Duration | Start-Time |
 |---------|-------------------------------------------------------|------------|-----------------|----------|------------|
-| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** |          |            |
+| [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** | (MD 10')         |            |
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]      | **In progress** | 4'       |            |
 | [#48]   | Data Export for multiple files                        | [GCR]      | **Done**        | 3'       |            |
-| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** |          |            |
+| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** | 6'         |            |
 | [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
 | [#3]    | AI tasks - Code Generation, Chat Bot                  | [PC][DK]   | **In progress** |          |            |
 | [#23]   | App-team panel                                        | [PC]       | **In progress** |          |            |
