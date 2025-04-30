@@ -23,9 +23,9 @@
 | [#28]   | Job Submission from Desktop Application               | [MaG]      | **In progress** | (MD 15')         |            |
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]      | **In progress** | 4'       |            |
 | [#48]   | Data Export for multiple files                        | [GCR]      | **Done**        | 3'       |            |
-| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** | 8'         |            |
-| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** |          |            |
-| [#3]    | AI tasks - Code Generation, Chat Bot                  | [PC][DK]   | **In progress** |          |            |
+| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]       | **In progress** | 8'       |            |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]       | **In progress** | 5'       |            |
+| [#3]    | AI tasks - Code Generation, Chat Bot                  | [PC][DK]   | **In progress** | 3'       |            |
 | [#23]   | App-team panel                                        | [PC]       | **In progress** |          |            |
 | [#11]   | Share resources typing the email address              | [PC]       | **In progress** |          |            |
 | [#47]   | Notification System for shared resources              | [PC]       | **In progress** |          |            |
@@ -33,10 +33,10 @@
 | [#8]    | Performance Improvements for Large Projects           | [SAN]      | **No progress** | 0'       |            |
 | [#10]   | Hardening the computational backend                   | [SAN]      | **In progress** | 3'         |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN]      | **In progress** | 3'         |            |
-| [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
+| [#9]    | AWS Cost Optimization                                 | [DK]       | **In progress** | 3'        |            |
 | [#1597] | NIH Year 8                                            | [MaG]      | **In progress** |          |            |
 | [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
-| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** | 4'-YH         |            |
+| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** | 5'         |            |
 
 ## Part 2: Resolved cases
 
