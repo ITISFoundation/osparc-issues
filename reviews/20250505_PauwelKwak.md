@@ -36,7 +36,7 @@
 | [#9]    | AWS Cost Optimization                                 | [YH] /[DK] | **In progress** |          |            |
 | [#1597] | NIH Year 8                                            | [MaG]      | **In progress** |          |            |
 | [#1639] | Portal Development                                    | [MaG]      | **In progress** |          |            |
-| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** |          |            |
+| [#1636] | DevOps                                                | [DK]/[YH]  | **In progress** | 4'-YH         |            |
 
 ## Part 2: Resolved cases
 
