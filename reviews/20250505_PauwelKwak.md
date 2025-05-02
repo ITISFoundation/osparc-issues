@@ -38,25 +38,20 @@
 | [#1639] | Portal Development                                    | [MaG]     | **In progress** |          |            |
 | [#1636] | DevOps                                                | [DK],[YH] | **In progress** | 5'       |            |
 | xxxx    | Buffer                                                |           | xxxx            | 10'      |            |
-## Part 2: Resolved cases
-
-|           | Title                                                 | Presenter | Status   | Duration | Start-Time |
-| --------- | ----------------------------------------------------- | --------- | -------- | -------- | ---------- |
-| [#190416] | Multi-selection not possible in data browser of study | [SAN]     | **Done** |          |            |
 
 ## Part 3: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 | --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      |          |            |
+| [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      | 0'        |            |
 | [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        | 5'       |            |
 | [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** | 0'       |            |
 | [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** | 15'      |            |
 | [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        | 0'       |            |
 | [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 3'       |            |
 | [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       |            |
-| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 1'       |            |
-| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 1'       |            |
+| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 3'       |            |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 3'       |            |
 
 
 
