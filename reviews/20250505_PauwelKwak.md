@@ -48,10 +48,10 @@
 | [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** | 0'       |            |
 | [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** | 15'      |            |
 | [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        | 0'       |            |
-| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 3'       |            |
+| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 4'       |            |
 | [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       |            |
 | [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 1'       |            |
-| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 1'       |            |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 3'       |            |
 
 
 
