@@ -34,8 +34,8 @@
 | [#10]   | Hardening the computational backend                   | [SAN]     | **In progress** | 3'       |            |
 | [#1328] | Maintenance / Dev Issues                              | [SAN]     | **In progress** | 3'       |            |
 | [#9]    | AWS Cost Optimization                                 | [DK]      | **In progress** | 3'       |            |
-| [#1597] | NIH Year 8                                            | [MaG]     | **In progress** |          |            |
-| [#1639] | Portal Development                                    | [MaG]     | **In progress** |          |            |
+| [#1597] | NIH Year 8                                            | [MaG]     | **In progress** | 0'        |            |
+| [#1639] | Portal Development                                    | [MaG]     | **In progress** | 0'        |            |
 | [#1636] | DevOps                                                | [DK],[YH] | **In progress** | 5'       |            |
 | xxxx    | Buffer                                                |           | xxxx            | 10'      |            |
 
@@ -50,8 +50,8 @@
 | [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        | 0'       |            |
 | [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 3'       |            |
 | [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       |            |
-| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 3'       |            |
-| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 3'       |            |
+| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 1'       |            |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 1'       |            |
 
 
 
