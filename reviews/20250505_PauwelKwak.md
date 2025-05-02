@@ -20,7 +20,7 @@
 
 |         | Title                                                 | Presenter | Status          | Duration | Start-Time |
 | ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#28]   | Job Submission from Desktop Application               | [PC],[MD] | **In progress** | 5'+15'   |            |
+| [#28]   | Job Submission from Desktop Application               | [PC],[MD],[SAN] | **In progress** | 5'+15'+3'   |            |
 | [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]     | **In progress** | 4'       |            |
 | [#48]   | Data Export for multiple files                        | [GCR]     | **Done**        | 3'       |            |
 | [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]      | **In progress** | 8'       |            |
