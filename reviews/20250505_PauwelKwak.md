@@ -18,40 +18,40 @@
 
 ## Part 1: Platform
 
-|         | Title                                                 | Presenter | Status          | Duration | Start-Time |
-| ------- | ----------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#28]   | Job Submission from Desktop Application               | [PC],[MD],[SAN] | **In progress** | 5'+15'+3'   |            |
-| [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]     | **In progress** | 4'       |            |
-| [#48]   | Data Export for multiple files                        | [GCR]     | **Done**        | 3'       |            |
-| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]      | **In progress** | 8'       |            |
-| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]      | **In progress** | 5'       |            |
-| [#3]    | AI tasks - Code Generation, Chat Bot                  | [DK],[PC] | **In progress** | 3'+3'    |            |
-| [#23]   | App-team panel                                        | [PC],[MD] | **In progress** | 5'+5'    |            |
-| [#11]   | Share resources typing the email address              | [PC]      | **In progress** | 3'       |            |
-| [#47]   | Notification System for shared resources              | [PC]      | **In progress** | 0'       |            |
-| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]     | **In progress** | 5'       |            |
-| [#8]    | Performance Improvements for Large Projects           | [SAN]     | **No progress** | 0'       |            |
-| [#10]   | Hardening the computational backend                   | [SAN]     | **In progress** | 3'       |            |
-| [#1328] | Maintenance / Dev Issues                              | [SAN]     | **In progress** | 3'       |            |
-| [#9]    | AWS Cost Optimization                                 | [DK]      | **In progress** | 3'       |            |
-| [#1597] | NIH Year 8                                            | [MaG]     | **In progress** | 0'        |            |
-| [#1639] | Portal Development                                    | [MaG]     | **In progress** | 0'        |            |
-| [#1636] | DevOps                                                | [DK],[YH] | **In progress** | 5'       |            |
-| xxxx    | Buffer                                                |           | xxxx            | 10'      |            |
+|         | Title                                                 | Presenter       | Status          | Duration  | Start-Time |
+| ------- | ----------------------------------------------------- | --------------- | --------------- | --------- | ---------- |
+| [#28]   | Job Submission from Desktop Application               | [PC],[MD],[SAN] | **In progress** | 5'+15'+3' | 10:05      |
+| [#7]    | oSPARC Sim4Life.Web Integration                       | [SYR]           | **In progress** | 4'        | 10:28      |
+| [#48]   | Data Export for multiple files                        | [GCR]           | **Done**        | 3'        | 10:32      |
+| [#51]   | Enhanced Collaboration: Conversation Feature          | [MD]            | **In progress** | 8'        | 10:35      |
+| [#1652] | Reducing Overhead Costs by Merging Deployments (Aug.) | [DK]            | **In progress** | 5'        | 10:43      |
+| [#3]    | AI tasks - Code Generation, Chat Bot                  | [DK],[PC]       | **In progress** | 3'+3'     | 10:48      |
+| [#23]   | App-team panel                                        | [PC],[MD]       | **In progress** | 5'+5'     | 10:54      |
+| [#11]   | Share resources typing the email address              | [PC]            | **In progress** | 3'        | 11:04      |
+| [#47]   | Notification System for shared resources              | [PC]            | **In progress** | 0'        |            |
+| [#14]   | Meta-modeling: Refinements & FollowUps                | [WVG]           | **In progress** | 5'        | 11:07      |
+| [#8]    | Performance Improvements for Large Projects           | [SAN]           | **No progress** | 0'        |            |
+| [#10]   | Hardening the computational backend                   | [SAN]           | **In progress** | 3'        | 11:12      |
+| [#1328] | Maintenance / Dev Issues                              | [SAN]           | **In progress** | 3'        | 11:15      |
+| [#9]    | AWS Cost Optimization                                 | [DK]            | **In progress** | 3'        | 11:18      |
+| [#1597] | NIH Year 8                                            | [MaG]           | **In progress** | 0'        |            |
+| [#1639] | Portal Development                                    | [MaG]           | **In progress** | 0'        |            |
+| [#1636] | DevOps                                                | [DK],[YH]       | **In progress** | 5'        | 11:21      |
+
 
 ## Part 2: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 | --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
-| [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      | 0'        |            |
-| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        | 5'       |            |
+| [#214794] | Contract Testing sim4life API                       | [MaG]     | **paused**      | 0'       |            |
+| [#209150] | Missing Feature: Sensor Progress Report             | [MaG]     | **Done**        | 5'       | 11:26      |
 | [#216049] | Upgrade Toolchain from Ubuntu 20.04 to Ubuntu 24.04 | [MaG]     | **In progress** | 0'       |            |
-| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** | 15'      |            |
+| [#209198] | Sim4Life Simulator Plugin Framework                 | [MaG]     | **In progress** | 15'      | 11:31      |
 | [#204622] | Task Manager: Killing Queued Simulations            | [MaG]     | **Done**        | 0'       |            |
-| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 4'       |            |
-| [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       |            |
-| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 1'       |            |
-| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 3'       |            |
+| [#209008] | Desktop Job-Submission to the web                   | [MaG]     | **In progress** | 4'       | 11:46      |
+| [#209667] | Forms: Layout looks bad                             | [APG]     | **Done**        | 3'       | 11:50      |
+| [#215635] | Multiselection not allowed on mac                   | [APG]     | **Done**        | 1'       | 11:53      |
+| [#194317] | Filter option for task manager                      | [APG]     | **Done**        | 3'       | 11:54      |
 
 
 
