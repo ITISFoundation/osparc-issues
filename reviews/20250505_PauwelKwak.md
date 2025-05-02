@@ -39,7 +39,7 @@
 | [#1636] | DevOps                                                | [DK],[YH] | **In progress** | 5'       |            |
 | xxxx    | Buffer                                                |           | xxxx            | 10'      |            |
 
-## Part 3: Sim4Life web service
+## Part 2: Sim4Life web service
 
 |           | Title                                               | Presenter | Status          | Duration | Start-Time |
 | --------- | --------------------------------------------------- | --------- | --------------- | -------- | ---------- |
