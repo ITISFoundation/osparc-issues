@@ -1,7 +1,8 @@
 # The SMs Ranking (by latest)
 
-This list is up to date as of 2025-02-21
+This list is up to date as of 2025-05-05
 
+- 🍫 [SAN] (2025-05-05)
 - 🍫 [MaG] (2025-02-21)
 - 🥈 [DK] (2024-10-28)
 - 🥉 [ANE] (2024-08-13)
@@ -9,8 +10,7 @@ This list is up to date as of 2025-02-21
 - 🍫 [MB] (2024-02-07)
 - 🍫 [OM] (2023-11-01)
 - 🍫 [MD] (2023-09-08)
-- 🍫 [PC] (2023-07-07) 
-- 🍫 [SAN] (2023-04-28)
+- 🍫 [PC] (2023-07-07)
 - 🏆 [EI] (2022-12-02)
 - 🍺 [ALL] (2022-06-03)
 - 🧋 [IP] (2022-04-04)
@@ -26,8 +26,8 @@ This list is up to date as of 2025-02-21
 
 1. 🥈 [OM]  (12 times)
 2. 🏆 [PC] (10.5 times)
-3. 🍺 [MaG] (9.4 times)
-4. 🥉 [SAN] (8 times)
+3. 🥉 [SAN] (10 times)
+4. 🍺 [MaG] (9.4 times)
 5. 🧋 [ANE] (6 times)
 6. 🍫 [DK] (4 times)
 7. 🍫 [IP] (3.8 times)
