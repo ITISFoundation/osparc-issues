@@ -4,13 +4,12 @@ from pathlib import Path
 
 INITIALS_TO_USERNAMES: dict[str, str] = {
     "ANE": "GitHK",
+    "APG": "alexpargon",
     "BL": "dyollb",
     "DK": "mrnicegyu11",
-    "EI": "elisabettai",
     "GCR": "giancarloromeo",
     "IP": "ignapas",
     "JGO": "JavierGOrdonnez",
-    "JQU": "jsaq007",
     "MaG": "mguidon",
     "MB": "bisgaard-itis",
     "MD": "matusdrobuliak66",
