@@ -1,12 +1,14 @@
 """
-In order to use these scripts one needs to:
-- get a Personal Access Token on github: https://github.com/settings/tokens?type=beta
-  - Resource owner must be ITISFoundation
-  - Repository access must be: All repositories
-  - Permissions on repositories: Issues ReadWrite
+In order to use these scripts one needs to get a
 
+"Personal Access Token" on github:
+    https://github.com/settings/personal-access-tokens (or `make new-token`)
+
+Then:
+  - Resource owner MUST be `ITISFoundation`
+  - Repository access MUST be: `All repositories`
+  - Permissions on repositories MUST be: `Issues ReadWrite`
 """
-
 
 import datetime
 from enum import Enum

@@ -50,13 +50,17 @@ clean-hooks: ## Uninstalls git pre-commit hooks
 	@-pre-commit uninstall 2> /dev/null || rm .git/hooks/pre-commit
 
 
+
 #
 # Github API
 #
 
+$(if $(token),,$(eval token := $(GITHUB_API_TOKEN)))
+
+
 .PHONY: new-token
-new-token:
-	open https://github.com/settings/tokens?type=beta
+new-token: ## open page to create a new API token
+	open https://github.com/settings/personal-access-tokens
 
 .PHONY: new-milestone
 new-milestone: .venv ## creates a new milestone in the Github repositories
