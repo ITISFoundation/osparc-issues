@@ -55,7 +55,12 @@ clean-hooks: ## Uninstalls git pre-commit hooks
 # Github API
 #
 
-$(if $(token),,$(eval token := $(GITHUB_API_TOKEN)))
+.PHONY: .check-github-token
+.check-github-token:
+	$(if $(token),,$(eval token := $(GITHUB_API_TOKEN)))
+	$(if $(token),,$(eval token := $(shell read -p "Enter your GitHub API token: " t && echo $$t)))
+	$(if $(token),,$(error No GitHub API token provided))
+	$(eval export token=$(token))
 
 
 .PHONY: new-token
@@ -63,7 +68,7 @@ new-token: ## open page to create a new API token
 	open https://github.com/settings/personal-access-tokens
 
 .PHONY: new-milestone
-new-milestone: .venv ## creates a new milestone in the Github repositories
+new-milestone: .venv .check-github-token ## creates a new milestone in the Github repositories
 	$(call check_defined, token)
 	$(call check_defined, title)
 	$</bin/python scripts/milestones.py create \
@@ -71,7 +76,7 @@ new-milestone: .venv ## creates a new milestone in the Github repositories
 		--username ITISFoundation \
 		--title "$(title)"
 
-modify-milestone: .venv ## modifiy a milestone title and/or due date and/or state (use ntitle= and ndate= and nstate=open or nstate=closed)
+modify-milestone: .venv .check-github-token ## modifiy a milestone title and/or due date and/or state (use ntitle= and ndate= and nstate=open or nstate=closed)
 	$(call check_defined, token)
 	$(call check_defined, title)
 	$</bin/python scripts/milestones.py modify \
@@ -82,7 +87,7 @@ modify-milestone: .venv ## modifiy a milestone title and/or due date and/or stat
 		$(if $(findstring ndate, $(MAKEFLAGS)),--new-due-on "$(ndate)",) \
 		$(if $(findstring nstate, $(MAKEFLAGS)),--new-state "$(nstate)",) \
 
-delete-milestone: .venv ## delete a milestone, use with care!!
+delete-milestone: .venv .check-github-token ## delete a milestone, use with care!!
 	@echo -n "Are you sure? [y/N] " && read ans && [ $${ans:-N} = y ]
 	$(call check_defined, token)
 	$(call check_defined, title)
