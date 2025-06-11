@@ -7,7 +7,7 @@ In order to use these scripts one needs to get a
 Then:
   - Resource owner MUST be `ITISFoundation`
   - Repository access MUST be: `All repositories`
-  - Permissions on repositories MUST be: `Issues ReadWrite`
+  - Permissions on repositories MUST be: `Issues` with `Access:Read and write`
 """
 
 import datetime
@@ -33,6 +33,7 @@ _DEFAULT_REPOS = [
     "private-issues",
 ]
 
+_REQUEST_TIMEOUT: Final[int] = 10  # seconds
 _FAILED_EXIT_CODE: Final[int] = 127
 
 
@@ -42,7 +43,7 @@ def _list_organization_repos(token: str, org: str) -> list[str]:
         "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github.v3+json",
     }
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, timeout=_REQUEST_TIMEOUT)
     if response.status_code != HTTPStatus.OK:
         raise RuntimeError(
             f"Could not list {org} repositories, {response.reason} with {response.json()}"
@@ -82,7 +83,9 @@ def create(
             "description": description,
             "due_on": f"{arrow.get(due_on)}",
         }
-        response = requests.post(url, headers=headers, json=data)
+        response = requests.post(
+            url, headers=headers, json=data, timeout=_REQUEST_TIMEOUT
+        )
 
         if response.status_code == HTTPStatus.CREATED:
             typer.echo(f"Milestone created successfully in {repo}")
@@ -130,7 +133,9 @@ def modify(
             "Accept": "application/vnd.github.v3+json",
         }
         params = {"state": "open"}
-        response = requests.get(url, headers=headers, params=params)
+        response = requests.get(
+            url, headers=headers, params=params, timeout=_REQUEST_TIMEOUT
+        )
 
         if response.status_code == HTTPStatus.OK:
             milestones = response.json()
@@ -140,7 +145,7 @@ def modify(
                     milestone_number = milestone["number"]
                     modify_url = f"{url}/{milestone_number}"
                     modify_response = requests.patch(
-                        modify_url, headers=headers, json=data
+                        modify_url, headers=headers, json=data, timeout=_REQUEST_TIMEOUT
                     )
                     if modify_response.status_code == HTTPStatus.OK:
                         typer.echo(
@@ -167,8 +172,8 @@ def delete(
 ):
     """
     Delete milestone in multiple GitHub repositories.
-    Example:
-    python milestones.py create --token TOKEN --username ITISFoundation --title "My awesome sprint name" --description "this sprint is great"
+
+    WARNING: this is not the same as closing a milestone. For that use the `modify` command with `new_state=closed`.
     """
     milestone_found = False
     for repo in repos:
@@ -178,7 +183,9 @@ def delete(
             "Accept": "application/vnd.github.v3+json",
         }
         params = {"state": "open"}
-        response = requests.get(url, headers=headers, params=params)
+        response = requests.get(
+            url, headers=headers, params=params, timeout=_REQUEST_TIMEOUT
+        )
 
         if response.status_code == HTTPStatus.OK:
             milestones = response.json()
@@ -187,7 +194,9 @@ def delete(
                     milestone_found = True
                     milestone_number = milestone["number"]
                     delete_url = f"{url}/{milestone_number}"
-                    delete_response = requests.delete(delete_url, headers=headers)
+                    delete_response = requests.delete(
+                        delete_url, headers=headers, timeout=_REQUEST_TIMEOUT
+                    )
                     if delete_response.status_code == HTTPStatus.NO_CONTENT:
                         typer.echo(
                             f"Milestone '{title}' deleted successfully in {repo}"
