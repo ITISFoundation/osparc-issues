@@ -37,7 +37,7 @@ Please check your name if finished:
 
 _MATTERMOST_TEMPLATE: str = """
 @all please contribute in compiling the `Release Drafts`.
-There are 3 release drafts to fill out: `s4l` (which also includes s4li-lite), `osparc`, `tip`.
+There are 3 release drafts to fill out: `s4l` (which also includes s4l-lite), `osparc`, `tip`.
 Instructions:
 - Please go through all your last changes in master since the last release for each product: [osparc](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/osparc/{version_tag}.md), [s4l](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/s4l/{version_tag}.md) and [tip](https://github.com/ITISFoundation/osparc-issues/blob/master/release-notes/tip/{version_tag}.md) (each product contains a link to these changes)
 - For each product please chose those features which it makes sense to highlight.
@@ -65,6 +65,11 @@ def _get_collpasable_notes(vtag: str) -> str:
         f"https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag}",
         timeout=10,
     )
+    if response.status_code >= 400:
+        print(
+            f"ERROR: The GET request to the github API to https://api.github.com/repos/ITISFoundation/osparc-simcore/releases/tags/{vtag} failed. Does the github release {vtag} exist yet?"
+        )
+        exit(1)
     json_response = json.loads(response.text)
     return json_response["body"]
 
@@ -94,7 +99,7 @@ def main():
 
     print("\nTotal [STEPS] 2\n")
 
-    print(f"Will generate form tag: {vtag}")
+    print(f"Will generate drafts for tag: {vtag}")
 
     new_draft_content = _TEMPLATE.format(
         version_tag=_get_previous_version(vtag),
