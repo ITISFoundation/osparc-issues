@@ -1,5 +1,9 @@
 # Release Notes Generation Prompt
 
+
+> **WARNING**: this prompt is work-in-progress. DO NOT USE directly the results in the release notes.
+>  For now you can use it as a draft helper.
+
 ## Purpose
 
 This prompt will help you generate comprehensive, well-structured release notes from a list of commit messages and PR links.
@@ -15,6 +19,7 @@ Given a list of commit messages under "What's Changed" section with PR links:
    - Focus on the benefit to users rather than technical implementation
    - Include PR link references in parentheses at the end of relevant points
    - Avoid mentioning specific developer names in the summary
+   - Avoid items regarding maintenance or script fixes
 
 4. Prioritize highlighting:
    - New features (✨)
