@@ -76,7 +76,7 @@ new-milestone: .venv .check-github-token ## creates a new milestone in the Githu
 		--username ITISFoundation \
 		--title "$(title)"
 
-modify-milestone: .venv .check-github-token ## modifiy a milestone title and/or due date and/or state (use ntitle= and ndate= and nstate=open or nstate=closed)
+modify-milestone: .venv .check-github-token ## modifiy a milestone title and/or due date and/or state (use ntitle=newtitle and ndate=2025-07-07 and nstate=open or nstate=closed)
 	$(call check_defined, token)
 	$(call check_defined, title)
 	$</bin/python scripts/milestones.py modify \
