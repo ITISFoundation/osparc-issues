@@ -41,6 +41,10 @@ Ask team members if it is possible to release to:
 
 ### 3. `deadlines calendar`
 
+```
+This step creates a fully formatted mattermost message, informing developers and app-team about the deadlines.
+```
+
 The following deadlines must be established (pass them in this order to the below cli):
 
 - `prs_merge` (pull requests merge date) `usually one day before release to staging`: users have to get PRs (which must be testes by the App Team) merged in master by the end of this day
@@ -62,20 +66,23 @@ python scripts/3_deadlines_calendar.py <DATE> <DATE> <DATE> <DATE> <DATE> <DATE>
 
 ### 4. `release drafts compilation`
 
-Ideally these are done before the review. The App Team will most likely see them only during testing.
+```
+This step automatically creates drafts of the release notes, one for each osparc product. A Mattermost message is also provided.
+```
+
+First, make sure your desired release version (`X.X.X`) has a draft release item on github. If there isnt one yet, please create one. Ideally these are done before the review. The App Team will most likely see them only during testing.
 The email to the App Team should be sent briefly after the review is over.
 
-Use the following script to generate the new release drafts for all the products.
-A Mattermost message is also provided.
+The date/time that you provide as CLI is the deadline for people to check their PRs w.r.t. the release notes.
 
 :warning: Do not forget to commit and push the changes in the repository! :rotating_light:
 
 ```shell
-python scripts/4_make_release_drafts.py <VERSION> <DATE> <TIME>
+python scripts/4_make_release_drafts.py <VERSION> <DATE_DEADLINE> <TIME_DEADLINE>
 ```
 - `<VERSION>` format: `X.X.X` where `X` is a number
 - `<DATE>` format: `dd.mm` where `dd` is a valid calendar day and `mm` is valid calendar month
-- `<TIME>` format: `HH.MM` where `HH` is a valid hour and `MM` is valid minute
+- `<TIME>` format: `HH:MM` where `HH` is a valid hour and `MM` is valid minute
 
 
 :warning: Do not forget to commit and push the changes in the repository! :rotating_light:
@@ -92,7 +99,7 @@ Ensure with the team that staging is properly deployed. Check the following:
 Compose and send out email to inform the App Team when they can start testing the deployment.
 
 ```shell
-python scripts/6_app_team_email.py <DATE> <DATE> <VERSION>
+python scripts/6_app_team_email.py <DATE_START_TESTING> <DATE_STOP_TESTING> <VERSION>
 ```
 - `<DATE>` format: `dd.mm` where `dd` is a valid calendar day and `mm` is valid calendar month
 - `<VERSION>` format: `X.X.X` where `X` is a number
