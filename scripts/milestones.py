@@ -24,6 +24,7 @@ app = typer.Typer()
 _DEFAULT_REPOS = [
     "cookiecutter-osparc-service",
     "dockerfiles",
+    "hornet-manifest-spec".
     "osparc-issues",
     "osparc-ops-environments",
     "osparc-python-runner",
