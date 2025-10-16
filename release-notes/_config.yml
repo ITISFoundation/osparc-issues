@@ -1,0 +1,6 @@
+title: Release Notes
+theme: minima
+markdown: kramdown
+exclude:
+  - ../  # ignore everything outside release-notes
+  - README.md
