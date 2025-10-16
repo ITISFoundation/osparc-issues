@@ -4,14 +4,14 @@
 
 This is an [issue-only repo](https://help.github.com/en/articles/creating-an-issues-only-repository) for the **osparc project**
 
--  🚩[milestones](https://github.com/ITISFoundation/osparc-issues/milestones)
+- 🚩[milestones](https://github.com/ITISFoundation/osparc-issues/milestones)
 - 🏷️ [issues](https://github.com/ITISFoundation/osparc-issues/issues)
   - Create a [new issue](https://github.com/ITISFoundation/osparc-issues/issues/new/choose)  ?
 - 📅 [reviews](reviews) - agenda & report on every sprint review
-- :trophy: [SM_counts](SM_counts) - Scrum Masters rankings (by counts)
+- 🏆 [SM_counts](SM_counts) - Scrum Masters rankings (by counts)
 
+## To create milestones in multiple repositories
 
-## to create milestones in multiple repositories
 - firstly you need to create a github token
   - in Github settings -> Personal access tokens -> Fine-grained tokens -> *Generate new token*
     - Change resource owner -> ITISFoundation
@@ -20,8 +20,9 @@ This is an [issue-only repo](https://help.github.com/en/articles/creating-an-iss
   - Now somebody with organization admin rights must approve your token
 - use the code in scripts/milestones.py
 - do the following
+
 ```bash
-# to show the help
+# to show the help#
 make
 # to install the requirements
 make devenv
@@ -43,4 +44,5 @@ make delete-milestone token=GITHUB_TOKEN title="dummy-name"
 make modify-milestone title="dummy-name" nstate=closed
 ```
 
-The code to create milestone uses a hard-coded list of repositories, don't be shy update it if it's missing information. Also, as this is open source, just feel free to improve the code...
+The code to create milestone uses a hard-coded list of repositories, don't be shy update it if it's missing information.
+Also, as this is open source, just feel free to improve the code...
