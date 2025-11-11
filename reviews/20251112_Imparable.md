@@ -7,7 +7,7 @@
   - PM1: October 16, 2025
   - PM2: October 16, 2025
   - Neuron Power Sprint : October 22
-  - RM: Novemember 12, 2025
+  - RM: November 12, 2025
   - Scrum Master: [OM]
 
 
