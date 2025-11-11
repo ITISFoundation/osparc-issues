@@ -28,7 +28,7 @@
 | Documentation + S4L Smart Search                                                               | [MD]                                  | ![In Progress]              | 7'       |            |
 | All-in-1 S4L tutorials + semantic API                                                          | [JGO]                                 | ![In Progress]              | 3'       |            |
 | [#303] Support center                                                                          | [OM], [MD],                           | ![In Progress (Epics)]      | 2'       |            |
-| Add explapanation                                                                              | [ANE]                                 | ![In Progress]              | 4'       |            |
+| Sim4Life scripting developing, documenting & distributing                                      | [ANE]                                 | ![In Progress]              | 4'       |            |
 | 2 new SAR related Public Projects (available to anonymous users)                               | [OM]                                  | ![Resolved]                 | 1'       |            |
 
 - [SAR Gamma Comparison](https://osparc.io/study/4a8e4b76-aa87-11f0-a8a4-0242ac17981e)
