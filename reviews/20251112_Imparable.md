@@ -26,10 +26,12 @@
 | ---------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------- | -------- | ---------- |
 | Improved Sim4Life startup process                                                              | [MD], [SAN]                           | ![In Progress]              | 4'       |            |
 | Documentation + S4L Smart Search                                                               | [MD]                                  | ![In Progress]              | 7'       |            |
+| All-in-1 S4L tutorials + semantic API                                                          | [JGO]                                 | ![In Progress]              | 3'       |            |
 | [#303] Support center                                                                          | [OM], [MD],                           | ![In Progress (Epics)]      | 2'       |            |
-| 2 new SAR related Public Projects (available to anonymous users)                               | [OM]                                  | ![Resolved]      | 2'       |            |
+| 2 new SAR related Public Projects (available to anonymous users)                               | [OM]                                  | ![Resolved]                 | 1'       |            |
 
 [SAR Gamma Comparison](link)
+
 [SAR Sampling Production](link)
 
 
