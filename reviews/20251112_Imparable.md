@@ -30,9 +30,8 @@
 | [#303] Support center                                                                          | [OM], [MD],                           | ![In Progress (Epics)]      | 2'       |            |
 | 2 new SAR related Public Projects (available to anonymous users)                               | [OM]                                  | ![Resolved]                 | 1'       |            |
 
-[SAR Gamma Comparison](link)
-
-[SAR Sampling Production](link)
+- [SAR Gamma Comparison](https://osparc.io/study/4a8e4b76-aa87-11f0-a8a4-0242ac17981e)
+- [SAR Sampling Production](https://osparc.io/study/8ca4dbae-ab56-11f0-b776-0242ac1797b4)
 
 
 🚩: [NIH 8 Milestone/Task](https://github.com/orgs/ITISFoundation/projects/15/views/22)
