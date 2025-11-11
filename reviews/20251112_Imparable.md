@@ -43,14 +43,6 @@
 
 | Title                                                              | Presenter | Status                      | Duration      | Start-Time |
 | ------------------------------------------------------------------ | --------- | --------------------------- | ------------- | ---------- |
-| 209025 Missing Feature: Workbench                                  | [MaG]     | ![In Progress]              | Overall 7'    | 11:13 |
-| 225945 Add vscode to sim4life                                      |           | ![Resolved]                 |               | ---------- |
-| 222930 Testing Framework Rocket                                    |           | ![In Progress]              |               | ---------- |
-| 222574 White Paper / Information on Sim4Life:web                   |           | ![In Progress]              |               | ---------- |
-| 222582 Missing Feature: Grid Layouts                               |           | ![In Progress]              |               | ---------- |
-|                                                                    |           |                             |               |            |
-| 225731 Export to pdf not working from embedded JupyterLab          |           | ![Resolved (ready to test)] |               | ---------- |
-| 225732 JupyterLab: Trash folder is in workspace                    |           | ![Resolved (ready to test)] |               | ---------- |
 
 
 
