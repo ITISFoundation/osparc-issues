@@ -87,14 +87,6 @@ modify-milestone: .venv .check-github-token ## modifiy a milestone title and/or 
 		$(if $(findstring ndate, $(MAKEFLAGS)),--new-due-on "$(ndate)",) \
 		$(if $(findstring nstate, $(MAKEFLAGS)),--new-state "$(nstate)",) \
 
-delete-milestone: .venv .check-github-token ## delete a milestone, use with care!!
-	@echo -n "Are you sure? [y/N] " && read ans && [ $${ans:-N} = y ]
-	$(call check_defined, token)
-	$(call check_defined, title)
-	$</bin/python scripts/milestones.py delete \
-		--token $(token) \
-		--username ITISFoundation \
-		--title "$(title)"
 
 # Check that given variables are set and all have non-empty values,
 # exit with an error otherwise.
