@@ -164,56 +164,5 @@ def modify(
         raise typer.Exit(_FAILED_EXIT_CODE)
 
 
-@app.command()
-def delete(
-    token: str = typer.Option(...),
-    username: str = typer.Option(...),
-    repos: list[str] = typer.Option(_DEFAULT_REPOS),
-    title: str = typer.Option(...),
-):
-    """
-    Delete milestone in multiple GitHub repositories.
-
-    WARNING: this is not the same as closing a milestone. For that use the `modify` command with `new_state=closed`.
-    """
-    milestone_found = False
-    for repo in repos:
-        url = f"https://api.github.com/repos/{username}/{repo}/milestones"
-        headers = {
-            "Authorization": f"Bearer {token}",
-            "Accept": "application/vnd.github.v3+json",
-        }
-        params = {"state": "open"}
-        response = requests.get(
-            url, headers=headers, params=params, timeout=_REQUEST_TIMEOUT
-        )
-
-        if response.status_code == HTTPStatus.OK:
-            milestones = response.json()
-            for milestone in milestones:
-                if milestone["title"] == title:
-                    milestone_found = True
-                    milestone_number = milestone["number"]
-                    delete_url = f"{url}/{milestone_number}"
-                    delete_response = requests.delete(
-                        delete_url, headers=headers, timeout=_REQUEST_TIMEOUT
-                    )
-                    if delete_response.status_code == HTTPStatus.NO_CONTENT:
-                        typer.echo(
-                            f"Milestone '{title}' deleted successfully in {repo}"
-                        )
-                    else:
-                        typer.echo(
-                            f"Failed to delete milestone '{title}' in {repo}: {delete_response.reason}"
-                        )
-                        raise typer.Exit(_FAILED_EXIT_CODE)
-        else:
-            typer.echo(f"Failed to get milestones in {repo}")
-            raise typer.Exit(_FAILED_EXIT_CODE)
-    if not milestone_found:
-        typer.echo(f"Failed to find {title} in any of {repos}", err=True)
-        raise typer.Exit(_FAILED_EXIT_CODE)
-
-
 if __name__ == "__main__":
     app()
