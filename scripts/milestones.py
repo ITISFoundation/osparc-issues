@@ -59,6 +59,12 @@ class StateEnum(str, Enum):
     closed = "closed"
 
 
+class ListStateEnum(str, Enum):
+    open = "open"
+    closed = "closed"
+    all = "all"
+
+
 @app.command()
 def create(
     token: str = typer.Option(...),
@@ -162,6 +168,51 @@ def modify(
     if not milestone_found:
         typer.echo(f"Failed to find {title} in any of {repos}", err=True)
         raise typer.Exit(_FAILED_EXIT_CODE)
+
+
+@app.command(name="list")
+def list_milestones(
+    token: str = typer.Option(...),
+    username: str = typer.Option(...),
+    repos: list[str] = typer.Option(_DEFAULT_REPOS),
+    title_filter: Optional[str] = typer.Option(
+        None, help="Only show milestones whose title contains this substring"
+    ),
+    state: ListStateEnum = typer.Option(ListStateEnum.open),
+):
+    """
+    List milestones across multiple GitHub repositories.
+    Example:
+    python milestones.py list --token TOKEN --username ITISFoundation --state open
+    """
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    found_any = False
+    for repo in repos:
+        url = f"https://api.github.com/repos/{username}/{repo}/milestones"
+        params = {"state": state.value}
+        response = requests.get(
+            url, headers=headers, params=params, timeout=_REQUEST_TIMEOUT
+        )
+        if response.status_code != HTTPStatus.OK:
+            typer.echo(
+                f"Failed to get milestones in {repo}: {response.reason}", err=True
+            )
+            continue
+
+        for milestone in response.json():
+            if title_filter and title_filter.lower() not in milestone["title"].lower():
+                continue
+            found_any = True
+            typer.echo(
+                f"{repo:35} #{milestone['number']:<4} [{milestone['state']:6}] "
+                f"{milestone['title']:30} due:{milestone.get('due_on') or '-'}"
+            )
+
+    if not found_any:
+        typer.echo("No milestones found matching criteria")
 
 
 if __name__ == "__main__":

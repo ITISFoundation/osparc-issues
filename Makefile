@@ -76,16 +76,36 @@ new-milestone: .venv .check-github-token ## creates a new milestone in the Githu
 		--username ITISFoundation \
 		--title "$(title)"
 
-modify-milestone: .venv .check-github-token ## modifiy a milestone title and/or due date and/or state (use ntitle=newtitle and ndate=2025-07-07 and nstate=open or nstate=closed)
+.PHONY: modify-milestone
+modify-milestone: .venv .check-github-token ## modify a milestone title and/or due date and/or state (use ntitle=newtitle and ndate=2025-07-07 and nstate=open or nstate=closed)
 	$(call check_defined, token)
 	$(call check_defined, title)
 	$</bin/python scripts/milestones.py modify \
 		--token $(token) \
 		--username ITISFoundation \
 		--title "$(title)" \
-		$(if $(findstring ntitle, $(MAKEFLAGS)),--new-title "$(ntitle)",) \
-		$(if $(findstring ndate, $(MAKEFLAGS)),--new-due-on "$(ndate)",) \
-		$(if $(findstring nstate, $(MAKEFLAGS)),--new-state "$(nstate)",) \
+		$(if $(ntitle),--new-title "$(ntitle)",) \
+		$(if $(ndate),--new-due-on "$(ndate)",) \
+		$(if $(nstate),--new-state "$(nstate)",)
+
+.PHONY: close-milestone
+close-milestone: .venv .check-github-token ## closes an existing milestone (use title=<title>)
+	$(call check_defined, token)
+	$(call check_defined, title)
+	$</bin/python scripts/milestones.py modify \
+		--token $(token) \
+		--username ITISFoundation \
+		--title "$(title)" \
+		--new-state closed
+
+.PHONY: list-milestones
+list-milestones: .venv .check-github-token ## lists milestones across repos (optional title=<filter> state=open|closed|all)
+	$(call check_defined, token)
+	$</bin/python scripts/milestones.py list \
+		--token $(token) \
+		--username ITISFoundation \
+		$(if $(title),--title-filter "$(title)",) \
+		$(if $(state),--state $(state),)
 
 
 # Check that given variables are set and all have non-empty values,
